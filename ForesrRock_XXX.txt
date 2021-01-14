@@ -17,6 +17,9 @@ https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs7o6HYipXmkDqL1Ukb3D_8sGlEWqpbw3-_w&usqp=CAU" group-title="XXX", .XXX: JAPAN PORN 2 BUP
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist_w487227855.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", .XXX: JAPAN PORN plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6225/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", .XXX: RedTraffic - BIG DICK
 http://live.redtraffic.xyz/bigdick.m3u8
 
@@ -77,20 +80,44 @@ http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.assfilled.com/img/logo_small.png" group-title="XXX", XXX: .ANAL BIG ASS - redtraffic
 http://live.redtraffic.xyz/bigass.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .ANAL FAP TV akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/6206/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .ANAL FAP TV plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6206/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .ANAL TUSHY akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/6261/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .ANAL TUSHY plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6261/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .ANAL TUSHY RAW akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/6262/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .ANAL TUSHY RAW plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6262/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .ANALIZED plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6168/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY - RedTraffic
 http://cdn.adultiptv.net/gay.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .GAY FAST BOYZ plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6274/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .GAY X-MO plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6285/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .LESBEA plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6227/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .LESBIAN AFFAIR plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6278/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .LESBIAN FAP TV plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6209/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS - RedTraffic
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .SEX WITH MUSLIMS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6252/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .TRANS ANGELS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6259/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANSEXUAL TV 1
 https://www.ast.tv/stream/1/cellular.m3u8
@@ -98,8 +125,26 @@ https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANSEXUAL TV 2
 https://www.ast.tv/stream/2/cellular.m3u8
 
-#EXTINF:-1 tvg-id="babes-tv" tvg-logo="noimage.png" group-title="XXX", XXX: BABES server
-http://server-iptv.ml/ch304/video.m3u8?token=verisign
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: ADULT TIME plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6166/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: ALBA XXX 1 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6241/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: ALBA XXX 2 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6240/index.m3u8
+
+#EXTINF:-1 tvg-id="(XXX) BabesTV" tvg-logo="noimage.png" group-title="XXX", XXX: BABES maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/6260
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BABES plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6171/index.m3u8
+
+#EXTINF:-1 tvg-id="(XXX) Balkan Erotic" tvg-logo="noimage.png" group-title="XXX", XXX: BALKAN EROTIC maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16046
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BALKAN EROTIC plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6270/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BALKAN HOT 194
 http://194.54.183.85:8000/play/a03m/index.m3u8
@@ -107,11 +152,23 @@ http://194.54.183.85:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BALKAN HOT 2 194
 http://194.54.183.85:8000/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BARELY LEGAL mooo
-http://iptvlive.mooo.com/mbrjwt/1b0aae7040b96272724fe44d3a53b91396bca4fe-3929-0-24h1346658-5-784330930-1608406987-e128-3s5sT5gZ6i1JCJzBpU8xCU6RfMplKQSry8FZ-KFBnQk/ch4012/ch4012.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BANG BROS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6173/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BLACKED akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/6178/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BANG plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6174/index.m3u8
+
+#EXTINF:-1 tvg-id="(XXX) BangB" tvg-logo="noimage.png" group-title="XXX", XXX: BANG U maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30923
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BANGERZ plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6271/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BARELY LEGAL plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/871/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BLACKED plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6178/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="XXX", XXX: BLUE HUSTLER 5
 http://5.128.254.228:81/udp/239.1.6.36:1234
@@ -119,8 +176,8 @@ http://5.128.254.228:81/udp/239.1.6.36:1234
 #EXTINF:-1 tvg-id="Blue Hustler Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/70/Blue_hustler.png" group-title="XXX", XXX: BLUE HUSTLER catchup
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=214&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BLUE HUSTLER mooo
-http://iptvlive.mooo.com/mbrjwt/1b0aae7040b96272724fe44d3a53b91396bca4fe-3929-0-24h1346658-5-784330930-1608406987-e128-3s5sT5gZ6i1JCJzBpU8xCU6RfMplKQSry8FZ-KFBnQk/ch107/ch107.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BLUE HUSTLER plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/1064/index.m3u8
 
 #EXTINF:-1 tvg-id="BRASILEIRINHAS" tvg-logo="http://distv.net/icons/brasileirinhas.png" group-title="XXX", XXX: BRASILEIRINHAS rec2
 http://rec2.distv.net:80/app/app/61
@@ -137,44 +194,164 @@ http://5.128.254.228:81/udp/239.1.6.40:1234
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS EUROPE ace86
 http://86.57.175.132:6878/ace/getstream?id=d035036a8c34608bafbe25d97eeccfa53ad0035b&.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS TV EUROPE 2 akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/6181/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS EXXTRA plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6181/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS TV EUROPE mooo
-http://iptvlive.mooo.com/mbrjwt/1b0aae7040b96272724fe44d3a53b91396bca4fe-3929-0-24h1346658-5-784330930-1608406987-e128-3s5sT5gZ6i1JCJzBpU8xCU6RfMplKQSry8FZ-KFBnQk/ch76/ch76.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6182/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS TV EUROPE plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/910/index.m3u8
 
 #EXTINF:-1 tvg-id="Candy HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/189.png" group-title="XXX", XXX: CANDY ace86
 http://86.57.175.132:6878/ace/getstream?id=9f4c1e88e5d4298f391b8b5314466406b49970ac&.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://ero-tv.org/wp-content/uploads/2014/08/candytv.gif" group-title="XXX", XXX: CANDY for men
-http://serv30.vintera.tv:8081/candy/candy29/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: CHERRY PIMPS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6185/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cableman.ru/sites/default/files/candy_man.png?1526627203" group-title="XXX", XXX: CANDY MAN for women
-http://serv30.vintera.tv:8081/candy/candyman29/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: CLUB 17 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6186/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="XXX", XXX: CANDY NUART 37
-http://37.17.12.118:8905/play/a00l
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: CUM 4K plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6190/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: CANDY NUART 37
-http://37.17.12.119:8905/play/a00l
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: CUM LOUDER plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6189/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: CANDY NUART spacetv
-http://spacetv.in/stream/DIPK8H19CP8/55.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DAUGHTER SWAP plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6191/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DAY WITH A PORNSTAR plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6192/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DDF BUSTY plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6193/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DDF NETWORK plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6194/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DORCEL CLUB plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6197/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DORCEL TV plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/245/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DUSK plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6198/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EMANUELLE plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6272/index.m3u8
+
+#EXTINF:-1 tvg-id="pink-erotic-1.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic1.png" group-title="XXX", XXX: EROTIC 1 maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1293
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROTIC 1 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6289/index.m3u8
+
+#EXTINF:-1 tvg-id="pink-erotic-2.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic2.png" group-title="XXX", XXX: EROTIC 2 maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1294
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROTIC 2 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6290/index.m3u8
+
+#EXTINF:-1 tvg-id="pink-erotic-3.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic3.png" group-title="XXX", XXX: EROTIC 3 maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1487
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROTIC 3 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6291/index.m3u8
+
+#EXTINF:-1 tvg-id="pink-erotic-4.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic4.png" group-title="XXX", XXX: EROTIC 4 maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1481
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROTIC 4 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6292/index.m3u8
+
+#EXTINF:-1 tvg-id="pink-erotic-5.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic5.png" group-title="XXX", XXX: EROTIC 5 maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1482
+
+#EXTINF:-1 tvg-id="pink-erotic-6.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic6.png" group-title="XXX", XXX: EROTIC 6 maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1483
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROTIC 6 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6293/index.m3u8
+
+#EXTINF:-1 tvg-id="pink-erotic-7.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic7.png" group-title="XXX", XXX: EROTIC 7 maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1484
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROTIC 7 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6294/index.m3u8
+
+#EXTINF:-1 tvg-id="pink-erotic-8.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic8.png" group-title="XXX", XXX: EROTIC 8 maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1485
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROTIC 8 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6295/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROX catchup
 http://catchup.iptv.iinet.rs:80/playlist.m3u8?id=179&token=y_sel
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROX plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6296/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://shalun-tv.com/images/eroxxxhd.png" group-title="XXX", XXX: EROXXX catchup
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=180&profile=3&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA
+
+#EXTINF:-1 tvg-id="EroXXX" tvg-logo="noimage.png" group-title="XXX", XXX: EROXXX maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30917
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROXXX plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/5015/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EVIL ANGEL 87
 http://87.126.236.15:4000/play/a0co
 
-#EXTINF:-1 tvg-id="exxxotica" tvg-logo="noimage.png" group-title="XXX", XXX: EXXXOTICA server
-http://server-iptv.ml/ch306/video.m3u8?token=verisign
+#EXTINF:-1 tvg-id="(XXX) Platinum" tvg-logo="noimage.png" group-title="XXX", XXX: EVIL ANGEL maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30924
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FAP TV TEENS akatatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/6211/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EVIL ANGEL plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6199/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EVOLVED FIGHTS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6200/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EXTASY 4K plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/5014/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EXTASY plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6201/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EXTREME plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6273/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EXXXOTICA plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/2397/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FAKE TAXI plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6202/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FAP TV 2 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6203/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FAP TV 3 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6204/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FAP TV 4 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6205/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FAP TV BBW plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6207/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FAP TV COMPILATION plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6208/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FAP TV PARODY plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6210/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FAP TV TEENS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6211/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FEM JOY plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6212/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FREE-X 1 46
 http://46.19.226.132:8000/play/a02b
@@ -182,8 +359,38 @@ http://46.19.226.132:8000/play/a02b
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FREE-X 2 46
 http://46.19.226.132:8000/play/a02c
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HOT XXL akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/6276/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FRENCH LOVER plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/2160/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HARD X plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6218/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HARDCORE plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6217/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HITZEFREI plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6220/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HOLED plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6221/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HOT 92
+http://92.246.85.75:4000/play/a06h
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HOT AND MEAN plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6222/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HOT GUYS FUCK plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6223/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HOT PLEASURE plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6277/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HOT plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6275/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HOT XXL plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6276/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTER catchup
 http://catchup.iptv.iinet.rs:80/playlist.m3u8?id=214&token=y_sel
@@ -194,38 +401,92 @@ http://194.54.183.85:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="XXX", XXX: HUSTLER 5
 http://5.128.254.228:81/udp/239.1.6.35:1234
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/244/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" group-title="XXX", XXX: HUSTLER catchup
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&D
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER catchup BUP
-http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER EUROPE plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/244/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER catchup BUP2
-http://catchup.iptv.iinet.rs:80/playlist.m3u8?id=177&token=y_sel
+#EXTINF:-1 tvg-id="Hustler" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16045
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: NUART akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/2057/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: LETHAL HARDCORE plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6229/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: NUART mooo
-http://iptvlive.mooo.com/mbrjwt/1b0aae7040b96272724fe44d3a53b91396bca4fe-3929-0-24h1346658-5-784330930-1608406987-e128-3s5sT5gZ6i1JCJzBpU8xCU6RfMplKQSry8FZ-KFBnQk/ch266/ch266.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: LITTLE ASIANS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6230/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: LUST CINEMA plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6232/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: MEIDEN VAN HOLLAND plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6297/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: MYLF 1 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6216/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: MYLF 2 plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6236/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: NAUGHTY AMERICA plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6237/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: NUART 212
+http://212.66.60.4:8000/play/a0ez
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="XXX", XXX: NUART 37
+http://37.17.12.118:8905/play/a00l
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: NUART 37
+http://37.17.12.119:8905/play/a00l
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: NUART spacetv
+http://spacetv.in/stream/DIPK8H19CP8/55.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: NUBILES plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6238/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="XXX", XXX: O-LA-LA 5
 http://5.128.254.228:81/udp/239.1.6.34:1234
 
-#EXTINF:-1 tvg-id="o-la-la" tvg-logo="noimage.png" group-title="XXX", XXX: O-LA-LA server
-http://server-iptv.ml/ch307/video.m3u8?token=verisign
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: O-LA-LA plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/2161/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: OLDTIMER plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6279/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PASSION XXX 87
 http://87.126.236.15:4000/play/a0da
+
+#EXTINF:-1 tvg-id="(XXX) RedLight" tvg-logo="noimage.png" group-title="XXX", XXX: PASSION XXX maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1291
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PASSION XXX plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/878/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PASSION XXX2 87
 http://87.126.236.15:4000/play/a0cr
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE 87
 http://87.126.236.15:4000/play/a0d5
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE GOLD 213
+http://213.81.133.130:8000/play/a00v
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE GOLD plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/5011/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/1073/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE QUICKIES 213
+http://213.81.133.130:8000/play/PenthouseQuickies
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE QUICKIES plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/5013/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PINKO TV plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/874/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PLAY BOY BLACK 185
 http://185.245.187.150:80/PlayboyTV/index.m3u8?password=883174874826
@@ -238,9 +499,6 @@ http://5.128.254.228:81/udp/239.1.6.39:1234
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PLAY BOY BLACK ace86
 http://86.57.175.132:6878/ace/getstream?id=793b56ae85af194bd8661f5a17bcfac28eba4453&.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PLAY BOY BLACK mooo
-http://iptvlive.mooo.com/mbrjwt/1b0aae7040b96272724fe44d3a53b91396bca4fe-3929-0-24h1346658-5-784330930-1608406987-e128-3s5sT5gZ6i1JCJzBpU8xCU6RfMplKQSry8FZ-KFBnQk/ch242/ch242.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PLAY BOY BLACK spacetv
 http://spacetv.in/stream/DIPK8H19CP8/56.m3u8
@@ -263,8 +521,32 @@ http://catchup.iptv.iinet.rs/playlist.m3u8?id=213&token=dG9rZW49LVkzblctbGw0RUdz
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PRIVATE cdn
 http://cdn.nexttvnet.ru/hlsl/10/Private/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PRIVATE plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/243/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PRIVATE.COM plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6245/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PUBLIC AGENT plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6246/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REALITY KINGS 188
 http://188.35.9.26:5031/udp/058j
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REALITY KINGS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6247/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REALITY KINGS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6249/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REALITY KINGS PRIME plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6248/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: RED LIGHT plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/242/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: RED XXX plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6281/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REDLIGHT ace86
 http://86.57.175.132:6878/ace/getstream?id=879adbc189269d07502688abdfe33283962142ff&.mp4
@@ -277,9 +559,6 @@ http://catchup.iptv.iinet.rs/playlist.m3u8?id=215&token=dG9rZW49LVkzblctbGw0RUdz
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REDLIGHT catcup
 http://catchup.iptv.iinet.rs:80/playlist.m3u8?id=215&token=y_sel
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REDLIGHT mooo
-http://iptvlive.mooo.com/mbrjwt/1b0aae7040b96272724fe44d3a53b91396bca4fe-3929-0-24h1346658-5-784330930-1608406987-e128-3s5sT5gZ6i1JCJzBpU8xCU6RfMplKQSry8FZ-KFBnQk/ch594/ch594.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: RUSSIAN NIGHTS
 http://1.1usd.tv:34000/ch049/mono.m3u8
@@ -296,14 +575,20 @@ http://91.206.19.123:4022/udp/225.0.55.235:1234
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: RUSSIAN NIGHTS ace86
 http://86.57.175.132:6878/ace/getstream?id=e0ac064551375530f1a3bd5ba2870235a561e9eb&.mp4
 
+#EXTINF:-1 tvg-id="(XXX) Cento Cento" tvg-logo="noimage.png" group-title="XXX", XXX: RUSSIAN NIGHTS maxpanel
+http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16043
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: RUSSIAN NIGHTS spacetv
 http://spacetv.in/stream/DIPK8H19CP8/54.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SEX ART plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6253/index.m3u8
 
 #EXTINF:-1 tvg-id="null" tvg-logo="http://distv.net/icons/sexprive.png" group-title="XXX", XXX: SEX PRIVE rec2
 http://rec2.distv.net:80/app/app/59
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SEX WITH MUSLIMS akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/6252/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SEXT 6 SENSO plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6254/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SEXTREME 187
 http://187.189.119.135:8000/play/a025/index.m3u8
@@ -317,6 +602,9 @@ http://201.159.95.118:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SEXY HOT 201
 http://201.159.95.118:8000/play/a07q/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SEXY HOT plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6282/index.m3u8
+
 #EXTINF:-1 tvg-id="SEX HOT" tvg-logo="http://distv.net/icons/sexyhot.png" group-title="XXX", XXX: SEXY HOT rec2
 http://rec2.distv.net:80/app/app/58
 
@@ -325,6 +613,9 @@ http://194.190.78.91:8080/shelksd/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SHELK RU HD 194
 http://194.190.78.91:8080/shelk/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SINEMATICA plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6255/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SUPER ONE 146
 http://146.120.225.137:38101/1033
@@ -335,6 +626,18 @@ http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SUPER ONE iptvmate
 https://ch.iptvmate.net/e0142ee3ad71b2eb9ffaef994f3b5289.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SUPER ONE plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6298/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: TABOO plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6283/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: TINY 4K plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6258/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: TRUE AMATEURS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6260/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: VENUS 187
 http://187.189.119.135:8000/play/a024/index.m3u8
 
@@ -344,8 +647,29 @@ http://200.54.19.131:8500/play/a0gp/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: VENUS 45
 http://45.182.127.235:8000/play/a0f9
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: VENUS 92
+http://92.246.85.75:4000/play/a011
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: VENUS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6284/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: VIVID RED 87
 http://87.126.236.15:4000/play/a0cq
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: VIVID RED plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/2162/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: VIXEN plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6265/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: WE LIVE TOGETHER plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6266/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: WHITE BOXXX plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6267/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: WICKED plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6268/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: X-DREAM 1 46
 http://46.19.226.132:8000/play/a03e
@@ -353,185 +677,92 @@ http://46.19.226.132:8000/play/a03e
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: X-DREAM 2 46
 http://46.19.226.132:8000/play/a03f
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: XY MAX akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/6286/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: XPANDED plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6269/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: ОХ-АХ akadatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/6239/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: XXL plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/5009/index.m3u8
 
-#EXTINF:-1 tvg-id="shalun" tvg-logo="noimage.png" group-title="XXX", XXX: ШАЛУН server
-http://server-iptv.ml/ch309/video.m3u8?token=verisign
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: XY MAX plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6286/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1970) Хардкор из Дании 118
-https://video1.tizam.cc/films/hardkor_iz_danii_118.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: XY MIX plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6287/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1973) Идите и возьмите меня
-https://video1.tizam.cc/films/idite_i_voz_mite_menya.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: XY PLUS plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6288/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1974) Триллинг Дриллинг
-https://video1.tizam.cc/films/trilling_drilling.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: ОХ-АХ plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6239/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1974) Энергичные Секретарши
-https://video1.tizam.cc/films/energichnye_sekretarshi.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: ШАЛУН plus
+http://1plus79.ucomist.net/iptv/F2LG4968TERETS/922/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1975) Большая Нагрузка
-https://video1.tizam.cc/films/bol_shaya_nagruzka.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1408009346_1.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .ACTION (1980) Tinto Brass
+http://erozman.com/video-z8b/69.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1975) Демонстрация
-https://video1.tizam.cc/films/demonstraciya1975.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/thumbs/1408008822_5.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .ALL LADIES DO IT (1992) Tinto Brass
+http://erozman.com/video-z8b/64.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1975) Мерилин и Cенатор
-https://video1.tizam.cc/films/merilin_i_cenator.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/thumbs/1407999031_7.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .BLACK ANGEL Tinto Brass
+http://erozman.com/video-z8b/58.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1977) Фантастическая оргия
-https://video1.tizam.cc/films/fantasticheskaya_orgiya.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1408009475_2.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .CALIGULA (1979) Tinto Brass
+http://erozman.com/video-z8b/70.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1978) Голубые Джунгли
-https://video1.tizam.cc/films/golubye_dzhungli.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1408009040_7.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .CAPRICCIO (1987) Tinto Brass
+http://erozman.com/video-z8b/66.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1978) Массажный салон Эльвира
-https://video1.tizam.cc/films/massazhnyj_salon_el_vira.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1407998257_2.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .EROTIC SHORT STORIES: Part 1 (1999) Tinto Brass
+http://erozman.com/video-z8b/53.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1978) Простушка
-https://video1.tizam.cc/films/prostushka1978.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1407998415_3.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .EROTIC SHORT STORIES: Part 3 (1999) Tinto Brass
+http://erozman.com/video-z8b/54.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1978) Формально Фоссет
-https://video1.tizam.cc/films/formal_no_fosset.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1407998692_4.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .FERMO POSTA (1995) Tinto Brass
+http://erozman.com/video-z8b/55.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1979) / Очень особенная хозяйка
-https://video1.tizam.cc/films/ochen_osobennaya_hozyajka.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1408009275_9.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .LA CHIAVE (1983) Tinto Brass
+http://erozman.com/video-z8b/68.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1979) / Первая Звезда Галактики
-https://video1.tizam.cc/films/star_virgin.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/thumbs/1408009216_8.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .MIRANDA (1985) Tinto Brass
+http://erozman.com/video-z8b/67.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1979) Горячие Ракетки
-https://video1.tizam.cc/films/goryachie_raketki.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2015-02/thumbs/1423458051_5.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .MONAMOUR (2005) Tinto Brass
+http://erozman.com/video-z8b/802.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1979) Звезда Востока
-https://video2.tizam.cc/films/zvezda_vostoka.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/thumbs/1407999120_8.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .MONELLA (1998) Tinto Brass
+http://erozman.com/video-z8b/59.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1980) F...И Весьма Много Его
-https://video1.tizam.cc/films/f_i_ves_ma_mnogo_ego.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/thumbs/1408008650_4.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .PAPRIKA (1991) Tinto Brass
+http://erozman.com/video-z8b/63.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1981) Одержимо голодный
-https://video2.tizam.cc/films/oderzhimo_golodnyj.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1407955576_2.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .PEEPING IN THE KITCHEN Tinto Brass
+http://erozman.com/video-z8b/7.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1982) Девушки В Сен-Тропе
-https://video1.tizam.cc/films/devushki_v_sen-trope.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1407998815_5.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .SALON KITTY (1975) Tinto Brass
+http://erozman.com/video-z8b/56.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1983) Бодибилдерши
-https://video1.tizam.cc/films/bodibildershi.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/thumbs/1408008891_6.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .SNACK BAR BUDAPEST (1988) Tinto Brass
+http://erozman.com/video-z8b/65.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1983) Другие Желания Терезы
-https://video1.tizam.cc/films/drugie_zhelaniya_terezy.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1408007518_2.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .SOGNO. CORTI CIRCUITI EROTICI Tinto Brass
+http://erozman.com/video-z8b/60.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1984) Дом Удовольствия
-https://video1.tizam.cc/films/dom_udovol_stviya.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1408008472_3.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .THE VOYEUR Tinto Brass
+http://erozman.com/video-z8b/62.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1984) Женщина
-https://video1.tizam.cc/films/zhenwina_1984.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2016-04/1462007414_trasgredire.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .TRA(SGRE)DIRE 1999 Tinto Brass
+http://erozman.com/video-z8b/1256.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1984) Формула 69
-https://video2.tizam.cc/films/formula_69.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1407997701_1.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .ULTIMO METRO (1999) Tinto Brass
+http://erozman.com/video-z8b/52.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1985) Дикая Ярость
-https://video1.tizam.cc/films/dikaya_yarost.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/thumbs/1408007102_1.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .UNCHASTE RELATIOSHIPS (2002)
+http://erozman.com/video-z8b/61.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1985) Животное Внутри Меня
-https://video1.tizam.cc/films/zhivotnoe_vnutri_menya.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1985) Секс мечты на Мэйпл-стрит
-https://video2.tizam.cc/films/seks_mechty_na_mejpl-strit.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1985) Шауна: Мечта каждого мужчины
-https://video1.tizam.cc/films/shauna_mechta_kazhdogo_muzhchiny.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1986) Напуганный Брюстер
-https://video1.tizam.cc/films/napugannyj_bryuster.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1986) Опущенные и Грязные в Беверли Хиллс
-https://video1.tizam.cc/films/opuwennye_i_gryaznye_v_beverli_hills.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1986) Шоколадные поцелуи
-https://video1.tizam.cc/films/shokoladnye_pocelui.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1987) Аморальная Мисс Тези
-https://video1.tizam.cc/films/amoral_naya_miss_tezi.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1987) Большой Взрыв
-https://video1.tizam.cc/films/bol_shoj_vzryv.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1987) Образ жизни развратной блондинки
-https://video1.tizam.cc/films/obraz_zhizni_razvratnoj_blondinki.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1988) Девушки Выпускного Вечера
-https://video1.tizam.cc/films/devushki_vypusknogo_vechera.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1988) Девушки мистера миллиарда 2
-https://video1.tizam.cc/films/devushki_mistera_milliarda_2.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1989) День Открытых Дверей
-https://video1.tizam.cc/films/den_otkrytyh_dverej.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1989) Распутная профессорша
-https://video2.tizam.cc/films/rasputnaya_professorsha.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1989) Шведская эротика 89: Хапатия Ли
-https://video1.tizam.cc/films/shvedskaya_erotika_89_hapatiya_li.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1990) Дикая
-https://video1.tizam.cc/films/dikaya.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1990) Домашние Ретро Порно Фильмы 2
-https://video1.tizam.cc/films/domashnie_retro_porno_fil_my_2.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1990) Искатели Удовольствия
-https://video1.tizam.cc/films/iskateli_udovol_stviya.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1990) Сексуальные Выходные 10
-https://video1.tizam.cc/films/seksual_nye_vyhodnye10.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1991) Золотой век порно: Кайли Ирландия
-https://video1.tizam.cc/films/zolotoj_vek_porno_kajli_irlandiya.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1991) Медсестра Ненси
-https://video1.tizam.cc/films/medsestra_nensi.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1993) Кожаное Удовольствие
-https://video2.tizam.cc/films/kozhanoe_udovl_stvie.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1993) Секс звезда
-https://video1.tizam.cc/films/seks_zvezda.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1994) Сексуальное Исцеление
-https://video1.tizam.cc/films/seksual_noe_iscelenie.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1995) Девы
-https://video2.tizam.cc/films/devy.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1995) Золотое Прикосновение
-https://video2.tizam.cc/films/zolotoe_prikosnovenie.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1995) Плохие Девушки 6: По Пути в Город
-https://video1.tizam.cc/films/plohie_devushki_6_po_puti_v_gorod.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1995) Цветущие Лохматые Старшеклассницы
-https://video1.tizam.cc/films/cvetuwie_lohmatye_starsheklassnicy.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1996) Потерия памяти
-https://video1.tizam.cc/films/amneziya.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1997) / Вечеринка в саду
-https://video1.tizam.cc/films/vecherinka_v_sadu.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1998) Невероятные первые сцены
-https://video1.tizam.cc/films/neveroyatnye_pervye_sceny.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (1999) Пробуждение
-https://video2.tizam.cc/films/probuzhdenie.mp4
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", (2001) Естественное Дразнение
-https://video1.tizam.cc/films/estestvennoe_draznenie.mp4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1407998990_6.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .WOMEN! (2003)
+http://erozman.com/video-z8b/57.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", 1914 Золотой век Эротики 14
 https://video2.tizam.cc/files/1648670/golden_age_erotica_14.mp4
@@ -707,6 +938,9 @@ https://video2.tizam.cc/files/1646582/podayushchaya_nadezhdy_bri.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", The Liberty Belles/Бесцеремонные Красотки
 https://video2.tizam.cc/files/2105087/bestseremonnye_krasotki.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", TRILLING_DRILLING
+https://video1.tizam.cc/films/trilling_drilling.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Un Bon Client/Любвеобильный клиент
 https://video2.tizam.cc/files/2105037/lyubveobilnyy_klient.mp4
 
@@ -739,6 +973,9 @@ https://video2.tizam.cc/files/2252994/amberella___agent_of_lust__1986.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Американский пирог
 https://video2.tizam.cc/files/2105109/amerikanskiy_pirog.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Аморальная Мисс Тези
+https://video1.tizam.cc/films/amoral_naya_miss_tezi.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Амос и Леденцы/Amos & Cand
 https://video2.tizam.cc/files/2043132/retro_film_s_otlichnymi_krasotkami.mp4
@@ -836,11 +1073,17 @@ https://video1.tizam.cc/films/Unzucht-mit-Abhangigen.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Блудливые Инопланетяне / Fornicating Aliens
 https://video1.tizam.cc/old_films/FornicatingAliens.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Бодибилдерши
+https://video1.tizam.cc/films/bodibildershi.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Боксер / The Boxer
 https://video2.tizam.cc/files/2306573/the_boxer.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Боксёр 3: Последний бой
 https://video2.tizam.cc/files/2306575/the_boxer_3.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Большая Нагрузка
+https://video1.tizam.cc/films/bol_shaya_nagruzka.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Больше грязных Дебютанток 54
 https://video2.tizam.cc/files/2103997/bolshe_gryaznyh_debyutantok_54___more_dirty_debutantes_54.mp4
@@ -859,6 +1102,9 @@ https://video1.tizam.cc/films/BigTitSuperStarsOfThe80s.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Большой Бюст Дамочек 9
 https://video2.tizam.cc/files/2318002/big_bust_babes_9.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Большой Взрыв
+https://video1.tizam.cc/films/bol_shoj_vzryv.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Большой Кайф / The Big Thrill (1984)
 https://video1.tizam.cc/films/The-Big-Thrill.mp4
@@ -911,8 +1157,14 @@ https://video2.tizam.cc/files/2156267/geile_krperspiele___sexhochzeit_im_narrenk
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Весело в лицо
 https://video1.tizam.cc/films/FunInTheFace.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Весьма Много Его
+https://video1.tizam.cc/films/f_i_ves_ma_mnogo_ego.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Вечера Для Развращения Супруги (1980)
 https://video1.tizam.cc/films/Les-Soirees-Dune-Epouse-Pervertie.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Вечеринка в саду
+https://video1.tizam.cc/films/vecherinka_v_sadu.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Вечеринка любителей подсматривать / Les Enfilees Les Soirees D'un Couple Voyer
 https://video2.tizam.cc/files/1630195/les_enfilees_les_soirees_d_un_couple_voyer.mp4
@@ -1052,6 +1304,9 @@ https://video1.tizam.cc/files/2555809/domination_blue__1976.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Голубой воздушный шар / The Blue Balloon. 1973
 https://video2.tizam.cc/files/2531603/the_blue_balloon__1973.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Голубые Джунгли
+https://video1.tizam.cc/films/golubye_dzhungli.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Голые монашки
 https://video1.tizam.cc/files/2462109/erection_for_injection.mp4
 
@@ -1087,6 +1342,9 @@ https://video2.tizam.cc/files/2549632/stacey_s_hot_rod.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Горячие Помидоры (1970)
 https://video1.tizam.cc/films/Hot-Tomatoes.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Горячие Ракетки
+https://video1.tizam.cc/films/goryachie_raketki.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Горячие юные Вдовы (1978)
 https://video2.tizam.cc/files/1828396/veuves_en_chaleur.mp4
@@ -1187,8 +1445,14 @@ https://video2.tizam.cc/files/1312710/klassika_porno_dodo_petites_filles_au_bord
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Девушки в ночное время
 https://video2.tizam.cc/files/2358831/girls_in_the_night_traffic___devushki_v_nochnoe_vremya.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Девушки В Сен-Тропе
+https://video1.tizam.cc/films/devushki_v_sen-trope.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Девушки в синем / Little Girls Blue (1978)
 https://video1.tizam.cc/vk/LittleGirlsBlue.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Девушки Выпускного Вечера
+https://video1.tizam.cc/films/devushki_vypusknogo_vechera.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Девушки из Ипанемы
 https://video2.tizam.cc/files/2358819/garotas_de_ipanema___devushki_iz_ipanemy.mp4
@@ -1196,11 +1460,23 @@ https://video2.tizam.cc/files/2358819/garotas_de_ipanema___devushki_iz_ipanemy.m
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Девушки Из Маленького Городка / Small Town Girls. 1979
 https://video1.tizam.cc/files/2523168/devushki_malenkogo_gorodka.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Девушки мистера миллиарда 2
+https://video1.tizam.cc/films/devushki_mistera_milliarda_2.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Девушки с задним проходом
 https://video1.tizam.cc/films/Back-Door-Girls.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Девы
+https://video2.tizam.cc/films/devy.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Девы Римской империи
 https://video2.tizam.cc/files/2357381/virgin_for_the_roman_empire.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Демонстрация
+https://video1.tizam.cc/films/demonstraciya1975.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", День Открытых Дверей
+https://video1.tizam.cc/films/den_otkrytyh_dverej.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Деревенская девушка
 https://video1.tizam.cc/vk/derevenskaya-dev.mp4
@@ -1214,8 +1490,14 @@ https://video1.tizam.cc/vk/JenniferWellesTheMatureLover.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Джон Холмс 6: Молодые и ухоженные
 https://video1.tizam.cc/old_films/John-Holmes.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Дикая
+https://video1.tizam.cc/films/dikaya.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Дикая похоть моих однокурсников
 https://video2.tizam.cc/files/2156266/die_wilden_lueste_meiner_schulfreundinnen.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Дикая Ярость
+https://video1.tizam.cc/films/dikaya_yarost.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Дикие речные девушки
 https://video1.tizam.cc/files/2474452/wild_river_girls.mp4
@@ -1241,6 +1523,12 @@ https://video1.tizam.cc/films/VistaValleyPta1981.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Дом Тайных Желаний
 https://video1.tizam.cc/vk/DasHausDerGeheimenLuste.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Дом Удовольствия
+https://video1.tizam.cc/films/dom_udovol_stviya.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Домашние Ретро Порно Фильмы 2
+https://video1.tizam.cc/films/domashnie_retro_porno_fil_my_2.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Дорогая Пэм / Dear Pam
 https://video2.tizam.cc/files/1337962/klassika_11.mp4
 
@@ -1252,6 +1540,9 @@ https://video2.tizam.cc/files/1693554/drevnie_sekrety_kamasutry.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Другая Сторона Джулии
 https://video1.tizam.cc/films/TheOtherSideofJuli.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Другие Желания Терезы
+https://video1.tizam.cc/films/drugie_zhelaniya_terezy.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Дуэйн / Dyane. Итальянское ретро
 https://video1.tizam.cc/files/2531070/dyane.mp4
@@ -1286,6 +1577,9 @@ https://video1.tizam.cc/files/2546322/helena__1975____impulse_pictures.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Если бы мама моя только знала
 https://video2.tizam.cc/files/2338715/if_my_mother_only_knew___esli_by_moya_mama_tolko_znala__1986.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Естественное Дразнение
+https://video1.tizam.cc/films/estestvennoe_draznenie.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Жара в Рио (1986)
 https://video1.tizam.cc/films/zhara_v_rio.mp4
 
@@ -1301,6 +1595,9 @@ https://video2.tizam.cc/files/2105036/zhenskaya_erotichnost.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Женский клуб влюблённых
 https://video2.tizam.cc/vk/Sorority-Sweethearts-1982.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Женщина
+https://video1.tizam.cc/films/zhenwina_1984.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Женщина дождя 2:После Потопа
 https://video2.tizam.cc/files/2105067/zhenshchina_dozhdya_2.mp4
 
@@ -1312,6 +1609,9 @@ https://video1.tizam.cc/old_films/FemmesAHommes1976.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Жены Лас-Вегаса
 https://video1.tizam.cc/films/LasVegasWives.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Животное Внутри Меня
+https://video1.tizam.cc/films/zhivotnoe_vnutri_menya.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Жюстина и Джульетта / Justine and Juliette
 https://video1.tizam.cc/old_films/JustineandJuliette1975.mp4
@@ -1355,6 +1655,9 @@ https://video2.tizam.cc/files/2300099/the_bashful_blonde_from_beautiful_bendover
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Захваченная Сзади 7 (1987)
 https://video2.tizam.cc/films/zahvachennaya_szadi_7.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Звезда Востока
+https://video2.tizam.cc/films/zvezda_vostoka.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Звездные феерверки 2 / Starbangers 2
 https://video1.tizam.cc/films/Starbangers2.mp4
 
@@ -1391,6 +1694,9 @@ https://video2.tizam.cc/files/1596678/znoynye_nochi_dallasa.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Золотая Классика: 3 Раритета На Одном DVD
 https://video1.tizam.cc/old_films/Golden-Classics-3%20Klassiker-Auf-Einer-DVD.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Золотое Прикосновение
+https://video2.tizam.cc/films/zolotoe_prikosnovenie.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Золотой век порно - Дженни Роббинс
 https://video1.tizam.cc/old_films/TheGoldenAgeofPornJaneyRobbins.mp4
 
@@ -1411,6 +1717,9 @@ https://video1.tizam.cc/films/zolotoj_vek_porno_vanessa_del_rio.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Золотой Век Порно: Виктория Парис
 https://video2.tizam.cc/films/zolotoj_vek_porno_viktoriya_paris.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Золотой век порно: Кайли Ирландия
+https://video1.tizam.cc/films/zolotoj_vek_porno_kajli_irlandiya.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Золотой век Порно: Кей Паркер
 https://video2.tizam.cc/files/2143922/zolotoy_vek_porno___key_parker_smotret_onlayn_klassicheskoe.mp4
@@ -1438,6 +1747,9 @@ https://video2.tizam.cc/files/2156263/der_lust_verfallen___devichi_igry.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Игры для Неверной жены
 https://video2.tizam.cc/files/1060576/games_for_an_unfaithful_wife.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Идите и возьмите меня
+https://video1.tizam.cc/films/idite_i_voz_mite_menya.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Идол / The Idol
 https://video1.tizam.cc/files/2445142/the_idol.mp4
@@ -1486,6 +1798,9 @@ https://video2.tizam.cc/files/2513107/private_private__1971.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Искатели страсти / The Passion Seekers 1977
 https://video1.tizam.cc/vk/ThePassionSeekers.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Искатели Удовольствия
+https://video1.tizam.cc/films/iskateli_udovol_stviya.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Исповедь Жозефины Мутцебахер
 https://video2.tizam.cc/files/2156204/die_beichte_der_josefine_mutzenbacher___ispoved_zhozefiny_mu.mp4
@@ -1549,6 +1864,9 @@ https://video2.tizam.cc/files/2113110/busen_classic_vol.20__1990__vhsrip.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Клуб Умников / Club Head
 https://video2.tizam.cc/files/2362122/klub_umnikov.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Кожаное Удовольствие
+https://video2.tizam.cc/films/kozhanoe_udovl_stvie.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Кокетливые Одинокие Женщины
 https://video2.tizam.cc/files/2154392/femmes_seules_pour_un_dragueur___koketlivye_odinokie_zhenshchiny.mp4
@@ -1703,8 +2021,14 @@ https://video1.tizam.cc/new_films/Maraschino-Cherry1978-Maturpix-Distribpix.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Маскарад / La Vorace
 https://video2.tizam.cc/files/2155261/la_vorace___maskarad.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Массажный салон Эльвира
+https://video1.tizam.cc/films/massazhnyj_salon_el_vira.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Медовые булочки 2:Греческая формула
 https://video2.tizam.cc/files/2105041/medovye_bulochki.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Медсестра Ненси
+https://video1.tizam.cc/films/medsestra_nensi.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Медсестры Умеют Делать Всё
 https://video2.tizam.cc/files/2147597/infirmieres_a_tout_faire___medsestry_umeet_delat_vsyo.mp4
@@ -1723,6 +2047,9 @@ https://video2.tizam.cc/files/2212341/protivnye_medsestry.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Мерилейн - Девушки Из Дома На Колёсах
 https://video2.tizam.cc/files/2156347/marilyn___scharfe_girls_auf_achse___devushki_iz_doma_na_kolyos.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Мерилин и Cенатор
+https://video1.tizam.cc/films/merilin_i_cenator.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Месть Терри\Terri`s Revenge (1976)
 https://video2.tizam.cc/files/2105135/mest_terri.mp4
@@ -1805,6 +2132,9 @@ https://video2.tizam.cc/files/2275877/merilin__dikaya_i_nenasytnaya_marilyn___wi
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", На моих губах / On My Lips
 https://video2.tizam.cc/files/2156532/na_moih_gubah___besplatnoe_porno.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Напуганный Брюстер
+https://video1.tizam.cc/films/napugannyj_bryuster.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Насильник Девственниц (1980)
 https://video2.tizam.cc/files/1615239/le_violeur_de_pucelles.mp4
 
@@ -1825,6 +2155,9 @@ https://video2.tizam.cc/files/2386098/nevernye_pary___couples_infideles__1991.mp
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Невероятно вкусные фантазии
 https://video2.tizam.cc/vk/IncredibleEdibleFantasies1997.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Невероятные первые сцены
+https://video1.tizam.cc/films/neveroyatnye_pervye_sceny.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Невинные Лесбиянки
 https://video2.tizam.cc/files/2291561/lesbiyanki_devstvennitsy___1974.mp4
@@ -1913,6 +2246,9 @@ https://video1.tizam.cc/old_films/Cheating-1987.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Обнаженные Красотки 349
 https://video2.tizam.cc/files/1510094/obnazhennye_krasotki_349.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Образ жизни развратной блондинки
+https://video1.tizam.cc/films/obraz_zhizni_razvratnoj_blondinki.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Обряды На Уране
 https://video2.tizam.cc/files/2398891/obryady_na_urane___the_rites_of_uranus.mp4
 
@@ -1924,6 +2260,9 @@ https://video1.tizam.cc/files/2429911/object_of_my_desire.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Огненные сиськи/Les seins en Feux
 https://video2.tizam.cc/files/1943784/deep_throat_1972.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Одержимо голодный
+https://video2.tizam.cc/films/oderzhimo_golodnyj.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Одержимые / Les Obsedees (1977)
 https://video2.tizam.cc/files/2281013/les_obsedees__1977.mp4
@@ -1951,6 +2290,9 @@ https://video2.tizam.cc/files/1509779/opasnaya_lyubov_v_kosta_brava.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Опасное дело / Kinky Business 1984
 https://video1.tizam.cc/old_films/Kinky-Business1984.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Опущенные и Грязные в Беверли Хиллс
+https://video1.tizam.cc/films/opuwennye_i_gryaznye_v_beverli_hills.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Оргазмы / Orgasmes - 1978
 https://video1.tizam.cc/old_films/Orgasmes.mp4
@@ -2000,6 +2342,9 @@ https://video2.tizam.cc/files/1725377/una_zia_molto_disponibile.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Очень особая Хозяйка
 https://video2.tizam.cc/files/2154434/hotesse_tres_speciale____ochen_spetsialnaya_hozyayka.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Очень особенная хозяйка
+https://video1.tizam.cc/films/ochen_osobennaya_hozyajka.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Очень специальный фотограф
 https://video1.tizam.cc/files/2462106/bube_sticht_dame.mp4
 
@@ -2024,6 +2369,9 @@ https://video2.tizam.cc/files/1503549/penelope__1996g.__film_21.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Пенис Экспресс (1986)
 https://video1.tizam.cc/films/Penis-Expres.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Первая Звезда Галактики
+https://video1.tizam.cc/films/star_virgin.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Переходный Возраст
 https://video1.tizam.cc/vk/TheTroubleWithYoungStuff.mp4
 
@@ -2047,6 +2395,9 @@ https://video2.tizam.cc/files/2283365/orgien_des_fleisches_1977.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Плоть и кружева 2 / Flesh and Laces 2 - 1983
 https://video1.tizam.cc/new_films/FleshandLacesPartII.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Плохие Девушки 6: По Пути в Город
+https://video1.tizam.cc/films/plohie_devushki_6_po_puti_v_gorod.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", По всему миру с Джонни Вадд (1975)
 https://video1.tizam.cc/films/po_vsemu_miru_s_dzhonni_vadd.mp4
@@ -2126,6 +2477,9 @@ https://video1.tizam.cc/new_films/AfternoonDelights.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Постанывания В Экстазе
 https://video1.tizam.cc/files/2529574/nepoddelnaya_strast_dvuh_strastnyh_krasotok.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Потерия памяти
+https://video1.tizam.cc/films/amneziya.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Потерянные пленки
 https://video2.tizam.cc/files/1513122/lust_in_america__pohot_v_amerike__1985.mp4
 
@@ -2177,6 +2531,9 @@ https://video1.tizam.cc/films/priobwenie_zamuzhnej_zhenwiny.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Приобщение Розали\L`initiation de Rosalie (1983)
 https://video2.tizam.cc/files/2105134/priobshchenie_rozali.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Пробуждение
+https://video2.tizam.cc/films/probuzhdenie.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Происшествие / Happening
 https://video1.tizam.cc/files/2438913/happening__1981.mp4
 
@@ -2188,6 +2545,9 @@ https://video1.tizam.cc/old_films/HitlersHarlots1973.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Просто сосу / Gum Me Bare
 https://video2.tizam.cc/files/2374764/gum_me_bare___prosto_otsasyvayu.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Простушка
+https://video1.tizam.cc/films/prostushka1978.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Пруд Плоти
 https://video1.tizam.cc/films/Flesh-Pond1985.mp4
@@ -2233,6 +2593,9 @@ https://video1.tizam.cc/old_films/Pussycat-Ranch.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Распутная жизнь древних римлян
 https://video2.tizam.cc/files/2122583/flavia_vulva_altromisches_lotterleben__1991.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Распутная профессорша
+https://video2.tizam.cc/films/rasputnaya_professorsha.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Распутница / Jezebel / Иезавель
 https://video1.tizam.cc/vk/Jezebel.mp4
@@ -2324,6 +2687,9 @@ https://video1.tizam.cc/files/2440085/le_secret_d_elise.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Секс до Брака / Фрейдист
 https://video2.tizam.cc/files/1756692/freydist_1chast.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Секс звезда
+https://video1.tizam.cc/films/seks_zvezda.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Секс из 70х: Дикий мир мадам X
 https://video1.tizam.cc/files/2532469/the_brutal_world_of_madane_x.mp4
 
@@ -2339,6 +2705,9 @@ https://video1.tizam.cc/old_films/Matinee.idol.BDRip.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Секс курсы / School For Sex. 1972
 https://video1.tizam.cc/files/2531596/school_for_sex.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Секс мечты на Мэйпл-стрит
+https://video2.tizam.cc/films/seks_mechty_na_mejpl-strit.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Секс По Гавайски / Hawaii Sex-O. 1971
 https://video1.tizam.cc/files/2531593/hawaii_sex_o__aka_hawaiian_sex_o__1971.mp4
 
@@ -2351,6 +2720,9 @@ https://video1.tizam.cc/films/Sex-Life-of-a-Porn-Star.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Сексуально Конченые На Ибице
 https://video2.tizam.cc/films/Sexplosion-in-Ibiza.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Сексуальное Исцеление
+https://video1.tizam.cc/films/seksual_noe_iscelenie.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Сексуальное Раскрепощение
 https://video2.tizam.cc/files/1743534/sexual_liberty_now.mp4
 
@@ -2359,6 +2731,9 @@ https://video2.tizam.cc/files/2147422/delires_porno___seksualnoe_udovletvorenie.
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Сексуальные Выходки (1983)
 https://video1.tizam.cc/films/Sexcapades.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Сексуальные Выходные 10
+https://video1.tizam.cc/films/seksual_nye_vyhodnye10.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Сексуальные Девушки Мира (1987)
 https://video1.tizam.cc/films/SexWorldGirls.mp4
@@ -2660,6 +3035,9 @@ https://video1.tizam.cc/films/FemaleStudService1972.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Фантазии Лизы Тэтчер
 https://video2.tizam.cc/files/2398855/fantazii_lizy_tetcher___lysa_thatcher_s_fantasies__1981.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Фантастическая оргия
+https://video1.tizam.cc/films/fantasticheskaya_orgiya.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Фантастический секс / Fantasex
 https://video1.tizam.cc/old_films/Fantasex.mp4
 
@@ -2674,6 +3052,12 @@ https://video1.tizam.cc/films/chistaya_fizika.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Фокстрот
 https://video2.tizam.cc/files/1648524/foxtrot___fokstrot__1982.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Формально Фоссет
+https://video1.tizam.cc/films/formal_no_fosset.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Формула 69
+https://video2.tizam.cc/films/formula_69.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Франция / Канада)
 https://video1.tizam.cc/films/Femme-objet.mp4
@@ -2692,6 +3076,12 @@ https://video2.tizam.cc/files/1603341/retro_1.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Французский шампунь / French Shampoo - 1975
 https://video1.tizam.cc/files/2525070/french_shampoo.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Хапатия Ли
+https://video1.tizam.cc/films/shvedskaya_erotika_89_hapatiya_li.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Хардкор из Дании 118
+https://video1.tizam.cc/films/hardkor_iz_danii_118.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Хитроумные Холостяцкие Квартиры
 https://video2.tizam.cc/files/2155295/le_pied_a_terre___hitroumnye_holostyatskie_kvartiry.mp4
@@ -2725,6 +3115,9 @@ https://video2.tizam.cc/files/2300083/the_artist__1995g.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Цветущая / (1990)
 https://video1.tizam.cc/films/cvetuwaya.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Цветущие Лохматые Старшеклассницы
+https://video1.tizam.cc/films/cvetuwie_lohmatye_starsheklassnicy.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Целомудренная / Pure
 https://video2.tizam.cc/files/2306566/pure___bezuprechnaya.mp4
@@ -2795,6 +3188,9 @@ https://video2.tizam.cc/files/1536867/the_slut__1988.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Шарлин в действии / Charlene in Action
 https://video2.tizam.cc/files/1407336/charlene_in_action.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Шауна: Мечта каждого мужчины
+https://video1.tizam.cc/films/shauna_mechta_kazhdogo_muzhchiny.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Шауна: Фантазия каждого мужчины
 https://video2.tizam.cc/files/1399205/xxx___shauna_fantaziya_kazhdogo_muzhchiny.mp4
 
@@ -2819,6 +3215,9 @@ https://video2.tizam.cc/files/2418924/hippi_prostitutka__1974.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Шлюхи сзади
 https://video1.tizam.cc/new_films/Bourgeoises_par_devant_Putains_par_derriere_19800.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Шоколадные поцелуи
+https://video1.tizam.cc/films/shokoladnye_pocelui.mp4
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Шприц похоти для медсестры Инги
 https://video2.tizam.cc/files/2105127/shprits_pohoti_dlya_medsestry_ingi.mp4
 
@@ -2833,6 +3232,9 @@ https://video2.tizam.cc/files/2105059/ekstremalnye_tsypochki.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Элитные Девушки по Вызову
 https://video2.tizam.cc/files/2147281/call_girls_de_luxe___devushki_po_vyzovu.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Энергичные Секретарши
+https://video1.tizam.cc/films/energichnye_sekretarshi.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX RETRO PORNO CINEMA (HA HA)", Эротическая аэробика / Erotic Aerobics (1984)
 https://video2.tizam.cc/files/2549627/erotic_aerobics.mp4
