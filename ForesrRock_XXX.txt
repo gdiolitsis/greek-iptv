@@ -185,14 +185,14 @@ http://rec2.distv.net:80/app/app/61
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS 62
 http://62.112.9.63:88/Brazzers/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS ace86
-http://86.57.175.132:6878/ace/getstream?id=92550ac34357a69bf6c734145fa359197d62fec0&.mp4
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="XXX", XXX: BRAZZERS EUROPE 5
 http://5.128.254.228:81/udp/239.1.6.40:1234
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS EUROPE ace86
 http://86.57.175.132:6878/ace/getstream?id=d035036a8c34608bafbe25d97eeccfa53ad0035b&.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS EUROPE ace86 BUP
+http://86.57.175.132:6878/ace/getstream?id=d035036a8c34608bafbe25d97eeccfa53ad0035b&.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS EXXTRA plus
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6181/index.m3u8
@@ -230,11 +230,17 @@ http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6193/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DDF NETWORK plus
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6194/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DORCEL ace86
+http://86.57.175.132:6878/ace/getstream?id=07ed9d5adcb40560751d6e7d53b36f157f6e2041&.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DORCEL CLUB plus
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6197/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DORCEL TV plus
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/245/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DUSK 217
+http://217.199.133.230:8000/play/a00h
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: DUSK plus
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6198/index.m3u8
@@ -326,6 +332,9 @@ http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6273/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EXXXOTICA plus
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/2397/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EXXXOTICA spacetv
+http://spacetv.in/stream/DIPK8H19CP8/57.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FAKE TAXI plus
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6202/index.m3u8
 
@@ -398,11 +407,17 @@ http://catchup.iptv.iinet.rs:80/playlist.m3u8?id=214&token=y_sel
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER 194
 http://194.54.183.85:8000/play/a03o/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER 217
+http://217.199.133.230:8000/play/a07p
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="XXX", XXX: HUSTLER 5
 http://5.128.254.228:81/udp/239.1.6.35:1234
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" group-title="XXX", XXX: HUSTLER catchup
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&D
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER EUROPE ace86
+http://86.57.175.132:6878/ace/getstream?id=512d21052629e67dbfc6b71306393a24792ccd80&.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER EUROPE plus
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/244/index.m3u8
@@ -422,6 +437,9 @@ http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6232/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: MEIDEN VAN HOLLAND plus
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6297/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: MIAMI TV
+https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: MYLF 1 plus
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6216/index.m3u8
 
@@ -439,6 +457,9 @@ http://37.17.12.118:8905/play/a00l
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: NUART 37
 http://37.17.12.119:8905/play/a00l
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: NUART ace86
+http://86.57.175.132:6878/ace/getstream?id=c3e3101ff8349b283f87e086c53936ffe6eb0b79&.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: NUART spacetv
 http://spacetv.in/stream/DIPK8H19CP8/55.m3u8
@@ -512,6 +533,9 @@ http://201.159.95.118:8000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iptvx.one/icn/playboy-tv.png" group-title="XXX", XXX: PLAY BOY RED 45
 http://45.182.127.235:8000/play/a0ck
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PRIVATE 84
+http://84.22.67.163:12000/play/a00b
+
 #EXTINF:-1 tvg-id="Private TV" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/105.png" group-title="XXX", XXX: PRIVATE 91
 http://91.206.19.123:4022/udp/225.0.55.230:1234
 
@@ -549,10 +573,13 @@ http://1plus79.ucomist.net/iptv/F2LG4968TERETS/242/index.m3u8
 http://1plus79.ucomist.net/iptv/F2LG4968TERETS/6281/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REDLIGHT ace86
-http://86.57.175.132:6878/ace/getstream?id=879adbc189269d07502688abdfe33283962142ff&.mp4
+http://86.57.175.132:6878/ace/getstream?id=daa2f26ff9a9b83874b1155ffcdb0e6e97f08341&.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REDLIGHT akatatel
-http://8f5d0aba.akadatel.com/iptv/XCAVNP7ZUPPBXC/242/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REDLIGHT ace86 BUP
+http://86.57.175.132:6878/ace/getstream?id=879adbc189269d07502688abdfe33283962142ff&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: REDLIGHT ace86 BUP2
+http://86.57.175.132:6878/ace/getstream?id=879adbc189269d07502688abdfe33283962142ff&.mp4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://3.bp.blogspot.com/-8WmihWk6_fI/WXVgSMe9NFI/AAAAAAAAAgw/gsQnqV4vrUElwFAIv6LFATL7fzivPAYSACLcBGAs/w260/descarga%2B%25284%2529.jpg" group-title="XXX", XXX: REDLIGHT catchup
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=215&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
