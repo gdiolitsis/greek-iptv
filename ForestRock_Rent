@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .ANIMAL PLANET GR 185
-http://185.132.177.110:8080/AnimalPlanetHD/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2000px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARIES", DOC: .ANIMAL PLANET GR gd
 http://136.243.92.93:8080/animal/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2000px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTARIES", DOC: .ANIMAL PLANET GR gd136
 http://136.243.92.93:2305/animal/mpegts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .BBC EARTH GR 185
-http://185.132.177.110:8080/BBCEarthHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARIES", DOC: .BBC EARTH GR gd
 http://136.243.92.93:8080/bbcearth/mpegts
@@ -23,20 +17,11 @@ http://136.243.92.93:8080/discovery/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Discovery_channel.png/220px-Discovery_channel.png" group-title="DOCUMENTARIES", DOC: .DISCOVERY GR gd136
 http://136.243.92.93:2305/discovery/mpegts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .DTX GR 185
-http://185.132.177.110:8080/DTX/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tornosnews.gr/files/logo_exlploring_greece_tv_618011261.png" group-title="DOCUMENTARIES", DOC: .EXPLORING GREECE
 https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w506097299.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .FINE LIVING GR 185
-http://185.132.177.110:8080/FineLivingHD/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fine_Living_-_Logo_2016.svg/1280px-Fine_Living_-_Logo_2016.svg.png" group-title="DOCUMENTARIES", DOC: .FINE LIVING GR gd136
 http://136.243.92.93:2305/fineliving/mpegts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .FOOD NETWORK GR 185
-http://185.132.177.110:8080/FoodNetworkHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="DOCUMENTARIES", DOC: .FOOD NETWORK GR gd136
 http://136.243.92.93:2305/food/mpegts
@@ -47,20 +32,11 @@ http://136.243.92.93:8080/history/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTARIES", DOC: .HISTORY GR gd136
 http://136.243.92.93:2305/history/mpegts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .NAT GEO GR 185
-http://185.132.177.110:8080/NationalGeographic/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/63/24/2d/63242d3b61f92fae785b80ad9a32ea0b.jpg" group-title="DOCUMENTARIES", DOC: .NAT GEO GR gd
 http://136.243.92.93:8080/natgeo/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/63/24/2d/63242d3b61f92fae785b80ad9a32ea0b.jpg" group-title="DOCUMENTARIES", DOC: .NAT GEO GR gd136
 http://136.243.92.93:2305/natgeo/mpegts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .NAT GEO HD GR 185
-http://185.132.177.110:8080/NatGeoHD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .NAT GEO WILD GR 185
-http://185.132.177.110:8080/NatGeoWildHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARIES", DOC: .NAT GEO WILD GR gd
 http://136.243.92.93:8080/natgeowild/mpegts
@@ -68,29 +44,17 @@ http://136.243.92.93:8080/natgeowild/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARIES", DOC: .NAT GEO WILD GR gd136
 http://136.243.92.93:2305/natgeowild/mpegts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .NAUTICAL GR 185
-http://185.132.177.110:8080/NauticalChannelHD/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Nautical_Channel.png" group-title="DOCUMENTARIES", DOC: .NAUTICAL GR gd
 http://136.243.92.93:8080/nautical/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Nautical_Channel.png" group-title="DOCUMENTARIES", DOC: .NAUTICAL GR gd136
 http://136.243.92.93:2305/nautical/mpegts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .OUTDOOR GR 185
-http://185.132.177.110:8080/OutdoorChannelHD/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.realtree.com/sites/default/files/content/previews/outdoorchannellogo.gif" group-title="DOCUMENTARIES", DOC: .OUTDOOR GR gd
 http://136.243.92.93:8080/outdoor/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.realtree.com/sites/default/files/content/previews/outdoorchannellogo.gif" group-title="DOCUMENTARIES", DOC: .OUTDOOR GR gd136
 http://136.243.92.93:2305/outdoor/mpegts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .TLC GR 185
-http://185.132.177.110:8080/TLC/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .TRAVEL GR 185
-http://185.132.177.110:8080/TravelChannelHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: .UP GREEK TOURISM
 https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w1762021010.m3u8
@@ -164,6 +128,9 @@ http://91.235.68.32:12017
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: ANIMAL PLANET RU ace86
 http://86.57.175.132:6878/ace/getstream?id=815daf9ba05ea77cf0fc67771359548eb08a41cd&.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: ANIMAL PLANET UZBEKISTAN
+http://st5.allplay.uz/iptv/67/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Pluto TV Animals" tvg-logo="http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="DOCUMENTARIES", DOC: ANIMALS 2 pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -199,6 +166,9 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2018/09/love_nature_logo_white_rgb.png" group-title="DOCUMENTARIES", DOC: LOVE NATURE 2 bamus
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: LOVE NATURE 4K
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6635_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tinyurl.com/yxgbxkej" group-title="DOCUMENTARIES", DOC: MY PLANET RU
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
@@ -257,6 +227,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/1e32dfd2075f7
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD HU 89
 http://89.216.39.29:8004
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD IND 185
+http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD LATIN 187
 http://187.189.119.135:8000/play/a01d/index.m3u8
 
@@ -268,6 +241,12 @@ http://45.94.149.154:8000/play/a04o
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD SPAIN 45
 http://45.170.40.2:8000/play/a020
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD TURK zero
+http://zero2.site:8080/zero/zero/23
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD UZBEKISTAN
+http://st5.allplay.uz/iptv/42/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Samsung Wildlife" tvg-logo="https://i.imgur.com/x06npU2.png" group-title="DOCUMENTARIES", DOC: SAMSUNG WILDLIFE
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
@@ -293,29 +272,8 @@ http://136.243.92.93:8080/capitalcy/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gGqNDZN.png" group-title="CINEMA", CINE: ERTA LEX TV
 https://vdo.alphaserver.gr:3203/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: FOX 185
-http://185.132.177.110:8080/FOXHD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: FOX LIFE 185
-http://185.132.177.110:8080/FOXLifeHD/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dwF0jlz.png" group-title="CINEMA", CINE: GALAXY GR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: GREEK 1 ulusal
-http://stream.ulusal.de:8080/TvBezGranica/vEuy0C0wYe/16931
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: GREEK 2 ulusal
-http://stream.ulusal.de:8080/TvBezGranica/vEuy0C0wYe/16932
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: GREEK 3 ulusal
-http://stream.ulusal.de:8080/TvBezGranica/vEuy0C0wYe/16933
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: GREEK 4 ulusal
-http://stream.ulusal.de:8080/TvBezGranica/vEuy0C0wYe/16934
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: GREEK 5 ulusal
-http://stream.ulusal.de:8080/TvBezGranica/vEuy0C0wYe/16935
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="CINEMA", CINE: GREEK CINEMA
 https://vdo.alphaserver.gr:3613/stream/play.m3u8
@@ -341,47 +299,20 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-Vz1IwPitM2I/W0fLhsnD0CI/AAAAAAAALyQ/jwEKtFlSPFIXcl6g_rC5E80bau38a_PwQCLcBGAs/s1600/netv-toronto.jpg" group-title="CINEMA", CINE: NETV TORONTO CINEMA GR
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: NOVA CINEMA 1 185
-http://185.132.177.110:8080/NOVACinema1HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: NOVA CINEMA 2 185
-http://185.132.177.110:8080/NOVACinema2HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: NOVA CINEMA 3 185
-http://185.132.177.110:8080/NOVACinema3HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: NOVA CINEMA 4 185
-http://185.132.177.110:8080/NOVACinema4HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: NOVA PREMIERE ulusal
-http://stream.ulusal.de:8080/TvBezGranica/vEuy0C0wYe/1107
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: OTE CINEMA 1 185
-http://185.132.177.110:8080/COSMOTECinema1HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: OTE CINEMA 2 185
-http://185.132.177.110:8080/COSMOTECinema2HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: OTE CINEMA 3 185
-http://185.132.177.110:8080/COSMOTECinema4HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: TCM CLASSIC CINEMA 185
-http://185.132.177.110:8080/tcm/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/GdgekUL.png" group-title="CINEMA", CINE: TV FILIPOLI CINEMA GR
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", .ASTERAS TRIP - PAOK SPORTPLUS
-http://95.86.57.4:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", . PANATHINAIKOS-ARIS.SPORTPLUS
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8cbc2d64844171.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i114.fastpic.ru/big/2020/1201/81/a4e184be21612b4987ea7ebf2f98cb81.png" group-title="GREEK SPORTS", SP: OLYMPIAKOS - PANATHINAIKOS livesports24 46
-https://46-21-250-207.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", PANATHINAIKOS-ARIS 194
+http://194.54.183.85:8000/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i114.fastpic.ru/big/2020/1201/81/a4e184be21612b4987ea7ebf2f98cb81.png" group-title="GREEK SPORTS", OLYMPIAKOS - PANATHINAIKOS livesports24
-https://95-213-224-188.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", PANATHINAIKOS-ARIS
+http://pool.assia2.tv/hls/54.m3u8?md5=-lpLUrX2PooQfQOOoWU3oA&expires=1618739217
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png" group-title="GREEK SPORTS", SP: OLYMPIAKOS - PANATHINAIKOS cdn1
-https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", PAOK-OLYMPIAKOS
+http://pool.assia2.tv/hls/58.m3u8?md5=PxPGfKPCD9JcF7i-QnZwFQ&expires=1618739474
 
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 1 (10-5-21)
 http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/23146.ts
@@ -398,20 +329,14 @@ http://185.71.64.167:80//live/8005402280/1903686316/160033.ts
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 1 (26-2-22) BUP
 http://185.71.64.167:80//live/9880197446/2170897073/160033.ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 1 (27-3-22)
+http://mu02.cularu.com:8880/live/sch12m2n040/4t6tf7y73r/31222.ts
+
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", Nova Sport 1 (4-2-22)
 http://185.71.64.167:80/live/8005402280/1903686316/160033.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 1 (6-11)
 http://tvmedia2.com:8080/trevor/trevor/166736.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 1 185
-http://185.132.177.110:8080/NovaSports1/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 1 185 BUP
-http://185.132.177.110:8082/NovaSports1/video.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 1 grigori
-http://cloudcdn.tk:80/kVLmf0UDuhn10914/bLAbDY8099/26818
 
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 2 (10-5-21)
 http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/23147.ts
@@ -419,17 +344,11 @@ http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/23147.ts
 #EXTINF:-1 tvg-id="Star.gr" tvg-logo="https://picon-13398.kxcdn.com/novasports2gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 2 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/26819
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 2 (27-3-22)
+http://mu02.cularu.com:8880/live/sch12m2n040/4t6tf7y73r/31221.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 2 (6-11)
 http://tvmedia2.com:8080/trevor/trevor/166737.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 2 185
-http://185.132.177.110:8080/NovaSports2/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 2 185 BUP
-http://185.132.177.110:8082/NovaSports2/video.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 2 grigori
-http://cloudcdn.tk:80/kVLmf0UDuhn10914/bLAbDY8099/26819
 
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 3 (10-5-21)
 http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/82807.ts
@@ -437,11 +356,11 @@ http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/82807.ts
 #EXTINF:-1 tvg-id="Novasports 3 HD GR" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 3 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/64906
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 3 (27-3-22)
+http://mu02.cularu.com:8880/live/sch12m2n040/4t6tf7y73r/31220.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 3 (6-11)
 http://tvmedia2.com:8080/trevor/trevor/166738.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 3 grigori
-http://cloudcdn.tk:80/kVLmf0UDuhn10914/bLAbDY8099/64906
 
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 4 (10-5-21)
 http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/82808.ts
@@ -449,11 +368,11 @@ http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/82808.ts
 #EXTINF:-1 tvg-id="Novasports 4 HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports4gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 4 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/64907
 
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 4 (27-3-22)
+http://mu02.cularu.com:8880/live/sch12m2n040/4t6tf7y73r/31219.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 4 (6-11)
 http://tvmedia2.com:8080/trevor/trevor/166739.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 4 grigori
-http://cloudcdn.tk:80/kVLmf0UDuhn10914/bLAbDY8099/64907
 
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 5 (10-5-21)
 http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/82809.ts
@@ -461,11 +380,11 @@ http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/82809.ts
 #EXTINF:-1 tvg-id="Novasports 5 HD GR" tvg-logo="https://picon-13398.kxcdn.com/novasports5gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 5 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/64908
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 5 (27-3-22)
+http://mu02.cularu.com:8880/live/sch12m2n040/4t6tf7y73r/31218.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 5 (6-11)
 http://tvmedia2.com:8080/trevor/trevor/166740.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 5 grigori
-http://cloudcdn.tk:80/kVLmf0UDuhn10914/bLAbDY8099/64908
 
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", OTE SPORT 1 (10-5-21)
 http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/2225.ts
@@ -473,14 +392,11 @@ http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/2225.ts
 #EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 1 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/18240
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 1 (27-3-22)
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/31214?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", OTE SPORT 1 (6-11)
 http://tvmedia2.com:8080/live/trevor/trevor/166707.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 1 185
-http://185.132.177.110:8080/COSMOTESport1HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 1 grigori
-http://cloudcdn.tk:80/kVLmf0UDuhn10914/bLAbDY8099/18240
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 1 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b4f0c8c2006198.m3u8
@@ -491,14 +407,11 @@ http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/2224.ts
 #EXTINF:-1 tvg-id="CosmoteSport2.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport2gr.jpg" group-title="GREEK SPORTS", OTE SPORT 2 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/18241
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 2 (27-3-22)
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/31213?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", OTE SPORT 2 (6-11)
 http://tvmedia2.com:8080/live/trevor/trevor/166708.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 2 185
-http://185.132.177.110:8080/COSMOTESport2HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 2 grigori
-http://cloudcdn.tk:80/kVLmf0UDuhn10914/bLAbDY8099/18241
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 2 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1c3082a6a76cae9.m3u8
@@ -509,11 +422,8 @@ http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/2223.ts
 #EXTINF:-1 tvg-id="CosmoteSport3.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport3gr.jpg" group-title="GREEK SPORTS", OTE SPORT 3 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/18242
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 3 185
-http://185.132.177.110:8080/COSMOTESport3HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 3 grigori
-http://cloudcdn.tk:80/kVLmf0UDuhn10914/bLAbDY8099/18242
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 3 (27-3-22)
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/31212?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 3 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c9abfe327b9456.m3u8
@@ -524,8 +434,8 @@ http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/2222.ts
 #EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 4 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/22989
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 4 185
-http://185.132.177.110:8080/COSMOTESport4HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 4 (27-3-22)
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/31211?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 4 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/caaca81d1283180.m3u8
@@ -533,29 +443,20 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/caaca81d128318
 #EXTINF:-1 tvg-id="CosmoteSport5.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 5 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/22990
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 5 185
-http://185.132.177.110:8080/COSMOTESport5HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 5 (27-3-22)
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/31210?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CosmoteSport6.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 6 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/22991
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 6 185
-http://185.132.177.110:8080/COSMOTESport6HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 6 (27-3-22)
+http://mu02.cularu.com:8880/sch12m2n040/4t6tf7y73r/31209?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CosmoteSport7.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 7 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/22992
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 7 185
-http://185.132.177.110:8080/COSMOTESport7HD/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="CosmoteSport8.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 8 (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/22993
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 8 185
-http://185.132.177.110:8080/COSMOTESport8HD/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 9 185
-http://185.132.177.110:8080/COSMOTESport9HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="CosmoteSportHighlight.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesporthighlitsgr.jpg" group-title="GREEK SPORTS", OTE SPORT HIGHLIGHTS (11-6-21)
 http://85.203.33.88:80/kVLmf0UDuhn10914/bLAbDY8099/19577
@@ -610,6 +511,9 @@ https://dfbbhbrix93z2.cloudfront.net/LS-ATL-56868-1/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="HOBBY TV", DOC: FISH & HUNT USA BUP
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", DOC: FISH CHANNEL
+https://30a-tv.com/darcizzle.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", DOC: GOT TALENT GLOBAL
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
@@ -863,9 +767,6 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/ZcMfQn8/deooleg4.png" group-title="FUNNY TV", WIPE OUT PAIXNIDI
 https://endemol-wipeoutxtra-1.samsung.wurl.com/manifest/3000.m3u8?|User-agent=smartlabs
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: BABY TV GR 185
-http://185.132.177.110:8080/babytv/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.frostclick.com/wp/wp-content/uploads/2009/01/bigbuckbunny200x200.jpg" group-title="PAIDIKA (KIDS)", .KIDS: BIG BUCK BUNNY wowza
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
 
@@ -875,17 +776,11 @@ http://136.243.92.93:8080/boomerang/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: BOOMERANG GR gd136
 http://136.243.92.93:2305/boomerang/mpegts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: DISNEY CHANNEL GR 185
-http://185.132.177.110:8080/DisneyChannel/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://136.243.92.93:8080/ant1/mpegts" group-title="PAIDIKA (KIDS)", .KIDS: DISNEY CHANNEL GR gd
 http://136.243.92.93:8080/disney/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: DISNEY CHANNEL GR gd136
 http://136.243.92.93:2305/disney/mpegts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: DISNEY JR GR 185
-http://185.132.177.110:8080/disneyjunior/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: DISNEY JR GR gd136
 http://136.243.92.93:2305/disneyjr/mpegts
@@ -902,9 +797,6 @@ http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.giniko.com/logos/190x110/1090.png" group-title="PAIDIKA (KIDS)", .KIDS: MASHA & MEDVED giniko
 https://gintna100.tulix.tv/gin_live/mashaimedved/d304bc70f8de709deff2b5d9126fea34/6045073f/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: NICKELODEON GR 185
-http://185.132.177.110:8080/NickelodeonHD/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/bUzVNaUZc6E/maxresdefault.jpg" group-title="PAIDIKA (KIDS)", .KIDS: NICKELODEON GR 31
 http://31.177.62.174:8002/play/s60
 
@@ -916,9 +808,6 @@ http://31.177.62.174:8002/play/s58
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="PAIDIKA (KIDS)", .KIDS: SMILE GR
 https://s1.cystream.net/live/smile/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: SMILE GR 185
-http://185.132.177.110:8080/smiletv/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", 1 cерия
 http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.01.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
@@ -1385,26 +1274,62 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 1 194
 http://194.54.183.85:8000/play/a036/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 1 212
+http://212.200.127.243:80/ArenaSport1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 1 212
+http://212.200.108.8:8000/play/a02g/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 1 51
 http://51.91.25.152:8080/ARENA_SPORT1/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 1 91
+http://91.212.150.248:80/ArenaSport1/index.m3u8?utcstart=944923262064&version=2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 2 194
 http://194.54.183.85:8000/play/a03i/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 2 212
+http://212.200.127.243:80/ArenaSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 2 212
+http://212.200.108.8:8000/play/a02h/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 2 51
 http://51.91.25.152:8080/ARENA_SPORT2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 2 91
+http://91.212.150.248:80/ArenaSport2/index.m3u8?utcstart=944923262064&version=2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 3 194
 http://194.54.183.85:8000/play/a03j/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 3 212
+http://212.200.127.243:80/ArenaSport3/index.m3u8?bw944923262064.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 3 212
+http://212.200.108.8:8000/play/a02i/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 3 51
 http://51.91.25.152:8080/ARENA_SPORT3/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 3 91
+http://91.212.150.248:80/ArenaSport3/index.m3u8?utcstart=944923262064&version=2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 4 194
 http://194.54.183.85:8000/play/a03k/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 4 212
+http://212.200.127.243:80/ArenaSport4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 4 212
+http://212.200.108.8:8000/play/a02j/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 4 51
 http://51.91.25.152:8080/ARENA_SPORT4/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 4 91
+http://91.212.150.248:80/ArenaSport4/index.m3u8?utcstart=944923262064&version=2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 5
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c65ab974f6bdc47.m3u8
@@ -1412,11 +1337,20 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c65ab974f6bdc4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 5 194
 http://194.54.183.85:8000/play/a03l/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 5 212
+http://212.200.127.243:80/ArenaSport5/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ARENA SPORT 5 91
+http://91.212.150.248:80/ArenaSport5/index.m3u8?utcstart=944923262064&version=2
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_arryadia.png" group-title="SPORT CHANNELS", SP: ARRYADIA
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://sport.astrakhan.ru/image/logo-sport-astrakhan.png" group-title="SPORT CHANNELS", SP: ASTRAKHAN SPORT
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ASTRO SUPERSPORT 1 185
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ASTRO SUPERSPORT 1 36
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
@@ -1424,11 +1358,20 @@ http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ASTRO SUPERSPORT 1 50
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ASTRO SUPERSPORT 2 185
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ASTRO SUPERSPORT 2 50
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ASTRO SUPERSPORT 3 185
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ASTRO SUPERSPORT 3 36
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ASTRO SUPERSPORT 4 185
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ASTRO SUPERSPORT 4 50
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
@@ -1460,6 +1403,9 @@ http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/B/bayern-munchen-logo-68D0CB94C3-seeklogo.com.png" group-title="SPORT CHANNELS", SP: BAYERN MUNCHEN TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BAYERN MUNICH TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s36-v1-a1.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BAYERN MÜNCHEN TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 
@@ -1475,6 +1421,18 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/57e12c38175537
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="TEST" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 ARAB livetv
 http://livetv.grabdeal.xyz/beinsport1
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 Baygon
+https://mediasv.online/live/bein1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 ENG
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 ENG bup
+http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 ENG bup2
+http://radenroro.net/play_token=414GQOxr6Y/bein-1id.php
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 EPL chostv
 https://chostv.mobie.in/choos/sports1/bein1.m3u8
 
@@ -1489,6 +1447,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8907c27630df2d
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 ilooksysadmin
 http://ilooksysadmin.tvclub.xyz/iptv/LBXH3KUECSZSRY/6123/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 PREMIUM
+http://1.adrawayoun.xyz:80/live/6161655/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 PREMIUM
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
@@ -1510,6 +1471,18 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c28e6ada110428
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="TEST" group-title="SPORT CHANNELS", SP: BEIN SPORTS 02 ARAB livetv
 http://livetv.grabdeal.xyz/beinsport2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 02 Baygon
+https://mediasv.online/live/bein2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 02 ENG
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 02 ENG bup
+http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 02 ENG bup2
+http://radenroro.net/play_token=414GQOxr6Y/bein-2id.php
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 02 EPL chostv
 https://chostv.mobie.in/choos/sports1/bein2.m3u8
@@ -1658,6 +1631,15 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BELARUS 5 46
 http://46.174.189.50:8082/belarus5/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="hlsproxy-221" tvg-logo="https://iptvx.one/icn/belarus5.png" group-title="SPORT CHANNELS", SP: BELARUS 5 86
+http://86.57.174.73:14000/bel5
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BELARUS 5 livesports24
+https://46-166-139-84.livesports24.online/belarusss5.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BELARUS 5 livesports24
+https://46-166-139-70.livesports24.online/belarusss5.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BELARUS 5 livesports24
 https://185-198-56-58.livesports24.online/belarusss5.m3u8
 
@@ -1745,6 +1727,18 @@ https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: CHAMPIONS 2 useetv
 https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: CHAMPIONS TV 1
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: CHAMPIONS TV 2
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/champions-tv-3.png" group-title="SPORT CHANNELS", SP: CHAMPIONS TV 3
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: CHELSEA TV livedoomovies
+https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="SPORT CHANNELS", SP: CLARO SPORTS
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
@@ -1757,11 +1751,17 @@ http://45.94.149.154:8000/play/a03o
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: DAZN 1 BAR 45
 http://45.92.69.211:8000/play/a0ms
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: DAZN 1 DE
+http://stream.tvtap.live:8081/live/de-dazn1.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: DAZN 2 45
 http://45.94.149.154:8000/play/a03t
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: DAZN 2 BAR 45
 http://45.92.69.211:8000/play/a0o1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: DAZN 2 DE
+http://stream.tvtap.live:8081/live/de-dazn2.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="SPORT CHANNELS", SP: DAZN BRAZIL rec2
 http://rec2.distv.net:80/app/app/226
@@ -1989,6 +1989,12 @@ https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL 1 UKR livesports24
+https://95-213-224-181.livesports24.online/uafootballua1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL 1 UKR livesports24
+https://95-213-224-181.livesports24.online/uafootballua1.m3u8?415414995869a?413609997246
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL 1 UKR livesports24
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL 1 UKR livesports24
@@ -2007,6 +2013,12 @@ https://77-247-178-24.livesports24.online/uafootballua1.m3u8
 https://chostv.mobie.in/choos/sports/qyt2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL 2 UKR livesports24
+https://185-198-56-56.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL 2 UKR livesports24
+https://46-166-139-70.livesports24.online/fooootball2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL 2 UKR livesports24
 https://95-213-224-179.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pl.ottg.tv:80/icon/2070.png" group-title="SPORT CHANNELS", SP: FOOTBALL 2 UKR livesports24 46
@@ -2020,6 +2032,12 @@ https://77-247-178-24.livesports24.online/fooootball2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL 3 UKR chostv
 https://chostv.mobie.in/choos/sports/qyt3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL 3 UKR livesports24
+https://185-107-80-245.livesports24.online/football3ua.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL 3 UKR livesports24
+https://95-213-224-186.livesports24.online/football3ua.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://pl.ottg.tv:80/icon/3600.png" group-title="SPORT CHANNELS", SP: FOOTBALL 3 UKR livesports24 46
 https://46-166-139-84.livesports24.online/football3ua.m3u8
@@ -2038,6 +2056,9 @@ http://37.17.12.118:8911/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL RU ace86
 http://86.57.175.132:6878/ace/getstream?id=468191cbad8f5f6f4204ea05b1672bac675448bf&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL RU livesports24
+https://95-213-224-181.livesports24.online/footballrus.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: FOOTBALL RU livesports24
 https://95-213-224-186.livesports24.online/footballrus.m3u8
@@ -2285,11 +2306,20 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/13/Botola_Maroc_T%C3%A9l%C3%A9com.png" group-title="SPORT CHANNELS", SP: MAROCCO SPORTS
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH ARENA 185
+http://185.74.7.220:8080/arena/mpegts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i114.fastpic.ru/big/2020/1201/25/69f62433cc9709c98e248fa7d8169525.png" group-title="SPORT CHANNELS", SP: MATCH ARENA 89
 http://89.189.191.250/239.211.211.35/stream.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH ARENA ace86
 http://86.57.175.132:6878/ace/getstream?id=38fd1372406c976bb926eb5f14d2e6a8f9e3a6da&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH ARENA livesports24
+https://95-213-224-181.livesports24.online/rumatcharena.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH ARENA livesports24
+https://185-107-80-245.livesports24.online/rumatcharena.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH ARENA livesports24
 https://95-213-224-186.livesports24.online/rumatcharena.m3u8
@@ -2303,11 +2333,20 @@ http://86.57.175.132:6878/ace/getstream?id=92550ac34357a69bf6c734145fa359197d62f
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 1 chostv
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 1 livesports24
+https://95-213-224-188.livesports24.online/ntvmatchfoot1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 1 livesports24
+https://185-107-80-245.livesports24.online/ntvmatchfoot1.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i114.fastpic.ru/big/2020/1201/81/a4e184be21612b4987ea7ebf2f98cb81.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 1 livesports24 46
 https://46-21-250-207.livesports24.online/ntvmatchfoot1.m3u8
 
 #EXTINF:-1 tvg-id="Матч! Футбол 1" tvg-logo="http://i114.fastpic.ru/big/2020/1201/81/a4e184be21612b4987ea7ebf2f98cb81.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 1 s1
 https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 2 185
+http://185.74.7.220:8080/football2/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 2 ace86
 http://86.57.175.132:6878/ace/getstream?id=153e4a4098ada1e6150a5e62cdd58db806fddada&.m3u8
@@ -2317,6 +2356,12 @@ http://86.57.175.132:6878/ace/getstream?id=153e4a4098ada1e6150a5e62cdd58db806fdd
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 2 chostv
 https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 2 livesports24
+https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 2 livesports24
+https://95-213-224-188.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i114.fastpic.ru/big/2020/1201/f8/88b80b3b747ccf81edf3bec99f0346f8.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 2 livesports24 46
 https://46-21-250-207.livesports24.online/mfootball2rus.m3u8
@@ -2331,6 +2376,12 @@ http://86.57.175.132:6878/ace/getstream?id=70b20efc8b27aa84025b7fe5752dea186429b
 https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 3 livesports24
+https://95-213-224-188.livesports24.online/rumatchf3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 3 livesports24
+https://185-107-80-245.livesports24.online/rumatchf3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 3 livesports24
 https://95-213-224-186.livesports24.online/rumatchf3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i114.fastpic.ru/big/2020/1201/35/c0bf538d10a995b566ef6c677ac52c35.png" group-title="SPORT CHANNELS", SP: MATCH FOOTBALL 3 livesports24 46
@@ -2342,11 +2393,20 @@ http://89.189.191.250/239.211.200.11/stream.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH IGRA ace86
 http://86.57.175.132:6878/ace/getstream?id=62ef7e82275b9f50a51b6dd19123e460f68e678a&.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH IGRA livesports24
+https://95-213-224-181.livesports24.online/migra.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH IGRA livesports24
+https://77-247-178-24.livesports24.online/migra.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH PLANETA 213
 http://213.184.238.59:6100
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://satsis.org/uploads/posts/2016-03/1457696340_www.satsis.info_maych_planeta.png" group-title="SPORT CHANNELS", SP: MATCH PLANETA 37
 http://37.17.12.118:8907/play/a00l
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH PLANETA livesports24
+https://95-213-224-181.livesports24.online/matchplanetarus.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH PLANETA livesports24
 https://95-213-224-186.livesports24.online/matchplanetarus.m3u8
@@ -2356,6 +2416,15 @@ http://89.189.191.250/239.211.211.170/stream.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH PREMIER ace86
 http://86.57.175.132:6878/ace/getstream?id=73d8f7f6bc68b12878d73180fd06f0e3d211acfd&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH PREMIER livesports24
+https://95-213-224-181.livesports24.online/mpremierrus.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH PREMIER livesports24
+https://77-247-178-24.livesports24.online/mpremierrus.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH PREMIER livesports24
+https://185-107-80-245.livesports24.online/mpremierrus.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/4/4d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.svg/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.svg.png" group-title="SPORT CHANNELS", SP: MATCH RU 82
 http://82.200.80.142:8080/rus2/mono.m3u8
@@ -2370,6 +2439,9 @@ http://iptv.ktkru.ru:8003/index.m3u8?checkedby
 http://iptv.ktkru.ru:8003/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH RU livesports24
+https://185-107-80-245.livesports24.online/ooomatch.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH RU livesports24
 https://95-213-224-186.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/4/4d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.svg/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%9C%D0%B0%D1%82%D1%87_%D0%A2%D0%92.svg.png" group-title="SPORT CHANNELS", SP: MATCH RU livesports24 46
@@ -2377,6 +2449,18 @@ https://46-21-250-207.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH STRANA ace86
 http://86.57.175.132:6878/ace/getstream?id=501018635ad5a212639acc8f1857120390b0e699&.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH STRANA bl.uma
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH STRANA livesports24
+https://95-213-224-181.livesports24.online/mnashsport.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH STRANA livesports24
+https://77-247-178-24.livesports24.online/mnashsport.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH STRANA livesports24
+https://185-107-80-245.livesports24.online/mnashsport.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MATCH STRANA livesports24
 https://95-213-224-186.livesports24.online/mnashsport.m3u8
@@ -2627,11 +2711,20 @@ http://78.83.191.18:8000/play/a06e
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: RING SPORT BUL 136
 http://136.243.177.164/RINGBG/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: RMC SPORT 1
+https://22live00.akamaized.net/RMC_Sports_1/index.m3u8?token=JPxfa1FF6N8Zb3ZLI9fzxPzDuhRUCvqj0QLPLTVKRr0tnIG0ru1WBHfsjkurNzVyG8ZS92dioCoVnQlLoMtwpa2M3K6uKpRMGzlyVm6Zmvjd82AYr73k1BfTEsY4tBLe4HuEuQNQtn%2Bq3K9PRfRej1huApvC1rnWuExU%2Bf%2FQR5X%2Fn7cqH4c729CEJsvMj7BsYMEJxgGDlmMRYVEYQF6b61gVMQb%2BJpt2X%2Bni5jBb6B39aXRuUZwEzsVoJa9OIt7UsiAo398PYMGdDHkQqgQCjSoJnDz0Z%2FMx3180yfT7L7qx5kC8RBz1VJAkF%2BDHNjqUTGqPtlMzZiihWAenjAV9WC9IjLGB0aOXck1jYtA2RwHxrWcUsCcy5QhEHKg4uFvT4P
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: RMC SPORT 1 cc
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/35bebda7c9c68f9.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: RMC SPORT 2
+https://22live00.akamaized.net/RMC_Sports_2/index.m3u8?token=JP2bJrme4a6m17yf0zRIkbjzuhRUCvqj0QLPLTVKRr0tnIG0ru1WBHfsjkurNzVyG8x2m8Tqu%2B%2FgqYzowkG4GVj83K6uKpRMGzlyVm6Zmvjd82AYr73k1BfTEsY4tBLe4HuEuQNQtn%2Bq3K9PRfRej1huApvC1rnWuExU%2Bf%2FQR5X%2Fn7cqH4c729CEJsvMj7BsYMEJxgGDlmMRYVEYQF6b61gVMQb%2BJpt2X%2Bni5jBb6B39aXRuUZwEzsVoJa9OIt7UsiAo398PYMGdDHkQqgQCjSoJnDz0Z%2FMx3180yfT7L7qx5kC8RBz1VJAkF%2BDHNjqUTG5brmjItwnJqHfOgC1OZH8IjLGB0aOXck1jYtA2RwHxrWcUsCcy5QhEHKg4uFvT4P
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: RMC SPORT 2 cc
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/652414abcb12df0.ts|User-Agent=1m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s320/rtm-hd-sports-channel-tv-logo.png" group-title="SPORT CHANNELS", SP: RTM SPORTS
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORT CHANNELS", SP: RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
@@ -2656,6 +2749,15 @@ https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: S SPORT 2 TURK
 http://sikimsonikisler.hlsrectv.online/666/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SETANTA SPORT 1 livesports24
+https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SETANTA SPORT 2 livesports24
+https://95-213-224-181.livesports24.online/setantaplusru.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SETANTA SPORT LIVE livesports24
+https://95-213-224-181.livesports24.online/setantaukraine.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT CHANNELS", SP: SETANTA SPORTS 1 92
 http://92.43.140.204/s81/04.m3u8
@@ -2807,6 +2909,27 @@ http://livetv.grabdeal.xyz/skysportspremierleague
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SKY SPORTS PREMIERE LEAGUE 89
 http://89.187.189.58/309/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="SPORT CHANNELS", SP: SKYNET SPORTS 1 livedoomovie
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="SPORT CHANNELS", SP: SKYNET SPORTS 2 livedoomovie
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png" group-title="SPORT CHANNELS", SP: SKYNET SPORTS 3 livedoomovie
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png" group-title="SPORT CHANNELS", SP: SKYNET SPORTS 4 livedoomovie
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png" group-title="SPORT CHANNELS", SP: SKYNET SPORTS 5 livedoomovie
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="SPORT CHANNELS", SP: SKYNET SPORTS 6 livedoomovie
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="SPORT CHANNELS", SP: SKYNET SPORTS HD livedoomovie
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/473afd_31dffe67ce9f4042b80d2ed68d0fe42b~mv2.jpg/v1/fit/w_2500,h_1330,al_c/473afd_31dffe67ce9f4042b80d2ed68d0fe42b~mv2.jpg" group-title="SPORT CHANNELS", SP: SMASH SPORTS
 http://s3.smashmalta.com:82/live/smash/smash/17.ts
 
@@ -2842,6 +2965,15 @@ http://sikimsonikisler.hlsrectv.online/444/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT 1 ISRAEL 194
 http://194.165.153.26:8000/play/a069
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT 1 UKR livesports24
+https://95-213-224-181.livesports24.online/sport1ua.m3u8?415415000861a
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT 1 UKR livesports24
+https://77-247-178-24.livesports24.online/sport1ua.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT 1 UKR livesports24
+https://185-107-80-245.livesports24.online/sport1ua.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT 1 UKR livesports24
 https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
@@ -2912,6 +3044,9 @@ http://77.54.145.209:81/play/a001
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 1 cc
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5205c7b916108f9.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.thesportsdb.com/images/media/logo/sqxxtw1470409111.png" group-title="SPORT CHANNELS", SP: SPORT TV 1 livedoomovie
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="|PT| SPORT TV1" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 1 PT iptv8
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1582
 
@@ -2923,6 +3058,9 @@ http://77.54.145.209:81/play/a004
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 2 cc
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b34a752e6302c4b.ts|User-Agent=1m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png" group-title="SPORT CHANNELS", SP: SPORT TV 2 livedoomovie
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="|PT| SPORTV TV 2" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 2 PT iptv8
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1576
@@ -2936,6 +3074,9 @@ http://77.54.145.209:81/play/a005
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 3 cc
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/67f9ab7537be842.ts|User-Agent=1m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="SPORT CHANNELS", SP: SPORT TV 3 livedoomovie
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="PT: SPORT TV 3" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 3 PT iptv8
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3787
 
@@ -2945,11 +3086,17 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 4 77
 http://77.54.145.209:81/play/a02o
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.thesportsdb.com/images/media/logo/vuytwx1470409983.png" group-title="SPORT CHANNELS", SP: SPORT TV 4 livedoomovie
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="|PT| SPORT TV4" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 4 PT iptv8
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/1580
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ustvstaticcdn2-a.akamaihd.net/i/channel/picture/1/1/8/2/11828425/11828425_sporttv_1345315509,640x360,b:1.jpg" group-title="SPORT CHANNELS", SP: SPORT TV 4 PT livedoomovies
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.thesportsdb.com/images/media/logo/uvpqvr1470410094.png" group-title="SPORT CHANNELS", SP: SPORT TV 5 livedoomovie
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="PT: SPORTV5 HD" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 5 PT iptv8
 http://iptv8.premium-stv.com:2052/SPORTPORTpro1/vgadJThhsjdfw33/3789
@@ -3155,6 +3302,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TRACE SPORT STARS 203
+http://203.154.177.124:8899/live/ch10/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TRING SPORT 1 79
 http://79.106.224.178:20000/play/a004/index.m3u8
 
@@ -3299,11 +3449,17 @@ http://persik.tv/stream/1258/416064/10249.m3u8
 #EXTINF:-1 tvg-id="ViasatSport.se" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Viasatsport.png/200px-Viasatsport.png" group-title="SPORT CHANNELS", SP: VIASAT SPORT persik bup2
 http://persik.by/stream/2944/263250/10249.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: WHISTLE TV
+https://whistletv-roku-ingest.cinedigm.com/master.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/YasSports.png" group-title="SPORT CHANNELS", SP: YAS SPORTS admdn
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8?airmaxtv.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ZIGGO SPORT SELECT cc
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/33c6342ad980c33.ts|User-Agent=1m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ZQ SPORTS
+http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: О2 TV Sport 84
 http://84.42.140.148:8880/hdmi
@@ -3935,6 +4091,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/520c53bae64456
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS new", TNT SPORTS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b4a828ec90d9805.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", . MUSIC: .CLUBBING TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FNNCrTI.png" group-title="MUSIC TV", .MUSIC: BARAZA GR classic hits
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 
@@ -4481,12 +4640,6 @@ https://vse-as-all1.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/8f/d6/04/8fd60438ab08c168bf3cd3cc008a5b45.gif" group-title="LIFESTYLE", WORLD FASHION
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg" group-title="GREEK PANELLADIKA", GR: 34100 TV giniko
-https://bozztv.com/36bay2/giniko_greece34100tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", http://154.57.7.251:8000/ert1
-http://bazarhd.online:80/307234110115/307234110115/79209?checkedby:hlscat.com
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg" group-title="GREEK PANELLADIKA", GR: 34100 TV GR
 https://s1.cystream.net/live/34100/playlist.m3u8
 
@@ -4495,9 +4648,6 @@ http://31.177.62.174:8000/play/s52
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR: ACTION 24 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Greece/116efbe22464c04.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR: ACTION24 185
-http://185.132.177.110:8080/action24/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Alpha.gr" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png" group-title="GREEK PANELLADIKA", GR: ALPHA
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
@@ -4535,9 +4685,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Greece/5458678eee4bc9
 #EXTINF:-1 tvg-id="eptsports.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT SPORTS
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportslow.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR: ERT SPORTS 185
-http://185.132.177.110:8080/erthd/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="GREEK PANELLADIKA", GR: ERT SPORTS 2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
 
@@ -4559,9 +4706,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #EXTINF:-1 tvg-id="ept1.gr" tvg-logo="https://www-enimerosi24-gr.cdn.ampproject.org/i/s/www.enimerosi24.gr/wp-content/uploads/2020/09/ert1.jpg" group-title="GREEK PANELLADIKA", GR: ERT1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1low.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR: ERT1 185
-http://185.132.177.110:8080/ert1/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://136.243.92.93:8080/ant1/mpegts" group-title="GREEK PANELLADIKA", GR: ERT1 gd
 http://136.243.92.93:8080/ert1/mpegts
 
@@ -4574,9 +4718,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
 #EXTINF:-1 tvg-id="ept2.gr" tvg-logo="https://www-enimerosi24-gr.cdn.ampproject.org/i/s/www.enimerosi24.gr/wp-content/uploads/2020/09/ert2.jpg" group-title="GREEK PANELLADIKA", GR: ERT2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2low.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR: ERT2 185
-http://185.132.177.110:8080/ert2/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://136.243.92.93:8080/ant1/mpegts" group-title="GREEK PANELLADIKA", GR: ERT2 gd
 http://136.243.92.93:8080/ert2/mpegts
 
@@ -4588,9 +4729,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
 
 #EXTINF:-1 tvg-id="ept3.gr" tvg-logo="https://www-enimerosi24-gr.cdn.ampproject.org/i/s/www.enimerosi24.gr/wp-content/uploads/2020/09/ert3.jpg" group-title="GREEK PANELLADIKA", GR: ERT3
 https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3low.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR: ERT3 185
-http://185.132.177.110:8080/ert3/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://136.243.92.93:8080/ant1/mpegts" group-title="GREEK PANELLADIKA", GR: ERT3 gd
 http://136.243.92.93:8080/ert3/mpegts
@@ -4609,9 +4747,6 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 #EXTINF:-1 tvg-id="kontrachannel.gr" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png" group-title="GREEK PANELLADIKA", GR: KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR: KONTRA 185
-http://185.132.177.110:8080/kontra/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png" group-title="GREEK PANELLADIKA", GR: KONTRA 31
 http://31.177.62.174:8001/play/s64
@@ -4684,9 +4819,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Greece/f12d7b98603fe3
 
 #EXTINF:-1 tvg-id="Star" tvg-logo="https://www.star.gr/tv/images/600x315/files/images/STAR1200X630.jpg" group-title="GREEK PANELLADIKA", GR: STAR
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR: STAR 185
-http://185.132.177.110:8080/starhd/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://136.243.92.93:8080/ant1/mpegts" group-title="GREEK PANELLADIKA", GR: STAR gd
 http://136.243.92.93:8080/startv/mpegts
