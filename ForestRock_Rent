@@ -305,6 +305,9 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", . PANATHINAIKOS-ARIS.SPORTPLUS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8cbc2d64844171.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", PANATHINAIKOS-ARIS SK4 CROATIA
+http://185.71.64.167:80/9880197446/2170897073/85195
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", PANATHINAIKOS-ARIS 194
 http://194.54.183.85:8000/play/a04d/index.m3u8
 
@@ -313,6 +316,9 @@ http://pool.assia2.tv/hls/54.m3u8?md5=-lpLUrX2PooQfQOOoWU3oA&expires=1618739217
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", PAOK-OLYMPIAKOS
 http://pool.assia2.tv/hls/58.m3u8?md5=PxPGfKPCD9JcF7i-QnZwFQ&expires=1618739474
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", PAOK-OLYMPIAKOS 185
+http://185.71.64.167:80/9880197446/2170897073/85193
 
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 1 (10-5-21)
 http://fastrunner.live:8080/live/Dg51xbei8w/gLBTDh52dm/23146.ts
@@ -3014,6 +3020,15 @@ http://95.86.57.4:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 1 cc
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ede409d4b9e7950.ts|User-Agent=1m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 1 CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85198
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 1 SERBIA 185
+http://185.71.64.167:80/9880197446/2170897073/85201
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 10 CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85189
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/70df980363ba9de.m3u8
 
@@ -3023,17 +3038,50 @@ http://194.54.183.85:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 2 95
 http://95.86.57.4:8000/play/a00o/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 2 CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85197
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 2 SERBIA 185
+http://185.71.64.167:80/9880197446/2170897073/85200
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 3 194
 http://194.54.183.85:8000/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 3 95
 http://95.86.57.4:8000/play/a00n/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 3 CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85196
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 3 SERBIA 185
+http://185.71.64.167:80/9880197446/2170897073/85199
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 4 95
 http://95.86.57.4:8000/play/a00k/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 4 CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85195
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 5 95
 http://95.86.57.4:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 5 CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85194
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 6 CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85193
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 7 CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85192
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 8 CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85191
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB 9 CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85190
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT KLUB CROATIA 185
+http://185.71.64.167:80/9880197446/2170897073/85202
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT MAX 161
 http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8
