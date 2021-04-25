@@ -17,6 +17,9 @@ https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs7o6HYipXmkDqL1Ukb3D_8sGlEWqpbw3-_w&usqp=CAU" group-title="XXX", .XXX: JAPAN PORN 2 BUP
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist_w487227855.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs7o6HYipXmkDqL1Ukb3D_8sGlEWqpbw3-_w&usqp=CAU" group-title="XXX", .XXX: RedTraffic - ASIAN
+http://live.redtraffic.xyz/asian.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", .XXX: RedTraffic - BIG DICK
 http://live.redtraffic.xyz/bigdick.m3u8
 
@@ -89,32 +92,8 @@ https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANSEXUAL TV 2
 https://www.ast.tv/stream/2/cellular.m3u8
 
-#EXTINF:-1 tvg-id="XXX_Erotica 6 HD" tvg-logo="noimage.png" group-title="XXX", XXX: ALBA XXX 1 HD portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/312
-
-#EXTINF:-1 tvg-id="XXX_ALBA XXX 1" tvg-logo="noimage.png" group-title="XXX", XXX: ALBA XXX 1 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/289
-
-#EXTINF:-1 tvg-id="XXX_ALBA XXX 2" tvg-logo="noimage.png" group-title="XXX", XXX: ALBA XXX 2 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1103
-
-#EXTINF:-1 tvg-id="XXX_ALBA XXX 3" tvg-logo="noimage.png" group-title="XXX", XXX: ALBA XXX 3 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1104
-
-#EXTINF:-1 tvg-id="XXX_ALBA XXX 4" tvg-logo="noimage.png" group-title="XXX", XXX: ALBA XXX 4 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1105
-
-#EXTINF:-1 tvg-id="XXX_ALBA XXX 5" tvg-logo="noimage.png" group-title="XXX", XXX: ALBA XXX 5 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1106
-
-#EXTINF:-1 tvg-id="XXX_ALBA XXX 6" tvg-logo="noimage.png" group-title="XXX", XXX: ALBA XXX 6 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1107
-
 #EXTINF:-1 tvg-id="(XXX) BabesTV" tvg-logo="noimage.png" group-title="XXX", XXX: BABES maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/6260
-
-#EXTINF:-1 tvg-id="XXX_PORN TV HD" tvg-logo="noimage.png" group-title="XXX", XXX: BABES portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/322
 
 #EXTINF:-1 tvg-id="(XXX) Balkan Erotic" tvg-logo="noimage.png" group-title="XXX", XXX: BALKAN EROTIC maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16046
@@ -134,38 +113,11 @@ http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BEST PORN 2 51
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="XXX_Blacked HD" tvg-logo="noimage.png" group-title="XXX", XXX: BLACKED RAW portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/320
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="XXX", XXX: BLUE HUSTLER 5
-http://5.128.254.228:81/udp/239.1.6.36:1234
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS 62
 http://62.112.9.63:88/Brazzers/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="XXX", XXX: BRAZZERS EUROPE 5
-http://5.128.254.228:81/udp/239.1.6.40:1234
-
-#EXTINF:-1 tvg-id="XXX_Brazzers (Local)" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS.COM portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/295
-
-#EXTINF:-1 tvg-id="XXX_Erotica 5 HD" tvg-logo="noimage.png" group-title="XXX", XXX: BUMSBUS 1 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/311
-
-#EXTINF:-1 tvg-id="XXX_Erotica 7 HD" tvg-logo="noimage.png" group-title="XXX", XXX: BUMSBUS 2 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/313
-
-#EXTINF:-1 tvg-id="XXX_Erotica 8 HD" tvg-logo="noimage.png" group-title="XXX", XXX: BUMSBUS 3 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/314
-
 #EXTINF:-1 tvg-id="candy" tvg-logo="http://tv.kubtel.ru/tv_icon/candy.jpg" group-title="XXX", XXX: CANDY 185
 http://185.52.77.67:8080/Candy/index.m3u8?token=943082199926
-
-#EXTINF:-1 tvg-id="XXX_czech-massage HD (Local)" tvg-logo="noimage.png" group-title="XXX", XXX: CZECH-MASSAGE portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1012
-
-#EXTINF:-1 tvg-id="XXX_PLAYGROUND" tvg-logo="noimage.png" group-title="XXX", XXX: DIGITAL PLAYGROUND portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/319
 
 #EXTINF:-1 tvg-id="pink-erotic-1.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic1.png" group-title="XXX", XXX: EROTIC 1 maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1293
@@ -197,53 +149,8 @@ http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30917
 #EXTINF:-1 tvg-id="(XXX) Platinum" tvg-logo="noimage.png" group-title="XXX", XXX: EVIL ANGEL maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30924
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EXTASY-LEOTV 213
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-
-#EXTINF:-1 tvg-id="XXX_ FILMAX Adult 1 HD" tvg-logo="noimage.png" group-title="XXX", XXX: FILMAX ADULT 1 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/299
-
-#EXTINF:-1 tvg-id="XXX_HOTWIFE PREMIUM" tvg-logo="noimage.png" group-title="XXX", XXX: FILMAX ADULT 10 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/307
-
-#EXTINF:-1 tvg-id="XXX_ FILMAX Adult 2 HD" tvg-logo="noimage.png" group-title="XXX", XXX: FILMAX ADULT 2 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/300
-
-#EXTINF:-1 tvg-id="XXX_FILMAX Adult 3 HD" tvg-logo="noimage.png" group-title="XXX", XXX: FILMAX ADULT 3 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/301
-
-#EXTINF:-1 tvg-id="XXX_FILMAX Adult 5 HD" tvg-logo="noimage.png" group-title="XXX", XXX: FILMAX ADULT 5 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/302
-
-#EXTINF:-1 tvg-id="XXX_ FILMAX Adult 6 HD" tvg-logo="noimage.png" group-title="XXX", XXX: FILMAX ADULT 6 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/303
-
-#EXTINF:-1 tvg-id="XXX_FILMAX Adult 7 HD" tvg-logo="noimage.png" group-title="XXX", XXX: FILMAX ADULT 7 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/304
-
-#EXTINF:-1 tvg-id="XXX_FILMAX Adult 8 HD" tvg-logo="noimage.png" group-title="XXX", XXX: FILMAX ADULT 8 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/305
-
-#EXTINF:-1 tvg-id="XXX_FILMAX Adult 9 HD" tvg-logo="noimage.png" group-title="XXX", XXX: FILMAX ADULT 9 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/306
-
-#EXTINF:-1 tvg-id="french-lover" tvg-logo="http://peers.tv/data/illustrations/ills/2013/12/05/26444/26444600.png" group-title="XXX", XXX: FRENCH LOVER 213
-http://213.59.136.29:55555/udp/239.254.2.50:1234
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FRENSH LOVER 78
-http://78.30.254.135/2050/index.m3u8
-
-#EXTINF:-1 tvg-id="XXX_ Erotica 9 HD" tvg-logo="noimage.png" group-title="XXX", XXX: GERMAN PORN portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/315
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER 2 194
 http://194.54.183.85:8000/play/a03o/index.m3u8
-
-#EXTINF:-1 tvg-id="hustler-hd" tvg-logo="http://only4.tv/ch/5506.png" group-title="XXX", XXX: HUSTLER 213
-http://213.59.136.29:55555/udp/239.254.2.232:1234
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="XXX", XXX: HUSTLER 5
-http://5.128.254.228:81/udp/239.1.6.35:1234
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER 78
 http://78.83.191.18:8000/play/a078
@@ -254,32 +161,8 @@ http://81.163.39.156:8384/udp/233.166.172.253:1234
 #EXTINF:-1 tvg-id="Hustler" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER EUROPE maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16045
 
-#EXTINF:-1 tvg-id="XXX_Hustler TV HD" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER TV portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/282
-
-#EXTINF:-1 tvg-id="XXX_Mia Khalifa *local*" tvg-logo="noimage.png" group-title="XXX", XXX: MIA KHALIFA portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/281
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: MIAMI TV
-https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="XXX_FEMALE FAKE TAXIi FHD (18 )" tvg-logo="noimage.png" group-title="XXX", XXX: MOFOS portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/1088
-
-#EXTINF:-1 tvg-id="XXX_PlayBoy HD" tvg-logo="noimage.png" group-title="XXX", XXX: NET XX portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/290
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="XXX", XXX: O-LA-LA 5
-http://5.128.254.228:81/udp/239.1.6.34:1234
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: O-LA-LA 78
-http://78.30.254.135/1992/index.m3u8
-
 #EXTINF:-1 tvg-id="(XXX) RedLight" tvg-logo="noimage.png" group-title="XXX", XXX: PASSION XXX maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1291
-
-#EXTINF:-1 tvg-id="XXX_PENTHOUSE Gold  HD" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE Gold  portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/288
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png" group-title="XXX", XXX: PINK EROTIC 1 91
 http://91.212.150.248:80/PinkErotic1/index.m3u8?utcstart=943082199926&version=2
@@ -305,47 +188,11 @@ http://91.212.150.248:80/PinkErotic7/index.m3u8?utcstart=943082199926&version=2
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink_erotic_8_logo.png" group-title="XXX", XXX: PINK EROTIC 8 91
 http://91.212.150.248:80/PinkErotic8/index.m3u8?utcstart=943082199926&version=2
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="XXX", XXX: PLAY BOY BLACK 5
-http://5.128.254.228:81/udp/239.1.6.39:1234
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PLAY BOY RED 200
-http://200.54.19.131:8500/play/a0in/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PLAY BOY RED 205
-http://205.240.202.166/Playboy/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="http://only4.tv/ch/2120.png" group-title="XXX", XXX: PLAY BOY RED 205
-http://205.240.202.166/Playboy/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PLAYBOY BLACK 109
-http://109.200.130.124:15500/playboytv
-
-#EXTINF:-1 tvg-id="private-tv" tvg-logo="http://www.frocus.net/images/logotv/private-tv.jpg" group-title="XXX", XXX: PRIVATE 213
-http://213.59.136.29:55555/udp/239.254.2.231:1234
-
-#EXTINF:-1 tvg-id="XXX_ XXL 1 HD" tvg-logo="noimage.png" group-title="XXX", XXX: PURE BABES portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/316
-
-#EXTINF:-1 tvg-id="redlight-hd" tvg-logo="http://only4.tv/ch/5508.png" group-title="XXX", XXX: REDLIGHT 213
-http://213.59.136.29:55555/udp/239.254.3.93:1234
-
 #EXTINF:-1 tvg-id="(XXX) Cento Cento" tvg-logo="noimage.png" group-title="XXX", XXX: RUSSIAN NIGHTS 2 maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16043
 
-#EXTINF:-1 tvg-id="XXX_Scoreland 1 FHD (18 )" tvg-logo="noimage.png" group-title="XXX", XXX: SCORELAND 1 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/291
-
-#EXTINF:-1 tvg-id="XXX_Scoreland 2 FHD (18 )" tvg-logo="noimage.png" group-title="XXX", XXX: SCORELAND 2 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/324
-
-#EXTINF:-1 tvg-id="XXX_Scoreland 3 FHD (18 )" tvg-logo="noimage.png" group-title="XXX", XXX: SCORELAND 3 portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/321
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SEXTREME 200
-http://200.54.19.131:8500/play/a0gq/index.m3u8
-
-#EXTINF:-1 tvg-id="XXX_BDMS Tv" tvg-logo="noimage.png" group-title="XXX", XXX: SEXY HOT portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/284
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: RUSSIAN NIGHTS 93
+http://93.189.224.117:9030/russkayanoch?wowzasessionid=944923262064&time=1463063123262
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SHELK RU 194
 http://194.190.78.91:8080/shelksd/index.m3u8
@@ -353,26 +200,8 @@ http://194.190.78.91:8080/shelksd/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SHELK RU HD 194
 http://194.190.78.91:8080/shelk/index.m3u8
 
-#EXTINF:-1 tvg-id="XXX_Threesomes HD (18 )" tvg-logo="noimage.png" group-title="XXX", XXX: THREESOMES portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/283
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: VENUS 187
-http://187.189.119.135:8000/play/a024/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: VENUS 200
-http://200.54.19.131:8500/play/a0gp/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: VENUS 45
-http://45.5.8.33:8000/play/a03c
-
-#EXTINF:-1 tvg-id="XXX_ Erotica 2 HD" tvg-logo="noimage.png" group-title="XXX", XXX: VIVID RED portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/308
-
-#EXTINF:-1 tvg-id="XXX_FAKE TAXI FHD" tvg-logo="noimage.png" group-title="XXX", XXX: VIXEN portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/323
-
-#EXTINF:-1 tvg-id="XXX_BLUE HUSTLER TV" tvg-logo="noimage.png" group-title="XXX", XXX: XY MAX portal
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/292
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: ШАЛУН 31
+http://31.134.132.245:8080/shalun_hd/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1408009346_1.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .ACTION (1980) Tinto Brass
 http://erozman.com/video-z8b/69.mp4
