@@ -80,8 +80,14 @@ http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.assfilled.com/img/logo_small.png" group-title="XXX", XXX: .ANAL BIG ASS - redtraffic
 http://live.redtraffic.xyz/bigass.m3u8
 
+#EXTINF:-1 tvg-id="1131" tvg-logo="http://epg.cdntv.online/img/1131.png" group-title="XXX", XXX: .ANAL FAP TV cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1131.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY - RedTraffic
 http://cdn.adultiptv.net/gay.m3u8
+
+#EXTINF:-1 tvg-id="1133" tvg-logo="http://epg.cdntv.online/img/1133.png" group-title="XXX", XXX: .LESBIAN FAP TV cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1133.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS - RedTraffic
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
@@ -95,6 +101,9 @@ https://www.ast.tv/stream/2/cellular.m3u8
 #EXTINF:-1 tvg-id="(XXX) BabesTV" tvg-logo="noimage.png" group-title="XXX", XXX: BABES maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/6260
 
+#EXTINF:-1 tvg-id="723" tvg-logo="http://epg.cdntv.online/img/723.png" group-title="XXX", XXX: BABES TV cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/723.m3u8
+
 #EXTINF:-1 tvg-id="(XXX) Balkan Erotic" tvg-logo="noimage.png" group-title="XXX", XXX: BALKAN EROTIC maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16046
 
@@ -107,17 +116,29 @@ http://194.54.183.85:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="(XXX) BangB" tvg-logo="noimage.png" group-title="XXX", XXX: BANG U maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30923
 
+#EXTINF:-1 tvg-id="1125" tvg-logo="http://epg.cdntv.online/img/1125.png" group-title="XXX", XXX: BARELY LEGAL cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1125.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BEST PORN 1 51
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BEST PORN 2 51
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="1064" tvg-logo="http://epg.cdntv.online/img/1064.png" group-title="XXX", XXX: BLUE HUSTLER cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1064.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS 62
 http://62.112.9.63:88/Brazzers/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="724" tvg-logo="http://epg.cdntv.online/img/724.png" group-title="XXX", XXX: BRAZZERS TV EUROPE cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/724.m3u8
+
 #EXTINF:-1 tvg-id="candy" tvg-logo="http://tv.kubtel.ru/tv_icon/candy.jpg" group-title="XXX", XXX: CANDY 185
 http://185.52.77.67:8080/Candy/index.m3u8?token=943082199926
+
+#EXTINF:-1 tvg-id="1121" tvg-logo="http://epg.cdntv.online/img/1121.png" group-title="XXX", XXX: CANDY cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1121.m3u8
 
 #EXTINF:-1 tvg-id="pink-erotic-1.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic1.png" group-title="XXX", XXX: EROTIC 1 maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1293
@@ -143,14 +164,44 @@ http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1484
 #EXTINF:-1 tvg-id="pink-erotic-8.porn" tvg-logo="http://united-balkan.com/logo/pinkerotic8.png" group-title="XXX", XXX: EROTIC 8 maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1485
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROXXX 147
+http://147.78.163.247:8000/play/a021
+
 #EXTINF:-1 tvg-id="EroXXX" tvg-logo="noimage.png" group-title="XXX", XXX: EROXXX maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30917
 
 #EXTINF:-1 tvg-id="(XXX) Platinum" tvg-logo="noimage.png" group-title="XXX", XXX: EVIL ANGEL maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30924
 
+#EXTINF:-1 tvg-id="1126" tvg-logo="http://epg.cdntv.online/img/1126.png" group-title="XXX", XXX: EXTASY cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1126.m3u8
+
+#EXTINF:-1 tvg-id="1127" tvg-logo="http://epg.cdntv.online/img/1127.png" group-title="XXX", XXX: FAP TV 2 cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1127.m3u8
+
+#EXTINF:-1 tvg-id="1128" tvg-logo="http://epg.cdntv.online/img/1128.png" group-title="XXX", XXX: FAP TV 3 cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1128.m3u8
+
+#EXTINF:-1 tvg-id="1129" tvg-logo="http://epg.cdntv.online/img/1129.png" group-title="XXX", XXX: FAP TV 4 cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1129.m3u8
+
+#EXTINF:-1 tvg-id="1135" tvg-logo="http://epg.cdntv.online/img/1135.png" group-title="XXX", XXX: FAP TV BBW cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1135.m3u8
+
+#EXTINF:-1 tvg-id="1134" tvg-logo="http://epg.cdntv.online/img/1134.png" group-title="XXX", XXX: FAP TV COMPILATION cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1134.m3u8
+
+#EXTINF:-1 tvg-id="1130" tvg-logo="http://epg.cdntv.online/img/1130.png" group-title="XXX", XXX: FAP TV PARODY cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1130.m3u8
+
+#EXTINF:-1 tvg-id="1132" tvg-logo="http://epg.cdntv.online/img/1132.png" group-title="XXX", XXX: FAP TV TEENS cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1132.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER 2 194
 http://194.54.183.85:8000/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER 31
+http://31.134.132.245:8080/hustler_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER 78
 http://78.83.191.18:8000/play/a078
@@ -158,11 +209,26 @@ http://78.83.191.18:8000/play/a078
 #EXTINF:-1 tvg-id="hustler-hd" tvg-logo="http://only4.tv/ch/5506.png" group-title="XXX", XXX: HUSTLER 81
 http://81.163.39.156:8384/udp/233.166.172.253:1234
 
+#EXTINF:-1 tvg-id="1116" tvg-logo="http://epg.cdntv.online/img/1116.png" group-title="XXX", XXX: HUSTLER cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1116.m3u8
+
 #EXTINF:-1 tvg-id="Hustler" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER EUROPE maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16045
 
+#EXTINF:-1 tvg-id="1063" tvg-logo="http://epg.cdntv.online/img/1063.png" group-title="XXX", XXX: NUART TV cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1063.m3u8
+
+#EXTINF:-1 tvg-id="725" tvg-logo="http://epg.cdntv.online/img/725.png" group-title="XXX", XXX: O-LA-LA cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/725.m3u8
+
 #EXTINF:-1 tvg-id="(XXX) RedLight" tvg-logo="noimage.png" group-title="XXX", XXX: PASSION XXX maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1291
+
+#EXTINF:-1 tvg-id="1123" tvg-logo="http://epg.cdntv.online/img/1123.png" group-title="XXX", XXX: PENTHOUSE cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1123.m3u8
+
+#EXTINF:-1 tvg-id="1124" tvg-logo="http://epg.cdntv.online/img/1124.png" group-title="XXX", XXX: PENTHOUSE GOLD cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1124.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png" group-title="XXX", XXX: PINK EROTIC 1 91
 http://91.212.150.248:80/PinkErotic1/index.m3u8?utcstart=943082199926&version=2
@@ -188,11 +254,20 @@ http://91.212.150.248:80/PinkErotic7/index.m3u8?utcstart=943082199926&version=2
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink_erotic_8_logo.png" group-title="XXX", XXX: PINK EROTIC 8 91
 http://91.212.150.248:80/PinkErotic8/index.m3u8?utcstart=943082199926&version=2
 
+#EXTINF:-1 tvg-id="1118" tvg-logo="http://epg.cdntv.online/img/1118.png" group-title="XXX", XXX: PRIVATE cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1118.m3u8
+
+#EXTINF:-1 tvg-id="1119" tvg-logo="http://epg.cdntv.online/img/1119.png" group-title="XXX", XXX: REDLIGHT cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1119.m3u8
+
 #EXTINF:-1 tvg-id="(XXX) Cento Cento" tvg-logo="noimage.png" group-title="XXX", XXX: RUSSIAN NIGHTS 2 maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16043
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: RUSSIAN NIGHTS 93
 http://93.189.224.117:9030/russkayanoch?wowzasessionid=944923262064&time=1463063123262
+
+#EXTINF:-1 tvg-id="726" tvg-logo="http://epg.cdntv.online/img/726.png" group-title="XXX", XXX: RUSSIAN NIGHTS cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/726.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SHELK RU 194
 http://194.190.78.91:8080/shelksd/index.m3u8
@@ -200,8 +275,20 @@ http://194.190.78.91:8080/shelksd/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SHELK RU HD 194
 http://194.190.78.91:8080/shelk/index.m3u8
 
+#EXTINF:-1 tvg-id="1122" tvg-logo="http://epg.cdntv.online/img/1122.png" group-title="XXX", XXX: VIVID RED cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1122.m3u8
+
+#EXTINF:-1 tvg-id="1117" tvg-logo="http://epg.cdntv.online/img/1117.png" group-title="XXX", XXX: ОХ-АХ cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/1117.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: РУССКАЯ НОЧЬ 93
+http://93.189.224.117:9030/russkayanoch
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: ШАЛУН 31
 http://31.134.132.245:8080/shalun_hd/mpegts
+
+#EXTINF:-1 tvg-id="727" tvg-logo="http://epg.cdntv.online/img/727.png" group-title="XXX", XXX: ШАЛУН cdntv
+http://s9.cdntv.online/low/3yjbelpc1u/727.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1408009346_1.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .ACTION (1980) Tinto Brass
 http://erozman.com/video-z8b/69.mp4
