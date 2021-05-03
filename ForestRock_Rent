@@ -341,8 +341,8 @@ http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/75466.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", .SPORTPLUS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8cbc2d64844171.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 1 (6-11)
-http://tvmedia2.com:8080/trevor/trevor/166736.ts
+#EXTINF:-1 tvg-id="Star.gr" tvg-logo="https://picon-13398.kxcdn.com/novasports1gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 1 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/26818.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", Nova sport 1 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/26818
@@ -350,8 +350,8 @@ http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/26818
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 1 hdtv1.6
 http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIxACdy9GcTBSY29mT
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 2 (6-11)
-http://tvmedia2.com:8080/trevor/trevor/166737.ts
+#EXTINF:-1 tvg-id="Star.gr" tvg-logo="https://picon-13398.kxcdn.com/novasports2gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 2 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/26819.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", Nova sport 2 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/26819
@@ -359,8 +359,8 @@ http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/26819
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 2 hdtv1.6
 http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIyACdy9GcTBSY29mT
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 3 (6-11)
-http://tvmedia2.com:8080/trevor/trevor/166738.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 3 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/64906.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", Nova sport 3 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/64906
@@ -368,20 +368,20 @@ http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/64906
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 3 hdtv1.6
 http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIzACdy9GcTBSY29mT
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 4 (6-11)
-http://tvmedia2.com:8080/trevor/trevor/166739.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/novasports4gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 4 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/64907.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", Nova sport 4 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/64907
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 5 (6-11)
-http://tvmedia2.com:8080/trevor/trevor/166740.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/novasports5gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 5 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/64908.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", Nova sport 5 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/64908
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", OTE SPORT 1 (6-11)
-http://tvmedia2.com:8080/live/trevor/trevor/166707.ts
+#EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 1 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/18240.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 1 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/18240
@@ -389,8 +389,8 @@ http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/18240
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 1 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b4f0c8c2006198.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", OTE SPORT 2 (6-11)
-http://tvmedia2.com:8080/live/trevor/trevor/166708.ts
+#EXTINF:-1 tvg-id="CosmoteSport2.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport2gr.jpg" group-title="GREEK SPORTS", OTE SPORT 2 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/18241.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 2 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/18241
@@ -398,11 +398,17 @@ http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/18241
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 2 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1c3082a6a76cae9.m3u8
 
+#EXTINF:-1 tvg-id="CosmoteSport3.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport3gr.jpg" group-title="GREEK SPORTS", OTE SPORT 3 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/18242.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 3 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/18242
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 3 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c9abfe327b9456.m3u8
+
+#EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 4 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/22989.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 4 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22989
@@ -410,17 +416,32 @@ http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22989
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 4 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/caaca81d1283180.m3u8
 
+#EXTINF:-1 tvg-id="CosmoteSport5.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 5 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/22990.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 5 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22990
+
+#EXTINF:-1 tvg-id="CosmoteSport6.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 6 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/22991.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 6 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22991
 
+#EXTINF:-1 tvg-id="CosmoteSport7.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 7 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/22992.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 7 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22992
 
+#EXTINF:-1 tvg-id="CosmoteSport8.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 8 (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/22993.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 8 (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22993
+
+#EXTINF:-1 tvg-id="CosmoteSportHighlight.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesporthighlitsgr.jpg" group-title="GREEK SPORTS", OTE SPORT HIGHLIGHTS (6-7-21)
+http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/19577.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE Sport Highlights (8-9-21)
 http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/19577
