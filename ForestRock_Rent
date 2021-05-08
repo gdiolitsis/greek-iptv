@@ -335,116 +335,95 @@ http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/78159.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/GdgekUL.png" group-title="CINEMA", CINE: TV FILIPOLI CINEMA GR
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", . PAO-AEK
+http://maxpanel.xyz:8000/live/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1058.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", . PAO-AEK
+http://maxpanel.xyz:8000/live/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1502.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", . PAOK-ARIS
+http://maxpanel.xyz:8000/live/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1058.ts
+
 #EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", .PAOK TV 1000
 http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/75466.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", .SPORTPLUS
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8cbc2d64844171.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", NOVA SPORT .World 200
+http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/278721.ts
 
-#EXTINF:-1 tvg-id="Star.gr" tvg-logo="https://picon-13398.kxcdn.com/novasports1gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 1 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/26818.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", Nova sport 1 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/26818
+#EXTINF:-1 tvg-id="Star.gr" tvg-logo="https://picon-13398.kxcdn.com/novasports1gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 1 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/26818.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 1 hdtv1.6
 http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIxACdy9GcTBSY29mT
 
-#EXTINF:-1 tvg-id="Star.gr" tvg-logo="https://picon-13398.kxcdn.com/novasports2gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 2 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/26819.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", Nova sport 2 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/26819
+#EXTINF:-1 tvg-id="Star.gr" tvg-logo="https://picon-13398.kxcdn.com/novasports2gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 2 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/26819.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 2 hdtv1.6
 http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIyACdy9GcTBSY29mT
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 3 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/64906.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 3 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/64906.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", Nova sport 3 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/64906
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", NOVA SPORT 3 200
+http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/12846.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 3 hdtv1.6
 http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIzACdy9GcTBSY29mT
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/novasports4gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 4 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/64907.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/novasports4gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 4 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/64907.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", Nova sport 4 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/64907
+#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/novasports5gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 5 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/64908.ts
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/novasports5gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 5 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/64908.ts
+#EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 1 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/18240.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", Nova sport 5 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/64908
-
-#EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 1 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/18240.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 1 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/18240
+#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 1 200
+http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/124.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 1 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b4f0c8c2006198.m3u8
 
-#EXTINF:-1 tvg-id="CosmoteSport2.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport2gr.jpg" group-title="GREEK SPORTS", OTE SPORT 2 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/18241.ts
+#EXTINF:-1 tvg-id="CosmoteSport2.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport2gr.jpg" group-title="GREEK SPORTS", OTE SPORT 2 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/18241.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 2 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/18241
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/430566885d29c04f869d57d83f40599c.png" group-title="GREEK SPORTS", OTE SPORT 2 200
+http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/4268.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 2 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1c3082a6a76cae9.m3u8
 
-#EXTINF:-1 tvg-id="CosmoteSport3.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport3gr.jpg" group-title="GREEK SPORTS", OTE SPORT 3 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/18242.ts
+#EXTINF:-1 tvg-id="CosmoteSport3.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport3gr.jpg" group-title="GREEK SPORTS", OTE SPORT 3 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/18242.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 3 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/18242
+#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 3 200
+http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/4269.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 3 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c9abfe327b9456.m3u8
 
-#EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 4 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/22989.ts
+#EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 4 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/22989.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 4 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22989
+#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 4 200
+http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/125.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 4 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/caaca81d1283180.m3u8
 
-#EXTINF:-1 tvg-id="CosmoteSport5.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 5 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/22990.ts
+#EXTINF:-1 tvg-id="CosmoteSport5.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 5 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/22990.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 5 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22990
+#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 5 200
+http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/4271.ts
 
-#EXTINF:-1 tvg-id="CosmoteSport6.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 6 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/22991.ts
+#EXTINF:-1 tvg-id="CosmoteSport6.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 6 (11-9)
+http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/22991.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 6 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22991
-
-#EXTINF:-1 tvg-id="CosmoteSport7.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 7 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/22992.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 7 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22992
-
-#EXTINF:-1 tvg-id="CosmoteSport8.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 8 (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/22993.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE sport 8 (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/22993
-
-#EXTINF:-1 tvg-id="CosmoteSportHighlight.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesporthighlitsgr.jpg" group-title="GREEK SPORTS", OTE SPORT HIGHLIGHTS (6-7-21)
-http://cloudcdn.tk:80/live/4R8GfRc60/AZ7wZI135/19577.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE Sport Highlights (8-9-21)
-http://cloudcdn.tk:80/2a55LCq956/iIVfr3181/19577
+#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 6 200
+http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/4272.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://136.243.92.93:8080/ant1/mpegts" group-title="HOBBY TV", .DOC: FISHING GREEK gd
 http://136.243.92.93:8080/fishing/mpegts
@@ -1664,11 +1643,17 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 1 internetowa
 http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
 
+#EXTINF:-1 tvg-id="null" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 1 iptv8
+http://iptv8.premium-stv.com:2052//live/sourc@@ebelgiquepro1/557873030/1874.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 2 207
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 2 internetowa
 http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 2 iptv8
+http://iptv8.premium-stv.com:2052//live/sourc@@ebelgiquepro1/557873030/1875.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ERT SPORTS new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Greece/5458678eee4bc91.m3u8
@@ -2002,6 +1987,21 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2e81f7862b0040
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/da/SportKTRK.png" group-title="SPORT CHANNELS", SP: KTRK SPORT
 http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Kujtesa%20Sport%201.png" group-title="SPORT CHANNELS", SP: KUJTESA SPORT 1 93
+http://93.157.62.180/KSport1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Kujtesa%20Sport%202.png" group-title="SPORT CHANNELS", SP: KUJTESA SPORT 2 93
+http://93.157.62.180/KSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Kujtesa%20Sport%203.png" group-title="SPORT CHANNELS", SP: KUJTESA SPORT 3 93
+http://93.157.62.180/KSport3/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Kujtesa%20Sport%204.png" group-title="SPORT CHANNELS", SP: KUJTESA SPORT 4 93
+http://93.157.62.180/KSport4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://moneroiptv.net/logot/ALBANIA/kujtesa5.jpg" group-title="SPORT CHANNELS", SP: KUJTESA SPORT 5 93
+http://46.19.226.132:8000/play/a008
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://ch.heytv.org/wp-content/uploads/2019/03/Kuwait-Sport-TV-2.jpg" group-title="SPORT CHANNELS", SP: KUWAIT ONE
 http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
@@ -2906,6 +2906,18 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b4a828ec90d980
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TRACE SPORT STARS 203
 http://203.154.177.124:8899/live/ch10/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="SPORT CHANNELS", SP: TRING SPORT 1 93
+http://93.157.62.180/TringSport1HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%202%20HD.png" group-title="SPORT CHANNELS", SP: TRING SPORT 2 93
+http://93.157.62.180/TringSport2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%203%20HD.png" group-title="SPORT CHANNELS", SP: TRING SPORT 3 93
+http://93.157.62.180/TringSport3HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://albepg.com/tvlogi/Tring%20Sport%204%20HD.png" group-title="SPORT CHANNELS", SP: TRING SPORT 4 93
+http://93.157.62.180/TringSport4HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TRT 3 SPOR
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
 
@@ -3055,6 +3067,12 @@ http://persik.tv/stream/1258/416064/10249.m3u8
 
 #EXTINF:-1 tvg-id="ViasatSport.se" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Viasatsport.png/200px-Viasatsport.png" group-title="SPORT CHANNELS", SP: VIASAT SPORT persik bup2
 http://persik.by/stream/2944/263250/10249.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="SPORT CHANNELS", SP: VOO SPORT 1 iptv8
+http://iptv8.premium-stv.com:2052//live/sourc@@ebelgiquepro1/557873030/1898.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="SPORT CHANNELS", SP: VOO SPORT 2 iptv8
+http://iptv8.premium-stv.com:2052//live/sourc@@ebelgiquepro1/557873030/1897.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: WHISTLE TV
 https://whistletv-roku-ingest.cinedigm.com/master.m3u8
