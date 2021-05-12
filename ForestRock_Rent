@@ -233,6 +233,9 @@ http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD LATIN 187
 http://187.189.119.135:8000/play/a01d/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD POL mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16411
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD RU 31
 http://31.134.132.245:8080/natgeo_wild_hd/index.m3u8
 
@@ -244,6 +247,12 @@ http://45.94.149.154:8000/play/a04o
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD SPAIN 45
 http://45.170.40.2:8000/play/a020
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD SPAIN mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16644
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD TURK mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25696
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARIES", DOC: NAT GEO WILD TURK zero
 http://zero2.site:8080/zero/zero/23
@@ -275,26 +284,14 @@ http://136.243.92.93:8080/capitalcy/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gGqNDZN.png" group-title="CINEMA", CINE: ERTA LEX TV
 https://vdo.alphaserver.gr:3203/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/GdgekUL.png" group-title="CINEMA", CINE: FILIPOLI TV CINEMA GR
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dwF0jlz.png" group-title="CINEMA", CINE: GALAXY GR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="CINEMA", CINE: GREEK CINEMA
 https://vdo.alphaserver.gr:3613/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="CINEMA", CINE: GREEK CINEMA 1 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/12675.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="CINEMA", CINE: GREEK CINEMA 2 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/12680.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="CINEMA", CINE: GREEK CINEMA 3 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/12678.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="CINEMA", CINE: GREEK CINEMA 4 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/12673.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="CINEMA", CINE: GREEK CINEMA 5 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/12672.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FKJ6N9p.png" group-title="CINEMA", CINE: GREEK CINEMA bitly
 https://bit.ly/3ownRrv
@@ -317,113 +314,80 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-Vz1IwPitM2I/W0fLhsnD0CI/AAAAAAAALyQ/jwEKtFlSPFIXcl6g_rC5E80bau38a_PwQCLcBGAs/s1600/netv-toronto.jpg" group-title="CINEMA", CINE: NETV TORONTO CINEMA GR
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="CINEMA", CINE: NOVA PREMIERE 1 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/78155.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: NOVA CINEMA ACTION hdtv1.6
+http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIu9Wa0NWQgEWbl5WaDBSY29mT
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="CINEMA", CINE: NOVA PREMIERE 2 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/78156.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: NOVA PREMIERE 1 hdtv1.6
+http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIxASZyVWatVmcQBSY29mT
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="CINEMA", CINE: NOVA PREMIERE 3 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/78157.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: NOVA PREMIERE 2 hdtv1.6
+http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIyASZyVWatVmcQBSY29mT
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="CINEMA", CINE: NOVA PREMIERE 4 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/78158.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: NOVA PREMIERE 3 hdtv1.6
+http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIzASZyVWatVmcQBSY29mT
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="CINEMA", CINE: NOVA PREMIERE 5 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/78159.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", CINE: NOVA PREMIERE 4 hdtv1.6
+http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEI0ASZyVWatVmcQBSY29mT
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/GdgekUL.png" group-title="CINEMA", CINE: TV FILIPOLI CINEMA GR
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", . ARIS-PANATHINAIKOS
+https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/vdq85bmg86.m3u8?s=a1odgPgRRdGd2urBLg-5Ew&e=1620853577
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", . PAO-AEK
-http://maxpanel.xyz:8000/live/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1058.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", GR: NOVA SPORT .World (27-5)
+http://iptvstream.xyz:8080/live/12657/00b4743e/278721.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", . PAO-AEK
-http://maxpanel.xyz:8000/live/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1502.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", NOVA SPORT 1 (27-5)
+http://iptvstream.xyz:8080/live/12657/00b4743e/12844.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/SPRTPLUS-logo.png" group-title="GREEK SPORTS", . PAOK-ARIS
-http://maxpanel.xyz:8000/live/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1058.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", .PAOK TV 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/75466.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", NOVA SPORT .World 200
-http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/278721.ts
-
-#EXTINF:-1 tvg-id="Star.gr" tvg-logo="https://picon-13398.kxcdn.com/novasports1gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 1 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/26818.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 1 (9-11)
+http://hd.magiptvserver.com:8080//live/emrahizmir/NlTTtBOpv3/35416.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 1 hdtv1.6
 http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIxACdy9GcTBSY29mT
 
-#EXTINF:-1 tvg-id="Star.gr" tvg-logo="https://picon-13398.kxcdn.com/novasports2gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 2 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/26819.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", NOVA SPORT 2 (27-5)
+http://iptvstream.xyz:8080/live/12657/00b4743e/12845.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 2 hdtv1.6
 http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIyACdy9GcTBSY29mT
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 3 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/64906.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", NOVA SPORT 3 (27-5)
+http://iptvstream.xyz:8080/live/12657/00b4743e/12846.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", NOVA SPORT 3 200
-http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/12846.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", NOVA SPORT 3 (9-11)
+http://hd.magiptvserver.com:8080//live/emrahizmir/NlTTtBOpv3/35418.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", NOVA SPORT 3 hdtv1.6
 http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_SdEIzACdy9GcTBSY29mT
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/novasports4gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 4 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/64907.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 1 (27-5)
+http://iptvstream.xyz:8080/live/12657/00b4743e/124.ts
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/novasports5gr.jpg" group-title="GREEK SPORTS", NOVA SPORT 5 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/64908.ts
-
-#EXTINF:-1 tvg-id="CosmoteSport1.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 1 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/18240.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 1 200
-http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/124.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", OTE SPORT 1 (9-11)
+http://hd.magiptvserver.com:8080//live/emrahizmir/NlTTtBOpv3/35508.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 1 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8b4f0c8c2006198.m3u8
 
-#EXTINF:-1 tvg-id="CosmoteSport2.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport2gr.jpg" group-title="GREEK SPORTS", OTE SPORT 2 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/18241.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/430566885d29c04f869d57d83f40599c.png" group-title="GREEK SPORTS", OTE SPORT 2 (27-5)
+http://iptvstream.xyz:8080/live/12657/00b4743e/4268.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/430566885d29c04f869d57d83f40599c.png" group-title="GREEK SPORTS", OTE SPORT 2 200
-http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/4268.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", OTE SPORT 2 (9-11)
+http://hd.magiptvserver.com:8080//live/emrahizmir/NlTTtBOpv3/35417.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="GREEK SPORTS", OTE SPORT 2 BUP (9-11)
+http://hd.magiptvserver.com:8080//live/emrahizmir/NlTTtBOpv3/35509.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 2 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/1c3082a6a76cae9.m3u8
 
-#EXTINF:-1 tvg-id="CosmoteSport3.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport3gr.jpg" group-title="GREEK SPORTS", OTE SPORT 3 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/18242.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 3 200
-http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/4269.ts
+#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 3 (27-5)
+http://iptvstream.xyz:8080/live/12657/00b4743e/4269.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 3 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c9abfe327b9456.m3u8
 
-#EXTINF:-1 tvg-id="CosmoteSport4.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 4 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/22989.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 4 200
-http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/125.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK SPORTS", OTE SPORT 4 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/caaca81d1283180.m3u8
-
-#EXTINF:-1 tvg-id="CosmoteSport5.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 5 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/22990.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 5 200
-http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/4271.ts
-
-#EXTINF:-1 tvg-id="CosmoteSport6.gr" tvg-logo="https://picon-13398.kxcdn.com/cosmotesport1gr.jpg" group-title="GREEK SPORTS", OTE SPORT 6 (11-9)
-http://cloudcdn.tk:80//live/X6aHeGYRW1O9372/6j6tyc1880/22991.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="GREEK SPORTS", OTE SPORT 6 200
-http://hotiptv.site:8080/live/zkby2013/1d469e6d9e42/4272.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://136.243.92.93:8080/ant1/mpegts" group-title="HOBBY TV", .DOC: FISHING GREEK gd
 http://136.243.92.93:8080/fishing/mpegts
@@ -533,6 +497,9 @@ http://212.66.60.4:8000/play/a034
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: FIGHT CLASSIC TVS BOXING
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 
+#EXTINF:-1 tvg-id="0022" tvg-logo="http://cdnups.cf:4000/icons/60.png" group-title="HOBBY TV", SP: FIGHT COMBAT vseotv
+http://cdnups.cf:3000/vseotv.ru/vseotv.ru/60
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="HOBBY TV", SP: FIGHT HARD KNOCKS
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 
@@ -580,6 +547,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: FIGHT WWE NETWORK new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e57c9beb56b81af.m3u8
+
+#EXTINF:-1 tvg-id="0023" tvg-logo="http://cdnups.cf:4000/icons/55.png" group-title="HOBBY TV", SP: FIGHT WWE vseotv
+http://cdnups.cf:3000/vseotv.ru/vseotv.ru/55
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://fighting.fr/wp-content/uploads/2019/11/fs-fb.jpg" group-title="HOBBY TV", SP: FIGHTING SPIRIT
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
@@ -638,11 +608,17 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/02/T.A.Y._TV_logosu.png" group-title="HOBBY TV", SP: HORSE TAY TV TURK
 http://media.netd.com.tr/S1/HLS_LIVE/tay/1000/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: MOTO FORMULA 1 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16669
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: MOTO FORMULA 1 SKY 45
 http://45.249.9.21:11011
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: MOTO FORMULA 1 us1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: MOTO GP mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16655
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.giniko.com/logos/190x110/1023.png" group-title="HOBBY TV", SP: MOTO RALLY SHOW tinyurl
 https://tinyurl.com/ydh7zxhl/giniko_rallyshow_900kb_36bay2/index.m3u8?|User-agent=deooleg
@@ -707,14 +683,17 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: TENNIS livedoomovies
 https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: TOROS 45
-http://45.94.149.154:8000/play/a05a
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.giniko.com/logos/190x110/1015.jpg" group-title="HOBBY TV", SP: TOROS BULLS giniko
 https://bozztv.com/36bay2/gin/giniko_torosbulls_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: TOROS TV 188
 http://188.35.9.11:21151/udp/208a
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: TOROS TV 45
+http://45.94.149.154:8000/play/a05a
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: TOROS TV mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/32885
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.caesars.com/content/cet-global/caesars-com/myrewards/partners/world-series-of-poker/_jcr_content/root_content/cetcontainer/cet-container-content/cetlistitem/image.stdimg.hd.m.jpg/1580158487706.jpg" group-title="HOBBY TV", SP: WORLD POKER
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
@@ -752,14 +731,26 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logopond.com/logos/25a3d73fca7b79587b5e3881de6418c4.png" group-title="FUNNY TV", WIPE OUT PAIXNIDI
 https://endemol-wipeoutxtra-1.samsung.wurl.com/manifest/3000.m3u8?|User-agent=smartlabs
 
-#EXTINF:-1 tvg-id="Baby TV GR" tvg-logo="http://195.154.221.171/picons/babytv.png" group-title="PAIDIKA (KIDS)", .KIDS: BABY TV GR 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/5850.ts
+#EXTINF:-1 tvg-id="DuckTV.it" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="PAIDIKA (KIDS)", .KIDS: BABY DUCK TV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: BABY TV GR 51
+#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="PAIDIKA (KIDS)", .KIDS: BABY FIRST livecdn
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="baby tv" tvg-logo="http://195.154.221.171/picons/babytv.png" group-title="PAIDIKA (KIDS)", .KIDS: BABY TV ENG us1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://195.154.221.171/picons/babytv.png" group-title="PAIDIKA (KIDS)", .KIDS: BABY TV GR 51
 http://51.210.33.225:8080/BABY_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.yarinhaber.net/assets/uploads/content/979fa385-4c6b-4292-8778-364b19c98583.png" group-title="PAIDIKA (KIDS)", .KIDS: BABY TV ZAROK
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.frostclick.com/wp/wp-content/uploads/2009/01/bigbuckbunny200x200.jpg" group-title="PAIDIKA (KIDS)", .KIDS: BIG BUCK BUNNY wowza
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0047" tvg-logo="http://cdnups.cf:4000/icons/46.png" group-title="PAIDIKA (KIDS)", .KIDS: BOMBA vseotv
+http://cdnups.cf:3000/vseotv.ru/vseotv.ru/46
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://136.243.92.93:8080/ant1/mpegts" group-title="PAIDIKA (KIDS)", .KIDS: BOOMERANG GR gd
 http://136.243.92.93:8080/boomerang/mpegts
@@ -785,17 +776,17 @@ http://136.243.92.93:2305/disneyxd/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="PAIDIKA (KIDS)", .KIDS: KIDS TV GR
 http://wpso.com:1936/hls/kidshd.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.giniko.com/logos/190x110/1090.png" group-title="PAIDIKA (KIDS)", .KIDS: MASHA & MEDVED giniko
-https://gintna100.tulix.tv/gin_live/mashaimedved/d304bc70f8de709deff2b5d9126fea34/6045073f/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.giniko.com/logos/190x110/1090.png" group-title="PAIDIKA (KIDS)", .KIDS: MASHA & MEDVED vseotv
+http://cdnups.cf:3000/vseotv.ru/vseotv.ru/40
+
+#EXTINF:-1 tvg-id="0031" tvg-logo="http://cdnups.cf:4000/icons/8.png" group-title="PAIDIKA (KIDS)", .KIDS: MISTER BIN vseotv
+http://cdnups.cf:3000/vseotv.ru/vseotv.ru/8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/bUzVNaUZc6E/maxresdefault.jpg" group-title="PAIDIKA (KIDS)", .KIDS: NICKELODEON GR 31
 http://31.177.62.174:8002/play/s60
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: NICKELODEON PLUS+ GR 188
 http://188.117.199.195:9980/play/a01m/index.m3u8
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="PAIDIKA (KIDS)", .kids: PEPPA PIG GR 1000
-http://portal.geniptv.com:8080/live/gTex2021_new/feew3erw3ref3AZA/12667.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", .KIDS: PINK PANTHER 176
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/95.ts
@@ -1130,21 +1121,6 @@ http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", 99 cерия
 http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.11.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
 
-#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="PAIDIKA (KIDS)", KIDS: BABY FIRST livecdn
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", KIDS: BABY FIRST livecdn
-https://livecdn.fptplay.net/qnetlive/babyfirst_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="baby tv" tvg-logo="noimage.png" group-title="PAIDIKA (KIDS)", KIDS: BABY TV ENG us1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.yarinhaber.net/assets/uploads/content/979fa385-4c6b-4292-8778-364b19c98583.png" group-title="PAIDIKA (KIDS)", KIDS: BABY TV ZAROK
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
-
-#EXTINF:-1 tvg-id="DuckTV.it" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="PAIDIKA (KIDS)", KIDS: DUCK TV
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: 1 SPORTS new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0b1945459e6e2f3.m3u8
 
@@ -1153,6 +1129,9 @@ http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: A SPOR 149
 http://149.255.152.66:8080/asporhd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: A SPOR mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25695
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="SPORT CHANNELS", SP: ABU DHABI SPORTS 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
@@ -1331,6 +1310,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8907c27630df2d
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 FRANCE new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fea377d96f202bc.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 TURK mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25741
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 01 TURK new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/34d756fd89e735c.m3u8?checkedby:hlscat.com
 
@@ -1360,6 +1342,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/8c8fa23237e182
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 02 FRANCE new bup
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0b9aca20299f6c3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 02 TURK mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25740
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 02 TURK new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/11afe2d943098df.m3u8?checkedby:hlscat.com
@@ -1391,6 +1376,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/9c429868464391
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 03 PREMIUM new bup
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fdf644197a97dd6.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 03 TURK mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25739
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 03 TURK new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/334261d8ed50e1a.m3u8?checkedby:hlscat.com
 
@@ -1399,6 +1387,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/4796fa5bcddf4b
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 04 ARAB new bup
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cb8e0c630331c99.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 04 TURK mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25738
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: BEIN SPORTS 05 ARAB new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/594192a366a92a2.ts|User-Agent=1m3u8
@@ -1646,6 +1637,9 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf3
 #EXTINF:-1 tvg-id="null" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 1 iptv8
 http://iptv8.premium-stv.com:2052//live/sourc@@ebelgiquepro1/557873030/1874.ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 1 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/18144
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 2 207
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
@@ -1654,6 +1648,21 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=04930f46ae574effac95f6edf
 
 #EXTINF:-1 tvg-id="null" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 2 iptv8
 http://iptv8.premium-stv.com:2052//live/sourc@@ebelgiquepro1/557873030/1875.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 2 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/18145
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 3 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/18146
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 4 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/18147
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 5 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/18148
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ELEVEN SPORTS 6 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/18149
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ERT SPORTS new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Greece/5458678eee4bc91.m3u8
@@ -1940,6 +1949,9 @@ http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_slen
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: GOL TV 45
 http://45.94.149.154:8000/play/a044
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: GOL TV mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16664
+
 #EXTINF:-1 tvg-id="goltv esp" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: GOL TV us1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 
@@ -1954,6 +1966,9 @@ http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://livesportsss.com/wp-content/uploads/2018/06/Inter-Live-Stream.jpg" group-title="SPORT CHANNELS", SP: INTER UKRAINE
 http://edge2.iptv.macc.com.ua/img/inter_3/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: IRAQIA SPORT mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/62
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="SPORT CHANNELS", SP: ITV 1
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
@@ -2195,14 +2210,26 @@ http://45.94.149.154:8000/play/a04c
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MOVISTAR CAMPEONES 2 45
 http://45.94.149.154:8000/play/a04d
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MOVISTAR DEPORTES 1 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16652
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MOVISTAR DEPORTES 2 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16651
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MOVISTAR DEPORTES 45
 http://45.94.149.154:8000/play/a058
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MOVISTAR DEPORTES PLUS+ 45
 http://45.94.149.154:8000/play/a06l
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MOVISTAR LA LIGA BUP mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16658
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MOVISTAR LA LIGA matias
 http://matiasstornini00.shortcm.li:80/shio1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MOVISTAR LA LIGA mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16694
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MOVISTAR LALIGA 1 45
 http://45.94.149.154:8000/play/a04u
@@ -2228,6 +2255,12 @@ https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: MUTV new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cc5cc0bd95133bc.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: NBA BUP mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/32862
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: NBA mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/32858
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: NBA TRUE VISION livedoomovie
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
@@ -2248,6 +2281,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/ff43a2f1625514
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: NFL NETWORK new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/84314b9f137fb89.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: NILE SPORT mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/139
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: NOVA SPORT 1 CZECH
 http://82.197.212.210:8000/play/a12p/index.m3u8
@@ -2272,6 +2308,12 @@ http://212.112.101.69:8081/stream39/output.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/OwaJr1I.png" group-title="SPORT CHANNELS", SP: OMAN SPORT
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: OMAN SPORT mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/1550
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ON SPORT mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/951
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: ONE SPORTS 103
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
@@ -2414,6 +2456,9 @@ http://195.158.29.129/live_360/live.stream+_360p.m3u8?checkedby
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SEVILLA FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SHARJAH SPORT mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/879
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="SPORT CHANNELS", SP: SHARJAH SPORTS
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 
@@ -2521,6 +2566,9 @@ https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="SPORT CHANNELS", SP: SKYNET SPORTS HD livedoomovie
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SMART SPOR 1 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/24288
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/473afd_31dffe67ce9f4042b80d2ed68d0fe42b~mv2.jpg/v1/fit/w_2500,h_1330,al_c/473afd_31dffe67ce9f4042b80d2ed68d0fe42b~mv2.jpg" group-title="SPORT CHANNELS", SP: SMASH SPORTS
 http://s3.smashmalta.com:82/live/smash/smash/17.ts
@@ -2696,6 +2744,9 @@ http://b2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.thesportsdb.com/images/media/logo/sqxxtw1470409111.png" group-title="SPORT CHANNELS", SP: SPORT TV 1 livedoomovie
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 1 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16432
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 1 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/5205c7b916108f9.m3u8
 
@@ -2704,6 +2755,9 @@ https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png" group-title="SPORT CHANNELS", SP: SPORT TV 2 livedoomovie
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 2 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16433
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 2 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b34a752e6302c4b.m3u8
@@ -2720,6 +2774,9 @@ https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="SPORT CHANNELS", SP: SPORT TV 3 livedoomovie
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 3 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16434
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 3 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/67f9ab7537be842.m3u8
 
@@ -2732,6 +2789,9 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.thesportsdb.com/images/media/logo/vuytwx1470409983.png" group-title="SPORT CHANNELS", SP: SPORT TV 4 livedoomovie
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 4 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16435
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 4 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/d73a83c60dd69f3.m3u8
 
@@ -2741,8 +2801,17 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.thesportsdb.com/images/media/logo/uvpqvr1470410094.png" group-title="SPORT CHANNELS", SP: SPORT TV 5 livedoomovie
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 5 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16436
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV 5 new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6565668c520548c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORT TV PLUS+ mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16437
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORTING TV mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/16438
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SPORTS TV TURK
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -2776,6 +2845,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/890bd53d39f3ff
 
 #EXTINF:-1 tvg-id="start" tvg-logo="http://only4.tv/ch/6261.png" group-title="SPORT CHANNELS", SP: START RU 31
 http://31.134.132.245:8080/start_hd/tracks-v1a1/mono.m3u8?media=943082199926
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SUDAN SPORT mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/1516
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: SUPER SPORT 1 ALB new
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2ac9f2cea112245.m3u8
@@ -2882,6 +2954,12 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/3b1357bd20ac4e
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TIVIBU SPOR 1
 http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TIVIBU SPOR 1 mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31931
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TIVIBU SPOR 2 mine 2
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31930
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/d8/27/c3/d827c37b-f76a-a441-11ca-6eb77e0787f8/source/512x512bb.jpg" group-title="SPORT CHANNELS", SP: TMZ SPORTS USA
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 
@@ -2920,6 +2998,9 @@ http://93.157.62.180/TringSport4HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TRT 3 SPOR
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TRT SPOR mine
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25718
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT CHANNELS", SP: TRUE PREMIER 1 77
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
