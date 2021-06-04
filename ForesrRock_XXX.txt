@@ -68,50 +68,20 @@ http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.assfilled.com/img/logo_small.png" group-title="XXX", XXX: .ANAL BIG ASS - redtraffic
 http://live.redtraffic.xyz/bigass.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/tushy.jpg" group-title="XXX", XXX: .ANAL TUSHY 85
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/39812.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/blacked.jpg" group-title="XXX", XXX: .BLACKED X1 85
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/39810.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/blacked.jpg" group-title="XXX", XXX: .BLACKED X2 85
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/39811.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY - RedTraffic
 http://cdn.adultiptv.net/gay.m3u8
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/fastboyzus.jpg" group-title="XXX", XXX: .GAY FAST BOYZ 85
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/28886.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .GAY MAN 2 MAN filmon
 http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XMO.nl" tvg-logo="https://picon-13398.kxcdn.com/xmonl.jpg" group-title="XXX", XXX: .GAY X-MO 85
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/28887.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/japanhdv.jpg" group-title="XXX", XXX: .JAPAN ANAL 85
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/37954.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/japanhdv.jpg" group-title="XXX", XXX: .JAPAN CREAMPIE 85
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/37947.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/japanhdv.jpg" group-title="XXX", XXX: .JAPAN GROUP 85
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/37945.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .JAPAN PORN 1
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist_w1222185240.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .JAPAN PORN 1 BUP
-https://cdn1.ibizastream.biz:441/free/Stream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Fap tv lesbian" tvg-logo="noimage.png" group-title="XXX", XXX: .LESBIAN FAP TV xprime
 http://iptv.xprime.one/188/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS - RedTraffic
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/tabooit.jpg" group-title="XXX", XXX: .TABOO 85
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/15877.ts
 
 #EXTINF:-1 tvg-id="Taboo" tvg-logo="noimage.png" group-title="XXX", XXX: .TABOO xprime
 http://iptv.xprime.one/185/mono.m3u8
@@ -134,9 +104,6 @@ http://iptv.xprime.one/181/mono.m3u8
 #EXTINF:-1 tvg-id="(XXX) BabesTV" tvg-logo="noimage.png" group-title="XXX", XXX: BABES maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/6260
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BABESTATION 24 LIVE
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-
 #EXTINF:-1 tvg-id="(XXX) Balkan Erotic" tvg-logo="noimage.png" group-title="XXX", XXX: BALKAN EROTIC 2 maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16046
 
@@ -152,6 +119,9 @@ http://194.54.183.85:8000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="(XXX) BangB" tvg-logo="noimage.png" group-title="XXX", XXX: BANG U maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30923
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BARELY LEGAL 85
+http://85.143.191.135/243/stream.m3u8
+
 #EXTINF:-1 tvg-id="Barely Legal" tvg-logo="noimage.png" group-title="XXX", XXX: BARELY LEGAL xprime
 http://iptv.xprime.one/157/mono.m3u8
 
@@ -166,6 +136,9 @@ http://91.204.234.3:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BLUE HUSTER udp
 http://213.91.128.190:8888/udp/238.194.7.3:5501
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BLUE HUSTLER 85
+http://85.143.191.135/544/stream.m3u8
 
 #EXTINF:-1 tvg-id="Blue Hustler TV" tvg-logo="noimage.png" group-title="XXX", XXX: BLUE HUSTLER xprime
 http://iptv.xprime.one/151/mono.m3u8
@@ -227,8 +200,8 @@ http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROTIC SENSATIONS 3 filmon
 http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROXXX 147
-http://147.78.163.247:8000/play/a021
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: EROX 85
+http://85.143.191.135/1009/stream.m3u8
 
 #EXTINF:-1 tvg-id="EroXXX" tvg-logo="noimage.png" group-title="XXX", XXX: EROXXX maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30917
@@ -239,12 +212,6 @@ http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30924
 #EXTINF:-1 tvg-id="EXTASY 4K" tvg-logo="noimage.png" group-title="XXX", XXX: EXTASY 4K xprime
 http://iptv.xprime.one/182/mono.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/femalefaketaxi.jpg" group-title="XXX", XXX: FAKE AGENT 82
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/25851.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://picon-13398.kxcdn.com/faketaxi.jpg" group-title="XXX", XXX: FAKE TAXI 82
-http://85.203.33.88:80/live/pUcmUPE360/rkAQBd5081/60029.ts
-
 #EXTINF:-1 tvg-id="Fake Taxi HD" tvg-logo="noimage.png" group-title="XXX", XXX: FAKE TAXI xprime
 http://iptv.xprime.one/171/mono.m3u8
 
@@ -253,9 +220,6 @@ http://iptv.xprime.one/187/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: FRENCH LOVER 91
 http://91.204.234.3:8000/play/a00j/index.m3u8
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="XXX", XXX: FRENCH LOVER smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/38615.ts
 
 #EXTINF:-1 tvg-id="HotClub" tvg-logo="noimage.png" group-title="XXX", XXX: HOT CLUB xprime
 http://iptv.xprime.one/178/mono.m3u8
@@ -275,17 +239,23 @@ http://iptv.xprime.one/153/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER udp
 http://213.91.128.190:8888/udp/238.194.7.2:5501
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="XXX", XXX: NUART smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/38612.ts
+#EXTINF:-1 tvg-id="ExtasyTVHD.cz" tvg-logo="noimage.png" group-title="XXX", XXX: LEO-EXTASY 213
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.it999.ru/img/2527.png" group-title="XXX", XXX: O-LA-LA 193
 http://193.33.240.8:8080/o-la-la/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: O-LA-LA 85
+http://85.143.191.135/281/stream.m3u8
 
 #EXTINF:-1 tvg-id="O-La-La" tvg-logo="noimage.png" group-title="XXX", XXX: O-LA-LA xprime
 http://iptv.xprime.one/155/mono.m3u8
 
 #EXTINF:-1 tvg-id="(XXX) RedLight" tvg-logo="noimage.png" group-title="XXX", XXX: PASSION XXX maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1291
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE GOLD 82
+http://82.197.212.210:8000/play/a10y/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE GOLD 82
 http://82.197.212.210:8000/play/a10y
@@ -297,40 +267,22 @@ http://iptv.xprime.one/161/mono.m3u8
 http://iptv.xprime.one/160/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE QUICKIES 82
+http://82.197.212.210:8000/play/a110/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE QUICKIES 82
 http://82.197.212.210:8000/play/a110
 
 #EXTINF:-1 tvg-id="Penthouse Quickers" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE QUICKIES xprime
 http://iptv.xprime.one/169/mono.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/erotic-logo.png" group-title="XXX", XXX: PINK EROTIC 1 smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/37946.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/erotic2-logo.png" group-title="XXX", XXX: PINK EROTIC 2 91
 http://91.212.150.248:80/PinkErotic2/index.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/erotic2-logo.png" group-title="XXX", XXX: PINK EROTIC 2 smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/37948.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/erotic4.png" group-title="XXX", XXX: PINK EROTIC 4 smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/37949.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink_erotic_5_logo.png" group-title="XXX", XXX: PINK EROTIC 5 smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/37950.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink_erotic_6_logo.png" group-title="XXX", XXX: PINK EROTIC 6 smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/37951.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink_erotic_7_logo.png" group-title="XXX", XXX: PINK EROTIC 7 smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/37952.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/pink_erotic_8_logo.png" group-title="XXX", XXX: PINK EROTIC 8 smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/37953.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="XXX", XXX: PINKO CLUB smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/38618.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PLAY BOY BLACK 212
 http://212.42.193.122:8888/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PLAY BOY BLACK 85
+http://85.143.191.135/230/stream.m3u8
 
 #EXTINF:-1 tvg-id="Playboy" tvg-logo="noimage.png" group-title="XXX", XXX: PLAY BOY BLACK xprime
 http://iptv.xprime.one/152/mono.m3u8
@@ -343,9 +295,6 @@ http://iptv.xprime.one/162/mono.m3u8
 
 #EXTINF:-1 tvg-id="Reality Kings TV" tvg-logo="noimage.png" group-title="XXX", XXX: REALITY KINGS xprime
 http://iptv.xprime.one/177/mono.m3u8
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="XXX", XXX: RED XXX smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/38622.ts
 
 #EXTINF:-1 tvg-id="XXX RED" tvg-logo="noimage.png" group-title="XXX", XXX: RED XXX xprime
 http://iptv.xprime.one/172/mono.m3u8
@@ -374,14 +323,8 @@ http://185.96.176.139:8080/superone/index.m3u8
 #EXTINF:-1 tvg-id="Super One HD" tvg-logo="noimage.png" group-title="XXX", XXX: SUPER ONE xprime
 http://iptv.xprime.one/173/mono.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="XXX", XXX: TEAM SKEET smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/37905.ts
-
 #EXTINF:-1 tvg-id="Vivid Red" tvg-logo="noimage.png" group-title="XXX", XXX: VIVID RED xprime
 http://iptv.xprime.one/163/mono.m3u8
-
-#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="XXX", XXX: VIXEN smarttv
-http://smarttv.life:2086/live/Telegram2323/whiNrtrEiY/37967.ts
 
 #EXTINF:-1 tvg-id="XXL" tvg-logo="noimage.png" group-title="XXX", XXX: XXL xprime
 http://iptv.xprime.one/183/mono.m3u8
@@ -403,6 +346,9 @@ http://93.189.224.117:9030/russkayanoch
 
 #EXTINF:-1 tvg-id="Русская Ночь" tvg-logo="noimage.png" group-title="XXX", XXX: РУССКАЯ НОЧЬ xprime
 http://iptv.xprime.one/150/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: ШАЛУН 85
+http://85.143.191.135/1613/stream.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://erozman.com/uploads/posts/2014-08/1408009346_1.jpg" group-title="XXX RETRO PORNO CINEMA (HA HA)", .ACTION (1980) Tinto Brass
 http://erozman.com/video-z8b/69.mp4
