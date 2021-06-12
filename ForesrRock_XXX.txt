@@ -68,14 +68,26 @@ http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.assfilled.com/img/logo_small.png" group-title="XXX", XXX: .ANAL BIG ASS - redtraffic
 http://live.redtraffic.xyz/bigass.m3u8
 
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: .EU Cinema BDSM watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/139083.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: .EU Cinema BISEXUAL watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/139084.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY - RedTraffic
 http://cdn.adultiptv.net/gay.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .GAY MAN 2 MAN filmon
 http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
 
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: .GAYS EU Cinema watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/139085.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: .JAPAN PORN 1
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist_w1222185240.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: .LESBIAN EU Cinema watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/139086.ts
 
 #EXTINF:-1 tvg-id="Fap tv lesbian" tvg-logo="noimage.png" group-title="XXX", XXX: .LESBIAN FAP TV xprime
 http://iptv.xprime.one/188/mono.m3u8
@@ -85,6 +97,9 @@ http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
 
 #EXTINF:-1 tvg-id="Taboo" tvg-logo="noimage.png" group-title="XXX", XXX: .TABOO xprime
 http://iptv.xprime.one/185/mono.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: .TRANSEXUAL EU Cinema watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/139089.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANSEXUAL TV 1
 https://www.ast.tv/stream/1/cellular.m3u8
@@ -109,12 +124,6 @@ http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16046
 
 #EXTINF:-1 tvg-id="Balkan Erotic" tvg-logo="noimage.png" group-title="XXX", XXX: BALKAN EROTIC xprime
 http://iptv.xprime.one/186/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BALKAN HOT 194
-http://194.54.183.85:8000/play/a03m/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: BALKAN HOT 2 194
-http://194.54.183.85:8000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="(XXX) BangB" tvg-logo="noimage.png" group-title="XXX", XXX: BANG U maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30923
@@ -151,12 +160,6 @@ http://213.91.128.190:8888/udp/238.194.7.5:5501
 
 #EXTINF:-1 tvg-id="Brazzers TV Europe" tvg-logo="noimage.png" group-title="XXX", XXX: BRAZZERS TV EUROPE xprime
 http://iptv.xprime.one/156/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: CANDY 91
-http://91.204.234.3:8000/play/a00m/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: CANDY MAN 91
-http://91.204.234.3:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="Czech streets HD" tvg-logo="noimage.png" group-title="XXX", XXX: CZECH STREETS xprime
 http://iptv.xprime.one/184/mono.m3u8
@@ -206,6 +209,36 @@ http://85.143.191.135/1009/stream.m3u8
 #EXTINF:-1 tvg-id="EroXXX" tvg-logo="noimage.png" group-title="XXX", XXX: EROXXX maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30917
 
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: EU Cinema ADULTS 1 watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/131470.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: EU Cinema ADULTS 2 watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/131471.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: EU Cinema ADULTS 3 watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/131472.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: EU Cinema ADULTS 4 watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/131473.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: EU Cinema ADULTS 5 watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/131474.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: EU Cinema DEFLORATION 1 watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/139091.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: EU Cinema DEFLORATION 2 watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/139092.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: EU Cinema MILF watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/139087.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: EU Cinema PRIVAT watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/139088.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://epg.localconectivity.net/LOGO/GERMANYFULL/EU%20Cinema%20LOGO.png" group-title="XXX", XXX: EU Cinema TEEN watch
+http://watch.4kbest.com:80//live/smarttvrambosalon/b0pkLJQXUn/139090.ts
+
 #EXTINF:-1 tvg-id="(XXX) Platinum" tvg-logo="noimage.png" group-title="XXX", XXX: EVIL ANGEL maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/30924
 
@@ -223,9 +256,6 @@ http://91.204.234.3:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="HotClub" tvg-logo="noimage.png" group-title="XXX", XXX: HOT CLUB xprime
 http://iptv.xprime.one/178/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: HUSTLER 2 194
-http://194.54.183.85:8000/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-id="hustler-hd" tvg-logo="http://only4.tv/ch/5506.png" group-title="XXX", XXX: HUSTLER 81
 http://81.163.39.156:8384/udp/233.166.172.253:1234
@@ -254,23 +284,11 @@ http://iptv.xprime.one/155/mono.m3u8
 #EXTINF:-1 tvg-id="(XXX) RedLight" tvg-logo="noimage.png" group-title="XXX", XXX: PASSION XXX maxpanel
 http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/1291
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE GOLD 82
-http://82.197.212.210:8000/play/a10y/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE GOLD 82
-http://82.197.212.210:8000/play/a10y
-
 #EXTINF:-1 tvg-id="Penthouse Gold HD" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE GOLD xprime
 http://iptv.xprime.one/161/mono.m3u8
 
 #EXTINF:-1 tvg-id="Penthouse HD" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE PASSION xprime
 http://iptv.xprime.one/160/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE QUICKIES 82
-http://82.197.212.210:8000/play/a110/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE QUICKIES 82
-http://82.197.212.210:8000/play/a110
 
 #EXTINF:-1 tvg-id="Penthouse Quickers" tvg-logo="noimage.png" group-title="XXX", XXX: PENTHOUSE QUICKIES xprime
 http://iptv.xprime.one/169/mono.m3u8
@@ -307,15 +325,6 @@ http://maxpanel.xyz:8000/tempotransport@sbcglobal.net/k44::kDx5BKfO2/16043
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: RUSSIAN NIGHTS 93
 http://93.189.224.117:9030/russkayanoch?wowzasessionid=944923262064&time=1463063123262
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SHELK RU 194
-http://194.190.78.91:8080/shelksd/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SHELK RU BUP
-http://live-1.otcnet.ru/shelksd/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SHELK RU HD 194
-http://194.190.78.91:8080/shelk/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="XXX", XXX: SUPER ONE 185
 http://185.96.176.139:8080/superone/index.m3u8
