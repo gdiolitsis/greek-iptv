@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: .SIRINA FILMAX ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/13497.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://evandavis.org/wp-content/uploads/2013/05/YouPorn.jpg" group-title="XXX", .XXX: .YouPorn 24HD
 http://iptvnation.com/porn/video.mp4
 
@@ -101,12 +98,6 @@ http://s9.cdntv.online/low/ta3c47fh58/1131.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--7Q-DLPav--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575890952/production/designs/7114162_0.jpg" group-title="XXX", XXX: .ANAL FREE X TV 91.204
 http://91.204.234.3:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--7Q-DLPav--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575890952/production/designs/7114162_0.jpg" group-title="XXX", XXX: .ANAL TUSHY RAW ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/22644.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: .BLACKED ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/2550.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY - RedTraffic
 http://live.redtraffic.xyz/gay.m3u8
 
@@ -119,13 +110,7 @@ https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist_w1222185240.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS - RedTraffic
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: .TEEN COLLEGE GIRLS  ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/2552.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: .TEENS LOVE HUGE COCKS ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/22643.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANS FETISH filmon
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANS & FETISH filmon
 http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANSEXUAL TV 1
@@ -137,7 +122,7 @@ https://www.ast.tv/stream/2/cellular.m3u8
 #EXTINF:-1 tvg-id="723" tvg-logo="http://epg.cdntv.online/img/723.png" group-title="XXX", XXX: BABES TV s9
 http://cdntv.online/low/ta3c47fh58/723.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST PORN 1 51
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/proxy/_t3rw32oexoiRxT2pOSB9lhSlbqXI2Ojinhl2OGVJMJ7uYTM8ByCG4B5296bvqu_PtbESpuL22Io-wJvUdDrJbBeKTPMxq-fQ-vHWlsTA7jFS59dFrtlml8" group-title="XXX", XXX: BEST PORN 1 51
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST PORN 2 51
@@ -146,32 +131,11 @@ http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST PORN 3 royal
 http://royal-cdn.eu:8080//live/RestreamTorbaXXX/mQFt54yf/20401.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST PORN 4 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/22638.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST PORN 5 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/15496.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST PORN 6 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/15495.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST PORN 7 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/15489.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST PORN 8 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/4797.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST PORN 9 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/15481.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST SENSATIONS 1 filmon
-http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/488094288115294208/0gb7l_HV.jpeg" group-title="XXX", XXX: BEST SENSATIONS 2 filmon
 http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: BLUE HUSTLER 91
-http://91.218.211.8:8080/play/100l
+#EXTINF:-1 tvg-id="Blue Hustler TV" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: BLUE HUSTLER monster
+http://cn02.iptv.monster/play/107/74F5EB24725C911/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.logolynx.com/images/logolynx/2c/2c9f72adb8057d9acd99c4d2e4e49e26.png" group-title="XXX", XXX: BOOM XXX 1 royal
 http://royal-cdn.eu:8080//live/RestreamTorbaXXX/mQFt54yf/41274.ts
@@ -200,8 +164,8 @@ http://royal-cdn.eu:8080//live/RestreamTorbaXXX/mQFt54yf/41276.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.logolynx.com/images/logolynx/2c/2c9f72adb8057d9acd99c4d2e4e49e26.png" group-title="XXX", XXX: BOOM XXX 9 royal
 http://royal-cdn.eu:8080//live/RestreamTorbaXXX/mQFt54yf/41275.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: BRAZZERS EUROPE 91
-http://91.218.211.8:8080/play/1001
+#EXTINF:-1 tvg-id="Brazzers TV Europe" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: BRAZZERS EUROPE monster
+http://cn02.iptv.monster/play/76/74F5EB24725C911/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://okteve.com/wp-content/uploads/media/07e2ff5e9362d95b22e79db7561de6cb-365x235.jpeg" group-title="XXX", XXX: CANDY 91.204
 http://91.204.234.3:8000/play/a00m/index.m3u8
@@ -209,20 +173,11 @@ http://91.204.234.3:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/proxy/fkik2stjlusPxLsEol3YLg9ICysD8aQ57mHK3B9aPriH2LcjBjZmeqQEM7TOMgwFoZy1ip_gzynZ1UnI8J8x0F4Cv_WFQioAJOltDUegrg6ljtfCLm-emKcZihVyo-28yInS_4qQkpU" group-title="XXX", XXX: CANDYMAN 91.204
 http://91.204.234.3:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: DORCEL 176
-http://176.67.217.36:9099/play/DorcelHD
+#EXTINF:-1 tvg-id="Passion XXX" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: DORCEL monster
+http://cn02.iptv.monster/play/596/74F5EB24725C911/video.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: DORCEL 46
-http://46.150.192.58/play/61
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: DORCEL 91
-http://91.218.211.8:8080/play/3051
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: DORCEL XXX 176
-http://176.67.217.36:9099/play/DorcelXXX
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: DTF SLUTS ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/22640.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iptvxpix.ml/dorcel.png" group-title="XXX", XXX: DORCEL rts
+http://rts.ninaplay.com:8000/robis_mag_5/gknhhWhJHh/14129
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Pink_Erotic.png/revision/latest?cb=20210318150833" group-title="XXX", XXX: EROTIC 1 royal
 http://royal-cdn.eu:8080//live/RestreamTorbaXXX/mQFt54yf/31895.ts
@@ -248,125 +203,38 @@ http://royal-cdn.eu:8080//live/RestreamTorbaXXX/mQFt54yf/31889.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Pink_Erotic.png/revision/latest?cb=20210318150833" group-title="XXX", XXX: EROTIC 8 royal
 http://royal-cdn.eu:8080//live/RestreamTorbaXXX/mQFt54yf/31888.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: EROX 46
-http://46.150.192.58/play/62
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: EROX 91
-http://91.218.211.8:8080/play/100q
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: EROXXX 176
-http://176.67.217.36:9099/play/EroXXX
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: EROXXX 46
-http://46.150.192.58/play/63
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: EROXXX 91
-http://91.218.211.8:8080/play/100p
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: EXTASY 4K 91
-http://91.218.211.8:8080/play/a004
-
 #EXTINF:-1 tvg-id="1126" tvg-logo="http://epg.cdntv.online/img/1126.png" group-title="XXX", XXX: EXTASY s9
 http://s9.cdntv.online/variant/ta3c47fh58/1126.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrXvLcx5RRlv_i3hDZwwjTey8WRjiw-Xehg&usqp=CAU" group-title="XXX", XXX: FAKE HOSPITAL 2 5/24
-http://tvguek1.com:8080/live/gp12f5cp5/nyz1705/7339.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrXvLcx5RRlv_i3hDZwwjTey8WRjiw-Xehg&usqp=CAU" group-title="XXX", XXX: FAKE HOSPITAL 5/24
-http://tvguek1.com:8080/live/gp12f5cp5/nyz1705/7328.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/1280px-Fake_Taxi_logo.svg.png" group-title="XXX", XXX: FAKE TAXI 5/24
-http://tvguek1.com:8080/live/gp12f5cp5/nyz1705/33059.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: FRENCH LOVER 152
-http://152.228.154.144/stream/AZ7GVKJI2X/55.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: EXTASY-LEO TV 213
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: FRENCH LOVER 91.204
 http://91.204.234.3:8000/play/a00j/index.m3u8
 
+#EXTINF:-1 tvg-id="French Lover" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: FRENCH LOVER monster
+http://cn02.iptv.monster/play/1490/74F5EB24725C911/video.m3u8
+
 #EXTINF:-1 tvg-id="Hot.pt" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: HOT 185.236
 http://185.236.229.21:9981/play/a03p
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: HUSTLER 91
-http://91.218.211.8:8080/play/3053
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: HUSTLER TV 176
-http://176.67.217.36:9099/play/HustlerTV
 
 #EXTINF:-1 tvg-id="hustler-tv" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: HUSTLER TV 78
 http://78.83.191.18:8000/play/a078
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: O-LA-LA 188
-http://188.113.190.12/320/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Penthouse HD" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: PENTHOUSE PASSION monster
+http://cn02.iptv.monster/play/1497/74F5EB24725C911/video.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: PENTHOUSE GOLD 87
-http://87.126.155.253:4000/play/a03f
+#EXTINF:-1 tvg-id="Playboy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: PLAY BOY BLACK monster
+http://cn02.iptv.monster/play/242/74F5EB24725C911/video.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: PENTHOUSE QUICKIES 87
-http://87.126.155.253:4000/play/a03h
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: PLAYBOY BLACK 91
-http://91.218.211.8:8080/play/100g
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png" group-title="XXX", XXX: PLAYBOY RED 5
-http://5.255.90.184:2002/play/a027
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: PRIVATE 91
-http://91.218.211.8:8080/play/3054
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: PRIVATE TV 176
-http://176.67.217.36:9099/play/PrivateHD
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: REDLIGHT 176
-http://176.67.217.36:9099/play/RedLightHD
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: REDLIGHT 84
-http://84.22.67.163:12000/play/a003
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: REDLIGHT 91
-http://91.218.211.8:8080/play/100k
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: RUSSIAN NIGHTS 188
-http://188.113.190.12/318/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Redlight HD" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: REDLIGHT monster
+http://cn04.iptv.monster/play/594/74F5EB24725C911/video.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: RUSSIAN NIGHTS 93
 http://93.189.224.117:9030/russkayanoch?wowzasessionid=944923262064&time=1463063123262
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: SEHARA XXX 1 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/2558.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: SEHARA XXX 2 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/2566.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: SEHARA XXX 3 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/2565.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: SEHARA XXX 4 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/2521.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: SEHARA XXX 5 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/57555.ts
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: SEHARA XXX 6 ddcc
-http://ddcceezdsds.cabelstream.net:8080/live/Onurabiev48deijejs/Dueudjuhdruud/57554.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: SEXTREME 45
-http://45.187.32.130:8000/play/a005/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: SEXY HOT 45
-http://45.187.32.130:8000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: VENUS glob
-https://qlobbidev.s.llnwi.net/bpk-tv/VENUS/hls/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: VIVID RED 84
 http://84.22.67.163:12000/play/a00h
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: VIVID RED 91
-http://91.218.211.8:8080/play/100j
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: VIVID TOUCH 91
-http://91.218.211.8:8080/play/100n
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: X-BIZARRE 185
 http://185.226.88.3:1036/live/backup/backup/9.m3u8
@@ -380,17 +248,14 @@ http://185.226.88.3:1036/live/backup/backup/8.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: X-DESIRE 185
 http://185.226.88.3:1036/live/backup/backup/7.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: XXL 91
-http://91.218.211.8:8080/play/100m
-
 #EXTINF:-1 tvg-id="1117" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: ОХ-АХ s9
 http://s9.cdntv.online/low/ta3c47fh58/1117.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: РУССКАЯ НОЧЬ 152
-http://152.228.154.144/stream/AZ7GVKJI2X/54.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: РУССКАЯ НОЧЬ 93
 http://93.189.224.117:9030/russkayanoch
+
+#EXTINF:-1 tvg-id="Русская Ночь" tvg-logo="https://thumbs.dreamstime.com/b/xxx-%CE%B5%CE%BD%CE%AE-%CE%B9%CE%BA%CE%BF-%CF%80%CE%B5%CF%81%CE%B9%CE%B5%CF%87%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF-36739011.jpg" group-title="XXX", XXX: РУССКАЯ НОЧЬ monster
+http://cn02.iptv.monster/play/132/74F5EB24725C911/video.m3u8
 
 #EXTINF:-1 tvg-id="727" tvg-logo="http://epg.cdntv.online/img/727.png" group-title="XXX", XXX: ШАЛУН s9
 http://s9.cdntv.online/low/ta3c47fh58/727.m3u8
