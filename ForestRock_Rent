@@ -4469,3 +4469,2524 @@ http://eu.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/12/Ziggo_Sport.jpg" group-title="WORLD SPORTS", SP: ZIGGO VOETBAL tvtap
 http://stream.tvtap.live:8081/live/nl-ziggovoetbal.stream/playlist.m3u8?wmsAuthSign=null
 
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.seekpng.com/png/full/305-3054187_fishing-tv-fishing-tv-logo.png" group-title="HOBBY TV", .DOC: FISHING GREEK gd
+http://136.243.92.93:8080/fishing/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.seekpng.com/png/full/305-3054187_fishing-tv-fishing-tv-logo.png" group-title="HOBBY TV", .DOC: FISHING GREEK gd136
+http://136.243.92.93:2305/fishing/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/US/the-boat-show/normal.png" group-title="HOBBY TV", DOC: BOAT SHOW
+https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/1200.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.createandcraft.com/gb/common/images/brand-shop/about-us/cc-logo.png" group-title="HOBBY TV", DOC: CRAFTISTRY
+https://studio71-craftistry-roku.amagi.tv/playlist288p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.darcizzleoffshore.com/wp-content/uploads/2020/01/Darcizzle_offshore_retina.png" group-title="HOBBY TV", DOC: DARCIZZLE FISHING 30A
+http://30a-tv.com/darcizzle.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Buzo.jpg" group-title="HOBBY TV", DOC: DIVING TV HD
+https://5ad9aef2741e1.streamlock.net/public/smil:channel_130.smil/chunklist_w1646428757_b858000_tkd3RlbmR0aW1lPTE2MzI2NzQ5MjImd3RoYXNoPTgydmp2RHltZjQyRURzd0t5b0tOYl9xZmFaMkk0OGV1ZV9PY19nRVhJYTg9.m3u8
+
+#EXTINF:-1 tvg-id="yaban.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Yaban_tv_logo_new.png/614px-Yaban_tv_logo_new.png" group-title="HOBBY TV", DOC: FISH & HUNT .GR-TURK
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w1020129626.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2.bp.blogspot.com/-bE28fz8JmYg/WRsB0LkA78I/AAAAAAAAARE/8S0q_j6bup85lYVNxJ-q2LsDWof3qSRQACLcB/s1600/av%2Btv%2Bfrekans%25C4%25B1.jpg" group-title="HOBBY TV", DOC: FISH & HUNT .GR-TURK 2
+http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://72it.ru/wp-content/uploads/2018/10/ohotnik_i_rybolov_hd_1.png" group-title="HOBBY TV", DOC: FISH & HUNT RUS 1 ott55
+http://ott-cdn.ucom.am/s55/04.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://72it.ru/wp-content/uploads/2018/10/ohotnik_i_rybolov_hd_1.png" group-title="HOBBY TV", DOC: FISH & HUNT RUS 2 ott62
+http://ott-cdn.ucom.am/s62/04.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="HOBBY TV", DOC: FISH & HUNT USA
+https://dfbbhbrix93z2.cloudfront.net/LS-ATL-56868-1/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="HOBBY TV", DOC: FISH & HUNT USA BUP
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.seekpng.com/png/full/305-3054187_fishing-tv-fishing-tv-logo.png" group-title="HOBBY TV", DOC: FISH CHANNEL
+https://30a-tv.com/darcizzle.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://splnhub.cbsistatic.com/i/2021/02/11/80585503-98bf-408e-8c9f-0f03d240e3f5/w2f-tv-589.jpg" group-title="HOBBY TV", DOC: FISH WIRED2FISH
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://fishingandhuntingtv.com/ro/wp-content/uploads/2017/03/Logo-FHRO-1.png" group-title="HOBBY TV", DOC: FISHING & HUNTING CZ 46
+http://46.150.192.58/play/27
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.reel30a.com/theme/assets/og-image.jpg" group-title="HOBBY TV", DOC: FISHING 30A
+https://30a-tv.com/feeds/720p/40.m3u8
+
+#EXTINF:-1 tvg-id="Football daily" tvg-logo="https://i.imgur.com/VJyUVQ2.png" group-title="HOBBY TV", SP: .FOOTBALL DAILY xumo
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://apkplz.net/storage/images/com/free/livetv/f10/com.free.livetv.f10_1.png" group-title="HOBBY TV", SP: .FOOTBALL TV
+https://m-c09-j2apps.s.llnwi.net/hls/8017.FootballTV.in_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="HOBBY TV", SP: .FREE SPORTS REINO UNIDO
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22723/world-of-free-sports-tv/thumbv_20191205_011236.jpg" group-title="HOBBY TV", SP: .FREE SPORTS WORLD
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: .FUEL TV
+https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GRVTY" tvg-logo="https://image.roku.com/developer_channels/prod/7279ced3ebbc93bf3cbbc31942a70527c3e9fa1b6b25761c1229474a82f43ded.png" group-title="HOBBY TV", SP: .GRVTY
+https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.rapidtvnews.com/images/2019/May_2019_/Horizon_Sports_TV_logo_-_10_May_19.png" group-title="HOBBY TV", SP: .HORIZON SPORTS
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/US/outside-tv-720p/normal.png" group-title="HOBBY TV", SP: .OUTSIDE SPORTS
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/512x288_875600/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SkiTV.uk" tvg-logo="https://www.skitv.tv/wp-content/uploads/2020/05/ski-tv-logo-channel.png" group-title="HOBBY TV", SP: .SKI TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/473afd_31dffe67ce9f4042b80d2ed68d0fe42b~mv2.jpg/v1/fit/w_2500,h_1330,al_c/473afd_31dffe67ce9f4042b80d2ed68d0fe42b~mv2.jpg" group-title="HOBBY TV", SP: .SMASH SPORT
+http://s3.smashmalta.com:82/live/smash/smash/17.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/1ldEcZilkVU/maxresdefault.jpg" group-title="HOBBY TV", SP: .SNOWY MOUNTAINS TV
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://banner2.cleanpng.com/20180628/hee/kisspng-italy-television-show-business-sport-outdoor-sports-5b356de62701d8.6976892515302281981598.jpg" group-title="HOBBY TV", SP: .SPORTS OUTDOOR IT
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="HOBBY TV", SP: .STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-id="120682" tvg-logo="https://i.imgur.com/d0OMoYL.png" group-title="HOBBY TV", SP: .SURF NOW TV
+https://1091-surfnowtv-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="HOBBY TV", SP: .SURF TV
+https://alchimie-mysurf-3-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="HOBBY TV", SP: .UNBEATEN
+https://unbeaten-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="HOBBY TV", SP: ACTION SPORTS 2 pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="HOBBY TV", SP: ACTION SPORTS pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="HOBBY TV", SP: ADVENTURE SPORTS
+https://gizmeon.s.llnwi.net/channellivev3/live/master800000.m3u8;session=275
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Bike_%28TV_channel%29_logo.png" group-title="HOBBY TV", SP: BIKE TV
+https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/tracks-v2a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="HOBBY TV", SP: EDGE REST OF THE WORLD
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="HOBBY TV", SP: EDGE SPORTS
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/374/extra_big_logo.png" group-title="HOBBY TV", SP: ENGLISH FOOTBALL HISTORY filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/374?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="HOBBY TV", SP: EXTREME RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT BELLATOR MMA pluto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg/220px-BoxNation_logo.jpg" group-title="HOBBY TV", SP: FIGHT BOX NATION tvtap
+http://stream.tvtap.live:8081/live/boxnation.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="HOBBY TV", SP: FIGHT BOX ott
+http://ott-cdn.ucom.am/s86/04.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://t4.ftcdn.net/jpg/01/87/20/39/360_F_187203943_Yv7LEyI7iS99Ebha9cGUQ9acebr7ooDD.jpg" group-title="HOBBY TV", SP: FIGHT BOXING filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3143?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Golden_Boy_Promotions.gif" group-title="HOBBY TV", SP: FIGHT BOXING GOLDEN BOYS filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4247?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gamefabrique.ru/i/genesis/boxing-legends-of-the-ring.png" group-title="HOBBY TV", SP: FIGHT BOXING LEGENDS filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4163?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT BOXING pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT ELITE WRESTLING pluto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT GLORY KICKBOXING pluto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="HOBBY TV", SP: FIGHT HARD KNOCKS
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/ROH-logo.png" group-title="HOBBY TV", SP: FIGHT HONOR WRESTLING
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT IMPACT WRESTLING pluto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/1291px-Impact_Wrestling_Logo.svg.png" group-title="HOBBY TV", SP: FIGHT IMPACT! WRESTLING
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/KOK_kickboxing_logo.jpg" group-title="HOBBY TV", SP: FIGHT KOK SPORT RUS
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: FIGHT LESSONS
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT LUCHA LIBRE filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3158?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static-39.sinclairstoryline.com/resources/media/c56ff129-ecea-4a52-9e47-f1ec84258065-smallScale_MMAJUNKIEPIC3.JPG?1585716849124" group-title="HOBBY TV", SP: FIGHT MMA JUNKIE
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="HOBBY TV", SP: FIGHT MMA TV
+https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="HOBBY TV", SP: FIGHT MMA TV 2 rakuten
+https://alchimie-mmatv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT PRO WRESTLING pluto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT TV pluto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://armedforcessports.defense.gov/portals/19/Images/boxing.jpg" group-title="HOBBY TV", SP: FIGHT US ARMY BOXING filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3581?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="HOBBY TV", SP: FIGHT WRESTLING JORDAN WORLD
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+
+#EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="HOBBY TV", SP: FIGHT WWE smart-tv.livedomoovie
+https://smart-tv.livedoomovie.com/02_WWE_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="HOBBY TV", SP: FIGHT WWE tvtap
+http://stream.tvtap.live:8081/live/wwe.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://fighting.fr/wp-content/uploads/2019/11/fs-fb.jpg" group-title="HOBBY TV", SP: FIGHTING SPIRIT
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: FIGHTS ZOO vs ZOO HI SPORTS 159
+http://159.192.73.198:1072/hisport
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: FIGHTS ZOO vs ZOO HI SPORTS 203
+http://203.154.243.31:8081/live/hisport/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1280px-FITE_TV.svg.png" group-title="HOBBY TV", SP: FITE  TV
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: FTF FOR THE FANS
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png" group-title="HOBBY TV", SP: GOLF ONE
+http://162.250.201.58:8032/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="OneGolf" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png" group-title="HOBBY TV", SP: GOLF ONE aputra
+http://aputra.xyz/Nuvella88/sport543/onegolf.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png" group-title="HOBBY TV", SP: GOLF sport.livedomoovie
+https://sport.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/tB0vfVT.png" group-title="HOBBY TV", SP: HORSE .IPPODROMIES ELLADAS
+https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
+
+#EXTINF:-1 tvg-id="ATGV 1 SPORT" tvg-logo="http://4.bp.blogspot.com/-PjobebxR_0Y/T2cWqrnt5GI/AAAAAAAAElw/Q_PpCT06Zyc/s1600/ATG+logo.png" group-title="HOBBY TV", SP: HORSE ATG SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="HOBBY TV", SP: HORSE CAPITAL OTB BETTING
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016.jpg" group-title="HOBBY TV", SP: HORSE DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016.jpg" group-title="HOBBY TV", SP: HORSE DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="HOBBY TV", SP: HORSE HIPODROMO DE LAS AMERICAS
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="HOBBY TV", SP: HORSE RACING.COM (AUSTRALIA)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XJDzZfz.png" group-title="HOBBY TV", SP: HORSE SKY1
+http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XJDzZfz.png" group-title="HOBBY TV", SP: HORSE SKY2
+http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/i.imgur.com/KTEBwY0.png" group-title="HOBBY TV", SP: HORSE SPORTING TV
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.teletrak.cl/imagenes/logo.png" group-title="HOBBY TV", SP: HORSE TELETRAK
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjYxOWRlMzktOGExOS00YjNmLTk0ODUtMmVjMzVmZWRjNjFkXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_.jpg" group-title="HOBBY TV", SP: HORSE THROUGHBRED CENTRAL
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.teleon.tv/logo50/choppertown-us.png" group-title="HOBBY TV", SP: MOTO CHOPPER TOWN TV
+https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1280px-Esport3.svg.png" group-title="HOBBY TV", SP: MOTO ESPORT3 mavtv
+https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="HOBBY TV", SP: MOTO FORMULA 1 DAZN tvtap
+http://stream.tvtap.live:8081/live/es-moviestarf1.stream/playlist.m3u8?wmsAuthSign=null
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.live.kooora4you.com/images/min/sky-f1.png" group-title="HOBBY TV", SP: MOTO FORMULA 1 SKY eu.us
+http://eu.bestvideostreaming.is/7001/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_F1_logo.png" group-title="HOBBY TV", SP: MOTO FORMULA 1 SKY tvtap
+http://stream.tvtap.live:8081/live/it-skysport-f1_new.stream/playlist.m3u8?wmsAuthSign=null
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="HOBBY TV", SP: MOTO GARAGE TV 186
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: MOTO GP ES tvtap
+http://stream.tvtap.live:8081/live/es-moviestarmotogp.stream/playlist.m3u8?wmsAuthSign=null
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: MOTO GP SKY tvtap
+http://stream.tvtap.live:8081/live/it-skymoto.stream/playlist.m3u8?wmsAuthSign=null
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="HOBBY TV", SP: MOTO HARLEY FACTORY TV
+https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="HOBBY TV", SP: MOTO HARLEY GARAGE TV
+https://hdtv.prod2.ioio.tv/broker/play/70595a59-16f6-4924-a5ef-f498b12469f0.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="HOBBY TV", SP: MOTO HARLEY MAIN TV
+https://hdtv.prod2.ioio.tv/broker/play/c2f73c61-aa9d-4cbd-b858-34291858870f.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="HOBBY TV", SP: MOTO HARLEY RACING TV
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DQOp8Ft.png" group-title="HOBBY TV", SP: MOTO HARLEY RIDES TV
+https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/no-canal-motor-tv-5547.jpg" group-title="HOBBY TV", SP: MOTOR CANAL HD
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.logo-designer.co/wp-content/uploads/2020/11/2020-motor1-com-unveils-new-logo-design-by-pininfarina-6.png" group-title="HOBBY TV", SP: MOTOR1 TV rakuten
+https://motorsportnetwork-motor1tv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: MOTORCYCLE WORLD
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogphotos.thetoyarchives.com/wordpress-media/2018/10/Biker-Mice-From-Mars-Galoob-Toys-Logo.jpeg" group-title="HOBBY TV", SP: MOTORCYCLIST TV USA
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/i1xbeRWVYK8/hqdefault.jpg" group-title="HOBBY TV", SP: MOTORSPORT MAVTV
+https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="HOBBY TV", SP: MOTORSPORT MAVTV 2
+https://mavtv-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="HOBBY TV", SP: MOTORSPORT MAVTV rakuten
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.favpng.com/10/14/18/motors-tv-television-channel-motorsport-auto-racing-png-favpng-t31puzdwCiTMJmy4GqrYvwc5a.jpg" group-title="HOBBY TV", SP: MOTORSPORT RU 188
+http://188.113.190.12/220/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cVCb02R.jpg" group-title="HOBBY TV", SP: MOTORSPORT TV
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.motortrendtv.it/wp-content/themes/mt-landing-wp/img/logo.png" group-title="HOBBY TV", SP: MOTORTREND
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: SNOOKER LEGENDS filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3325?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/1ldEcZilkVU/maxresdefault.jpg" group-title="HOBBY TV", SP: SNOWY MOUNTAINS TV BUP
+http://c.mjh.nz/snowy-mountains/
+
+#EXTINF:-1 tvg-id="SportsTonight.uk" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="HOBBY TV", SP: SPORTS TONIGHT UK
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/US/tennis-channel-hd/normal.png" group-title="HOBBY TV", SP: TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wcmQ30R.png" group-title="HOBBY TV", SP: TENNIS CHANNEL samsung
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wcmQ30R.png" group-title="HOBBY TV", SP: TENNIS CHANNEL UK samsung
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truetennis.png" group-title="HOBBY TV", SP: TENNIS ilike.livedoomovie
+https://ilike.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="USATodaySportswire.us" tvg-logo="https://od.lk/s/MF8yMzIyMDM0MzNf/USAToday_480x480.png" group-title="HOBBY TV", SP: USA TODAY SPORTSWIRE
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatodaysportswire/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d2f4c46818164091e1fd4" group-title="HOBBY TV", SP: VIDEO GAMES ESR ESPORTS
+https://eyeonesports.com/ES2RA-628g.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="HOBBY TV", SP: VIDEO GAMES ESTV
+https://estv-klowdtv.amagi.tv/playlist540_p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="HOBBY TV", SP: VIDEO GAMES ESTV rakuten
+https://estv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.caesars.com/content/cet-global/caesars-com/myrewards/partners/world-series-of-poker/_jcr_content/root_content/cetcontainer/cet-container-content/cetlistitem/image.stdimg.hd.m.jpg/1580158487706.jpg" group-title="HOBBY TV", SP: WORLD POKER
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.caesars.com/content/cet-global/caesars-com/myrewards/partners/world-series-of-poker/_jcr_content/root_content/cetcontainer/cet-container-content/cetlistitem/image.stdimg.hd.m.jpg/1580158487706.jpg" group-title="HOBBY TV", SP: WORLD POKER BUP
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="HOBBY TV", SP: WORLD POKER GO pluto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="WorldPokerTour.ca" tvg-logo="https://i.imgur.com/ZqB9etQ.png" group-title="HOBBY TV", SP: WORLD POKER TOUR samsung
+https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="POKER TV" tvg-logo="https://i.imgur.com/l5fZQ3V.png" group-title="HOBBY TV", SP: WORLD POKER TV 51
+http://51.210.199.17/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/Network_CameraSmileTV.jpg" group-title="FUNNY TV", CAMERA SMILE tulix
+https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w746596579.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FUNNY TV", CHIVE TV
+https://dai2.xumo.com/xumocdn/p=redbox&amp;deviceid=&amp;is_lat=&amp;subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxchive/CDN/1280x720_440000/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9saXZlL3doaXRlL2N1dGUtem9uZS5wbmc" group-title="FUNNY TV", CUTE ZONE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNzU5MTExMF5BMl5BanBnXkFtZTgwMTkwODA2NjE@._V1_.jpg" group-title="FUNNY TV", FAIL ARMY INTERNATIONAL rakuten
+https://failarmy-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FUNNY TV", JUST FOR LAUGHS GAGS xumo
+https://dai2.xumo.com/xumocdn/p=redbox&amp;deviceid=&amp;is_lat=&amp;subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/640x360_700000/index.m3u8
+
+#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://minsknews.by/parser/tv/logo/peretz.png" group-title="FUNNY TV", PERETZ
+http://93.189.224.118:9030/peretz?utcstart=943082199926&version=2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FUNNY TV", THE PET COLLECTIVE
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/2000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/j6XPh2U.png" group-title="FUNNY TV", USA FANNIEST VIDEOS
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/j6XPh2U.png" group-title="FUNNY TV", USA FANNIEST VIDEOS FAMILY rakuten
+https://futuretoday-afv-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logopond.com/logos/25a3d73fca7b79587b5e3881de6418c4.png" group-title="FUNNY TV", WIPE OUT EXTRA GAME
+https://endemol-wipeoutxtra-1.plex.wurl.com/manifest/2000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logopond.com/logos/25a3d73fca7b79587b5e3881de6418c4.png" group-title="FUNNY TV", WIPE OUT GAME
+https://endemol-wipeoutxtra-1.samsung.wurl.com/manifest/3000.m3u8?|User-agent=smartlabs
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="KIDS", .GR KIDS: BOOMERANG GR gd
+http://136.243.92.93:8080/boomerang/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="KIDS", .GR KIDS: BOOMERANG GR gd136
+http://136.243.92.93:2305/boomerang/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", .GR KIDS: DISNEY CHANNEL GR gd
+http://136.243.92.93:8080/disney/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS", .GR KIDS: DISNEY CHANNEL GR gd136
+http://136.243.92.93:2305/disney/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/58/16/7d/58167d74-27bd-e473-7196-6e9dac97b78b/source/256x256bb.jpg" group-title="KIDS", .GR KIDS: DISNEY JR GR gd136
+http://136.243.92.93:2305/disneyjr/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" group-title="KIDS", .GR KIDS: DISNEY XD GR gd
+http://136.243.92.93:8080/disneyxd/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2560px-Logo_Disney_XD.svg.png" group-title="KIDS", .GR KIDS: DISNEY XD GR gd136
+http://136.243.92.93:2305/disneyxd/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="KIDS", .GR KIDS: KIDS TV GR
+http://wpso.com:1936/hls/kidshd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="KIDS", .GR KIDS: SMILE GR
+https://s1.cystream.net/live/smile/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS", 1KIDS: BABY TV IT 45
+http://45.92.69.244:8000/play/a05n/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", 1KIDS: BIG BUCK BUNNY 1 wowza
+https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", 1KIDS: BIG BUCK BUNNY 2 sradiotv
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", 1KIDS: BIG BUCK BUNNY 3 sradiotv bup
+https://cp.sradiotv.com:1936/8008/8008/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/66/9c/5a/669c5ae9343a6044c9a0319d3d233edc.jpg" group-title="KIDS", 1KIDS: CHARLIE CHAPLIN filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9saXZlL3doaXRlL2N1dGUtem9uZS5wbmc" group-title="KIDS", 1KIDS: CUTE ZONE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", 1KIDS: DUCK TV ENG rakuten
+https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DuckTV.it" tvg-logo="noimage.png" group-title="KIDS", 1KIDS: DUCK TV samsung
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/Felix_The_Cat-logo-4F72F6B544-seeklogo.com.png" group-title="KIDS", 1KIDS: FELIX THE CAT filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5546?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61UlyCYoyPL.png" group-title="KIDS", 1KIDS: LEARN ENGLISH 1 filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3794?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/618rwbhEO-L.png" group-title="KIDS", 1KIDS: LEARN ENGLISH 2 filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5726?protocol=hls
+
+#EXTINF:-1 tvg-id="Lego Toons" tvg-logo="https://media.designrush.com/inspirations/129839/conversions/_1611238414_61_lego-logo-1-preview.jpg" group-title="KIDS", 1KIDS: LEGO TOONS US
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.designrush.com/inspirations/129839/conversions/_1611238414_61_lego-logo-1-preview.jpg" group-title="KIDS", 1KIDS: LEGO TUNES
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/chunklist_w1651758675.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/P/popeye-logo-FD01735977-seeklogo.com.png" group-title="KIDS", 1KIDS: POPEYE TV filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4658?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", 1KIDS: THE PET COLLECTIVE
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/2000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/T/tom-and-jerry-logo-0F89FA6342-seeklogo.com.png" group-title="KIDS", 1KIDS: TOM & JERRY 87
+http://87.99.87.203:2007/channel/5a88cb4e/index.m3u8?q=e0d2800065e30726c9c265ff371e5135
+
+#EXTINF:-1 tvg-id="RTSH Kids" tvg-logo="https://i.imgur.com/rqvY7yR.png" group-title="KIDS", ALB KIDS: RTSH KIDS 79
+http://79.106.48.2:4578/live/rtsh_femije_mob_p1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="KIDS", BR KIDS: A VIDA MODERNA DE ROCKO BR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="KIDS", BR KIDS: GOSPEL CARTOON BR
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="KIDS", BR KIDS: NICK CLÁSSICO BR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="KIDS", BR KIDS: O REINO INFANTIL BR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Retrô Cartoon" tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="KIDS", BR KIDS: RETRÔ CARTOON BR
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="KIDS", BR KIDS: ZOO MOO BR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5e43c344b54fe800093552f4" tvg-logo="https://images.pluto.tv/channels/5e43c344b54fe800093552f4/colorLogoPNG.png" group-title="KIDS", DE KIDS: DORA TV DE pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e43c344b54fe800093552f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5dbc2d1ce10f0b0009e6cf9e" tvg-logo="noimage.png" group-title="KIDS", DE KIDS: INSPECTOR GADGET DE pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2d1ce10f0b0009e6cf9e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Family - AT" tvg-logo="noimage.png" group-title="KIDS", DE KIDS: KIDS 5 AT rakuten
+https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", DE KIDS: KIDS DE 10 rakuten
+https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", DE KIDS: KIDS DE 11 rakuten
+https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", DE KIDS: KIDS DE 13 Rakuten
+https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", DE KIDS: KIDS DE 3 rakuten
+https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", DE KIDS: KIDS DE 4 Rakuten
+https://rakuten-family-4-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", DE KIDS: KIDS DE 5 rakuten
+https://rakuten-family-5-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", DK KIDS: KIDS DK 10 rakuten
+https://rakuten-family-10-dk.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABC Kids AU" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" group-title="KIDS", ENG KIDS: ABC KIDS AUSTRALIA
+https://c.mjh.nz/101002210222/
+
+#EXTINF:-1 tvg-id="5c363ac9e41be30cb6054c7c" tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" group-title="KIDS", ENG KIDS: ANIME ALL DAY UK pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ebayimg.com/images/g/WIYAAOSwj4hcnYdM/s-l400.jpg" group-title="KIDS", ENG KIDS: CARTOON CLASSICS TV filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/793?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.teleon.tv/logo/contv-anime-us.png" group-title="KIDS", ENG KIDS: CONtv ANIMATION
+https://contvanime-localnow.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://images.pluto.tv/channels/5e43c344b54fe800093552f4/colorLogoPNG.png" group-title="KIDS", ENG KIDS: DORA TV US pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", ENG KIDS: HAPPY KIDS ENG 1 rakuten
+https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", ENG KIDS: HAPPY KIDS ENG 2 rakuten
+https://futuretoday-happykids-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5d765786aad587cf4d0e2bf6" tvg-logo="noimage.png" group-title="KIDS", ENG KIDS: INSPECTOR GADGET UK pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="KET PBS Kids" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="KIDS", ENG KIDS: KET PBS KIDS US
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="Kidoodle TV" tvg-logo="https://i.imgur.com/KHkerRD.png" group-title="KIDS", ENG KIDS: KIDOODLE TV samsung
+https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", ENG KIDS: KIDS ENG 1 rakuten
+https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", ENG KIDS: KIDS ENG 12 Rakuten
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", ENG KIDS: KIDS ENG 3 rakuten
+https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", ENG KIDS: KIDS ENG 7 rakuten
+https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", ENG KIDS: KIDS IRE 13 rakuten
+https://rakuten-family-13-ie.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Supertoons TV" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="KIDS", ENG KIDS: SUPERTOONS TV UK samsung
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="KIDS", ENG KIDS: TELETUBBIES UK samsung
+https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Toon Goggles" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="KIDS", ENG KIDS: TOON GOGGLES US samsung
+https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVO Kids" tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="KIDS", ENG KIDS: TVO KIDS ENG
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="KIDS", ENG KIDS: ZOO MOO 1 ENG rakuten
+https://rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="KIDS", ENG KIDS: ZOO MOO 2 ENG samsung
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="KIDS", ENG KIDS: ZOO MOO 3 ENG samsung
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo" tvg-logo="https://i.imgur.com/85LA7Zm.png" group-title="KIDS", ENG KIDS: ZOO MOO US samsung
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6054acc871ec430007f54c7d" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="KIDS", ES KIDS:  ANIME CLÁSICO ES pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-logo="https://i.pinimg.com/originals/66/c0/f3/66c0f3951cf18634e632c383284ab1f7.png" group-title="KIDS", ES KIDS: BOB ESPONJA ES pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", ES KIDS: KIDS ES 2 rakuten
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Supertoons TV" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="KIDS", ES KIDS: SUPERTOONS TV ES samsung
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", FIN KIDS: KIDS FIN 12 rakuten
+https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png" group-title="KIDS", FR KIDS:  CAILLOU FR samsung
+https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amuse Animation" tvg-logo="noimage.png" group-title="KIDS", FR KIDS: AMUSE ANIMATION FR samsung
+https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f8ed52a62fa750007733239" tvg-logo="https://images.pluto.tv/channels/5f8ed52a62fa750007733239/colorLogoPNG.png" group-title="KIDS", FR KIDS: ANIMÉ ALL DAY FR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5ffc8c345822750007e167de" tvg-logo="https://i.pinimg.com/originals/66/c0/f3/66c0f3951cf18634e632c383284ab1f7.png" group-title="KIDS", FR KIDS: BOB L ÉPONGE FR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5f8ecb9524419b0007365a1c" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" group-title="KIDS", FR KIDS: DORA TV FR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5f8ecb336537e8000764a17f" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png" group-title="KIDS", FR KIDS: JUNIOR TV FR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5f8eba14a4ffb8000764e950" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" group-title="KIDS", FR KIDS: KIDS ANIMATION FR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5f92b625c1ffbc0007e60c37" tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png" group-title="KIDS", FR KIDS: KIDS COLLECTION FR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", FR KIDS: KIDS FR 7 rakuten
+https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Supertoons TV" tvg-logo="https://i.imgur.com/kUmPbel.jpg" group-title="KIDS", FR KIDS: SUPERTOONS TV FR samsung
+https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f8ecc1b37867f00071469e9" tvg-logo="https://png.pngitem.com/pimgs/s/77-778010_transparent-tortugas-ninja-png-tortue-ninja-logo-png.png" group-title="KIDS", FR KIDS: TORTUES NINJA FR pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", IT KIDS: AMUSE ANIMATION IT samsung
+https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", IT KIDS: KIDS IT 6 rakuten
+https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Supertoons TV" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="KIDS", IT KIDS: SUPERTOONS TV samsung
+https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="KIDS", IT KIDS: TELETUBBIES IT samsung
+https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", KIDS: KIDS FRA 16 rakuten
+https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.yarinhaber.net/assets/uploads/content/979fa385-4c6b-4292-8778-364b19c98583.png" group-title="KIDS", KURD KIDS: BABY TV ZAROK 163
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", NL KIDS: KIDS NL 8 rakuten
+https://rakuten-family-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", NOR KIDS: KIDS NOR 11 rakuten
+https://rakuten-family-11-no.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", NOR KIDS: KIDS NOR 9 rakuten
+https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", PT KIDS: KIDS PT 14 rakuten
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="KIDS", PT KIDS: KURIAKOS KIDS PT
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", SWE KIDS: KIDS SWE 9 rakuten
+https://rakuten-family-9-se.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://w7.pngwing.com/pngs/237/812/png-transparent-schluss-mit-psychospielchen-groot-kerstcircus-den-haag-dtv-verlagsgesellschaft-author-circus-miscellaneous-text-logo.png" group-title="KIDS SHORT VIDEO", 1 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.01.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://w7.pngwing.com/pngs/237/812/png-transparent-schluss-mit-psychospielchen-groot-kerstcircus-den-haag-dtv-verlagsgesellschaft-author-circus-miscellaneous-text-logo.png" group-title="KIDS SHORT VIDEO", 10 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.10.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 100 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.12.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 101 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.13.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 102 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.14.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 103 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.15.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 104 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.16.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 105 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.17.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 106 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.18.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 107 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.19.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 108 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.20.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 11 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.11.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 12 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.12.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 13 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.01.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 14 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.02.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 15 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.03.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 16 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.04.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 17 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.05.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 18 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.06.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 19 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.07.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 2 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.02.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 20 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.08.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 21 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.09.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 22 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.10.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 23 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.11.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 24 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.12.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 25 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.13.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 26 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.14.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 27 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.15.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 28 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.16.seriya.iz.16.1997.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 29 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.01.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 3 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.03.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 30 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.02.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 31 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.03.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 32 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.04.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 33 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.05.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 34 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.06.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 35 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.07.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 36 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.08.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 37 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.09.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 38 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.10.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 39 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.11.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 4 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.04.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 40 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.12.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 41 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.13.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 42 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.14.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 43 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.15.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 44 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.16.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 45 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.17.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 46 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.18.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 47 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.19.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 48 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.20.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 49 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.21.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 5 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.05.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 50 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.22.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 51 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.23.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 52 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.24.seriya.iz.24.1998.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 53 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.01.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 54 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.02.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 55 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.03.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 56 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.04.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 57 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.05.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 58 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.06.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 59 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.07.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 6 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.06.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 60 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.08.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 61 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.09.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 62 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.10.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 63 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.11.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 64 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.12.seriya.iz.12.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 65 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.01.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 66 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.02.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 67 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.03.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 68 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.04.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 69 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.05.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 7 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.07.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 70 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.06.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 71 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.07.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 72 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.08.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 73 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.09.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 74 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.10.seriya.iz.24.1999.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 75 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.11.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 76 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.12.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 77 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.13.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 78 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.14.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 79 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.15.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 8 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.08.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 80 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.16.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 81 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.17.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 82 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.18.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 83 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.19.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 84 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.20.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 85 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.21.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 86 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.22.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 87 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.23.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 88 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.24.seriya.iz.24.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 89 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.01.seriya.iz.20.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 9 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.09.seriya.iz.12.1996.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 90 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.02.seriya.iz.20.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 91 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.03.seriya.iz.20.2000.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 92 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.04.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 93 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.05.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 94 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.06.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 95 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.07.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 96 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.08.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 97 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.09.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 98 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.10.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS SHORT VIDEO", 99 cерия
+http://data00-cdn.datalock.ru/fi2lm/62b63d006ddc415442fab802c74ee530/7f_Derevnja.Durakov.11.seriya.iz.20.2001.DivX.TVRip.a1.18.01.18.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://app.barazaradio.com/wp-content/uploads/2020/01/newnew-300x199.png" group-title="MUSIC TV", .MUSIC: BARAZA GREEK HITS
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://app.barazaradio.com/wp-content/uploads/2020/01/newnew-300x199.png" group-title="MUSIC TV", .MUSIC: BARAZA GREEK MUSIC HITS
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/32zvLBP.png" group-title="MUSIC TV", .MUSIC: CANNALI GR
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+
+#EXTINF:-1 tvg-id="https://i.imgur.com/6Yr0Axp.png" tvg-logo="https://www.choicewebradio.com/v2/wp-content/uploads/2020/05/choice_tv_2019_logo.png" group-title="MUSIC TV", .MUSIC: CHOICE TV GR
+https://vod.streams.ovh:3528/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://intrepidfoxgaming.com/wp-content/uploads/2019/09/IntrepidFox_logo_mascot_512.png" group-title="MUSIC TV", .MUSIC: FOX TV GR
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/a/a7/MAD_Greekz.png" group-title="MUSIC TV", .MUSIC: MAD GREEKZ TV gd
+http://136.243.92.93:8080/madgreekz/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/QZQhg6C.png" group-title="MUSIC TV", .MUSIC: MAGIC TV GR
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/y3pUxXe.png" group-title="MUSIC TV", .MUSIC: MESSATIDA TV GR
+https://vod.streams.ovh:3037/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/zPyXLZs.jpg" group-title="MUSIC TV", .MUSIC: MGR TV GR
+https://vod.streams.ovh:3876/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZBIyCAl.png" group-title="MUSIC TV", .MUSIC: MY RADIO TV GR
+https://vdo.alphaserver.gr:3305/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/pK2p5ey.png" group-title="MUSIC TV", .MUSIC: NG TV GR
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="MUSIC TV", .MUSIC: NRG TV GR
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.clker.com/cliparts/C/F/n/9/a/R/omega.svg.hi.png" group-title="MUSIC TV", .MUSIC: OMEGA TV GR
+https://vdo.alphaserver.gr:3043/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/100uuWA.png" group-title="MUSIC TV", .MUSIC: PLAY TV GR
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/OtZqKR_4Qzo/maxresdefault.jpg" group-title="MUSIC TV", .MUSIC: RADIO EPISTROFI GR
+https://s1.cystream.net/live/epistrofi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", .MUSIC: RELOAD PLAY GR
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/piGhf3m.png" group-title="MUSIC TV", .MUSIC: TILEMOUSIKI GR
+http://wpso.com:1936/hls/music1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="MUSIC TV", .MUSIC: ZOUGLA TV GR
+https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik AMVA 2020 RS" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC TV", MUSIC: .AMVA MUZZIK
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/Beatles-Emblem.jpg" group-title="MUSIC TV", MUSIC: .BEATLES STORIES filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3068?protocol=hls
+
+#EXTINF:-1 tvg-id="http://richfield.com.my/wp-content/uploads/2018/09/live-performances-channel-1080x667.jpg" tvg-logo="https://lh3.googleusercontent.com/proxy/j7ntFj_V3G5mj9E-B_2IcCmuF92SFLr1zgCc7aP-JHjc9azaBSfsw-EoIocU1uPnY5a3CxuEQTROYvdkNCXzRrKmJttzU4D7XIat6CMHpwDEr9fWmsKcW2xLH_UHwkn5aZE3RYVrOJOp_EiXCZ42LZc" group-title="MUSIC TV", MUSIC: .BEST LIVE PERFORMANCES
+https://v2.catcast.tv/content/40330/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/71J+tQkZ3RL._SS500_.jpg" group-title="MUSIC TV", MUSIC: .BEST LIVE PERFORMANCES catcast
+https://autopilot.catcast.tv/content/40330/index.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik Cafe&Club RS" tvg-logo="https://i.imgur.com/xTHhScG.jpg" group-title="MUSIC TV", MUSIC: .CAFE & CLUB MUZZIK
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Mezzo_Logo.png" group-title="MUSIC TV", MUSIC: .CLASSICAL & JAZZ MEZZO ott
+http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .CLUBBING TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.savingcountrymusic.com/wp-content/uploads/2018/07/country-music-usa-2.jpg" group-title="MUSIC TV", MUSIC: .COUNTRY 4YOU
+https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/AHZALvXY4uE/mqdefault.jpg" group-title="MUSIC TV", MUSIC: .COUNTRY IRLAND filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3683?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QCfO13m.png" group-title="MUSIC TV", MUSIC: .COUNTRY loop
+https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cmc-tv.com/images/camuslogo.gif" group-title="MUSIC TV", MUSIC: .COUNTRY MUSIC CALIFORNIA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://kathyharrisbooks.com/wp-content/uploads/2010/11/logo.png" group-title="MUSIC TV", MUSIC: .COUNTRY NETWORK ott
+https://ott.streann.com/loadbalancer/services/public/channels/5fac1ab92cdcdff351a7123c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .COUNTRY SMASH
+http://s3.smashmalta.com:82/live/smash/smash/12.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/50/25/country-star-vector-8035025.jpg" group-title="MUSIC TV", MUSIC: .COUNTRY STAR filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3008?protocol=hls
+
+#EXTINF:-1 tvg-id="Stingray Hot Country" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .COUNTRY STINGRAY ott
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .COUNTRY STINGRAY xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/768x432_690800/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DeepHouse District (US)" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MUSIC TV", MUSIC: .DEEP HOUSE US
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="Euro Indie Music Chart (IT)" tvg-logo="https://i.imgur.com/eurtz6A.png" group-title="MUSIC TV", MUSIC: .EURO INDIE MUSIC 178
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik GenZ RS" tvg-logo="https://i.imgur.com/11a4sNo.jpg" group-title="MUSIC TV", MUSIC: .GENZ MUZZIK
+https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .HEAVY METAL TV catcast
+https://v2.catcast.tv/content/33816/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="MUSIC TV", MUSIC: .HIP HOP loop
+http://loop-hip-hop-1.roku.wurl.com/manifest/4300.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik HipHop RS" tvg-logo="https://i.imgur.com/rGlZgos.jpg" group-title="MUSIC TV", MUSIC: .HIP HOP MUZZIK
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .JAZZ & BLUES filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/530?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Mezzo_Logo.png" group-title="MUSIC TV", MUSIC: .JAZZ & CLASSICAL MEZZO ott
+http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .JAZZ QWEST rakuten
+https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img1.wsimg.com/isteam/ip/d657f278-1d55-4f25-8434-d92320aeffc0/logo/c49d6f7c-fa09-4386-adaa-b627c62bef45.png" group-title="MUSIC TV", MUSIC: .JAZZ SMASH
+http://s3.smashmalta.com:82/live/smash/smash/10.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .JAZZ STINGRAY
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik Jeka RS" tvg-logo="https://i.imgur.com/OCa65OX.jpg" group-title="MUSIC TV", MUSIC: .JEKA MUZZIK
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.partytyme.net/songshop/cat/logos/party-tyme-logo-twoline.png" group-title="MUSIC TV", MUSIC: .KARAOKE PARTY TIME
+https://stream-us-east-1.getpublica.com/cl/1c47f026-43bc-4787-b733-8ad8caa80ab0/1280x720_1400000_3_false.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-karaoke-white-vertical.png" group-title="MUSIC TV", MUSIC: .KARAOKE STINGRAY google
+https://dai.google.com/linear/hls/pa/event/5bqbG8j7T_6_qMONC1SDsg/stream/9e11beda-9dfe-42e8-92dc-654e9b7f961c:GRQ/variant/07e8601f2de4f91d025ac4fa9eac56ab/bandwidth/1751200.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray-karaoke-white-vertical.png" group-title="MUSIC TV", MUSIC: .KARAOKE STINGRAY xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/640x360_981200/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .LATIN POP STINGRAY ott
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .LATIN POP STINGRAY xumo
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik Mediteraneo Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC TV", MUSIC: .MEDITERANEO MUZZIK
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik OKK Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC TV", MUSIC: .OKK MUZZIK
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .POP ADULT STINGRAY xumo
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .REGGAE filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6149?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.reggaetoreggae.com/resources/RTR%20Logo%20-%20Hebrew%20JPG.png" group-title="MUSIC TV", MUSIC: .REGGAE TO REGGAE
+https://5a37265c8355d.streamlock.net:1936/reggaeto/smil:reggaeto.smil/chunklist_w1214132962_b200000_slen.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik Rock&Roll RS" tvg-logo="https://i.imgur.com/xf3SQtB.jpg" group-title="MUSIC TV", MUSIC: .ROCK & ROLL MUZZIK
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .ROCK ALTERN STINGRAY xumo
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+
+#EXTINF:-1 tvg-id="Stingray Classic Rock" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .ROCK CLASSIC STINGRAY ott
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .ROCK CLASSIC STINGRAY xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="MUSIC TV", MUSIC: .ROCK HOT TV filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .ROCK MUSIC TV catcast
+https://autopilot.catcast.tv/content/39484/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img1.wsimg.com/isteam/ip/d657f278-1d55-4f25-8434-d92320aeffc0/logo/c49d6f7c-fa09-4386-adaa-b627c62bef45.png" group-title="MUSIC TV", MUSIC: .ROCK SMASH
+http://s3.smashmalta.com:82/live/smash/smash/57.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img1.wsimg.com/isteam/ip/d657f278-1d55-4f25-8434-d92320aeffc0/logo/c49d6f7c-fa09-4386-adaa-b627c62bef45.png" group-title="MUSIC TV", MUSIC: .ROCK SMASH 2
+http://s3.smashmalta.com:82/live/smash/smash/25.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.teleon.tv/logo/rock-tv-ro.png" group-title="MUSIC TV", MUSIC: .ROCK TV
+http://46.20.136.59/live3/_definst_/rocktv/chunklist_w349395696.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.teleon.tv/logo/rock-tv-ro.png" group-title="MUSIC TV", MUSIC: .ROCK TV fms
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.music-bazaar.com/album-images/vol32/2084/2084109/3962833-big/100-Romantic-Ballads-2019-CD1-cover.jpg" group-title="MUSIC TV", MUSIC: .ROMANTIC & BALLADS catcast
+https://autopilot.catcast.tv/content/39696/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .SOUL STINGRAY xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/768x432_690800/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/58/ce/6c/58ce6c58d51ceac67b1e186504103ffd.png" group-title="MUSIC TV", MUSIC: .TANGO TV
+https://panel.streamingtv-mediacp.online:1936/8066/8066/chunklist_w1405405382.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="MUSIC TV", MUSIC: .TECHNO WAREHOUSE
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: 1 MUSIC CHANNEL HU
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w1017997151.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png" group-title="MUSIC TV", MUSIC: 1HD
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.giniko.com/logos/190x110/1043.jpg" group-title="MUSIC TV", MUSIC: 1MUZ TV
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="MUSIC TV", MUSIC: 30A MUSIC
+http://30a-tv.com/music.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="MUSIC TV", MUSIC: 51 RADIO TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh4.ggpht.com/lqK9EI9xE9gcBRfORWrKhofpmIbu21jXQNUrclFQlG4q36IlGre1_i7C1YbPW5nHekU" group-title="MUSIC TV", MUSIC: 88 STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: ACTIVA TV
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="MUSIC TV", MUSIC: AFROBEATS
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-id="-787101069_aiva" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/da/Aiwa_Logotip.png" group-title="MUSIC TV", MUSIC: AIVA 194
+http://194.190.78.91:8080/aivaya/index.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-logo="https://www.m3u.cl/logo/32_Alegria_TV.png" group-title="MUSIC TV", MUSIC: ALEGRIA TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: BAJO CERO TV
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/chunklist_w1697962784.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="MUSIC TV", MUSIC: BALKANIKA MUSIC TV
+rtsp://stream.teracomm.bg/balkanika
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61ZCPJc7THL.png" group-title="MUSIC TV", MUSIC: BANOVINA
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/05/logo2.png" group-title="MUSIC TV", MUSIC: BEST CABLE MUSIC
+https://live.siete.us/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/05/logo2.png" group-title="MUSIC TV", MUSIC: BEST CABLE MUSIC
+https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="441670585_591" tvg-logo="https://dvb.by/sources/logos/1200.png" group-title="MUSIC TV", MUSIC: BRIDGE TV РУССКИЙ ХИТ
+http://188.113.190.12/179/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: BRITROX filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3698?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png" group-title="MUSIC TV", MUSIC: C21
+http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="MUSIC TV", MUSIC: CADENA ELITE
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="MUSIC TV", MUSIC: CALIFORNIA MUSIC CHANNEL
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vipotv.com/wp-content/uploads/2020/09/caltex-music-vipotv-min.png" group-title="MUSIC TV", MUSIC: CALTEX MUSIC
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/proxy/8J0AhGQiZdPzLiQY_s357Dx-7URx3XgBednaroE9KY_thUufT51GQx6UH_3mPRSk0QvIvP-grRWovI_UfRU5B8OhpoL-56jWfaWNHfbAKDe9jrMof4rWARW6" group-title="MUSIC TV", MUSIC: CAMPUS TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-logo="https://www.m3u.cl/logo/37_Canal_38.png" group-title="MUSIC TV", MUSIC: CANAL 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/120px-Radio_Capital_logo_%282020%29.svg.png" group-title="MUSIC TV", MUSIC: CAPITAL TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png" group-title="MUSIC TV", MUSIC: CAROLINA TV
+https://unlimited1-cl-movistar.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="CHV.Asia" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="MUSIC TV", MUSIC: CHANNEL [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-city-tv-3158.jpg" group-title="MUSIC TV", MUSIC: CITY TV
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cmc-tv.com/images/camuslogo.gif" group-title="MUSIC TV", MUSIC: CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: COLOSAL TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="893" tvg-logo="https://www.m3u.cl/logo/893_Complejo_Dance.png" group-title="MUSIC TV", MUSIC: COMPLEJO DANCE
+https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="16" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png" group-title="MUSIC TV", MUSIC: CONECTA TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/QQnSLaBB.png" group-title="MUSIC TV", MUSIC: COOPE TV
+https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://www.m3u.cl/logo/18_Corazon_Llanero.png" group-title="MUSIC TV", MUSIC: CORAZON LLANERO
+https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/DeeJay_TV.svg/1200px-DeeJay_TV.svg.png" group-title="MUSIC TV", MUSIC: DEEJAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="MUSIC TV", MUSIC: DIJLAH TARAB
+https://ghaasiflu.online/tarab/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/60/31/1f/60311f70-f70f-e3f8-4735-a23e176be0eb/contsched.igfutmsk.lsr/1024x1024bb.jpg" group-title="MUSIC TV", MUSIC: DITTY TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+
+#EXTINF:-1 tvg-id="911" tvg-logo="https://www.m3u.cl/logo/911_Dj_Mao_TV.png" group-title="MUSIC TV", MUSIC: DJ MAO TV
+https://tvdatta.com:3484/hybrid/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.djing.com/img/facebook.png" group-title="MUSIC TV", MUSIC: DJING
+https://www.djing.com/tv/28638-04.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.djing.com/img/facebook.png" group-title="MUSIC TV", MUSIC: DJING ANIMATION
+http://www.djing.com/tv/animation.m3u8?version=2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.djing.com/img/facebook.png" group-title="MUSIC TV", MUSIC: DJING DJS HD
+https://www.djing.com/tv/k-27838-05.m3u8?version=2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.djing.com/img/facebook.png" group-title="MUSIC TV", MUSIC: DJING HEDONIST HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.djing.com/img/facebook.png" group-title="MUSIC TV", MUSIC: DJING HITS
+https://www.djing.com/tv/i-28634-04.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.djing.com/img/facebook.png" group-title="MUSIC TV", MUSIC: DJING IBIZA HD
+http://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.djing.com/img/facebook.png" group-title="MUSIC TV", MUSIC: DJING WILD EDM HD
+https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tinyurl.com/y5g6t3d8" group-title="MUSIC TV", MUSIC: EBC MUSIC
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w1449070321.m3u8
+
+#EXTINF:-1 tvg-id="796" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png" group-title="MUSIC TV", MUSIC: EURO INDIE MUSIC
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.catcast.tv/uploads/18022020/36987-5e4b90bd3da94.png" group-title="MUSIC TV", MUSIC: EURODANCE 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-logo="https://tv.nalench.com/uploads/screenshots/Europa_Plus_TV.jpg" group-title="MUSIC TV", MUSIC: EUROPA PLUS TV
+http://185.52.77.67:8080/EuropaPlusTVMBR/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/1bjnYEolS9e-utbVyXk4Tu6UTl4RDnfIsSXKYE74r3vmRNWMQZXLADvSQacadS1F5DY" group-title="MUSIC TV", MUSIC: FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="MUSIC TV", MUSIC: FIRST MUSIC 1
+http://rtmp.one.by:2300/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="MUSIC TV", MUSIC: FIRST MUSIC 2
+http://rtmp.one.by:1300/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="MUSIC TV", MUSIC: FIRST MUSIC 3
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/EA24Hv3gb-ZqKoHprpl0FfvSiK_FmX6-60ujU02hwi0x9AmDEFPBrWEgYW5k3UzGnDDi" group-title="MUSIC TV", MUSIC: GALACTICA TV
+https://envivo.galacticatv.com:3913/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/NL/go-rtv-720p/normal.png" group-title="MUSIC TV", MUSIC: GO TV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w2107810666.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/ro-ht-music-channel-3244-300x225.jpg" group-title="MUSIC TV", MUSIC: H!T MUSIC CHANNEL
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.hits360live.com/wp-content/uploads/2018/05/cropped-logo1-hits-360-2-2.png" group-title="MUSIC TV", MUSIC: HIT 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="887" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png" group-title="MUSIC TV", MUSIC: HITS 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="-787101069_hitv" tvg-logo="https://dvb.by/sources/logos/3128.png" group-title="MUSIC TV", MUSIC: HITV
+http://rosshow.gcdn.co/streams/1410_290/480n/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.teleon.tv/logo/jhanjar-music-in.png" group-title="MUSIC TV", MUSIC: JHANJAR MUSIC
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7448ff5f771cf9be416d90cb109c04d4.webp" group-title="MUSIC TV", MUSIC: KISS TV fms
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w1271700385_b1600000.m3u8?publisher=83
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://rwpromosites.s3-website-us-east-1.amazonaws.com/marketing/images/jingles/kronehit/logo.png" group-title="MUSIC TV", MUSIC: KRONEHIT TV HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IIfqqD2.png" group-title="MUSIC TV", MUSIC: KURD MAX MUSIC
+http://31.14.40.139:1935/music/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/q6K4S0N.png" group-title="MUSIC TV", MUSIC: KURIAKOS MUSIC
+http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
+
+#EXTINF:-1 tvg-id="La Mega Mundial" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: LA MEGA MUNDIAL
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://celebrityaccess.com/wp-content/uploads/2019/06/latido.png" group-title="MUSIC TV", MUSIC: LATIDO TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/512x288_875600/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="904" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png" group-title="MUSIC TV", MUSIC: LATIN ZONE TV
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.latinosuptv.com/tvonline/wp-content/uploads/2018/04/logo-latinos-up-1.png" group-title="MUSIC TV", MUSIC: LATINOS UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: LOCAL NOW
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="MUSIC TV", MUSIC: M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1130782304111157249/SMnn4khE_400x400.png" group-title="MUSIC TV", MUSIC: M6 MUSIC
+http://190.2.155.162:8080/m6music/mpegts
+
+#EXTINF:-1 tvg-id="MALEO TV" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logonoid.com/images/mix-tv-logo.png" group-title="MUSIC TV", MUSIC: MALETA MIX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w1590519869.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png" group-title="MUSIC TV", MUSIC: MAS CUMBIA
+https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: MAST iii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mcn6.org/wp-content/uploads/2019/12/logo-t.png" group-title="MUSIC TV", MUSIC: MCN6
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/chunklist_b2596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSIC TV", MUSIC: MCRT BANDA
+https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSIC TV", MUSIC: MCRT EN ESPAÑOL
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSIC TV", MUSIC: MCRT GYM
+https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i2.paste.pics/843283aea869f8124ab8ceec08c7fa68.png" group-title="MUSIC TV", MUSIC: MCRT REGGAETON
+https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://fastpic.co/images/Melody_Channel_TV.jpg" group-title="MUSIC TV", MUSIC: MELODY CHANNEL TV
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://mixm.tv/images/MIX-M-tv.jpg" group-title="MUSIC TV", MUSIC: MIXM TV
+http://89.179.247.144/mixm.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/BG/mm-tv/normal.png" group-title="MUSIC TV", MUSIC: MM TV
+https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w2124296046_b896000_slbul.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/200px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIC TV", MUSIC: MTV BLOCK PARTY pluto
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 tvg-id="mtv-live-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/200px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIC TV", MUSIC: MTV LIVE 92
+http://92.119.251.239/udp_mtv_live/video.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/200px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIC TV", MUSIC: MTV SPANKIN NEW pluto
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/200px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIC TV", MUSIC: MTV WMA pluto
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/200px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIC TV", MUSIC: MTV YO! pluto
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png" group-title="MUSIC TV", MUSIC: MUNDO DE LA MUSICA
+https://593b04c4c5670.streamlock.net/8018/8018/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" group-title="MUSIC TV", MUSIC: MUSIC 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://musicfouryou.com/wp-content/uploads/2015/09/imageedit_1_8709468454.gif" group-title="MUSIC TV", MUSIC: MUSIC 4U
+http://203.154.243.89:1213
+
+#EXTINF:-1 tvg-id="musicbox" tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/ru-music-box-tv-6963-300x225.jpg" group-title="MUSIC TV", MUSIC: MUSIC BOX GOLD
+http://tsn.streaming-elbrus.tk:8080/mboxgold/video.m3u8?token=c5b4b8507fec17cc3bfebc9985fc837a7ba1cffa-7762282860-1627360712-1627317512
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://guzei.com/online_radio/logo300/34908.png" group-title="MUSIC TV", MUSIC: MUSIC HISTORY TV
+https://live.prd.dlive.tv/hls/live/mhtvradio.m3u8
+
+#EXTINF:-1 tvg-id="-787101069_mtv-music-pl" tvg-logo="https://onlinestream.live/logos/6465.png" group-title="MUSIC TV", MUSIC: MUSIC PLUS 79
+http://79.172.214.45:10190/stream.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png" group-title="MUSIC TV", MUSIC: MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Muzzik TV Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC TV", MUSIC: MUZZIK TV SERBIA
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Muzzik Worldwide Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC TV", MUSIC: MUZZIK WORLDWIDE
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-logo="https://www.m3u.cl/logo/28_Natural_TV.png" group-title="MUSIC TV", MUSIC: NATURAL TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/oo/ocko-star-cz.png" group-title="MUSIC TV", MUSIC: OCKO STAR
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?user-4pda-denms-ru-v1-a1
+
+#EXTINF:-1 tvg-id="20" tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png" group-title="MUSIC TV", MUSIC: ON RADIO CHILE
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: OXIGENO TV
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w2119561899.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Paradise-PD-Logo.png" group-title="MUSIC TV", MUSIC: PARADISE filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3611?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.parsatv.com/index_files/channels/persianamusic.jpg" group-title="MUSIC TV", MUSIC: PERSIANA MUSIC
+http://51.210.199.24/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DfugVgy.png" group-title="MUSIC TV", MUSIC: PITER PAN TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w1730364624.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-logo="http://portalfoxmix.cl/radioenvivo/favImage.png" group-title="MUSIC TV", MUSIC: PORTAL FOXMIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg" group-title="MUSIC TV", MUSIC: PUBLIC MUSIC INDIA
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-qello-vector-logo.png" group-title="MUSIC TV", MUSIC: QELLO CONCERTS ott
+http://ott-linear-channels.stingray.com/hls/mxplayer/qello.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Logo_RADIO_21.jpg" group-title="MUSIC TV", MUSIC: RADIO 21 TV
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nl-radio-538.jpg" group-title="MUSIC TV", MUSIC: RADIO 538
+http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kzvsNo2.png" group-title="MUSIC TV", MUSIC: RADIO BIRIKINA TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/BE/radio-contact-720p/normal.png" group-title="MUSIC TV", MUSIC: RADIO CONTACT
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_600_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Logotyp_poziomy.eps.svg/1200px-Logotyp_poziomy.eps.svg.png" group-title="MUSIC TV", MUSIC: RADIO CZWORKA
+http://stream14.polskieradio.pl:1935/pr4_video/video_pr4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="-787101069_comedy-radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Radio_Italia_logo_%282020%29.svg/1200px-Radio_Italia_logo_%282020%29.svg.png" group-title="MUSIC TV", MUSIC: RADIO ITALIA
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: RADIO ITALIA VISION
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: RADIO LOMBARDIA TV
+https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GQWiS9Q.png" group-title="MUSIC TV", MUSIC: RADIO MAXIMA 94.9 FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg" group-title="MUSIC TV", MUSIC: RADIO U
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/it/8/80/Radionorba_tv_logo_2021.png" group-title="MUSIC TV", MUSIC: RADIONORBA TV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="769" tvg-logo="https://www.m3u.cl/logo/769_Radioteca_WebStereo.webp" group-title="MUSIC TV", MUSIC: RADIOTECA
+https://tvstreaming.cl:1936/8042/8042/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png" group-title="MUSIC TV", MUSIC: RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSIC TV", MUSIC: RETRO PLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="MUSIC TV", MUSIC: RETRO PLUS TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.m3u.cl/logo/101700_Rewind_TV.png" group-title="MUSIC TV", MUSIC: REWIND
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png" group-title="MUSIC TV", MUSIC: REWIND TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: RITSA TV
+https://hls.myvideocontent.ru/hls2/user74350/index.m3u8
+
+#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/ru-ru-tv-2478-300x225.jpg" group-title="MUSIC TV", MUSIC: RU.TV
+http://rut-v.gcdn.co/streams/1410_95/1080n/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.vconline.cl/ruidostv.png" group-title="MUSIC TV", MUSIC: RUIDOS TV
+https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/NL/salto-brasa-music/normal.png" group-title="MUSIC TV", MUSIC: SALTO BRASA TV
+https://salto-streams.nl/hls/sotv1_high.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MUSIC TV", MUSIC: SEXY KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
+#EXTINF:-1 tvg-id="782" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg" group-title="MUSIC TV", MUSIC: SEXY KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img1.wsimg.com/isteam/ip/d657f278-1d55-4f25-8434-d92320aeffc0/logo/c49d6f7c-fa09-4386-adaa-b627c62bef45.png" group-title="MUSIC TV", MUSIC: SMASH MUSIC
+http://s3.smashmalta.com:82/live/smash/smash/8.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img1.wsimg.com/isteam/ip/d657f278-1d55-4f25-8434-d92320aeffc0/logo/c49d6f7c-fa09-4386-adaa-b627c62bef45.png" group-title="MUSIC TV", MUSIC: SMASH RETRO
+http://s3.smashmalta.com:82/live/smash/smash/48.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/US/sonus-fm-tv-us/normal.png" group-title="MUSIC TV", MUSIC: SONUS FM
+https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1017805699.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://spektratv.com/img/logo_intro.png" group-title="MUSIC TV", MUSIC: SPEKTRA TV
+https://streamtv.mediasector.es/hls/spektratv/.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/706748153786032128/FVHuEdV6.jpg" group-title="MUSIC TV", MUSIC: STEELBIRD MUSIC
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: STINGRAY FLASHBACK 70s xumo
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: STINGRAY GREATEST HITS xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/768x432_690800/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: STINGRAY HITS xumo
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/768x432_690800/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: STINGRAY HOLIDAY HITS xumo
+https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: STINGRAY URBAN BEATS xumo
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://dealood.com/content/uploads/images/June2019/sunburn[1]" group-title="MUSIC TV", MUSIC: SUNBURN TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/4706/extra_big_logo.png" group-title="MUSIC TV", MUSIC: TALENT WATCH filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4706?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png" group-title="MUSIC TV", MUSIC: TELEMUSICA
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-logo="https://www.m3u.cl/logo/36_Telemusica.png" group-title="MUSIC TV", MUSIC: TELEMUSICA
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.mty.telediario.mx/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dc126338448314449d0c.png" group-title="MUSIC TV", MUSIC: TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png" group-title="MUSIC TV", MUSIC: TERRAMIA TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/NZ/the-edge-720p/normal.png" group-title="MUSIC TV", MUSIC: THE EDGE TV
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv_3.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png" group-title="MUSIC TV", MUSIC: TOP LATINO TV
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="43" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png" group-title="MUSIC TV", MUSIC: TURBO MIX TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="25" tvg-logo="https://www.m3u.cl/logo/25_TuTv_Quillota.png" group-title="MUSIC TV", MUSIC: TUTV QUILLOTA
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png" group-title="MUSIC TV", MUSIC: TV EXITOS
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="34" tvg-logo="https://www.m3u.cl/logo/34_TV_vconline_cl.png" group-title="MUSIC TV", MUSIC: TV VCONLINE.CL
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/AT/uppera-balkan-tv-at/normal.png" group-title="MUSIC TV", MUSIC: UPPERA BALKAN
+http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png" group-title="MUSIC TV", MUSIC: URBAN TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-1.png" group-title="MUSIC TV", MUSIC: V2 BEAT
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Lg_videorola-300x199.png" group-title="MUSIC TV", MUSIC: VIDEO ROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png" group-title="MUSIC TV", MUSIC: VIDEO TOUR CHANNEL
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.virginmusic.co.uk/wp-content/themes/virginmusic/img/vm-logo.png" group-title="MUSIC TV", MUSIC: VIRGIN TV
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+
+#EXTINF:-1 tvg-id="876" tvg-logo="https://www.m3u.cl/logo/876_Vision_Musica_TV.png" group-title="MUSIC TV", MUSIC: VISION MUSICA TV
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Wanasah ARB" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="MUSIC TV", MUSIC: WANASAH
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.m3u.cl/logo/126531_Wham_TV.png" group-title="MUSIC TV", MUSIC: WHAM TV
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/71g8q5h2ERL._SS500_.jpg" group-title="MUSIC TV", MUSIC: WHAM TV
+https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w1814383808.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/NL/xite-be/normal.png" group-title="MUSIC TV", MUSIC: XITE TV
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://xlmusica.com/wp-content/uploads/2020/11/XLTVWEB.png" group-title="MUSIC TV", MUSIC: XL MUSICA
+https://cloud2.streaminglivehd.com/8098/8098/.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png" group-title="MUSIC TV", MUSIC: XTV MUSIC
+https://tls-cl.cdnz.cl/xtv/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.m3u.cl/logo/3_XTV_Music.png" group-title="MUSIC TV", MUSIC: XTV MUSIC
+https://tls.cdnz.cl:443/xtvmusic-media/xtvmusic-media/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png" group-title="MUSIC TV", MUSIC: ZAPPING MUSIC
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/eM46U_aqFzNVZLetJh3QCXCM4Q3gNJke4cuQUa2KHdPyjAGwarUrLnX4GH-KodXhcg" group-title="MUSIC TV", MUSIC: ZERO UNO TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Zeta_Global_1.png" group-title="MUSIC TV", MUSIC: ZETA HD
+http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oklivetv.com/wp-content/uploads/media/3efa0aaaeb3a39c0380a38aaae7649db-160x90.jpeg" group-title="MUSIC TV", MUSIC: ÓČKO
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oklivetv.com/wp-content/uploads/media/cbb9f661fc8f64b874acca0aa4d21a02-160x90.jpeg" group-title="MUSIC TV", MUSIC: ÓČKO EXPRES
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oklivetv.com/wp-content/uploads/media/2bbab18fa09352f91d2ecb59d6e17fdb-160x90.jpeg" group-title="MUSIC TV", MUSIC: ÓČKO GOLD
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-id="Šlágr" tvg-logo="https://i.imgur.com/0bTyHve.png" group-title="MUSIC TV", MUSIC: ŠLÁGR
+https://stream-6.mazana.tv/slagr.m3u
+
+#EXTINF:-1 tvg-id="Šlágr 2" tvg-logo="https://i.imgur.com/2rcy4Wo.png" group-title="MUSIC TV", MUSIC: ŠLÁGR 2
+https://stream-33.mazana.tv/slagr2.m3u
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0bTyHve.png" group-title="MUSIC TV", MUSIC: ŠLÁGR BUP
+https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-id="Šlágr Premium" tvg-logo="https://i.imgur.com/Lp0IqDx.png" group-title="MUSIC TV", MUSIC: ŠLÁGR PREMIUM
+https://arenasportslovakia.ddns.net/hls/slager.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" group-title="MUSIC TV", MUSIC: ЖАР-ПТИЦА
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="m1-ua" tvg-logo="http://only4.tv/ch/5601.png" group-title="MUSIC TV", MUSIC: М1
+http://live.m2.tv/hls2/720/stream.m3u8
+
+#EXTINF:-1 tvg-id="m2-ua" tvg-logo="http://only4.tv/ch/5602.png" group-title="MUSIC TV", MUSIC: М2
+http://live.m2.tv/hls3/720/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://online-red.com/images/tv/muz-soyuz.png" group-title="MUSIC TV", MUSIC: МУЗСОЮЗ
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://partner.biz.ua/images/radio/novoe-radio-905.jpg" group-title="MUSIC TV", MUSIC: НОВОЕ РАДИО ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1164544849548324865/BANv6IJq_200x200.jpg" group-title="MUSIC TV", MUSIC: РАДИО ШАНСОН
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/d/d8/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0_FM.png" group-title="MUSIC TV", MUSIC: СТРАНА FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: ШАНСОН ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/chunklist_b1996000.m3u8?hls_proxy_host=pub1.rtmp.s01.l.shansontv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://a3bikini.com/wp-content/uploads/2018/02/a3_Bikini-1.png" group-title="LIFESTYLE", A3 BIKINI NETWORK
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/2819/big_logo.png" group-title="LIFESTYLE", BIKINI DOWN UNDER filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2819?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/6q284-T6VK9JZK9VE-Full-Image_GalleryCover-en-US-1526712864134._UY500_UX667_RI_Vof0CjqgvwP3Hx3qCiv01xvgpA9ZbfxON_TTW_SX329_.jpg" group-title="LIFESTYLE", BIKINI KITCHEN filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2000?protocol=hls
+
+#EXTINF:-1 tvg-id="Celebrity Scene TV" tvg-logo="http://bangshowbiz.com/wp-content/uploads/2014/10/cropped-Bang_square-e1412954847729.png" group-title="LIFESTYLE", CELEBRITY SHOWBIZ
+https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61FlqaobUVL.png" group-title="LIFESTYLE", CODE FASHION TV
+http://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIFESTYLE", FASHION & LIFESTYLE
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://spiintl.com/data/files/zdjecie/cd/75/cd75016aae577e8421c4020c1d55f3ee1b19cdfbc83c61e0b73ca20a2cecd3b5.png" group-title="LIFESTYLE", FASHION BOX
+https://fashionbox-localnow.cinedigm.com/playlistR288p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="LIFESTYLE", FASHION CHANNEL INTERNATIONAL
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="LIFESTYLE", FASHION PARIS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="LIFESTYLE", FASHION TOP MODEL
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="LIFESTYLE", FASHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="-787101069_fashion-tv" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="LIFESTYLE", FASHION TV CZECH & SLOVAK
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="LIFESTYLE", FASHION TV MIDNIGHT FHD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="-787101069_fashion-tv" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="LIFESTYLE", FASHION TV NEW YORK
+http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8?
+
+#EXTINF:-1 tvg-id="-787101069_fashion-tv" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="LIFESTYLE", FASHION TV TOKYO
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png" group-title="LIFESTYLE", FASHION TV UK
+http://80.94.54.42/fashiontv/stream/chunklist_w1498188138.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/6mTTFrpY0OuHAq82GrN0r_i2OSZcz72h-0cC2SxbQmu4JGFi6ycWTLdhx3X6NPAswA" group-title="LIFESTYLE", GLOBAL FASHION CHANNEL
+https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/5165BZYN84L._AC_SY445_.jpg" group-title="LIFESTYLE", HOTEST CHEERLEADERS filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2939?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/91J8jy7-ykL._SY400_.png" group-title="LIFESTYLE", JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/da/fb/be/dafbbe4e-21d9-c4af-754c-0e01e744f661/source/512x512bb.jpg" group-title="LIFESTYLE", LUXE TV UK
+https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIFESTYLE", MISS TOP WORLD filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2638?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/odessa-fashion-live-vipotv.png" group-title="LIFESTYLE", ODESSA FASHION
+http://cdn10.live-tv.od.ua:8081/ofod/ofod240p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/Ludacris_Party_Girls.jpg/220px-Ludacris_Party_Girls.jpg" group-title="LIFESTYLE", PARTY GIRLS filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2975?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-prod.healthline.com/hlcmsresource/images/Best-Twitter/Logos/350x350_Fitness_and_Exercise_The_Best_of_Twitter_PopSugar_Fitness.jpg" group-title="LIFESTYLE", POP SUGAR FITNESS rakuten
+https://groupnine-popsugar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/red-carpet-tv.png" group-title="LIFESTYLE", RED CARPET filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2933?protocol=hls
+
+#EXTINF:-1 tvg-id="http://www.runwaylive.com/wp-content/uploads/2017/02/runway-lux-red-200-200-icon.png" tvg-logo="http://www.runwaylive.com/wp-content/uploads/2016/06/runway-tv-bug-1.jpg" group-title="LIFESTYLE", RUNWAY TV
+https://vse-as-all1.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/thedesignnetwork1/assets/c5634f70-4821-4f4f-9a16-fab3baf707eb.png" group-title="LIFESTYLE", THE DESIGN NETWORK ENG rakuten
+https://thedesignnetwork-tdn-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.squarespace-cdn.com/content/v1/56d456ae2eeb811f87f16be1/1513248135767-AMIEXGKJTAO1Z32D8LGT/Vogue.png" group-title="LIFESTYLE", VOGUE
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvogue/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.roku.com/developer_channels/prod/192b92a9ddc2ef4690cabad1e2259740066c26f3b8313aa623fee14716c10eb1.png" group-title="LIFESTYLE", YOGA TV pluto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd&serverSideAds=false
+
+#EXTINF:-1 tvg-id="alfasport.cy" tvg-logo="https://i.imgur.com/Vq4YBIA.png" group-title="GREEK PANELLADIKA", GR CY: ALFA SPORT CYPRUS
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+
+#EXTINF:-1 tvg-id="alpha.cy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/5/55/Alpha_cyprus_logo_Image.jpg" group-title="GREEK PANELLADIKA", GR CY: ALPHA CYPRUS gd
+http://136.243.92.93:8080/alphacy/mpegts
+
+#EXTINF:-1 tvg-id="capital.cy" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR CY: CAPITAL CYPRUS gd
+http://136.243.92.93:8080/capitalcy/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jo6jIP1.jpg" group-title="GREEK PANELLADIKA", GR CY: CITY CHANNEL CYPRUS
+https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://digitaltv.com.cy/images/logo.png" group-title="GREEK PANELLADIKA", GR CY: DIGITAL TV CYPRUS
+https://l8.cloudskep.com/digital/dtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="capitalcy" tvg-logo="https://3.bp.blogspot.com/-HXYh3RTJu14/XA0LqpPW2tI/AAAAAAACSgo/FOMXk4iuK-Asg-ppJV4uo7fAIi7lRuajACLcBGAs/s1600/omega-tv-cyprus.jpg" group-title="GREEK PANELLADIKA", GR CY: OMEGA CYPRUS gd
+http://136.243.92.93:8080/omega/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/6/60/Pluscyelo.jpeg/200px-Pluscyelo.jpeg" group-title="GREEK PANELLADIKA", GR CY: PLUS CYPRUS gd
+http://136.243.92.93:8080/pluscy/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/1024px-Logo_RIK_1_2017.svg.png" group-title="GREEK PANELLADIKA", GR CY: RIK 1 CYPRUS gd
+http://136.243.92.93:8080/rik1/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/400px-Logo_RIK_2_2017.svg.png" group-title="GREEK PANELLADIKA", GR CY: RIK 2 CYPRUS gd
+http://136.243.92.93:8080/rik2/mpegts
+
+#EXTINF:-1 tvg-id="RIKSat.cy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/1200px-Logo_RIK_Sat_2017.svg.png" group-title="GREEK PANELLADIKA", GR CY: RIK SAT CYPRUS
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.seen.cy/wp-content/uploads/2020/12/seentranswhite-opa.png" group-title="GREEK PANELLADIKA", GR CY: SEEN TV CYPRUS
+http://stream.seen.cy/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="Sigma TV" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", GR CY: SIGMA CYPRUS
+https://sl2.sigmatv.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", GR CY: SIGMA CYPRUS gd
+http://136.243.92.93:8080/sigmacy/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rIt5pfv.png" group-title="GREEK PANELLADIKA", GR CY: VOULI TV CYPRUS
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://34100tv.com/wp-content/uploads/2020/10/34100-tv-logo-main.png" group-title="GREEK PANELLADIKA", GR: 34100 TV GR
+https://s1.cystream.net/live/34100/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alpha.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA gd
+http://136.243.92.93:8080/alphatv/mpegts
+
+#EXTINF:-1 tvg-id="ant1eu.ant1europe.eu" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/a/ac/Ant1.png/200px-Ant1.png" group-title="GREEK PANELLADIKA", GR: ANT1 EUROPE
+http://5.135.92.136:42692/out/u/atsykmssuyrsyhth.m3u8
+
+#EXTINF:-1 tvg-id="ant1.gr" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR: ANT1 gd
+http://136.243.92.93:8080/ant1/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bci24news.com/wp-content/uploads/2020/10/bci24logo.png" group-title="GREEK PANELLADIKA", GR: BCI 24 NEWS
+https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eptsports.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT SPORTS 4
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT SPORTS 5
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT SPORTS gd
+http://136.243.92.93:8080/ertsport/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/400px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT SPORTS WORLDWIDE
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
+
+#EXTINF:-1 tvg-id="ERT World" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/8/89/Ertworld2020.png/200px-Ertworld2020.png" group-title="GREEK PANELLADIKA", GR: ERT WORLD
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+
+#EXTINF:-1 tvg-id="ERT World" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/8/89/Ertworld2020.png/200px-Ertworld2020.png" group-title="GREEK PANELLADIKA", GR: ERT WORLD  WORLDWIDE
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+
+#EXTINF:-1 tvg-id="ept1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT1
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT1 gd
+http://136.243.92.93:8080/ert1/mpegts
+
+#EXTINF:-1 tvg-id="ΕΡΤ1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT1 WORLDWIDE
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1_ww/ert_1_wwmedium.m3u8
+
+#EXTINF:-1 tvg-id="ept2.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT2 gd
+http://136.243.92.93:8080/ert2/mpegts
+
+#EXTINF:-1 tvg-id="ΕΡΤ2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT2 WORLDWIDE
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2_ww/ert_2_wwmedium.m3u8
+
+#EXTINF:-1 tvg-id="ept3.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/400px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/400px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT3 gd
+http://136.243.92.93:8080/ert3/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="GREEK PANELLADIKA", GR: EURONEWS gd
+http://136.243.92.93:8080/euronews/mpegts
+
+#EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="GREEK PANELLADIKA", GR: EXPLORE
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/uet8P2n.jpg" group-title="GREEK PANELLADIKA", GR: GREEK VOICE
+http://wpso.com:1936/hls/wzra.m3u8
+
+#EXTINF:-1 tvg-id="kontrachannel.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/b/b8/Kontra_channel_new_logo.png" group-title="GREEK PANELLADIKA", GR: KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTINF:-1 tvg-id="makedoniatv.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA basic50
+http://basic-iptvesun.com:8080//live/carter/GUV1bMq2VK/3085.ts
+
+#EXTINF:-1 tvg-id="GR:Makedonia Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV 100
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/825
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://koproskyla.com/wp-fakelos/uploads/2013/03/mega-channel-greece.jpg" group-title="GREEK PANELLADIKA", GR: MEGA
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b732000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://koproskyla.com/wp-fakelos/uploads/2013/03/mega-channel-greece.jpg" group-title="GREEK PANELLADIKA", GR: MEGA BUP
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://koproskyla.com/wp-fakelos/uploads/2013/03/mega-channel-greece.jpg" group-title="GREEK PANELLADIKA", GR: MEGA gd
+http://136.243.92.93:8080/megatv/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/2tB3wqn.png" group-title="GREEK PANELLADIKA", GR: MONTREAL GREEK TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://liveq.tv/liveq.tv/img/ca-Net_TV_Toronto.jpg" group-title="GREEK PANELLADIKA", GR: NETV TORONTO HD
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="one.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="GREEK PANELLADIKA", GR: ONE
+https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+
+#EXTINF:-1 tvg-id="openbeyond.gr" tvg-logo="https://cdn.mikrofwno.gr/wp-content/uploads/2018/09/898f27_2.png" group-title="GREEK PANELLADIKA", GR: OPEN
+https://liveopen.siliconweb.com/openTvLive/OpenLive2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.mikrofwno.gr/wp-content/uploads/2018/09/898f27_2.png" group-title="GREEK PANELLADIKA", GR: OPEN gd
+http://136.243.92.93:8080/opentv/mpegts
+
+#EXTINF:-1 tvg-id="Skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI gd
+http://136.243.92.93:8080/skaitv/mpegts
+
+#EXTINF:-1 tvg-id="Star" tvg-logo="https://www.star.gr/tv/Content/Media/logo_v2.png" group-title="GREEK PANELLADIKA", GR: STAR
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.star.gr/tv/Content/Media/logo_v2.png" group-title="GREEK PANELLADIKA", GR: STAR gd
+http://136.243.92.93:8080/startv/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/1d/TLC_HD_Europa.png" group-title="GREEK PANELLADIKA", GR: TLC GREECE gd
+http://136.243.92.93:8080/tlc/mpegts
+
+#EXTINF:-1 tvg-id="Vouli.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/1/17/Parliament-Television_of_Greece.png" group-title="GREEK PANELLADIKA", GR: VOULI
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+
+#EXTINF:-1 tvg-id="4Ε" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="GREEK PERIFEREIAKA", 4E
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AigaioTV.gr" tvg-logo="http://i.imgur.com/jYdwvZB.png" group-title="GREEK PERIFEREIAKA", AIGAIO TV
+https://tna5.bozztv.com/aigaiotv1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/aYgRkkB.jpg" group-title="GREEK PERIFEREIAKA", AKRITAS TV
+http://akritastv.flashmediacast.com:1935/akritastv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/aYgRkkB.jpg" group-title="GREEK PERIFEREIAKA", AKRITAS TV BUP
+https://5dcab9aed5331.streamlock.net/akritastv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ALERT.gr" tvg-logo="https://www.alerttv.com.gr/uc/logo.png" group-title="GREEK PERIFEREIAKA", ALERT
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/39l3uRU.jpg" group-title="GREEK PERIFEREIAKA", ALFA DRAMAS
+http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/H3xtBV3.jpg" group-title="GREEK PERIFEREIAKA", ALITHEIA TV
+https://vdo.alphaserver.gr:3989/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/SWPpbJd.jpg" group-title="GREEK PERIFEREIAKA", ALPHA CHANNEL
+https://bit.ly/2J8Fw8p
+
+#EXTINF:-1 tvg-id="ΑΡΤ" tvg-logo="noimage.png" group-title="GREEK PERIFEREIAKA", ART
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg" group-title="GREEK PERIFEREIAKA", ART TV
+http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PERIFEREIAKA", ASTRA TV
+https://tna5.bozztv.com/astratv/index.m3u8
+
+#EXTINF:-1 tvg-id="ATTICA TV" tvg-logo="https://i.imgur.com/s3qWC9W.png" group-title="GREEK PERIFEREIAKA", ATTICA TV
+https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/s3qWC9W.png" group-title="GREEK PERIFEREIAKA", ATTICA TV BUP
+http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZZCDm3R.jpg" group-title="GREEK PERIFEREIAKA", AVANTI TV
+https://www.youtube.com/watch?v=IZehSGMWxIo
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.inkefalonia.gr/media/k2/items/cache/071b165a2d2a4eef27d7fc765395e496_XL.jpg" group-title="GREEK PERIFEREIAKA", AXELWOS TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ena.gr" tvg-logo="https://i.imgur.com/T4yeVjJ.png" group-title="GREEK PERIFEREIAKA", CENTER TV
+https://video.streams.ovh:1936/CENTER_TELEVISION/CENTER_TELEVISION/master.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.gr" tvg-logo="https://i.imgur.com/H6s5t1z.jpg" group-title="GREEK PERIFEREIAKA", CHANNEL 9
+https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.gr" tvg-logo="http://i.imgur.com/24uaLwh.png" group-title="GREEK PERIFEREIAKA", CHANNEL 9 BUP
+http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/w0UIKte.png" group-title="GREEK PERIFEREIAKA", CORFU TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MaAys0D.png" group-title="GREEK PERIFEREIAKA", DIAVATA TV HD
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0klufvz.jpg" group-title="GREEK PERIFEREIAKA", DIKTYO 1
+http://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiktyoTV.gr" tvg-logo="https://i.imgur.com/IH0xIoZ.png" group-title="GREEK PERIFEREIAKA", DIKTYO TV
+https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ASNgEZI.jpg" group-title="GREEK PERIFEREIAKA", E TV
+http://176.9.30.75:1935/live/epsilon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XQyysct.jpg" group-title="GREEK PERIFEREIAKA", EGNATIA TV
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/nxoHQqz.png" group-title="GREEK PERIFEREIAKA", EKKLHSIA TV HD
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PERIFEREIAKA", ELLAS TV
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+
+#EXTINF:-1 tvg-id="ena.gr" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png" group-title="GREEK PERIFEREIAKA", ENA CHANNEL
+http://176.9.123.140:1935/1c/stream/master.m3u8
+
+#EXTINF:-1 tvg-id="IPIROSTV.gr" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png" group-title="GREEK PERIFEREIAKA", EPIRUS TV1
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Epsilon TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" group-title="GREEK PERIFEREIAKA", EPSILON TV
+https://neotv.streamings.gr/live/tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/jdMlstR.jpg" group-title="GREEK PERIFEREIAKA", FAROS TV
+https://s1.cystream.net/live/faros1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/jdMlstR.jpg" group-title="GREEK PERIFEREIAKA", FAROS TV2
+https://s1.cystream.net/live/faros2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg" group-title="GREEK PERIFEREIAKA", HELLENIC TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" group-title="GREEK PERIFEREIAKA", HIGH TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ΗΛΕΚΤΡΑ" tvg-logo="https://i.imgur.com/SI8Ny3X.png" group-title="GREEK PERIFEREIAKA", HLEKTRA TV
+http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
+
+#EXTINF:-1 tvg-id="ΙΟΝΙΑΝ TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG" group-title="GREEK PERIFEREIAKA", IONIAN CHANNEL
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gn5sdCt.png" group-title="GREEK PERIFEREIAKA", IRIDA TV
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png" group-title="GREEK PERIFEREIAKA", KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTINF:-1 tvg-id="Κρήτη TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926558/KRHTH_TV.png" group-title="GREEK PERIFEREIAKA", KPHTH TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PERIFEREIAKA", KRITH TV
+http://live.cretetv.gr:1935/cretetv/myStream/chunklist_w1230587515.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51265944/LYCHNOS.PNG" group-title="GREEK PERIFEREIAKA", LYCHNOS
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TabBmOc.png" group-title="GREEK PERIFEREIAKA", MARON TV
+https://video.connect4.gr/live/marontv/marontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" group-title="GREEK PERIFEREIAKA", MESOGEIOS TV
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/nwInqes.png" group-title="GREEK PERIFEREIAKA", MESSINIA WEB TV
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PERIFEREIAKA", Nea TV
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+
+#EXTINF:-1 tvg-id="Νέα Τηλεόραση Κρήτης" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" group-title="GREEK PERIFEREIAKA", NEA TV
+https://live.neatv.gr:8888/hls/neatv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dW1bcD2.jpg" group-title="GREEK PERIFEREIAKA", NOTIOI TV
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tZnziRp.jpg" group-title="GREEK PERIFEREIAKA", NS TV
+http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9YFieqB.jpg" group-title="GREEK PERIFEREIAKA", PELLA TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qa3Lurc.png" group-title="GREEK PERIFEREIAKA", PLP
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028329/R_CHANNEL.png" group-title="GREEK PERIFEREIAKA", R CHANNEL
+https://video.connect4.gr/live/tvrodopi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png" group-title="GREEK PERIFEREIAKA", SAMIAKI TV
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" group-title="GREEK PERIFEREIAKA", START TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/65rLvo2.png" group-title="GREEK PERIFEREIAKA", SYROS TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/50028330/THRAKINET.png" group-title="GREEK PERIFEREIAKA", THRAKI NET
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png" group-title="GREEK PERIFEREIAKA", TOP CHANNEL
+https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/nAzfWx5.png" group-title="GREEK PERIFEREIAKA", TRT TV
+http://trtstream.hellasnet.tv:1935/rest/trt2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV 100" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45193860/TV_100.png" group-title="GREEK PERIFEREIAKA", TV 100
+https://live.fm100.gr/hls/tv100/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png" group-title="GREEK PERIFEREIAKA", TV CRETA
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png" group-title="GREEK PERIFEREIAKA", TV CRETA BUP
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/2hU849d.jpg" group-title="GREEK PERIFEREIAKA", TV DIPSO
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186739/TILE_EPILOGES.png" group-title="GREEK PERIFEREIAKA", TV EPILOGES
+https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GREEK PERIFEREIAKA", ΚΡΉΤΗ TV
+http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="WORLD NEWS", NEWS: 24/7 CANAL DE NOTICIAS
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="WORLD NEWS", NEWS: 30A INVESTMENT PITCH
+http://www.30a-tv.com/InvPit.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="ABC News" tvg-logo="https://i.imgur.com/XfBb8Pj.png" group-title="WORLD NEWS", NEWS: ABC NEWS ALBANIA
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: ABC NEWS AUSTRALIA
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: ABC NEWS LIVE
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: AFRICA NEWS rakuten
+https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="WORLD NEWS", NEWS: AL JAZEERA ENGLISH
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: ARIANA NEWS
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="WORLD NEWS", NEWS: ARIRANG KOREA
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.armnewstv.am/wp-content/uploads/2015/06/logo.png" group-title="WORLD NEWS", NEWS: ARMENIA NEWS ott
+http://ott-cdn.ucom.am/s11/index.m3u8
+
+#EXTINF:-1 tvg-id="https://i.imgur.com/DaYMzz8.jpg" tvg-logo="https://2017.catradeforum.org/wp-content/uploads/2017/09/atamekenlogo4.png" group-title="WORLD NEWS", NEWS: ATAMEKEN BUSINESS
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.radio.se/images/broadcasts/0a/d4/27575/c175.png" group-title="WORLD NEWS", NEWS: BBC ARAB mrnova
+http://xcwsnl28.mrnova.online:80/live/60146_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="WORLD NEWS", NEWS: BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="WORLD NEWS", NEWS: BERITA SATU ENGLISH
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BFM Business" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="WORLD NEWS", NEWS: BFM BUSINESS
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
+
+#EXTINF:-1 tvg-id="https://i.imgur.com/4buTOS3.png" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/BFM_Paris_logo_2016.svg/langfr-320px-BFM_Paris_logo_2016.svg.png" group-title="WORLD NEWS", NEWS: BFM PARIS
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4pEmcFH.png" group-title="WORLD NEWS", NEWS: BIZ TV
+https://thegateway.app/BizAndYou/Biz_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izJbM.zx_eGg/v0/-1x-1.png" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61nBZDp37jL.png" group-title="WORLD NEWS", NEWS: BLOOMBERG ASIA
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-bloomberg-ht-8035.jpg" group-title="WORLD NEWS", NEWS: BLOOMBERG HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:-1 tvg-id="http://advisorcentral.cmgwealth.com/wp-content/uploads/2014/08/bloomberg-logo.jpg" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61nBZDp37jL.png" group-title="WORLD NEWS", NEWS: BLOOMBERG US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/31/Business_Channel_T%C3%BCrk_logosu.png" group-title="WORLD NEWS", NEWS: BUSINESS CHANNEL TÜRK
+https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Canal24horas.es" tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="WORLD NEWS", NEWS: CANAL 24 HORAS
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/media/Ds7rby1W0AE8jhv.png" group-title="WORLD NEWS", NEWS: CANLI 24 TURK blutv
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="CBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/1200px-CBC_Logo_1992-Present.svg.png" group-title="WORLD NEWS", NEWS: CBC NEWS CANADA
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="WORLD NEWS", NEWS: CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="WORLD NEWS", NEWS: CGTN ARABIC
+http://livear.cgtn.com/1000a/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png" group-title="WORLD NEWS", NEWS: CHANNEL NEWS ASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Cheddar_2019.png/220px-Cheddar_2019.png" group-title="WORLD NEWS", NEWS: CHEDDAR
+http://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+
+#EXTINF:-1 tvg-id="tvg-logohttps://cdn-images-1.medium.com/max/1600/1*IiN-2aKkPFTIk_ZCSNqXqQ.jpeg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Cheddar_2019.png/220px-Cheddar_2019.png" group-title="WORLD NEWS", NEWS: CHEDDAR BIG NEWS
+https://live.chdrstatic.com/cbn/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Cheddar_2019.png/220px-Cheddar_2019.png" group-title="WORLD NEWS", NEWS: CHEDDAR NEWS
+https://live.chdrstatic.com/cheddar/primary/6.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image3.mouthshut.com/images/imagesp/925754852s.jpg" group-title="WORLD NEWS", NEWS: CNBC AWAAZ
+https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image3.mouthshut.com/images/imagesp/925754852s.jpg" group-title="WORLD NEWS", NEWS: CNBC AWAAZ BUP
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image3.mouthshut.com/images/imagesp/925754852s.jpg" group-title="WORLD NEWS", NEWS: CNBC AWAZ ARAB mrnova
+http://xcwsnl28.mrnova.online:80/live/60155_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: CNBC TV18 BUP
+https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/120px-CNN-International-Logo.svg.png" group-title="WORLD NEWS", NEWS: CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternationalHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/120px-CNN-International-Logo.svg.png" group-title="WORLD NEWS", NEWS: CNN INTERNATIONAL
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="DW DE" tvg-logo="https://git.io/JOTLM" group-title="WORLD NEWS", NEWS: DW
+http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://git.io/JOTLM" group-title="WORLD NEWS", NEWS: DW ARAB mrnova
+http://xcwsnl28.mrnova.online:80/live/60149_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/87/a6/f7/87a6f7a17a1e9a95e4b28c3822568b48.png" group-title="WORLD NEWS", NEWS: DW ENGLISH
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.etimg.com/photo/60882360.cms" group-title="WORLD NEWS", NEWS: ET NOW
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.etimg.com/photo/60882360.cms" group-title="WORLD NEWS", NEWS: ET NOW ECONOMIC TIME
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="WORLD NEWS", NEWS: EURONEWS BRASIL rakuten
+https://rakuten-euronews-8-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="WORLD NEWS", NEWS: EURONEWS ENG rakuten
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="WORLD NEWS", NEWS: EURONEWS FRANCE rakuten
+https://rakuten-euronews-10-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="WORLD NEWS", NEWS: EURONEWS GERMAN rakuten
+https://rakuten-euronews-13-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="WORLD NEWS", NEWS: EURONEWS ITALIAN rakuten
+https://rakuten-euronews-11-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="WORLD NEWS", NEWS: EURONEWS PT rakuten
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://static.euronews.com/articles/332964/1440x810_332964.jpg" group-title="WORLD NEWS", NEWS: EURONEWS RUSSIAN
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="WORLD NEWS", NEWS: EURONEWS SPAIN rakuten
+https://rakuten-euronews-12-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="WORLD NEWS", NEWS: EURONEWS SWE rakuten
+https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gujims.com/media/cache/thumbnail/uploads/assets/9831046b1165779d6301dbbb4825960d660cec91.png" group-title="WORLD NEWS", NEWS: EXPRESSEN TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: FOX 5 NEWS
+https://lnc-waga-fox-aws.tubi.video/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2020/08/newsnow-fox-old-logo.jpg" group-title="WORLD NEWS", NEWS: FOX NEWS NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/600px-Fox_News_Channel_logo.svg.png" group-title="WORLD NEWS", NEWS: FOX NEWS USA
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: FRANCE 24 ARABIC
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: FRANCE 24 ENGLISH
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: FRANCE 24 ESPAÑOL
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: FRANCE 24 FRENCH
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="Global News Montreal" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="WORLD NEWS", NEWS: GLOBAL NEWS MONTREAL
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.haber61.net/images/haberler/no_headline.jpg" group-title="WORLD NEWS", NEWS: HABER 61 TURK cdn
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="India News" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: INDIA NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/218TVChannel.PNG" group-title="WORLD NEWS", NEWS: LIBYA 218 NEWS
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/us/MSNBC.us.png" group-title="WORLD NEWS", NEWS: MSNBC
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="WORLD NEWS", NEWS: NBC NEWS NOW
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/GSUkHd0wFWqql3CdCDgX5wc_AsYl6f3_9I9KA2yU6dadakz_EFu8b4ZrSaJaK6OW-H4" group-title="WORLD NEWS", NEWS: NDTV PROFIT
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8
+
+#EXTINF:-1 tvg-id="NEWS 24 Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/120px-News_24_%28Albania%29.svg.png" group-title="WORLD NEWS", NEWS: NEWS 24 ALBANIA
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="WORLD NEWS", NEWS: NEWS 24 ARAB
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: NEWSMAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: NEWSMAX ENG samsung
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/Newsy_2015_Logo.png" group-title="WORLD NEWS", NEWS: NEWSY samsung
+https://newsy-newsy-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NH Nieuws" tvg-logo="https://i.imgur.com/SQPVOwn.png" group-title="WORLD NEWS", NEWS: NH NIEUWS NL
+https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="WORLD NEWS", NEWS: NHK WORLD
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: NTV 24 NEWS JAPAN
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://internetowa.tv/img/logo/polsat-news.png" group-title="WORLD NEWS", NEWS: POLSAT NEWS internetowa
+http://internetowa.tv/?c=hlsPlay&channel=polsatnews&token=54c45d996966de0ff55b4b89950c3f07d246d87cf009e8842797cfea0eff9847be3a5b40e5d33c8c9c5ade12530c9db1006ee3ba2417ed31dd5c251ad27abf03
+
+#EXTINF:-1 tvg-id="Porto Canal Ⓢ" tvg-logo="https://i.imgur.com/wsyvP2H.png" group-title="WORLD NEWS", NEWS: PORTO CANAL PT
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: PRESS TV IRAN
+https://live1.presstv.ir/live/presstv_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Publika_logo_%282017%29.png" group-title="WORLD NEWS", NEWS: PUBLIKA MOLDOVA
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+
+#EXTINF:-1 tvg-id="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/200px-Rai_1_-_Logo_2016.svg.png" group-title="WORLD NEWS", NEWS: RAI 1 IT ott
+http://ott-cdn.ucom.am/s29/04.m3u8
+
+#EXTINF:-1 tvg-id="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rai_News_24_2010_Logo.svg/1200px-Rai_News_24_2010_Logo.svg.png" group-title="WORLD NEWS", NEWS: RAI NEWS 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Reuters TV" tvg-logo="https://www.pngkit.com/png/full/227-2275736_png-thomson-reuters-logo-svg.png" group-title="WORLD NEWS", NEWS: REUTERS TV rakuten
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RT America-US" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="WORLD NEWS", NEWS: RT AMERICA
+https://rt-usa.secure.footprint.net/1105.m3u8
+
+#EXTINF:-1 tvg-id="Rusiya Al Yaum ARB" tvg-logo="https://i.imgur.com/XYJEasM.png" group-title="WORLD NEWS", NEWS: RT ARABIC
+https://rt-arab.secure.footprint.net/1104.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XYJEasM.png" group-title="WORLD NEWS", NEWS: RT EN ESPAÑOL
+http://rt-esp.secure.footprint.net/1102.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="WORLD NEWS", NEWS: RT FRANCE
+http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="WORLD NEWS", NEWS: RT INTERNATIONAL
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51lCbYAJODL.png" group-title="WORLD NEWS", NEWS: SKY NEWS
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+#EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51O3GG0etzL.png" group-title="WORLD NEWS", NEWS: SKY NEWS ARABIA
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="WORLD NEWS", NEWS: TELESUR ENGLISH
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TOP News" tvg-logo="https://tvonline.bg/wp-content/uploads/top-news-tv.jpg" group-title="WORLD NEWS", NEWS: TOP NEWS ALBANIA 93
+http://93.157.62.180/TopNews/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: TRT ARAB mrnova
+http://xcwsnl28.mrnova.online:80/live/60151_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/3S4qfzGxpmvzR0WNm1tCn9LX4WNf7BVUmWYPbAILA2e9qDJaNeQqK8xMYGWz8I_TkC4" group-title="WORLD NEWS", NEWS: TRT HABER TURK
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png" group-title="WORLD NEWS", NEWS: TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="WORLD NEWS", NEWS: TV PERU NOTICIAS
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-id="TV2000 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/1280px-Logo_tv2000_2015.svg.png" group-title="WORLD NEWS", NEWS: TV2000 ITALIA
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://2.bp.blogspot.com/-pzoCj7NjeAQ/U53y_qv8III/AAAAAAAAMUQ/UxCU8VyuBVI/s1600/Logo_tv5_europe.png" group-title="WORLD NEWS", NEWS: TV5 MONDE EUROPE
+https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="WORLD NEWS", NEWS: TV5 MONDE INFO
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ia801307.us.archive.org/14/items/VOANewscasts/VOANewscasts_itemimage.png" group-title="WORLD NEWS", NEWS: VOICE OF AMERICA
+https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://jointhespree.com/wp-content/uploads/2021/06/logo-YahooFinance-white.png" group-title="WORLD NEWS", NEWS: YAHOO FINANCE
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="noimage.png" group-title="WORLD NEWS", NEWS: МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Россия 24 Ⓢ" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="WORLD NEWS", NEWS: РОССИЯ 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+
