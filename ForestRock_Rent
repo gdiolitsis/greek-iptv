@@ -4941,7 +4941,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/chunklist_w1651758675.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/P/popeye-logo-FD01735977-seeklogo.com.png" group-title="KIDS", 1KIDS: POPEYE TV filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4658?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4658?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", 1KIDS: THE PET COLLECTIVE
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/2000.m3u8
@@ -5007,7 +5007,7 @@ https://c.mjh.nz/101002210222/
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ebayimg.com/images/g/WIYAAOSwj4hcnYdM/s-l400.jpg" group-title="KIDS", ENG KIDS: CARTOON CLASSICS TV filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/793?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/793?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.teleon.tv/logo/contv-anime-us.png" group-title="KIDS", ENG KIDS: CONtv ANIMATION
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
@@ -5535,7 +5535,7 @@ https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/Beatles-Emblem.jpg" group-title="MUSIC TV", MUSIC: .BEATLES STORIES filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3068?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3068?protocol=m3u8
 
 #EXTINF:-1 tvg-id="http://richfield.com.my/wp-content/uploads/2018/09/live-performances-channel-1080x667.jpg" tvg-logo="https://lh3.googleusercontent.com/proxy/j7ntFj_V3G5mj9E-B_2IcCmuF92SFLr1zgCc7aP-JHjc9azaBSfsw-EoIocU1uPnY5a3CxuEQTROYvdkNCXzRrKmJttzU4D7XIat6CMHpwDEr9fWmsKcW2xLH_UHwkn5aZE3RYVrOJOp_EiXCZ42LZc" group-title="MUSIC TV", MUSIC: .BEST LIVE PERFORMANCES
 https://v2.catcast.tv/content/40330/index.m3u8
@@ -5556,7 +5556,7 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/AHZALvXY4uE/mqdefault.jpg" group-title="MUSIC TV", MUSIC: .COUNTRY IRLAND filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3683?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3683?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QCfO13m.png" group-title="MUSIC TV", MUSIC: .COUNTRY loop
 https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
@@ -5571,7 +5571,7 @@ https://ott.streann.com/loadbalancer/services/public/channels/5fac1ab92cdcdff351
 http://s3.smashmalta.com:82/live/smash/smash/12.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/50/25/country-star-vector-8035025.jpg" group-title="MUSIC TV", MUSIC: .COUNTRY STAR filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3008?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3008?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Stingray Hot Country" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .COUNTRY STINGRAY ott
 https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
