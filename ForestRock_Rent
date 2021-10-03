@@ -5658,7 +5658,7 @@ https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="MUSIC TV", MUSIC: .ROCK HOT TV filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667?protocol=
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .ROCK MUSIC TV catcast
 https://autopilot.catcast.tv/content/39484/index.m3u8
@@ -5736,7 +5736,7 @@ https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
 http://188.113.190.12/179/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: BRITROX filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3698?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3698?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png" group-title="MUSIC TV", MUSIC: C21
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
@@ -5988,7 +5988,7 @@ https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w2119561899.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Paradise-PD-Logo.png" group-title="MUSIC TV", MUSIC: PARADISE filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3611?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3611?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.parsatv.com/index_files/channels/persianamusic.jpg" group-title="MUSIC TV", MUSIC: PERSIANA MUSIC
 http://51.210.199.24/hls/stream.m3u8
@@ -6108,7 +6108,7 @@ https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/4706/extra_big_logo.png" group-title="MUSIC TV", MUSIC: TALENT WATCH filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4706?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4706?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png" group-title="MUSIC TV", MUSIC: TELEMUSICA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
@@ -6240,10 +6240,10 @@ https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/chunklist_b19960
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/2819/big_logo.png" group-title="LIFESTYLE", BIKINI DOWN UNDER filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2819?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2819?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/6q284-T6VK9JZK9VE-Full-Image_GalleryCover-en-US-1526712864134._UY500_UX667_RI_Vof0CjqgvwP3Hx3qCiv01xvgpA9ZbfxON_TTW_SX329_.jpg" group-title="LIFESTYLE", BIKINI KITCHEN filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2000?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2000?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Celebrity Scene TV" tvg-logo="http://bangshowbiz.com/wp-content/uploads/2014/10/cropped-Bang_square-e1412954847729.png" group-title="LIFESTYLE", CELEBRITY SHOWBIZ
 https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
@@ -6288,7 +6288,7 @@ http://80.94.54.42/fashiontv/stream/chunklist_w1498188138.m3u8
 https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/5165BZYN84L._AC_SY445_.jpg" group-title="LIFESTYLE", HOTEST CHEERLEADERS filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2939?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2939?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/91J8jy7-ykL._SY400_.png" group-title="LIFESTYLE", JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
@@ -6297,19 +6297,19 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIFESTYLE", MISS TOP WORLD filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2638?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2638?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/odessa-fashion-live-vipotv.png" group-title="LIFESTYLE", ODESSA FASHION
 http://cdn10.live-tv.od.ua:8081/ofod/ofod240p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/Ludacris_Party_Girls.jpg/220px-Ludacris_Party_Girls.jpg" group-title="LIFESTYLE", PARTY GIRLS filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2975?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2975?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-prod.healthline.com/hlcmsresource/images/Best-Twitter/Logos/350x350_Fitness_and_Exercise_The_Best_of_Twitter_PopSugar_Fitness.jpg" group-title="LIFESTYLE", POP SUGAR FITNESS rakuten
 https://groupnine-popsugar-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/red-carpet-tv.png" group-title="LIFESTYLE", RED CARPET filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2933?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2933?protocol=m3u8
 
 #EXTINF:-1 tvg-id="http://www.runwaylive.com/wp-content/uploads/2017/02/runway-lux-red-200-200-icon.png" tvg-logo="http://www.runwaylive.com/wp-content/uploads/2016/06/runway-tv-bug-1.jpg" group-title="LIFESTYLE", RUNWAY TV
 https://vse-as-all1.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
