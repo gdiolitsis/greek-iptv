@@ -5598,7 +5598,7 @@ http://loop-hip-hop-1.roku.wurl.com/manifest/4300.m3u8
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .JAZZ & BLUES filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/530?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/530?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Mezzo_Logo.png" group-title="MUSIC TV", MUSIC: .JAZZ & CLASSICAL MEZZO ott
 http://ott-cdn.ucom.am/s35/index.m3u8
@@ -5640,7 +5640,7 @@ https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .REGGAE filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6149?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6149?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.reggaetoreggae.com/resources/RTR%20Logo%20-%20Hebrew%20JPG.png" group-title="MUSIC TV", MUSIC: .REGGAE TO REGGAE
 https://5a37265c8355d.streamlock.net:1936/reggaeto/smil:reggaeto.smil/chunklist_w1214132962_b200000_slen.m3u8
@@ -5658,7 +5658,7 @@ https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="MUSIC TV", MUSIC: .ROCK HOT TV filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667?protocol=
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .ROCK MUSIC TV catcast
 https://autopilot.catcast.tv/content/39484/index.m3u8
