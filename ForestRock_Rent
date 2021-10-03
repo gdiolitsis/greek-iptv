@@ -642,7 +642,7 @@ http://tvguek1.com:8080/gp12f5cp5/nyz1705/7343
 http://tvguek1.com:8080/gp12f5cp5/nyz1705/119
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/66/9c/5a/669c5ae9343a6044c9a0319d3d233edc.jpg" group-title="WORLD CINEMA", .CHARLIE CHAPLIN filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Fo1I0dt.jpg" group-title="WORLD CINEMA", .GR CINE: 34100 TV GR
 https://s1.cystream.net/live/34100/playlist.m3u8
