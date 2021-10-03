@@ -210,7 +210,7 @@ https://rakuten-spotlight-10-dk.samsung.wurl.com/manifest/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/3548/extra_big_logo.png" group-title="WORLD DOCUMENTS", ENG DOC: ALIENS & UFOs filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3548?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3548?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Amazing Discoveries TV" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="WORLD DOCUMENTS", ENG DOC: AMAZING DISCOVERIES ENG
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
@@ -276,10 +276,10 @@ https://docurama.samsung.wurl.com/manifest/playlist.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.glamlayercosmatics.com/wp-content/uploads/2021/03/cropped-android-chrome-512x512-1.png" group-title="WORLD DOCUMENTS", ENG DOC: GASTRO LAB filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3005?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3005?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615SYQPs3LS._RI_.jpg" group-title="WORLD DOCUMENTS", ENG DOC: GHOST HUNTERS filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4679?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4679?protocol=m3u8
 
 #EXTINF:-1 tvg-id="History Channel (Best of)" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="WORLD DOCUMENTS", ENG DOC: HISTORY CHANNEL (BEST OF)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -309,10 +309,10 @@ https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.roku.com/developer_channels/prod/5c53709701dca00e599e2e9157288974372114e55b960f8e43c2203ef1143738.png" group-title="WORLD DOCUMENTS", ENG DOC: LIVING HISTORY filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2710?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2710?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://greendestinations.org/wp-content/uploads/2021/01/TOP-100-Logo-2021_V3_Plan-de-travail-1-e1620315951159.png" group-title="WORLD DOCUMENTS", ENG DOC: MEGA DESTINATIONS filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2678?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2678?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://fanart.tv/fanart/tv/73388/hdtvlogo/mythbusters-5047b77a2cd46.png" group-title="WORLD DOCUMENTS", ENG DOC: MYTHBUSTERS ENG pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd833b41843b56328bac189/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -366,7 +366,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c444b
 https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ3A47vVxilmFh1DGn6yUb4AqPj2Dawtpwh7PnUPw=s900-c-k-c0x00ffffff-no-rj" group-title="WORLD DOCUMENTS", ENG DOC: UFO STORIES filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4184?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4184?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1201871041548767232/BO8FNH3x_400x400.jpg" group-title="WORLD DOCUMENTS", ENG DOC: UNEARTH ENG samsung
 https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -378,7 +378,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd05b469
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d1e9e738977e2c310925/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="https://static.filmon.com/assets/channels/2954/extra_big_logo.png" tvg-logo="https://image.roku.com/developer_channels/prod/47fdcb2984415c50eff00cb6b7fcefbb9ad74298a187f76da826464289a7cd84.png" group-title="WORLD DOCUMENTS", ENG DOC: WAR CHANNEL filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2954?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2954?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Waypoint Outdoors" tvg-logo="https://i.imgur.com/moVEMe0.png" group-title="WORLD DOCUMENTS", ENG DOC: WAYPOINT OUTDOORS US samsung
 https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
@@ -396,10 +396,10 @@ https://wildearth-rakuten.amagi.tv/playlist.m3u8
 https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://globuswine.dk/bab/wp-content/uploads/2016/10/Nyt-Globus-Wine-LOGO-Hvid.png" group-title="WORLD DOCUMENTS", ENG DOC: WORLD OF WINE filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3164?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3164?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s2.dmcdn.net/v/C-mZ31MacJAETetq-/x1080" group-title="WORLD DOCUMENTS", ENG DOC: WORLD WAR 2 filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/381?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/381?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mma.prnewswire.com/media/1335349/Xplore_logo.jpg" group-title="WORLD DOCUMENTS", ENG DOC: XPLORE ENG samsung
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
@@ -852,10 +852,10 @@ https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://i1.wp.com/trendingawards.com/wp-content/uploads/2020/01/the-oscars-2020-logo-01-700x400-1.jpg" tvg-logo="https://cdn1-production-images-kly.akamaized.net/l22hYxYow6mYzkZBK0Ufu6xGoU4=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/813564/original/031048500_1424263553-OSCAR-1822015.jpg" group-title="WORLD CINEMA", ENG CINE: AWARD CINEMA filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3086?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3086?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/2951/extra_big_logo.png" group-title="WORLD CINEMA", ENG CINE: BANNED WESTERNS filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2951?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2951?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Black Cinema" tvg-logo="https://i.imgur.com/Zh1QGW9.png" group-title="WORLD CINEMA", ENG CINE: BLACK CINEMA ENG pluto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -867,10 +867,10 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2957
 https://brat-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/CBS_Action_2012.svg/revision/latest/scale-to-width-down/284?cb=20191219151918" group-title="WORLD CINEMA", ENG CINE: CBS ACTION filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/8/89/CBSDramaJapan.png/revision/latest/scale-to-width-down/284?cb=20210418221703" group-title="WORLD CINEMA", ENG CINE: CBS DRAMA filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://n.b5z.net/zirw/1591727514684/i/u/10051133/i/Chargec.jpg" group-title="WORLD CINEMA", ENG CINE: CHARGE!
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
@@ -924,7 +924,7 @@ https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-drama-13-ie.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1200px-Film4_logo_2018.svg.png" group-title="WORLD CINEMA", ENG CINE: FILM 4 filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Film Detective" tvg-logo="https://i.imgur.com/4aFLH9g.png" group-title="WORLD CINEMA", ENG CINE: FILM DETECTIVE ENG google
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
@@ -954,13 +954,13 @@ https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 https://gravitas-movies.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Great%21_Movies_Action_logo.webp/364px-Great%21_Movies_Action_logo.webp.png" group-title="WORLD CINEMA", ENG CINE: GREAT MOOVIES ACTION filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6212?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6212?protocol=m3u8
 
-#EXTINF:-1 tvg-id="https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6218?protocol=hls" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Great%21_Movies_Classic_logo.png" group-title="WORLD CINEMA", ENG CINE: GREAT MOOVIES CLASSIC filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6218?protocol=hls
+#EXTINF:-1 tvg-id="https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6218?protocol=m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Great%21_Movies_Classic_logo.png" group-title="WORLD CINEMA", ENG CINE: GREAT MOOVIES CLASSIC filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6218?protocol=m3u8
 
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Great%21_Movies_logo.webp/377px-Great%21_Movies_logo.webp.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Great%21_Movies_logo.webp/377px-Great%21_Movies_logo.webp.png" group-title="WORLD CINEMA", ENG CINE: GREAT MOOVIES filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6215?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6215?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x821.png" group-title="WORLD CINEMA", ENG CINE: HBO HITS
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
@@ -975,10 +975,10 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www2.iflix.com/images/iflixLogoMain.png" group-title="WORLD CINEMA", ENG CINE: IFLIX MOOVIES filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1991?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1991?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9M2_RTfRQtjgVSSZXucdCP4WCAGZs74eOg&usqp=CAU" group-title="WORLD CINEMA", ENG CINE: KUNG FU CLASSICS filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1967?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1967?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/2d47fc_939656e13ceb4280afe8aae09b676a17~mv2.jpg/v1/fill/w_705,h_480,al_c,q_80/2d47fc_939656e13ceb4280afe8aae09b676a17~mv2.webp" group-title="WORLD CINEMA", ENG CINE: LONESTAR ENG rakuten
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
@@ -1053,7 +1053,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfedccc
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/5582/extra_big_logo.png" group-title="WORLD CINEMA", ENG CINE: WESTERNS filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5582?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5582?protocol=m3u8
 
 #EXTINF:-1 tvg-id="5d4bdb635ce813b38639e6a3" tvg-logo="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" group-title="WORLD CINEMA", ENG CINE: WESTERNS UK pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4bdb635ce813b38639e6a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -2724,37 +2724,37 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6010
 https://ss.90minlive.online/live/varzesh-h/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/400px-ITV_logo_2019.svg.png" group-title="WORLD SPORTS", SP: ITV 1 filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/400px-ITV_logo_2019.svg.png" group-title="WORLD SPORTS", SP: ITV 1 PLUS+ filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1817?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1817?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/400px-ITV_logo_2019.svg.png" group-title="WORLD SPORTS", SP: ITV 1 tvtap
 http://stream.tvtap.live:8081/live/itv1.stream/playlist.m3u8?wmsAuthSign=null
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/400px-ITV2_logo_2015.svg.png" group-title="WORLD SPORTS", SP: ITV 2 filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/400px-ITV2_logo_2015.svg.png" group-title="WORLD SPORTS", SP: ITV 2 PLUS+ filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/400px-ITV2_logo_2015.svg.png" group-title="WORLD SPORTS", SP: ITV 2 tvtap
 http://stream.tvtap.live:8081/live/itv2.stream/playlist.m3u8?wmsAuthSign=null
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/400px-ITV3_logo_2013.svg.png" group-title="WORLD SPORTS", SP: ITV 3 filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/400px-ITV3_logo_2013.svg.png" group-title="WORLD SPORTS", SP: ITV 3 PLUS+ filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1823?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1823?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/400px-ITV3_logo_2013.svg.png" group-title="WORLD SPORTS", SP: ITV 3 tvtap
 http://stream.tvtap.live:8081/live/itv3.stream/playlist.m3u8?wmsAuthSign=null
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/440px-ITV4_logo_2013.svg.png" group-title="WORLD SPORTS", SP: ITV 4 filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/440px-ITV4_logo_2013.svg.png" group-title="WORLD SPORTS", SP: ITV 4 PLUS+ filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/440px-ITV4_logo_2013.svg.png" group-title="WORLD SPORTS", SP: ITV 4 tvtap
 http://stream.tvtap.live:8081/live/itv4.stream/playlist.m3u8?wmsAuthSign=null
@@ -3645,7 +3645,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7161
 http://tvguek1.com:8080/gp12f5cp5/nyz1705/8293
 
 #EXTINF:-1 tvg-id="https://nowontv.info/filmon.php?url=" tvg-logo="https://e7.pngegg.com/pngimages/41/171/png-clipart-logo-sport1-germany-television-channel-sports-sports-logo-television-text.png" group-title="WORLD SPORTS", SP: SPORT 1 DE filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4121?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4121?protocol=m3u8
 
 #EXTINF:-1 tvg-id="818" tvg-logo="https://e7.pngegg.com/pngimages/41/171/png-clipart-logo-sport1-germany-television-channel-sports-sports-logo-television-text.png" group-title="WORLD SPORTS", SP: SPORT 1 DE monster
 http://cn04.iptv.monster/play/818/74F5EB24725C911/video.m3u8
@@ -4585,7 +4585,7 @@ https://edgesports-row-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/374/extra_big_logo.png" group-title="HOBBY TV", SP: ENGLISH FOOTBALL HISTORY filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/374?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/374?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="HOBBY TV", SP: EXTREME RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -4600,13 +4600,13 @@ http://stream.tvtap.live:8081/live/boxnation.stream/playlist.m3u8
 http://ott-cdn.ucom.am/s86/04.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://t4.ftcdn.net/jpg/01/87/20/39/360_F_187203943_Yv7LEyI7iS99Ebha9cGUQ9acebr7ooDD.jpg" group-title="HOBBY TV", SP: FIGHT BOXING filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3143?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3143?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Golden_Boy_Promotions.gif" group-title="HOBBY TV", SP: FIGHT BOXING GOLDEN BOYS filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4247?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4247?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gamefabrique.ru/i/genesis/boxing-legends-of-the-ring.png" group-title="HOBBY TV", SP: FIGHT BOXING LEGENDS filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4163?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4163?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT BOXING pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -4636,7 +4636,7 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT LUCHA LIBRE filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3158?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3158?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static-39.sinclairstoryline.com/resources/media/c56ff129-ecea-4a52-9e47-f1ec84258065-smallScale_MMAJUNKIEPIC3.JPG?1585716849124" group-title="HOBBY TV", SP: FIGHT MMA JUNKIE
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby:iptvcat.com
@@ -4654,7 +4654,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://armedforcessports.defense.gov/portals/19/Images/boxing.jpg" group-title="HOBBY TV", SP: FIGHT US ARMY BOXING filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3581?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3581?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="HOBBY TV", SP: FIGHT WRESTLING JORDAN WORLD
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
@@ -4795,7 +4795,7 @@ https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: SNOOKER LEGENDS filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3325?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3325?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/1ldEcZilkVU/maxresdefault.jpg" group-title="HOBBY TV", SP: SNOWY MOUNTAINS TV BUP
 http://c.mjh.nz/snowy-mountains/
@@ -4915,7 +4915,7 @@ https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
 https://cp.sradiotv.com:1936/8008/8008/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/66/9c/5a/669c5ae9343a6044c9a0319d3d233edc.jpg" group-title="KIDS", 1KIDS: CHARLIE CHAPLIN filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9saXZlL3doaXRlL2N1dGUtem9uZS5wbmc" group-title="KIDS", 1KIDS: CUTE ZONE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
@@ -4927,13 +4927,12 @@ https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/Felix_The_Cat-logo-4F72F6B544-seeklogo.com.png" group-title="KIDS", 1KIDS: FELIX THE CAT filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5546?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5546?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61UlyCYoyPL.png" group-title="KIDS", 1KIDS: LEARN ENGLISH 1 filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3794?protocol=hls
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3794?protocol=m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/618rwbhEO-L.png" group-title="KIDS", 1KIDS: LEARN ENGLISH 2 filmon
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5726?protocol=hls
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/
 
 #EXTINF:-1 tvg-id="Lego Toons" tvg-logo="https://media.designrush.com/inspirations/129839/conversions/_1611238414_61_lego-logo-1-preview.jpg" group-title="KIDS", 1KIDS: LEGO TOONS US
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
