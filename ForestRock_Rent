@@ -1,42 +1,69 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.seekpng.com/png/full/305-3054187_fishing-tv-fishing-tv-logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR DOC: FISHING GREEK gd
+http://136.243.92.93:8080/fishing/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/GR/grd-channel/normal.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR DOC: GR Discovery CHANNEL
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5dc2c444bac1f70009ca756e" tvg-logo="https://images.pluto.tv/channels/5dc2c444bac1f70009ca756e/colorLogoPNG.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR DOC: TRAVEL GR gd
+http://136.243.92.93:8080/travel/mpegts
+
+#EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR DOC: XPLORE GREEK
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="alfasport.cy" tvg-logo="https://i.imgur.com/Vq4YBIA.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR SP: ALFA SPORT CYPRUS
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+
+#EXTINF:-1 tvg-id="https://cdn.simplesite.com/i/21/fb/284571206140951329/i284571214506559780._szw1280h1280_.jpg" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR SP: CYTA SPORTS CYPRUS 213
+http://213.7.193.54:4000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/09/Nova-Greece.jpg?w=640&ssl=1" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR SP: NOVA 1 (SPORT+CINEMA) 91.132
+http://91.132.172.169:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/09/Nova-Greece.jpg?w=640&ssl=1" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR SP: NOVA 2 (SPORT+CINEMA) 91.132
+http://91.132.172.169:8000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assets.kotsovolos.gr/brand/Cosmote.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR SP: OTE SPORT + NAUTICAL CH 91.132
+http://91.132.172.169:8000/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-id="eptsports.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: .ERT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: .ERT SPORTS 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: .ERT SPORTS 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: .ERT SPORTS 4
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://34100tv.com/wp-content/uploads/2020/10/34100-tv-logo-main.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: 34100 TV GR
 https://s1.cystream.net/live/34100/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/61/Action_24.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ACTION 24 31
-http://31.177.62.174:8001/play/s149
-
-#EXTINF:-1 tvg-id="alfasport.cy" tvg-logo="https://i.imgur.com/Vq4YBIA.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ALFA SPORT CYPRUS
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 
 #EXTINF:-1 tvg-id="digea.alpha.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ALPHA 31
-http://31.177.62.174:8003/play/s116
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ALPHA gd
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ALPHA .gd
 http://136.243.92.93:8080/alphatv/mpegts
 
 #EXTINF:-1 tvg-id="alphacy" tvg-logo="https://www.ilovestyle.com/sites/default/files/alpha_kyprou_3.jpg" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ALPHA CYPRUS 185
 http://185.230.112.4:10050/play/a00m
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/a/ac/Ant1.png/200px-Ant1.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ANT1 31
-http://31.177.62.174:8003/play/s120
-
-#EXTINF:-1 tvg-id="ant1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/a/ac/Ant1.png/200px-Ant1.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ANT1 gd
+#EXTINF:-1 tvg-id="ant1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/a/ac/Ant1.png/200px-Ant1.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ANT1 .gd
 http://136.243.92.93:8080/ant1/mpegts
 
 #EXTINF:-1 tvg-id="ANT1cy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Ant1_2014_green.svg/revision/latest/scale-to-width-down/250?cb=20201104113658" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ANT1 CYPRUS 185
 http://185.230.112.4:10050/play/a00o
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.atticatv.gr/images/Attica/attica_logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ATTICA TV 31
-http://31.177.62.174:8002/play/s144
+#EXTINF:-1 tvg-id="ATTICA TV" tvg-logo="https://www.atticatv.gr/images/Attica/attica_logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ATTICA TV
+https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.atticatv.gr/images/Attica/attica_logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ATTICA TV 176.9
+http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bci24news.com/wp-content/uploads/2020/10/bci24logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: BCI 24 NEWS
 https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://e-tetradio.gr/img/path/e8606d17-c99e-4c5b-a723-4d1846a7849d_BS-Logo-web-544x180.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: BLUE SKY 31
-http://31.177.62.174:8002/play/s142
 
 #EXTINF:-1 tvg-id="capitalcy" tvg-logo="https://i.imgur.com/FU7NtJk.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: CAPITAL CYPRUS 185
 http://185.230.112.4:10050/play/a00t
@@ -44,17 +71,8 @@ http://185.230.112.4:10050/play/a00t
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jo6jIP1.jpg" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: CITY CHANNEL CYPRUS
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
 
-#EXTINF:-1 tvg-id="eptsports.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT SPORTS
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT SPORTS 2
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_3Mbps.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT SPORTS 3
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3_3Mbps.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT SPORTS 4
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews-logo-800x300.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT NEWS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 
 #EXTINF:-1 tvg-id="ert.ertworld.gr" tvg-logo="https://tvonline.bg/wp-content/uploads/ERT-WORLD-tv.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT WORLD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
@@ -62,26 +80,17 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="ERT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT1
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT1 31
-http://31.177.62.174:8000/play/s129
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT1 gd
 http://136.243.92.93:8080/ert1/mpegts
 
 #EXTINF:-1 tvg-id="ERT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT2
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT2 31
-http://31.177.62.174:8000/play/s132
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT2 gd
 http://136.243.92.93:8080/ert2/mpegts
 
 #EXTINF:-1 tvg-id="ERT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/400px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT3
 http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/400px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT3 31
-http://31.177.62.174:8000/play/s126
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/400px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT3 gd
 http://136.243.92.93:8080/ert3/mpegts
@@ -110,20 +119,11 @@ http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 tvg-id="kontrachannel.gr" tvg-logo="https://www.kmg.gr/images/2018/11/19/kontran.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kmg.gr/images/2018/11/19/kontran.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: KONTRA 31
-http://31.177.62.174:8001/play/s145
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kmg.gr/images/2018/11/19/kontran.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: KONTRA BUP
 http://kontralive.siliconweb.com/live/kontratv/HasBahCa.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: MAKEDONIA 31
-http://31.177.62.174:8003/play/s121
-
 #EXTINF:-1 tvg-id="digea.mega.gr" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: MEGA
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: MEGA 31
-http://31.177.62.174:8003/play/s119
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: MEGA gd
 http://136.243.92.93:8080/megatv/mpegts
@@ -142,9 +142,6 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 
 #EXTINF:-1 tvg-id="OPEN BEYOND" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: OPEN
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: OPEN 31
-http://31.177.62.174:8003/play/s122
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: OPEN gd
 http://136.243.92.93:8080/opentv/mpegts
@@ -170,17 +167,11 @@ http://185.230.112.4:10050/play/a015
 #EXTINF:-1 tvg-id="digea.skai.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: SKAI
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: SKAI 31
-http://31.177.62.174:8003/play/s118
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/e/eb/SkaiTV-Logo.png/640px-SkaiTV-Logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: SKAI gd
 http://136.243.92.93:8080/skaitv/mpegts
 
 #EXTINF:-1 tvg-id="digea.star.gr" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: STAR
 http://livestar.siliconweb.com/media/star1/star1.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: STAR 31
-http://31.177.62.174:8003/play/s117
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: STAR gd
 http://136.243.92.93:8080/startv/mpegts
@@ -189,7 +180,7 @@ http://136.243.92.93:8080/startv/mpegts
 http://185.230.112.4:10050/play/a018
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Vergina_Sun_-_Golden_Larnax.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: VERGINA GREECE
-https://video-weaver.ams02.hls.ttvnw.net/v1/playlist/CqUFJnTNlrCweq9L4WpemT2pvG4x6-9VmveV7-YlvX_jWiNMBCWt8SyNIk2C5qlLSM04YcTS1ZHaLlwlGRN5BCwU9EsUghrWDs24FPPTmGkQ8xvhcTd3VZsP-aFfr1j5dfIed4lC6cLKMEzSy_GJbSnvbDNINAEKVqjlNfalcNf9GikniPRl8dj1IMu3CNjMGa6-FKRw2ADEBZVW8pG2V9e8PUvwU7p6VMuF-qgcWcegBDdBOf8FxL5OczN6cSKaEQF4hZ2bVlZel3ed0gPicxsZV3WcgrimdrBlfth7HrEczKqs8h1rt_mKXQXrMKBYkNPzrxdAgCv3oFltagD2Lcrv1FHlbc_K4SZHqTvgt15wuoFgiA_Auy63cev3dX2ntYmoev3iGhYaCiDqySqjCGZYrjhjById5MChR9ZJTu_CeO7Px6ohAE_3xNqNXM17qc5VJ-czCOzParj-HzQxdk4_xUBYv_Q7cFmdnhuDBNoT5wfQMEdJZGVQ0RhMw3nEDEToL4yrJzMZwb6Bu9Vae1YC3AIQSPNinrXdzK1zKQ7KoQkHWwO4xumzmOBVPhPd7oIcPwxz1J2Cr5zNZFRfVBQZK8kHkXKWsHyksTdz8Z0szwSQ08Su8ndW76g47a8QW7ZhYXVPH5Y8kOptZAucILbTD0AmLECacygEAeLcGuQ6l50mMctev4cvFPDt4nTSNb-RSFdBTTEIjn63Mzye3mgeue8VgO3HInxXcerZLC9VVjK1VhRKXAleSGr_nTrZ6CtMrcI2V2vg1aWtlBFrMkuApe30K-r2aTCcSR865CYOzk35syn3wPGPLrVVpGerSpXXiPZUSyKZvetpPhS8U22b8U96fGIGL0Otf0Ax7l980oQG9gF7pw3kaTicQYvimQiMnAMxlokaDAooo1qr0aLVaBH-qiABKglldS13ZXN0LTIwzAM.m3u8
+https://video-weaver.prg03.hls.ttvnw.net/v1/playlist/CqgFe4nuGJi8CeZc9507tzWgsGCL9FZpeBKOxYuWXndWOhFzhwUHidzdNHSw-Jt7Wq7Z1Y5KysZoELLULQvm35QhoaMFCzpua3oIXDfg5FJZC10_udmM94BewDjoHlaCzHJ7rQKz8oiikegl5uMMGBHnANw8fpYdqZKZQR_X5X66pDUaFe0V2waPF48z8eQQcr2WZAciba8uOiHHxWTLUYGqbPwfTPNtkXUPm6tmX9PQ8vgoPd0riNO45T9KlXds_-kloSu4fzspTCzr9w7U79SjxJU0IbGA4cthRW3uXrg17yzARwwF1BuVV8-kZhGIJtgxjkayK6Bnhlpklr-Ekfha0GBl8oTdfK_z5Nl0EZgsFjIPOaI2mpjwURV7RniAy2XiUJ2mNCZOSHY6so3BCfajFag01PAtYVnt6np0YPfz3NaT-1ESPSJeYZ7zVSzd7rvrwjuQ6rpB5lD2Bfk6KCnlCRqetY0XLYxDKraN1pC_zhKKRE1uvRzCGOxh58hvgoDFK-0kfRrBB_BUALziIPko8-dQgss3w8U1vQ2CnI-XNKw8TXU5Cb5PU-mMWCdweDcMVdD70ps805QJgwAoYyOhBVQfSTxsfQ7YGdFASts6zwbHb3vj-bI0R4yzec5BoePzW7xl7eU-HEN6P9-EqAdbJqydNudnWX6cUSj9_P3o_bViaMU6uY83z6rhX98ZYxIT-K-RBQj4D59R4sUyl0pgkCYS6b9FNy5Yz6xsFWZwpK5njrDCGtmc6_MnF7sfectvM2sXfY5HPusgwQRDTehDLWaUbS9lyq6hncJlpQN1rlVEJTEq-VkyHqi2JfevibcZe6FqhE6hAX8uAJyTaGuFy2fxwd_Z_WwUpgAk1ZUCmdVzuu5NhfSL9eZU3mjQ-gv5I5mhQ2wdkAsaDNIIDEKXoktiLb5qFCABKglldS13ZXN0LTIw6gM.m3u8
 
 #EXTINF:-1 tvg-id="Vouli.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/1/17/Parliament-Television_of_Greece.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -199,9 +190,6 @@ https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEq
 
 #EXTINF:-1 tvg-id="4Î•" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="GREEK PERIFEREIAKA", 4E
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/2/20/EPSILON_TV_logo.png" group-title="GREEK PERIFEREIAKA", A.EPSILON 31
-http://31.177.62.174:8001/play/s146
 
 #EXTINF:-1 tvg-id="digea.tvm.gr" tvg-logo="https://cdn.aeolos.tv/2021/09/logo300.png" group-title="GREEK PERIFEREIAKA", AEOLOS TV
 https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
@@ -284,14 +272,14 @@ https://channel.streams.ovh:1936/epsilontv/epsilontv/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="Extra Greece" tvg-logo="https://www.newspistol.gr/content/data/multimedia/images/11-2016/extra.png" group-title="GREEK PERIFEREIAKA", EXTRA CHANNEL
 https://edge1.mystream.gr/video434018/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.newspistol.gr/content/data/multimedia/images/11-2016/extra.png" group-title="GREEK PERIFEREIAKA", EXTRA CHANNEL 31
-http://31.177.62.174:8001/play/s148
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/jdMlstR.jpg" group-title="GREEK PERIFEREIAKA", FAROS TV1 CY
 https://s1.cystream.net/live/faros1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/jdMlstR.jpg" group-title="GREEK PERIFEREIAKA", FAROS TV2 CY
 https://s1.cystream.net/live/faros2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://flash-tv.gr/wp-content/uploads/2021/01/flash_logo-panw-1-300x62-1.png" group-title="GREEK PERIFEREIAKA", FLASH KOZANI
+https://video-weaver.prg03.hls.ttvnw.net/v1/playlist/Co8FyqMFW0SkBQkejidpNpJAcJt-EkQvSVFsm1W2Iq_sgLOKVI-Wbt1Fc8ukiwlfPDJ0Sb77ArSezikF-6LRR79atnLRto4khqYejBH15r6WEHy6yNkjWA8bmf1AUblCmMTn4sdEDuTjtvr4iptXwFH-bc6BDXmj4jPR0RNkTMxelHyj-gyUdfnlDmtnvH3pbDXTcqKJuPXYqf8YbaqPOFcQePeE-p9CQrpDGbYA-h_QA6tEwnXAnkLdNvo-dms4T4Y3626sAcDKtOkL7C7Xk1p_UCdKEgnHZlcIp8cdePqDBomJJzyDupEf3knc7xD2gWR4-jq3xXOCgWs2GFG98Ued8eD8heb4C_MrQX0FHWZrTN6QGIY-ljaG13tSU0AJhKVOUvlXULxfK_sKEMmJOigi-Ldxgbh9oA2WSkGidTX83oBTSG5N8KXZw-cem1spUc4Xft8w8wE-XjPW8ssNld9bV9VQlF1P4DyYoQG-u_ErpawxPHytt54h0VkHoWgmtemIUaMzQ4qnltsWZCtEc8h6ijK90xtmi5U6o8rKPLFNCVP4yV_PewY-tKDbgW_XRJfhb-yw4hPgzxQGUk0lGhCu-UtKLFJwOoYn3UnlLyeXhgq89dW4YSPy3yktCIOw9TO_4N0zdn56j-R7uvNeBw2or22wftRgQajuCBUYYM8GCkx6tPVDYaRpy-WT8xvmom-3OaSneWLj_e3zkqOq4ozMxOMLCuG1B0t5DcmFznXlgVZzVENLAX736wJvG6zMT9GRWN3GuerIqZGygsri4pmRIk5ehy48OsNxMUvJOBAINur7c7HV8_0u69zYPJs2nQAIQQ_FMRYeWongrRtRgIHHu9LsEhhUvJhF8gWw8vw1lhoMoHScDf92BOuTOVXpIAEqCWV1LXdlc3QtMjDqAw.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Hellenic-TV.jpg" group-title="GREEK PERIFEREIAKA", HELLENIC TV
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
@@ -395,8 +383,11 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://34100tv.com/wp-content/uploads/2020/10/34100-tv-logo-main.png" group-title="CINEMA", .GR CINE: 34100 TV GR
 https://s1.cystream.net/live/34100/playlist.m3u8
 
-#EXTINF:-1 tvg-id="capitalcy" tvg-logo="https://i.imgur.com/FU7NtJk.png" group-title="CINEMA", GR: CAPITAL CYPRUS 185
+#EXTINF:-1 tvg-id="capitalcy" tvg-logo="https://i.imgur.com/FU7NtJk.png" group-title="CINEMA", .GR CINE: CAPITAL CYPRUS 185
 http://185.230.112.4:10050/play/a00t
+
+#EXTINF:-1 tvg-id="https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=hls" tvg-logo="https://i.pinimg.com/originals/66/9c/5a/669c5ae9343a6044c9a0319d3d233edc.jpg" group-title="CINEMA", .GR CINE: CHARLIE CHAPLAIN filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dwF0jlz.png" group-title="CINEMA", .GR CINE: GALAXY GR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
@@ -416,17 +407,14 @@ http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://netmaxtv.com/wp-content/uploads/2020/07/forweb.png" group-title="CINEMA", .GR CINE: NETMAX TV GR
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png" group-title="DOCUMENTARY", ..MATHIMATA ISPANIKHS GLOSSAS 91
-http://91.126.141.13:1935/live/71/1800-def.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.seekpng.com/png/full/305-3054187_fishing-tv-fishing-tv-logo.png" group-title="DOCUMENTARY", .DOC: FISHING GREEK gd
 http://136.243.92.93:8080/fishing/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dW1bcD2.jpg" group-title="DOCUMENTARY", .DOC: NOTIOI TV
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.pngkit.com/png/full/320-3200084_sunday-times-travel-magazine-logo.png" group-title="DOCUMENTARY", .DOC: TRAVEL GREECE CHANNEL
-https://channel.streams.ovh:1936/travelchannel/travelchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="5dc2c444bac1f70009ca756e" tvg-logo="https://images.pluto.tv/channels/5dc2c444bac1f70009ca756e/colorLogoPNG.png" group-title="DOCUMENTARY", .DOC: TRAVEL GR gd
+http://136.243.92.93:8080/travel/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.tornosnews.gr/files/logo_exlploring_greece_tv_618011261.png" group-title="DOCUMENTARY", .GR DOC: EXPLORING GREECE
 https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w506097299.m3u8
@@ -440,7 +428,7 @@ https://live.streams.ovh/YourStreaming/YourStreaming/chunklist_w1762021010.m3u8
 #EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="DOCUMENTARY", .GR DOC: XPLORE GREEK
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1550358905/LogoSquare_200x200.jpg" group-title="DOCUMENTARY", 1DOC: BETTER NATURE
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c2d6bcb45776e646e128f9d/1546481025845-E7NJ1LJXT28TRWSSSSUI/Better+Life+Logo+Icon+BW+sm.png" group-title="DOCUMENTARY", 1DOC: BETTER NATURE
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/chunklist_w211293600.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.clarityalliance.co.uk/site/templates/images/clarity-logo@2x.png" group-title="DOCUMENTARY", 1DOC: CLARITY 4K TV cloudfront
@@ -497,6 +485,9 @@ https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/174/stream.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/a-beautiful-planet-5717495a4e349.png" group-title="DOCUMENTARY", DOC: BEAUTIFUL PLANET stream
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1373
 
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTARY", DOC: CGTN DOCUMENTARY cgtn
+http://livedoc.cgtn.com/500d/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://instagram.fath2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/186215158_843654469691848_4029679463294744458_n.jpg?_nc_ht=instagram.fath2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=_CJgUga3pHAAX8uYLCb&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-2WP3SxyunNbuJwa_O9NKhadswP_WMAnYGpJ3mJzUzdA&oe=61CE28EC&_nc_sid=7bff83" group-title="DOCUMENTARY", DOC: CHEKSIZ TV UZ
 https://st.biztv.uz/hls/cheksiztvsd/index.m3u8
 
@@ -509,17 +500,8 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_
 #EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD ASIA livecdn
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD BR 45.4
-http://45.4.0.46:8000/play/a0an
-
-#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="http://epg.cdntv.online/img/307.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD dmitri
-http://dmitry-tv.ml/hls/CH_NATGEOWILD.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD POL internetowa
 http://internetowa.tv/?c=hlsPlay&channel=natgeowild&token=54c45d996966de0ff55b4b89950c3f07d246d87cf009e8842797cfea0eff9847be3a5b40e5d33c8c9c5ade12530c9db1006ee3ba2417ed31dd5c251ad27abf03
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.cdntv.online/img/307.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD RU okkotv
-https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWildHDRussia.us" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD RU sc.id
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
@@ -533,8 +515,23 @@ https://outdoorchannel-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRSYcddm8ib0VinpqPMe1ZRTvaS5HW6Ui1Baza3Q=s100-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTARY", DOC: REAL WILD ENG rakuten
 https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=hls" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="DOCUMENTARY", DOC: RT DOCUMENTARY filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1981?protocol=m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="DOCUMENTARY", DOC: RT DOCUMENTARY tulix
+https://gintna100.tulix.tv/gin_live/clearsat-rtdoc/2929661bf344b5af915c5ee440859d17/62950ed5/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s.taplink.ru/a/1/a/6/f/171bbe.jpg" group-title="DOCUMENTARY", DOC: SILENCE TV WORLD 93.190
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ3A47vVxilmFh1DGn6yUb4AqPj2Dawtpwh7PnUPw=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTARY", DOC: UFO STORIES filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4184?protocol=hls
+
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="DOCUMENTARY", DOC: UN WEB TV caltura
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://scontent.fath2-1.fna.fbcdn.net/v/t1.6435-1/107562396_196003851858190_6027741578798298849_n.png?stp=dst-png_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=VSx1SYNYcDgAX-AnPDs&_nc_ht=scontent.fath2-1.fna&oh=00_AT-7DGFzJcHyM3xZAJIGZTRWTQNHMI59gdwjd9V7vi2vLw&oe=62B95D2D" group-title="DOCUMENTARY", DOC: WEATHER SPY EUROPE rakuten
+https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://149385349.v2.pressablecdn.com/wp-content/uploads/2021/11/WildEarth-logo-white_esm.png" group-title="DOCUMENTARY", DOC: WILD EARTH ENG rakuten
 https://wildearth-rakuten.amagi.tv/playlist.m3u8
@@ -547,6 +544,9 @@ https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABffNWO2DZSeC-8BHZnRMSPcy0HZnHH0ypF_0yLtf4WtnoGo6G4SpCWWLdrDVrdgrclYqt2YsDmCwEfJ6Ou6hMYW9Iud9wh01hBA6.png?r=646" group-title="DOCUMENTARY", DOC: WILDER PLANET DE amagi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://globuswine.dk/bab/wp-content/uploads/2016/10/Nyt-Globus-Wine-LOGO-Hvid.png" group-title="DOCUMENTARY", DOC: WORLD OF WINE filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3164?protocol=hls
 
 #EXTINF:-1 tvg-id="Pluto TV Animals" tvg-logo="http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="DOCUMENTARY", ENG DOC: ANIMALS ENG 1 pluto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -569,8 +569,32 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="DOCUMENTARY", ENG DOC: NASA TV BUP
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.simplesite.com/i/21/fb/284571206140951329/i284571214506559780._szw1280h1280_.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOx8naVQZGqsjjkMmRUuVciXl7jjY082ODgw&usqp=CAU" group-title="ðŸ€ SPORTS", .SP: CYTA SPORTS CYPRUS 213
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.iefimerida.gr/sites/default/files/styles/medium_article_image/public/2021-09/novasports-logo-neo.jpg?itok=SoQWNm8z" group-title="ðŸ€ SPORTS", .NOVA 1 Sport
+http://91.132.172.169:8000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.iefimerida.gr/sites/default/files/styles/medium_article_image/public/2021-09/novasports-logo-neo.jpg?itok=SoQWNm8z" group-title="ðŸ€ SPORTS", .NOVA 2 Sport
+http://91.132.172.169:8000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assets.kotsovolos.gr/brand/Cosmote.png" group-title="ðŸ€ SPORTS", .OTE Sport
+http://91.132.172.169:8000/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-id="alfasport.cy" tvg-logo="https://i.imgur.com/Vq4YBIA.png" group-title="ðŸ€ SPORTS", .SP: ALFA SPORT CYPRUS
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+
+#EXTINF:-1 tvg-id="https://cdn.simplesite.com/i/21/fb/284571206140951329/i284571214506559780._szw1280h1280_.jpg" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="ðŸ€ SPORTS", .SP: CYTA SPORTS CYPRUS 213
 http://213.7.193.54:4000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="eptsports.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="ðŸ€ SPORTS", .SP: ERT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="ðŸ€ SPORTS", .SP: ERT SPORTS 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="ðŸ€ SPORTS", .SP: ERT SPORTS 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3_3Mbps.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="ðŸ€ SPORTS", .SP: ERT SPORTS 4
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4_3Mbps.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.malariaconsortium.org/website-2017/_images/_supplied/2LIVEgif.gif" group-title="ðŸ€ SPORTS", LIVE 101
 http://194.67.196.19:80/hls/101.m3u8
@@ -707,26 +731,20 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="ðŸ€ SPORTS", SP: ACCDN USA
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://staticsport.adjara.com/adjarasport/prod/static/file71.png" group-title="ðŸ€ SPORTS", SP: ADJARA SPORT 1 adjara
-http://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://staticsport.adjara.com/adjarasport/prod/static/file71.png" group-title="ðŸ€ SPORTS", SP: ADJARA SPORT 2 adjara
-http://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/07aef32e158a66e582cbe8deb7de40a8.webp" group-title="ðŸ€ SPORTS", SP: ADQS SPORT BRAZIL
 https://stmv1.srvif.com/adqstv/adqstv/chunklist_w438789967.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="ðŸ€ SPORTS", SP: AL KASS 1 41.224
-http://41.224.63.108:7788/play/a028
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="ðŸ€ SPORTS", SP: ALKASS 1 149.62
+http://149.62.183.198:8002/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="ðŸ€ SPORTS", SP: AL KASS 2 41.224
-http://41.224.63.108:7788/play/a029
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="ðŸ€ SPORTS", SP: ALKASS 2 149.62
+http://149.62.183.198:8002/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="ðŸ€ SPORTS", SP: AL KASS 3 41.224
-http://41.224.63.108:7788/play/a02a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="ðŸ€ SPORTS", SP: ALKASS 3 149.62
+http://149.62.183.198:8002/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="ðŸ€ SPORTS", SP: AL KASS 4 41.224
-http://41.224.63.108:7788/play/a02b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ThVbcVq.png" group-title="ðŸ€ SPORTS", SP: ALKASS 4 149.62
+http://149.62.183.198:8002/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="ðŸ€ SPORTS", SP: ALL SPORTS BRASIL
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1071028126.m3u8
@@ -745,12 +763,6 @@ http://46.29.169.15:4001/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="ðŸ€ SPORTS", SP: ARENA 2 PREM 46.29
 http://46.29.169.15:4001/play/a00h/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.atmedia.cz/coEsasGteB9/uploads/2017/10/ArenaSport-logo-299x168.png" group-title="ðŸ€ SPORTS", SP: ARENA 2 SR 84
-http://84.22.33.214/ArenaSport2/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.atmedia.cz/coEsasGteB9/uploads/2017/10/ArenaSport-logo-299x168.png" group-title="ðŸ€ SPORTS", SP: ARENA 2 SR 93
-http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.atmedia.cz/coEsasGteB9/uploads/2017/10/ArenaSport-logo-299x168.png" group-title="ðŸ€ SPORTS", SP: ARENA 3 HR 46.29
 http://46.29.169.15:4001/play/a004/index.m3u8
@@ -782,6 +794,21 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest?cb=20190123083011" group-title="ðŸ€ SPORTS", SP: ASTRO ARENA awanitv
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
+#EXTINF:-1 tvg-id="http://203.154.243.89:21201/saraburi1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png/revision/latest" group-title="ðŸ€ SPORTS", SP: ASTRO SUPER SPORT 1 203.154
+http://203.154.243.89:21201/nakhon
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png/revision/latest" group-title="ðŸ€ SPORTS", SP: ASTRO SUPER SPORT 2 203.154
+http://203.154.243.89:21202/nakhon
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png/revision/latest" group-title="ðŸ€ SPORTS", SP: ASTRO SUPER SPORT 3 203.154
+http://203.154.243.89:21203/nakhon
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png/revision/latest" group-title="ðŸ€ SPORTS", SP: ASTRO SUPER SPORT 4 203.154
+http://203.154.243.89:21204/nakhon
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="ðŸ€ SPORTS", SP: ATV VIVO cloudfront
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8" tvg-logo="https://i.imgur.com/rE7AICZ.png" group-title="ðŸ€ SPORTS", SP: BAHRAIN SPORTS 1
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/chunklist_w19179823_b610304.m3u8
 
@@ -790,6 +817,9 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rE7AICZ.png" group-title="ðŸ€ SPORTS", SP: BAHRAIN SPORTS PLUS+ 185.105
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" group-title="ðŸ€ SPORTS", SP: BAND SPORTS conectbr
+http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" tvg-logo="https://www.fcbarcelona.com/resources/v2.35.0-4301/i/icons/android-icon-192x192.png" group-title="ðŸ€ SPORTS", SP: BARCA TV 154
 http://154.62.74.29:1935/live/barza/chunklist.m3u8
@@ -977,9 +1007,6 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/sport/bt-sport-logos/bt_sport_white.png" group-title="ðŸ€ SPORTS", SP: BT SPORT ESPN 93
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/sport/bt-sport-logos/bt_sport_white.png" group-title="ðŸ€ SPORTS", SP: BT SPORT ESPN inspiration
-https://bit.ly/3joBXuL?inspiration.m3u8
-
 #EXTINF:-1 tvg-id="JHR1948_DistroTV_EPGCampusLore Sports" tvg-logo="https://a.jsrdn.com/hls/22930/campuslore-sports/logo_20210916_225147_68.png" group-title="ðŸ€ SPORTS", SP: CAMPUS LORE SPORTS google
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
 
@@ -995,23 +1022,20 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=54c45d996966de0ff5
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport-2.png" group-title="ðŸ€ SPORTS", SP: CANAL PLUS+ SPORT 2 POL internetowa
 http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=54c45d996966de0ff55b4b89950c3f07d246d87cf009e8842797cfea0eff9847be3a5b40e5d33c8c9c5ade12530c9db1006ee3ba2417ed31dd5c251ad27abf03
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWjUjHSc_JK-3Mwu8bNMk5bQAuUe7QRIJGA&usqp=CAU" group-title="ðŸ€ SPORTS", SP: CCTV5 cctv
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="ðŸ€ SPORTS", SP: CBC SPORT 192.228
+http://193.228.193.179:8000/play/a01l
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dP5yjseyYpQMaCsuDS4SRMkZZ-MYmviD4A&usqp=CAU" group-title="ðŸ€ SPORTS", SP: CCTV5 PLUS+ cctv
-http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://spbtv.media/user_files/564/792/cctv_4_logo.png" group-title="ðŸ€ SPORTS", SP: CCTV4 183.207
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWjUjHSc_JK-3Mwu8bNMk5bQAuUe7QRIJGA&usqp=CAU" group-title="ðŸ€ SPORTS", SP: CCTV5 39.134
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWjUjHSc_JK-3Mwu8bNMk5bQAuUe7QRIJGA&usqp=CAU" group-title="ðŸ€ SPORTS", SP: CCTV5 183.207
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWjUjHSc_JK-3Mwu8bNMk5bQAuUe7QRIJGA&usqp=CAU" group-title="ðŸ€ SPORTS", SP: CCTV5 39.135
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dP5yjseyYpQMaCsuDS4SRMkZZ-MYmviD4A&usqp=CAU" group-title="ðŸ€ SPORTS", SP: CCTV5 PLUS+ 183
-http://183.207.248.71/cntv/live1/hdcctv05plus/hdcctv05plus
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dP5yjseyYpQMaCsuDS4SRMkZZ-MYmviD4A&usqp=CAU" group-title="ðŸ€ SPORTS", SP: CCTV5 PLUS+ 39.134
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dP5yjseyYpQMaCsuDS4SRMkZZ-MYmviD4A&usqp=CAU" group-title="ðŸ€ SPORTS", SP: CCTV5 PLUS+ 39.135
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
@@ -1066,6 +1090,9 @@ http://78.83.191.18:8000/play/a077
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gledaibgtv.at.ua/_si/0/18274670.png" group-title="ðŸ€ SPORTS", SP: DIEMA SPORT 3 78
 http://78.83.191.18:8000/play/a07e
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/120px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png?20191124211253" group-title="ðŸ€ SPORTS", SP: DIRECTV SPORTS 190.210
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/51PCxvI.jpg" group-title="ðŸ€ SPORTS", SP: DOOR DARSHAN SPORTS 103
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
@@ -1130,47 +1157,14 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2021/09/eleven2.png" group-title="ðŸ€ SPORTS", SP: ELEVEN 6 62.28
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 1 amazzin
-http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2552/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 2 USA 38.127
+http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 1 BR 45.4
-http://45.4.0.46:8000/play/a06j
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN USA 38.127
+http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 1 DE tvclub
-http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/2552/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 1 LATIN marine
-https://marine2.miplay.cl/espn/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 2 amazzin
-http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2553/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 2 BR 45.4
-http://45.4.0.46:8000/play/a0ax
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 2 DE tvclub
-http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/2553/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 2 LATIN marine
-https://marine2.miplay.cl/espn2/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 3 amazzin
-http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2554/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 3 BR 45.4
-http://45.4.0.46:8000/play/espn3hd
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 3 DE tvclub
-http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/2554/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN 3 LATIN marine
-https://marine2.miplay.cl/espn3/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="ðŸ€ SPORTS", SP: ESPN EXTRA BR 45.4
-http://45.4.0.46:8000/play/a05e
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN EXTRA LATIN marine
-https://marine2.miplay.cl/espnextra/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="ðŸ€ SPORTS", SP: ESPN USA 69.164
+http://69.164.224.53:80/ESPN/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1280px-Esport3.svg.png" group-title="ðŸ€ SPORTS", SP: ESPORT3
 https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
@@ -1178,11 +1172,11 @@ https://mavtv-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DL9MABXLL.png" group-title="ðŸ€ SPORTS", SP: ESTV ottera
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=461
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="ðŸ€ SPORTS", SP: EUROSPORT 1 213
+#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="ðŸ€ SPORTS", SP: EUROSPORT 1 213.151
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png" group-title="ðŸ€ SPORTS", SP: EUROSPORT 2 livetv
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png" group-title="ðŸ€ SPORTS", SP: EUROSPORT 2 ENG 212.102
+http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png" group-title="ðŸ€ SPORTS", SP: EXTREMADURA TV ES
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist.m3u8
@@ -1253,6 +1247,12 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gstv_guj.png/revision/latest?cb=20210515121949" group-title="ðŸ€ SPORTS", SP: GSTV INDIA
 https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/H/hrt-logo-2C007CB497-seeklogo.com.png" group-title="ðŸ€ SPORTS", SP: HRT2 195.29
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://idmantv.az/storage/settings/October2019/rbyweoRZLrnCvpc3qp9q.png" group-title="ðŸ€ SPORTS", SP: IDMAN AZERBAYCAN 193.228
+http://193.228.193.179:8000/play/a013
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f9d04042613fc569bfe9e870991cd54f.webp" group-title="ðŸ€ SPORTS", SP: IMAGEM DE CAETANO BRAZIL
 https://srv6.zcast.com.br/tvimagem/tvimagem/chunklist_w2005193084.m3u8
 
@@ -1267,6 +1267,30 @@ https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iconape.com/wp-content/png_logo_vector/indosiar-logo.png" group-title="ðŸ€ SPORTS", SP: INDOSIAR LIGA 1 & 2 tvnational
 http://tvnasional.mobie.in/M3U8/205.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/400px-ITV_logo_2019.svg.png" group-title="ðŸ€ SPORTS", SP: ITV 1 filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/400px-ITV_logo_2019.svg.png" group-title="ðŸ€ SPORTS", SP: ITV 1 PLUS+ filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1817?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/400px-ITV2_logo_2015.svg.png" group-title="ðŸ€ SPORTS", SP: ITV 2 filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/400px-ITV2_logo_2015.svg.png" group-title="ðŸ€ SPORTS", SP: ITV 2 PLUS+ filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/400px-ITV3_logo_2013.svg.png" group-title="ðŸ€ SPORTS", SP: ITV 3 filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/400px-ITV3_logo_2013.svg.png" group-title="ðŸ€ SPORTS", SP: ITV 3 PLUS+ filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1823?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/440px-ITV4_logo_2013.svg.png" group-title="ðŸ€ SPORTS", SP: ITV 4 filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/440px-ITV4_logo_2013.svg.png" group-title="ðŸ€ SPORTS", SP: ITV 4 PLUS+ filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?protocol=hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image-winudf-com.cdn.ampproject.org/ii/w330/s/image.winudf.com/v2/image/Y29tLmptdnN0cmVhbS50dmphZ3Vhcl9pY29uXzE1Mzc1NjA5NDNfMDgy/icon.png?w=100&fakeurl=1" group-title="ðŸ€ SPORTS", SP: JAGUAR TV BRAZIL cdn
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
@@ -1334,6 +1358,9 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendti
 #EXTINF:-1 tvg-id="LookSportPlus.ro" tvg-logo="https://i.imgur.com/yPWvZLq.png" group-title="ðŸ€ SPORTS", SP: LOOK SPORT PLUS+
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
 
+#EXTINF:-1 tvg-id="40c70814ad3534f303f5e83f391a2a2f" tvg-logo="https://nemetorszagi-magyarok.de/sites/default/files/m4sport.jpg" group-title="ðŸ€ SPORTS", SP: M4 SPORT 46.214
+http://46.214.126.248:9981/stream/channelid/336119616?ticket=062BC9F1750EC6D5DCD19DF21CB355B7AD811068&profile=pass
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="ðŸ€ SPORTS", SP: MACAU SPORTS 61
 http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
 
@@ -1378,6 +1405,9 @@ http://78.83.191.18:8000/play/a075
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Max_Sport_logo.svg/revision/latest/scale-to-width-down/200?cb=20201221123055" group-title="ðŸ€ SPORTS", SP: MAX SPORT 4 BUL 78
 http://78.83.191.18:8000/play/a07f
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/400px-MEGA.svg.png" group-title="ðŸ€ SPORTS", SP: MEGA SPAIN 154.62
+http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cableman.ru/sites/default/files/mir_basketbola_obychnyy.png" group-title="ðŸ€ SPORTS", SP: MIR BASKETBALL 213.226
 http://213.226.137.140:81/tl/l423/mpegts
@@ -1487,6 +1517,18 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ON_Sports_TV_logo_%28VTVcab%29_logo_2021.png/revision/latest/scale-to-width-down/200?cb=20211025034746&path-prefix=vi" group-title="ðŸ€ SPORTS", SP: ON SPORTS stream
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1363
 
+#EXTINF:-1 tvg-id="261c77fbfd6d3c31e1200f2c72c32ad5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orange_Sport_Slovakia_logo.png/1200px-Orange_Sport_Slovakia_logo.png" group-title="ðŸ€ SPORTS", SP: ORANGE SPORT 1 46.214
+http://46.214.126.248:9981/stream/channelid/2071403558?ticket=7ACB31E31D82A835F776353929AF59BE133CA7B3&profile=pass
+
+#EXTINF:-1 tvg-id="75804e3b85cfcd838ff6e85a4a145e8e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orange_Sport_Slovakia_logo.png/1200px-Orange_Sport_Slovakia_logo.png" group-title="ðŸ€ SPORTS", SP: ORANGE SPORT 2 46.214
+http://46.214.126.248:9981/stream/channelid/995000437?ticket=928243378C47A20D9A4178A64C82F7054F899347&profile=pass
+
+#EXTINF:-1 tvg-id="68640346b293021772c9c5e031819a61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orange_Sport_Slovakia_logo.png/1200px-Orange_Sport_Slovakia_logo.png" group-title="ðŸ€ SPORTS", SP: ORANGE SPORT 3 46.214
+http://46.214.126.248:9981/stream/channelid/1174627432?ticket=EF3945E848F77E1D28C46D74EE919E287B1C301E&profile=pass
+
+#EXTINF:-1 tvg-id="875369a484a5ac2e88d0058335947441" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Orange_Sport_Slovakia_logo.png/1200px-Orange_Sport_Slovakia_logo.png" group-title="ðŸ€ SPORTS", SP: ORANGE SPORT 4 46.214
+http://46.214.126.248:9981/stream/channelid/610882439?ticket=643DF0D77D0ECD5D69713D52DDD0776963CFEFFD&profile=pass
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/0j6ME-v0uJFk9pVl9Xe7coaDdbZ2LvrIFSzp3bumV1amawPGmc0GWjjlZZgV63vsbneL" group-title="ðŸ€ SPORTS", SP: OVACION TV LIMA cdn2
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/chunklist_w1565290423.m3u8
 
@@ -1580,6 +1622,18 @@ http://45.232.196.7:5000/live/PremiereFCHD6/1080p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png" group-title="ðŸ€ SPORTS", SP: PREMIERE 7 45.232
 http://45.232.196.7:5000/live/PremiereFCHD7/1080p.m3u8
 
+#EXTINF:-1 tvg-id="468cd3eda602fe19f20cb6a6021fb8ea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/100px-Prima_sport.png" group-title="ðŸ€ SPORTS", SP: PRIMA SPORT 1 46.214
+http://46.214.126.248:9981/stream/channelid/1842580550?ticket=BC51B1D71213ABD33D634BF209F6E9932D7D6A03&profile=pass
+
+#EXTINF:-1 tvg-id="b7a9765e543d211adc6b8dd397368dce" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/100px-Prima_sport.png" group-title="ðŸ€ SPORTS", SP: PRIMA SPORT 2 46.214
+http://46.214.126.248:9981/stream/channelid/1584834999?ticket=B6680156A6986289BDBA9F00C56159765F4D32CF&profile=pass
+
+#EXTINF:-1 tvg-id="1dfefd444eec31838ae20f28d17c0803" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/100px-Prima_sport.png" group-title="ðŸ€ SPORTS", SP: PRIMA SPORT 3 46.214
+http://46.214.126.248:9981/stream/channelid/1157496349?ticket=E8A4BD8B4B096420D4AFF3EEC25F484F166335E4&profile=pass
+
+#EXTINF:-1 tvg-id="6623298180f85e2400399a6467eaec36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/100px-Prima_sport.png" group-title="ðŸ€ SPORTS", SP: PRIMA SPORT 4 46.214
+http://46.214.126.248:9981/stream/channelid/19473254?ticket=23152F39CC051752AB28795D07935DE51B7D44D9&profile=pass
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="ðŸ€ SPORTS", SP: PTV SPORTS 221
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
@@ -1628,6 +1682,9 @@ http://78.83.191.18:8000/play/a06e
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://scontent.fath3-4.fna.fbcdn.net/v/t1.18169-9/cp0/e15/q65/s180x540/17759926_658633710995616_8572923356820941634_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=85a577&_nc_ohc=2qqwvNCST0UAX8NZl2j&_nc_ht=scontent.fath3-4.fna&oh=dd1e81eb03c01fec65ea2100efa36a2f&oe=615AB083" group-title="ðŸ€ SPORTS", SP: RMK TV SCIACCA
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-rNdB3QZRbpY/XwxlL6cuwvI/AAAAAAAABlk/2q2pHYis5ag-4EC0QCCsvLeVTXqHHWXlgCLcBGAsYHQ/s1600/RTA%2BSports%2BHD%2BNew%2BBiss%2BKey%2BOn%2BYahSat-1A%2B%254052.5E.png" group-title="ðŸ€ SPORTS", SP: RTA SPORTS 193.228
+http://193.228.193.179:8000/play/a00z
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/1024px-RTSH_Sport_%282020_Logo%29.svg.png" group-title="ðŸ€ SPORTS", SP: RTSH SPORT
 https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
 
@@ -1654,6 +1711,9 @@ https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8?checkedby:iptv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/World_Rugby_Sevens_Series_logo.png" group-title="ðŸ€ SPORTS", SP: RUGBY WORLD TV akamai
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mms.businesswire.com/media/20190712005079/en/732492/5/rush.jpg" group-title="ðŸ€ SPORTS", SP: RUSH 38.127
+http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.otzovik.com/objects/b/1810000/1805093.png" group-title="ðŸ€ SPORTS", SP: SETANTA QAZAQSTAN 95.141
 http://95.141.128.163:8004/play/a0n1
@@ -1733,17 +1793,29 @@ http://93.107.103.248:8123/play/a0ef/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.theabcdn.com/i/28012770/600/c" group-title="ðŸ€ SPORTS", SP: SKYNET SPORT 1 202.44
 http://202.44.228.201:1935/aslive/skynetsports1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/maxresdefault-1.jpg" group-title="ðŸ€ SPORTS", SP: SONY ESPN streamer
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/Sony-TEN-1-SD.jpg" group-title="ðŸ€ SPORTS", SP: SONY TEN 1 208.86
+http://208.86.19.13:81/726.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/Sony-TEN-2-SD.jpg" group-title="ðŸ€ SPORTS", SP: SONY TEN 2 208.86
+http://208.86.19.13:81/712.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/Sony-TEN-3-SD.jpg" group-title="ðŸ€ SPORTS", SP: SONY TEN 3 208.86
+http://208.86.19.13:81/713.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="http://vipotv.com/wp-content/uploads/2021/03/sos-kanal-plus-live-vipotv.png" tvg-logo="https://scontent.fath2-1.fna.fbcdn.net/v/t1.6435-9/81445072_102796287916818_947592892145205248_n.png?_nc_cat=100&ccb=1-5&_nc_sid=dd9801&_nc_ohc=nwsmukH_wk4AX-Xw1QE&_nc_ht=scontent.fath2-1.fna&oh=84ebb10365882105491145f4caef81ff&oe=6166FCD8" group-title="ðŸ€ SPORTS", SP: SOS KANAL PLUS SERBIA
 https://5bc45691ca49f.streamlock.net/soskanalplus/soskanalplus.stream/chunklist_w1099763375.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.szemernet.hu/images/csatorna-logok/SPORT1_logo.png" group-title="ðŸ€ SPORTS", SP: SPORT 1 CZ panel
+http://panel.ooguy.com:9002/Sport1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/proxy/Lm-l0SzM65-TKEb1d48rU5JT4ZH8gI-x0IDjVSOOn72wjzKZ1WSvDyRWIJ4GRuIAmTXQwRc5x_OORwPO_q0lsrh1-syA2SmCoZCBGaTQ3-ivCff7p_MI1pd8I0y4-A" group-title="ðŸ€ SPORTS", SP: SPORT 1 LITH 78
 http://78.58.133.179:28000/play/sport1sport1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://sweet-tv.net/images/sport-1-ukraina.png" group-title="ðŸ€ SPORTS", SP: SPORT 1 UKR 212.115
 http://212.115.255.196/Jfd85Hf/sport1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.szemernet.hu/images/csatorna-logok/SPORT2_logo.png" group-title="ðŸ€ SPORTS", SP: SPORT 2 CZ panel
+http://panel.ooguy.com:9002/Sport2.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="ðŸ€ SPORTS", SP: SPORT EN FRANCE
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
@@ -1762,6 +1834,9 @@ http://46.29.169.15:4001/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://1.bp.blogspot.com/-V2GJx20sldo/UlXzE9DS-8I/AAAAAAAAcPI/9JZfPeX9pXk/s260/SportKlub+logo+2013.png" group-title="ðŸ€ SPORTS", SP: SPORT KLUB 6 HR 46.29
 http://46.29.169.15:4001/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfViv-mIa0A4CozVNSb0NEEHmI9H5RvkWPsA&usqp=CAU" group-title="ðŸ€ SPORTS", SP: SPORT PLUS 103.170
+http://103.170.123.169:8500/play/sportplus/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.automobilsport.com/uploads/_neustart37/motosport/sporttv.JPG" group-title="ðŸ€ SPORTS", SP: SPORT TV 1 PT 178
 https://178.17.168.42:443/02_SPORTTV_1_720p/chunklist.m3u8
@@ -1829,26 +1904,32 @@ http://iptvmasterlink.dyndns.org:8080/SportsTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="ðŸ€ SPORTS", SP: SPORTS TV USA pluto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BRZ8rmA.png" group-title="ðŸ€ SPORTS", SP: SPOTV 1 github
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/SpoTv1-Kr.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BRZ8rmA.png" group-title="ðŸ€ SPORTS", SP: SPOTV akamai
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BRZ8rmA.png" group-title="ðŸ€ SPORTS", SP: SPOTV 1 livedoomovie
-https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BRZ8rmA.png" group-title="ðŸ€ SPORTS", SP: SPOTV 1 master
-https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BRZ8rmA.png" group-title="ðŸ€ SPORTS", SP: SPOTV 2 github
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/SpoTv2-Kr.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BRZ8rmA.png" group-title="ðŸ€ SPORTS", SP: SPOTV 2 livedoomovies
-https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BRZ8rmA.png" group-title="ðŸ€ SPORTS", SP: SPOTV 2 master
-https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/blog.shahid.mbc.net/wp-content/uploads/2021/08/MicrosoftTeams-image-1.png?resize=453%2C143&ssl=1" group-title="ðŸ€ SPORTS", SP: SSC 1 193.228
+http://193.228.193.179:8000/play/a01n
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png" group-title="ðŸ€ SPORTS", SP: SSC 1 ssc
 https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_5.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/blog.shahid.mbc.net/wp-content/uploads/2021/08/MicrosoftTeams-image-1.png?resize=453%2C143&ssl=1" group-title="ðŸ€ SPORTS", SP: SSC 2 193.228
+http://193.228.193.179:8000/play/a01o
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/blog.shahid.mbc.net/wp-content/uploads/2021/08/MicrosoftTeams-image-1.png?resize=453%2C143&ssl=1" group-title="ðŸ€ SPORTS", SP: SSC 3 193.228
+http://193.228.193.179:8000/play/a01p
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/blog.shahid.mbc.net/wp-content/uploads/2021/08/MicrosoftTeams-image-1.png?resize=453%2C143&ssl=1" group-title="ðŸ€ SPORTS", SP: SSC 4 193.228
+http://193.228.193.179:8000/play/a01q
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/blog.shahid.mbc.net/wp-content/uploads/2021/08/MicrosoftTeams-image-1.png?resize=453%2C143&ssl=1" group-title="ðŸ€ SPORTS", SP: SSC 5 193.228
+http://193.228.193.179:8000/play/a01r
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/blog.shahid.mbc.net/wp-content/uploads/2021/08/MicrosoftTeams-image-1.png?resize=453%2C143&ssl=1" group-title="ðŸ€ SPORTS", SP: SSC 6 193.228
+http://193.228.193.179:8000/play/a01s
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/blog.shahid.mbc.net/wp-content/uploads/2021/08/MicrosoftTeams-image-1.png?resize=453%2C143&ssl=1" group-title="ðŸ€ SPORTS", SP: SSC 7 193.228
+http://193.228.193.179:8000/play/a01t
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="ðŸ€ SPORTS", SP: STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
@@ -2093,6 +2174,33 @@ https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/YasSports.png" group-title="ðŸ€ SPORTS", SP: YAS SPORTS admdn
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/J9ObrIg276ReJS2-WTBUEXAzSgyL7GPet2aFJeB6zSVtZR_bFE-weS1G4FM-6vtFqFrF=s180" group-title="ðŸ€ SPORTS", SP: YES SPORT 1 193.228
+http://193.228.193.179:8000/play/a04n
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/J9ObrIg276ReJS2-WTBUEXAzSgyL7GPet2aFJeB6zSVtZR_bFE-weS1G4FM-6vtFqFrF=s180" group-title="ðŸ€ SPORTS", SP: YES SPORT 2 193.228
+http://193.228.193.179:8000/play/a04o
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/J9ObrIg276ReJS2-WTBUEXAzSgyL7GPet2aFJeB6zSVtZR_bFE-weS1G4FM-6vtFqFrF=s180" group-title="ðŸ€ SPORTS", SP: YES SPORT 3 193.228
+http://193.228.193.179:8000/play/a04p
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/J9ObrIg276ReJS2-WTBUEXAzSgyL7GPet2aFJeB6zSVtZR_bFE-weS1G4FM-6vtFqFrF=s180" group-title="ðŸ€ SPORTS", SP: YES SPORT 4 193.228
+http://193.228.193.179:8000/play/a04q
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png" group-title="ðŸ€ SPORTS", SP: YES SPORT 5 193.228
+http://193.228.193.179:8000/play/a04s
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png" group-title="ðŸ€ SPORTS", SP: YES SPORT 5 Gold 193.228
+http://193.228.193.179:8000/play/a04w
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png" group-title="ðŸ€ SPORTS", SP: YES SPORT 5 Live 193.228
+http://193.228.193.179:8000/play/a04v
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png" group-title="ðŸ€ SPORTS", SP: YES SPORT 5 PLUS+ 193.228
+http://193.228.193.179:8000/play/a04t
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Sport5_Logo.png" group-title="ðŸ€ SPORTS", SP: YES SPORT 5 Stars 193.228
+http://193.228.193.179:8000/play/a04u
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.ucraft.net/fs/ucraft/userFiles/viavarotv/images/948-group-113.png?v=1641810878" group-title="ðŸ€ SPORTS", VIVARO SPORT ARENA 135.181
 http://135.181.178.91/vmedia_live/3/index.m3u8
 
@@ -2105,14 +2213,17 @@ http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="KIDS", .GR KIDS: SMILE GR
 https://s1.cystream.net/live/smile/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61UlyCYoyPL.png" group-title="KIDS", .KIDS: LEARN ENGLISH 1 filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3794?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/618rwbhEO-L.png" group-title="KIDS", .KIDS: LEARN ENGLISH 2 filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5726?protocol=hls
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://melissalikesushi.files.wordpress.com/2020/09/img_0473.gif?w=380" group-title="KIDS", 1KIDS: BABY FIRST livecdn
 http://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://melissalikesushi.files.wordpress.com/2020/09/img_0473.gif?w=380" group-title="KIDS", 1KIDS: BABY FIRST stream
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=442
-
-#EXTINF:-1 tvg-id="baby-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS", 1KIDS: BABY TV 193
-http://193.106.29.244:80/baby_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS", 1KIDS: BABY TV livecdn
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
@@ -2122,6 +2233,9 @@ https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/011ee029-6598-4109-9453-b2035db30947/defvmty-04fd808f-40b9-4546-b6d4-b42a5119263f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxMWVlMDI5LTY1OTgtNDEwOS05NDUzLWIyMDM1ZGIzMDk0N1wvZGVmdm10eS0wNGZkODA4Zi00MGI5LTQ1NDYtYjZkNC1iNDJhNTExOTI2M2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pjzwJz4WROtZvBOFB-3L8eKY2Gfm9kTFSf1_4tpg3uM" group-title="KIDS", 1KIDS: BIG BUCK BUNNY streamlock
 https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/66/9c/5a/669c5ae9343a6044c9a0319d3d233edc.jpg" group-title="KIDS", 1KIDS: CHARLIE CHAPLIN filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2966?protocol=hls
 
 #EXTINF:-1 tvg-id="a0a19c" tvg-logo="https://i.imgur.com/WLxoFwM.png" group-title="KIDS", 1KIDS: CON TV ANIME 1 cinedigm
 https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
@@ -2135,8 +2249,14 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/
 #EXTINF:-1 tvg-id="DuckTV.it" tvg-logo="https://play-lh.googleusercontent.com/QcstsCGM-pNCHrA-d6Ig2lS7NnIm9lX2Kww7jgZAV3_JJ9p-VKKwnZMmJr72sw69z944" group-title="KIDS", 1KIDS: DUCK TV samsung
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/F/Felix_The_Cat-logo-4F72F6B544-seeklogo.com.png" group-title="KIDS", 1KIDS: FELIX THE CAT filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5546?protocol=hls
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.designrush.com/inspirations/129839/conversions/_1611238414_61_lego-logo-1-preview.jpg" group-title="KIDS", 1KIDS: LEGO TUNES
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/chunklist_w1651758675.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/P/popeye-logo-FD01735977-seeklogo.com.png" group-title="KIDS", 1KIDS: POPEYE TV filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4658?protocol=hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.vidks.net/s/v1x/l/retro-cartoon.webp" group-title="KIDS", 1KIDS: RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w750457777.m3u8
@@ -2161,12 +2281,6 @@ https://rakuten-family-13-ie.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/j6XPh2U.png" group-title="FUNNY TV", ALWAYS FUNNY VIDEOS cloudfront
 https://d1u25cmbxee87d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV-Canada2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cableman.ru/sites/default/files/gagsnetwork.jpg" group-title="FUNNY TV", GAGS NETWORK tricolor
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Gagsnetwork.m3u8&serviceArea=MSK-SA-1
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/06/Network_CameraSmileTV.jpg" group-title="FUNNY TV", CAMERA SMILE tulix
-https://playout4multirtmp.tulix.tv/live7/Stream1/chunklist_w746596579.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://channels.roku.com/images/4a8ec37c110c4c7b93f3cdc3bac84dec-hd.jpg" group-title="FUNNY TV", CHIVE TV cloudfront
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/4df1bf71c1/%2B0000/c.m3u8
@@ -2322,7 +2436,10 @@ https://eyeonesports.com/ES2RA-628g.m3u8
 https://edgesports-row-rakuten.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="HOBBY TV", SP: EDGE SPORTS
-https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/374/extra_big_logo.png" group-title="HOBBY TV", SP: ENGLISH FOOTBALL HISTORY filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/374?protocol=hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9saXZlL3doaXRlL0VwaWMtTWFrZXMtTWlzc2VzLWFuZC1NYXloZW0ucG5n" group-title="HOBBY TV", SP: EPIK M unreal
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
@@ -2345,6 +2462,15 @@ http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="HOBBY TV", SP: FIGHT BOX ott
 http://ott-cdn.ucom.am/s86/04.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://t4.ftcdn.net/jpg/01/87/20/39/360_F_187203943_Yv7LEyI7iS99Ebha9cGUQ9acebr7ooDD.jpg" group-title="HOBBY TV", SP: FIGHT BOXING filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3143?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Golden_Boy_Promotions.gif" group-title="HOBBY TV", SP: FIGHT BOXING GOLDEN BOYS filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4247?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gamefabrique.ru/i/genesis/boxing-legends-of-the-ring.png" group-title="HOBBY TV", SP: FIGHT BOXING LEGENDS filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4163?protocol=hls
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img0-placeit-net.s3-accelerate.amazonaws.com/uploads/stage/stage_image/28483/optimized_large_thumb_placeit.jpg" group-title="HOBBY TV", SP: FIGHT BOXING TV stream
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1449
 
@@ -2360,6 +2486,9 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/KOK_kickboxing_logo.jpg" group-title="HOBBY TV", SP: FIGHT KOK SPORT RUS
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="HOBBY TV", SP: FIGHT LUCHA LIBRE filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3158?protocol=hls
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/M-1_Global_%28Russia%29_%282018%29.svg/revision/latest/scale-to-width-down/250?cb=20200618195616" group-title="HOBBY TV", SP: FIGHT M1 GLOBAL sc.id
 https://sc.id-tv.kz:443/M-1_34_35.m3u8
 
@@ -2374,6 +2503,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1308
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.contentapi.ea.com/content/dam/gin/common/logos/fight-night-mono-logo.png" group-title="HOBBY TV", SP: FIGHT NIGHT stream
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1438
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://armedforcessports.defense.gov/portals/19/Images/boxing.jpg" group-title="HOBBY TV", SP: FIGHT US ARMY BOXING filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3581?protocol=hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="HOBBY TV", SP: FIGHT WRESTLING JORDAN WORLD
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
@@ -2540,7 +2672,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707919&t=1524412291883" group-title="HOBBY TV", SP: MOTORVISION CLASSIC amazon
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/d6737a9b-7c29-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://s2.dmcdn.net/u/8B4-X1XumBL1qrvci/200x200" group-title="HOBBY TV", SP: MOTORVISION TV stream
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707919&t=1524412291883" group-title="HOBBY TV", SP: MOTORVISION TV stream
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=443
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707919&t=1524412291883" group-title="HOBBY TV", SP: MOTORVISION TV xumo
@@ -2557,6 +2689,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=379
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png" group-title="HOBBY TV", SP: OUTSIDE SPORTS xumo
 https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/512x288_875600/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HOBBY TV", SP: SNOOKER LEGENDS filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3325?protocol=hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Sports_Channel_Network.png/revision/latest?cb=20200608142627" group-title="HOBBY TV", SP: SPORTS CHANNEL NET amazon
 https://272ab712c4604e8d8980a78b9335981f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SportsChannelNetwork/playlist.m3u8?ads.wurl_channel=391&ads.wurl_name=SportsChannelNetwork&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
@@ -2603,6 +2738,15 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/World_Poker_Tour_Logo.svg/440px-World_Poker_Tour_Logo.svg.png" group-title="HOBBY TV", SP: WORLD POKER TOUR stream
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1346
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.webpackaging.com/Up/Comp/66/11016428/11016429-LMTWTZTA/f/logo_beauty_introduccionB.png" group-title="LIFESTYLE", BEAUTY TV
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_134.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.filmon.com/assets/channels/2819/big_logo.png" group-title="LIFESTYLE", BIKINI DOWN UNDER filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2819?protocol=hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/6q284-T6VK9JZK9VE-Full-Image_GalleryCover-en-US-1526712864134._UY500_UX667_RI_Vof0CjqgvwP3Hx3qCiv01xvgpA9ZbfxON_TTW_SX329_.jpg" group-title="LIFESTYLE", BIKINI KITCHEN filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2000?protocol=hls
+
 #EXTINF:-1 tvg-id="Celebrity Scene TV" tvg-logo="http://bangshowbiz.com/wp-content/uploads/2014/10/cropped-Bang_square-e1412954847729.png" group-title="LIFESTYLE", CELEBRITY SHOWBIZ
 https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 
@@ -2642,17 +2786,29 @@ http://80.94.54.42/fashiontv/stream/chunklist_w1498188138.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/6mTTFrpY0OuHAq82GrN0r_i2OSZcz72h-0cC2SxbQmu4JGFi6ycWTLdhx3X6NPAswA" group-title="LIFESTYLE", GLOBAL FASHION CHANNEL
 https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/5165BZYN84L._AC_SY445_.jpg" group-title="LIFESTYLE", HOTEST CHEERLEADERS filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2939?protocol=hls
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/91J8jy7-ykL._SY400_.png" group-title="LIFESTYLE", JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/da/fb/be/dafbbe4e-21d9-c4af-754c-0e01e744f661/source/512x512bb.jpg" group-title="LIFESTYLE", LUXE TV UK
 https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="LIFESTYLE", MISS TOP WORLD filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2638?protocol=hls
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/odessa-fashion-live-vipotv.png" group-title="LIFESTYLE", ODESSA FASHION
 http://cdn10.live-tv.od.ua:8081/ofod/ofod240p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7d/Ludacris_Party_Girls.jpg/220px-Ludacris_Party_Girls.jpg" group-title="LIFESTYLE", PARTY GIRLS filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2975?protocol=hls
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-prod.healthline.com/hlcmsresource/images/Best-Twitter/Logos/350x350_Fitness_and_Exercise_The_Best_of_Twitter_PopSugar_Fitness.jpg" group-title="LIFESTYLE", POP SUGAR FITNESS rakuten
 https://groupnine-popsugar-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/red-carpet-tv.png" group-title="LIFESTYLE", RED CARPET filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2933?protocol=hls
 
 #EXTINF:-1 tvg-id="http://www.runwaylive.com/wp-content/uploads/2017/02/runway-lux-red-200-200-icon.png" tvg-logo="http://www.runwaylive.com/wp-content/uploads/2016/06/runway-tv-bug-1.jpg" group-title="LIFESTYLE", RUNWAY TV
 https://vse-as-all1.secdn.net/runway-live/play/smil:runway.smil/playlist.m3u8
@@ -2662,9 +2818,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvogue/CDN/768x432_1200000/ind
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.roku.com/developer_channels/prod/192b92a9ddc2ef4690cabad1e2259740066c26f3b8313aa623fee14716c10eb1.png" group-title="LIFESTYLE", YOGA TV pluto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd&serverSideAds=false
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.webpackaging.com/Up/Comp/66/11016428/11016429-LMTWTZTA/f/logo_beauty_introduccionB.png" group-title="LIFESTYLE", BEAUTY TV
-http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_134.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://app.barazaradio.com/wp-content/uploads/2020/01/newnew-300x199.png" group-title="MUSIC TV", .MUSIC: BARAZA GREEK HITS
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
@@ -2723,6 +2876,9 @@ https://panik.cast-control.eu:1936/paniktvweb/paniktvweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/100uuWA.png" group-title="MUSIC TV", .MUSIC: PLAY TV GR
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6rtrnWv.png" group-title="MUSIC TV", .MUSIC: REAL MUSIC TV
+https://livetv.streams.ovh:1936/realmusictv/realmusictv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZRFt5En0RNdxO0YDc_2rMrbU4yO4_sDqv7Q&usqp=CAU" group-title="MUSIC TV", .MUSIC: RED MUSIC GR
 https://s1.netmax-host.eu:2053/redlive/redlive/playlist.m3u8
 
@@ -2740,6 +2896,9 @@ https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
 
 #EXTINF:-1 tvg-id="Muzzik AMVA 2020 RS" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC TV", MUSIC: .AMVA MUZZIK
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/Beatles-Emblem.jpg" group-title="MUSIC TV", MUSIC: .BEATLES STORIES filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3068?protocol=hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .BEST LIVE PERFORMANCES 140
 http://140.238.127.147/streams/3.m3u8
@@ -2759,6 +2918,9 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.savingcountrymusic.com/wp-content/uploads/2018/07/country-music-usa-2.jpg" group-title="MUSIC TV", MUSIC: .COUNTRY 4YOU
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/AHZALvXY4uE/mqdefault.jpg" group-title="MUSIC TV", MUSIC: .COUNTRY IRLAND filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3683?protocol=hls
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cmc-tv.com/images/camuslogo.gif" group-title="MUSIC TV", MUSIC: .COUNTRY MUSIC CALIFORNIA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
@@ -2776,6 +2938,9 @@ https://ott.streann.com/loadbalancer/services/public/channels/5fac1ab92cdcdff351
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .COUNTRY SMASH
 http://s3.smashmalta.com:82/live/smash/smash/12.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/50/25/country-star-vector-8035025.jpg" group-title="MUSIC TV", MUSIC: .COUNTRY STAR filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3008?protocol=hls
 
 #EXTINF:-1 tvg-id="Stingray Hot Country" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .COUNTRY STINGRAY ott
 https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
@@ -2818,6 +2983,9 @@ https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/a5d8206e5d124ad6
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/f9/66/3f/f9663f8d484a3a2200de9faffdfc59ad.jpg" group-title="MUSIC TV", MUSIC: .HOUSE worldcast
 https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .JAZZ & BLUES filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/530?protocol=hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/Mezzo_Logo.png" group-title="MUSIC TV", MUSIC: .JAZZ & CLASSICAL MEZZO ott
 http://ott-cdn.ucom.am/s35/index.m3u8
@@ -2879,6 +3047,9 @@ https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/992f9669ef444754
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://sluhay.by/assets/logo_rap.png" group-title="MUSIC TV", MUSIC: .RAP SLUHAY-BY
 https://sluhay.by/live/Ch107pub/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .REGGAE filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6149?protocol=hls
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.reggaetoreggae.com/resources/RTR%20Logo%20-%20Hebrew%20JPG.png" group-title="MUSIC TV", MUSIC: .REGGAE TO REGGAE
 https://5a37265c8355d.streamlock.net:1936/reggaeto/smil:reggaeto.smil/chunklist_w1214132962_b200000_slen.m3u8
 
@@ -2899,6 +3070,9 @@ https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .ROCK CLASSIC STINGRAY xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="MUSIC TV", MUSIC: .ROCK HOT TV filmon
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4667?protocol=hls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNhNzYyM2EtODI0OC00MjAzLWJkNTgtMzUwNjc4NWMyNzZkXkEyXkFqcGdeQXVyMzc4NzQ2ODA@._V1_.jpg" group-title="MUSIC TV", MUSIC: .ROCK ON cloudfront
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -3107,6 +3281,9 @@ http://live.redtraffic.xyz/anal.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--7Q-DLPav--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575890952/production/designs/7114162_0.jpg" group-title="â¤ï¸ XXX", XXX: .ANAL BIG ASS - redtraffic
 http://live.redtraffic.xyz/bigass.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.gonzoxxxmovies.com/templates/gonzoxxxmovies/images/mascotte.png?dd1db20a" group-title="â¤ï¸ XXX", XXX: .CARTOON 144.76
+http://144.76.58.245:2307/cartoon/mpegts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="â¤ï¸ XXX", XXX: .GAY - RedTraffic
 http://live.redtraffic.xyz/gay.m3u8
 
@@ -3122,6 +3299,27 @@ https://www.ast.tv/stream/1/cellular.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="â¤ï¸ XXX", XXX: .TRANSEXUAL TV 2
 https://www.ast.tv/stream/2/cellular.m3u8
 
+#EXTINF:-1 tvg-id="6538f8d0655b772aa3c4ec74dc689d3f" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: BABES 46.214
+http://46.214.126.248:9981/stream/channelid/1358444645?ticket=A670E4F22707F62A7AB6A432652005F0F9C347D3&profile=pass
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: BABES srv1
+http://srv1.roshen.live/BM9Oj6yvsL/mpegts?token=qnNUnXdwRyvUqPLo
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: BLUE HUSTLER srv1
+http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: BRAZZERS 194.76
+http://194.76.186.151:20012/play/Brazzers_HD
+
+#EXTINF:-1 tvg-id="532c16f8acf5269641548c5564104195" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: BRAZZERS 46.214
+http://46.214.126.248:9981/stream/channelid/2014719059?ticket=0C611340E3E0F7049932586E385A8CB527A563B6&profile=pass
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: DORCEL 194.76
+http://194.76.186.151:20012/play/Dorcel_TV_HD
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: EROTIC 195.154
+http://195.154.185.179:80/xx_hot_tv/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: EROX 94.229
 http://94.229.250.73:8008/play/a002
 
@@ -3130,6 +3328,12 @@ http://213.81.133.133:8080/extasy4k/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://stream.leotvonline.cz/upload/leotv-logo-3.png" group-title="â¤ï¸ XXX", XXX: EXTASY-LEO TV 213.151
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: HUSTLER 194.76
+http://194.76.186.151:20012/play/Hustler_HD
+
+#EXTINF:-1 tvg-id="eb308ee5c7b78ef6dbc36d7076e4b23a" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: HUSTLER 46.214
+http://46.214.126.248:9981/stream/channelid/1703817451?ticket=97C99ED8F9070B48BA249907628B6F4C3083263D&profile=pass
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: HUSTLER TV 78.83
 http://78.83.191.18:8000/play/a078
@@ -3161,6 +3365,15 @@ http://54.36.123.36:8080/PinkErotic8/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: PINKO 93.152
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
 
+#EXTINF:-1 tvg-id="864c7481e5344f47b3897ef9c209121f" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: PLAYBOY EUROPE 46.214
+http://46.214.126.248:9981/stream/channelid/24398982?ticket=3D2B7A6DD863480C96BEACBAE60D6ACB7DC66F2C&profile=pass
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: PRIVATE 194.76
+http://194.76.186.151:20012/play/Private_TV_HD
+
+#EXTINF:-1 tvg-id="66acc19060be27d2265debf07e86b8f6" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: PRIVATE 46.214
+http://46.214.126.248:9981/stream/channelid/281128038?ticket=0124A8598CE110BA01E0AC1C75CFD2C4464D5946&profile=pass
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: REDLIGHT 109.200
 http://109.200.130.123:7032/play/353
 
@@ -3170,17 +3383,14 @@ http://93.152.174.144:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 tvg-id="4695" tvg-logo="https://dy822md8ge77v.cloudfront.net/websites/logo_20200618160952.png" group-title="â¤ï¸ XXX", XXX: ROUGE TV CINEMA
 https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: VIVID RED 109.200
-http://109.200.130.123:7032/play/a00g
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: Ð Ð£Ð¡Ð¡ÐšÐÐ¯ ÐÐžÐ§Ð¬ 46.174
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: RUSSIAN NIGHTS 46.174
 http://46.174.83.66/Russkaya_Noch/video.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: Ð¨Ð•Ð›Ðš 194.190
-http://194.190.78.81:8080/shelk/index.m3u8
-
-#EXTINF:-1 tvg-id="shelkhdmts" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: Ð¨Ð•Ð›Ðš Ð¢Ð’ otcnet
+#EXTINF:-1 tvg-id="shelkhdmts" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: SHELK otcnet
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fanart.tv/fanart/xxx-state-of-the-union-514051e0e8762.png" group-title="â¤ï¸ XXX", XXX: VIVID RED 109.200
+http://109.200.130.123:7032/play/a00g
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/xxx.png" group-title="â¤ï¸ XXX", XXX: ðŸ”ž BABY STATION 24 sdn
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/26412812337_2204_8096video_480.m3u8
@@ -3197,6 +3407,12 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png" group-title="â¤ï¸ XXX", XXX: ðŸ”ž MIAMI TV streamlock
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w453753203_b1896000.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://viasatfan.clan.su/_fr/5/s0247889.jpg" group-title="â¤ï¸ XXX", XXX: ðŸ”ž NUART 212.18
+http://212.18.115.177:3169/play/nuart/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="â¤ï¸ XXX", XXX: ðŸ”ž VISIT-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="â¤ï¸ XXX", XXX: ðŸ”ž VISIT-X TV 194.116
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 
