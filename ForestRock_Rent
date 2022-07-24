@@ -5,7 +5,7 @@ http://136.243.92.93:8080/fishing/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/GR/grd-channel/normal.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR DOC: GR Discovery CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5dc2c444bac1f70009ca756e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR DOC: TRAVEL GR gd
+#EXTINF:-1 tvg-id="cyta.travel.cy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR DOC: TRAVEL GR gd
 http://136.243.92.93:8080/travel/mpegts
 
 #EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", .GR DOC: XPLORE GREEK
@@ -44,7 +44,7 @@ http://136.243.92.93:8080/ant1/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/a/ac/Ant1.png/200px-Ant1.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ANT1 quality 
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/132
 
-#EXTINF:-1 tvg-id="ATTICA TV" tvg-logo="https://www.atticatv.gr/images/Attica/attica_logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ATTICA TV
+#EXTINF:-1 tvg-id="digea.atticatv.gr" tvg-logo="https://www.atticatv.gr/images/Attica/attica_logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ATTICA TV
 https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.atticatv.gr/images/Attica/attica_logo.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ATTICA TV 176.9
@@ -62,7 +62,7 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 #EXTINF:-1 tvg-id="ert.ertworld.gr" tvg-logo="https://tvonline.bg/wp-content/uploads/ERT-WORLD-tv.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT WORLD
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 
-#EXTINF:-1 tvg-id="ert.ert1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT1
+#EXTINF:-1 tvg-id="ert1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT1
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1_3Mbps.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT1 gd
@@ -71,7 +71,7 @@ http://136.243.92.93:8080/ert1/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/2560px-ERT1_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT1 quality 
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3
 
-#EXTINF:-1 tvg-id="digea.ert2.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT2
+#EXTINF:-1 tvg-id="ert2.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT2
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2_3Mbps.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT2 gd
@@ -80,7 +80,7 @@ http://136.243.92.93:8080/ert2/mpegts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/400px-ERT2_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT2 quality 
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/136
 
-#EXTINF:-1 tvg-id="ERT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/400px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT3
+#EXTINF:-1 tvg-id="ert3.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/400px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT3
 http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3_2Mbps.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/400px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ERT3 gd
@@ -101,13 +101,13 @@ https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/uet8P2n.jpg" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: GREEK VOICE
 http://wpso.com:1936/hls/wzra.m3u8
 
-#EXTINF:-1 tvg-id="kontrachannel.gr" tvg-logo="https://www.kmg.gr/images/2018/11/19/kontran.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: KONTRA
+#EXTINF:-1 tvg-id="digea.kontra.gr" tvg-logo="https://www.kmg.gr/images/2018/11/19/kontran.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kmg.gr/images/2018/11/19/kontran.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: KONTRA BUP
+#EXTINF:-1 tvg-id="digea.kontra.gr" tvg-logo="https://www.kmg.gr/images/2018/11/19/kontran.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: KONTRA BUP
 http://kontralive.siliconweb.com/live/kontratv/HasBahCa.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: MAKEDONIA TV quality 
+#EXTINF:-1 tvg-id="digea.mtv.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: MAKEDONIA TV quality 
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2673
 
 #EXTINF:-1 tvg-id="digea.mega.gr" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: MEGA
@@ -128,7 +128,7 @@ https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-id="one.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: ONE
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 
-#EXTINF:-1 tvg-id="digea.open.gr" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: OPEN
+#EXTINF:-1 tvg-id="digea.openbeyond.gr" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: OPEN
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/72GOh2Z.png" group-title="GREEK PANELLADIKA ðŸ‡¬ðŸ‡·", GR: OPEN gd
