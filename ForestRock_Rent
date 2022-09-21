@@ -344,6 +344,9 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/chunklist_w157287859.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA", .GR CINE: GROOVY CINEMA web
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="39349 &token=538d583ced9362fbc58267702502d1ed&server=v2.catcast.tv" tvg-logo="https://m.media-amazon.com/images/I/81WyEASCYHL._SY445_.jpg" group-title="CINEMA", .GR CINE: MR BEAN catcast
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=39349&token=538d583ced9362fbc58267702502d1ed&server=v2.catcast.tv
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/81WyEASCYHL._SY445_.jpg" group-title="CINEMA", .GR CINE: MR BEAN vsv
 http://176.9.17.76:7080/live/stream/8dl627dwai/70.ts
 
@@ -772,6 +775,18 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.icon-icons.com/icons2/2592/PNG/512/youtube_logo_icon_154503.png" group-title="ðŸ€ SPORTS", ...SP: YOU TUBE 2 youtube
 https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://m.youtube.com/watch?v=xgpBMWGtFNQ
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ðŸ€ SPORTS", SP: NUBAR SPORT PREM nubar
+http://stream.nubar.tv:1935/private/NUBARSport/chunklist_w1591358858.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ðŸ€ SPORTS", play 4 sport
+http://80.24.75.92:5555/udp/239.111.2.8:1234
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ðŸ€ SPORTS", duhok sport
+http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/chunklist_w1235052997.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ðŸ€ SPORTS", http://83.228.75.166:8000/play/a0bc
+http://83.228.75.166:8000/play/a0bc
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.icon-icons.com/icons2/2592/PNG/512/youtube_logo_icon_154503.png" group-title="ðŸ€ SPORTS", ...SP: YOU TUBE youtube
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://totv.org/tv-honey
@@ -5131,26 +5146,50 @@ http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="â¤ï¸ XXX", .XXX: RedTraffic - THREESOME
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--7Q-DLPav--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575890952/production/designs/7114162_0.jpg" group-title="â¤ï¸ XXX", XXX: .ANAL - RedTraffic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="â¤ï¸ XXX", XXX: .ANAL - RedTraffic
 http://live.redtraffic.xyz/anal.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--7Q-DLPav--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575890952/production/designs/7114162_0.jpg" group-title="â¤ï¸ XXX", XXX: .ANAL BIG ASS - redtraffic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="â¤ï¸ XXX", XXX: .ANAL BIG ASS - redtraffic
 http://live.redtraffic.xyz/bigass.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--7Q-DLPav--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575890952/production/designs/7114162_0.jpg" group-title="â¤ï¸ XXX", XXX: .ANAL camisa 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="â¤ï¸ XXX", XXX: .ANAL camisa 
 http://dns.clientetv.net:8080/camisa10/camisa10/62083
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--7Q-DLPav--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575890952/production/designs/7114162_0.jpg" group-title="â¤ï¸ XXX", XXX: .ANAL TUSHY 195.154
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="â¤ï¸ XXX", XXX: .ANAL iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/172359
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="â¤ï¸ XXX", XXX: .ANAL TUSHY 195.154
 http://195.154.185.179/xx_extreme/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--7Q-DLPav--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575890952/production/designs/7114162_0.jpg" group-title="â¤ï¸ XXX", XXX: .ANAL VIXEN 195.154
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="â¤ï¸ XXX", XXX: .ANAL VIXEN 195.154
 http://195.154.185.179/xx_stars_xxx_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Whitehead-link-alternative-sexuality-symbol.svg/1280px-Whitehead-link-alternative-sexuality-symbol.svg.png" tvg-logo="https://theeasterner.org/wp-content/uploads/2016/03/GenderForum-900x691.png" group-title="â¤ï¸ XXX", XXX: .BISEXUAL camisa
 http://dns.clientetv.net:8080/camisa10/camisa10/61738
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.kym-cdn.com/entries/icons/mobile/000/022/276/blacked.jpg" group-title="â¤ï¸ XXX", XXX: .BLACK ON BLONDES iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/72297
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.kym-cdn.com/entries/icons/mobile/000/022/276/blacked.jpg" group-title="â¤ï¸ XXX", XXX: .BLACKED iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/172341
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.gonzoxxxmovies.com/templates/gonzoxxxmovies/images/mascotte.png?dd1db20a" group-title="â¤ï¸ XXX", XXX: .CARTOON 144.76
 http://144.76.58.245:2307/cartoon/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/KxuMo4T7RscqGDG77xUGH5wB2_EYcwZrjB7MveINitz96AvF1goOv1MAlCIrqF77NQ" group-title="â¤ï¸ XXX", XXX: .CZECH CASTING 1 iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/172352
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/KxuMo4T7RscqGDG77xUGH5wB2_EYcwZrjB7MveINitz96AvF1goOv1MAlCIrqF77NQ" group-title="â¤ï¸ XXX", XXX: .CZECH CASTING 2 iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/172349
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/KxuMo4T7RscqGDG77xUGH5wB2_EYcwZrjB7MveINitz96AvF1goOv1MAlCIrqF77NQ" group-title="â¤ï¸ XXX", XXX: .CZECH STREETS iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/172347
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/KxuMo4T7RscqGDG77xUGH5wB2_EYcwZrjB7MveINitz96AvF1goOv1MAlCIrqF77NQ" group-title="â¤ï¸ XXX", XXX: .FAKE AGENT iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/190994
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/736x/6a/b0/d5/6ab0d5776070c64aa2775a818d2cbf0e.jpg" group-title="â¤ï¸ XXX", XXX: .FAKE TAXI iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/172348
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="â¤ï¸ XXX", XXX: .GAY - RedTraffic
 http://live.redtraffic.xyz/gay.m3u8
@@ -5158,14 +5197,23 @@ http://live.redtraffic.xyz/gay.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="â¤ï¸ XXX", XXX: .GAY 195.154
 http://195.154.185.179/xx_visit-x_tv/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="â¤ï¸ XXX", XXX: .GAY PORN iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/172337
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="â¤ï¸ XXX", XXX: .GAY X-MO 195.154
 http://195.154.185.179/xx_fashion_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://theeasterner.org/wp-content/uploads/2016/03/GenderForum-900x691.png" group-title="â¤ï¸ XXX", XXX: .GROUP SEX iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/172356
 
 #EXTINF:-1 tvg-id="chunklist_w1222185240.m3u8" tvg-logo="http://hw03.freetour.pwidownload.com/japanporn.pornaccess.com/img/japan-porn-logo.gif" group-title="â¤ï¸ XXX", XXX: .JAPAN PORN
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://hw03.freetour.pwidownload.com/japanporn.pornaccess.com/img/japan-porn-logo.gif" group-title="â¤ï¸ XXX", XXX: .JAPAN PORN bup
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="â¤ï¸ XXX", XXX: .LESBIAN iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/172344
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="â¤ï¸ XXX", XXX: .LESBIANS - RedTraffic
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
@@ -5178,6 +5226,9 @@ http://dns.clientetv.net:8080/camisa10/camisa10/47170
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="â¤ï¸ XXX", XXX: .TRANS 3 camisa
 http://dns.clientetv.net:8080/camisa10/camisa10/61742
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="â¤ï¸ XXX", XXX: .TRANS iptvworld 
+http://iptvworld.nl:80/MarkS/iJdiCDpCH9/172342
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="â¤ï¸ XXX", XXX: .TRANSEXUAL TV 1
 https://www.ast.tv/stream/1/cellular.m3u8
@@ -5438,7 +5489,7 @@ http://194.163.179.246/slovenci/porno/xxxxtreme.m3u8
 http://195.154.185.179/xx_babes_tv_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/xxx.png" group-title="â¤ï¸ XXX", XXX: ðŸ”ž BABY STATION 24 sdn
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/26412812337_2204_8096video_480.m3u8
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/an/JF7-ssT62pZ5f0I-VBhksg/featured_channel.jpg?v=544192bf" group-title="â¤ï¸ XXX", XXX: ðŸ”ž CALOOPY cloudfront
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/mhgf2xE/-0800/c.m3u8
@@ -5469,10 +5520,4 @@ http://server.miamitvchannel.com/Nakedkitchen/nakedkitchen140/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://miamitvhd.com/assets/sunbeachtv-ece1bc356e0c71e0a8d213a017419f524afece7d64e16bc9ecbdd03769f21b89.png" group-title="â¤ï¸ XXX", XXX: ðŸ”ž MIAMI TV SUNBEACH
 http://server.miamitvchannel.com/Sunbeachtv/sunbeachtv3131/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="â¤ï¸ XXX", XXX: ðŸ”ž VISIT-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="â¤ï¸ XXX", XXX: ðŸ”ž VISIT-X TV 194.116
-http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 
