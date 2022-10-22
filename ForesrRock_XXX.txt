@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="3d", *xxx: HENTAI-3D 1 ꜰʜᴅ
+http://eaglecinema.xyz:88/live/00Il@StanleyLaurelslI/YX6RaNAgnAQajemFFzcB/60720.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="3d", *xxx: HENTAI-3D 2 ꜰʜᴅ
+http://eaglecinema.xyz:88/live/00Il@StanleyLaurelslI/YX6RaNAgnAQajemFFzcB/60721.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="3d", *xxx: HENTAI-3D 3 ꜰʜᴅ
+http://eaglecinema.xyz:88/live/00Il@StanleyLaurelslI/YX6RaNAgnAQajemFFzcB/60722.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="3d", *xxx: HENTAI-3D ˢᵈ
+http://eaglecinema.xyz:88/live/00Il@StanleyLaurelslI/YX6RaNAgnAQajemFFzcB/60718.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimg.png" group-title="3d", *xxx: HENTAI-3D ᴴᴰ
+http://eaglecinema.xyz:88/live/00Il@StanleyLaurelslI/YX6RaNAgnAQajemFFzcB/60719.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://evandavis.org/wp-content/uploads/2013/05/YouPorn.jpg" group-title="XXX", .XXX: .YouPorn 24HD
 http://iptvnation.com/porn/video.mp4
 
