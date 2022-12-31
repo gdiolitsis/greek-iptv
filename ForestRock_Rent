@@ -5476,6 +5476,12 @@ http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1010067
 #EXTINF:-1 tvg-id="null" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7d4219111892733.600a1beada25c.png" group-title="XXX", XXX: .SQUIRTING user
 http://user.scalecdn.co:8080//live/mediahost247/9005e2c50a/470672.ts
 
+#EXTINF:-1 tvg-id="XXX: TRANS TV 1 ғнᴅ" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANS TV 1 combative
+http://combative.balans13.xyz:50750/adfbadffbghndfbcv52f1b/afdbasfbggndfg655fv/103780
+
+#EXTINF:-1 tvg-id="XXX: .TRANS TV 2 ғнᴅ" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANS TV 2 combative 
+http://combative.balans13.xyz:50750/adfbadffbghndfbcv52f1b/afdbasfbggndfg655fv/103781
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANSEXUAL TV 1
 https://www.ast.tv/stream/1/cellular.m3u8
 
@@ -5538,12 +5544,6 @@ http://94.154.83.88:10000/russiannight
 
 #EXTINF:-1 tvg-id="shelkhdmts" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: SHELK otcnet
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
-
-#EXTINF:-1 tvg-id="XXX: TRANS TV 1 ғнᴅ" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: TRANS TV 1 combative
-http://combative.balans13.xyz:50750/adfbadffbghndfbcv52f1b/afdbasfbggndfg655fv/103780
-
-#EXTINF:-1 tvg-id="XXX: TRANS TV 2 ғнᴅ" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: TRANS TV 2 combative 
-http://combative.balans13.xyz:50750/adfbadffbghndfbcv52f1b/afdbasfbggndfg655fv/103781
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: VENUS 190.61
 http://190.61.102.67:8000/play/a02h
