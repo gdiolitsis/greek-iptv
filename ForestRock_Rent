@@ -11,11 +11,14 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 #EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/12
 
-#EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105215
-
 #EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/12
+
+#EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/12
+
+#EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/778
 
 #EXTINF:-1 tvg-id="ant1cy" tvg-logo="https://i.imgur.com/wJfNR0u.png" group-title="GREEK PANELLADIKA", GR: ANT1 .CYPRUS cloudskep
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
@@ -26,11 +29,14 @@ http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 #EXTINF:-1 tvg-id="ant1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Ant1_2014_orange.svg/revision/latest/scale-to-width-down/250?cb=20201104113633" group-title="GREEK PANELLADIKA", GR: ANT1 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/132
 
-#EXTINF:-1 tvg-id="ant1" tvg-logo="noimage.png" group-title="GREEK PANELLADIKA", GR: ANT1 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105216
-
 #EXTINF:-1 tvg-id="ant1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Ant1_2014_orange.svg/revision/latest/scale-to-width-down/250?cb=20201104113633" group-title="GREEK PANELLADIKA", GR: ANT1 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/132
+
+#EXTINF:-1 tvg-id="ant1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Ant1_2014_orange.svg/revision/latest/scale-to-width-down/250?cb=20201104113633" group-title="GREEK PANELLADIKA", GR: ANT1 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/132
+
+#EXTINF:-1 tvg-id="ant1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Ant1_2014_orange.svg/revision/latest/scale-to-width-down/250?cb=20201104113633" group-title="GREEK PANELLADIKA", GR: ANT1 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/777
 
 #EXTINF:-1 tvg-id="BCI24news" tvg-logo="https://bci24news.com/wp-content/uploads/2020/10/bci24logo.png" group-title="GREEK PANELLADIKA", GR: BCI 24 NEWS
 https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
@@ -38,17 +44,14 @@ https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="bluesky" tvg-logo="https://blueskytv.gr/wp-content/uploads/2018/04/BS-Logo-web-544x180.png" group-title="GREEK PANELLADIKA", GR: BLUE SKY 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/95371
 
-#EXTINF:-1 tvg-id="bluesky" tvg-logo="https://blueskytv.gr/wp-content/uploads/2018/04/BS-Logo-web-544x180.png" group-title="GREEK PANELLADIKA", GR: BLUE SKY combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105223
-
 #EXTINF:-1 tvg-id="bluesky" tvg-logo="https://blueskytv.gr/wp-content/uploads/2018/04/BS-Logo-web-544x180.png" group-title="GREEK PANELLADIKA", GR: BLUE SKY iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/95371
 
+#EXTINF:-1 tvg-id="bluesky" tvg-logo="https://blueskytv.gr/wp-content/uploads/2018/04/BS-Logo-web-544x180.png" group-title="GREEK PANELLADIKA", GR: BLUE SKY kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/95371
+
 #EXTINF:-1 tvg-id="city.cy" tvg-logo="https://i.imgur.com/Jo6jIP1.jpg" group-title="GREEK PANELLADIKA", GR: CITY CHANNEL CYPRUS
 https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu
-
-#EXTINF:-1 tvg-id="digital.cy" tvg-logo="https://i.imgur.com/CkrBuwm.png" group-title="GREEK PANELLADIKA", GR: DIGITAL TV CYPRUS digital 
-https://livestream-player.digitaltv.com.cy/v1/01804bc1b4c709df730731f9d43d/01804bc1bd6a09df73103e2450a3/DigitaltreeTVOpH_720PA.m3u8?txSecret=3d70b5a88c9f11a891501c56dda11283&txTime=62C23EE5
 
 #EXTINF:-1 tvg-id="ertnews" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews-logo-800x300.png" group-title="GREEK PANELLADIKA", GR: ERT NEWS
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
@@ -62,11 +65,14 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_
 #EXTINF:-1 tvg-id="ert1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/3
 
-#EXTINF:-1 tvg-id="ert1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105246
-
 #EXTINF:-1 tvg-id="ert1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/3
+
+#EXTINF:-1 tvg-id="ert1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/3
+
+#EXTINF:-1 tvg-id="ert1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/773
 
 #EXTINF:-1 tvg-id="ert2" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_1080/chunks.m3u8
@@ -74,11 +80,14 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_
 #EXTINF:-1 tvg-id="ert2" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/136
 
-#EXTINF:-1 tvg-id="ert2" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105247
-
 #EXTINF:-1 tvg-id="ert2" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/136
+
+#EXTINF:-1 tvg-id="ert2" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/136
+
+#EXTINF:-1 tvg-id="ert2" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/774
 
 #EXTINF:-1 tvg-id="ert3" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
@@ -86,17 +95,20 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_
 #EXTINF:-1 tvg-id="ert3" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/137
 
-#EXTINF:-1 tvg-id="ert3" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105248
-
 #EXTINF:-1 tvg-id="ert3" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/137
 
-#EXTINF:-1 tvg-id="euronews.gr" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="GREEK PANELLADIKA", GR: EURONEWS combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105253
+#EXTINF:-1 tvg-id="ert3" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/137
+
+#EXTINF:-1 tvg-id="ert3" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3_HD.png" group-title="GREEK PANELLADIKA", GR: ERT3 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/775
 
 #EXTINF:-1 tvg-id="euronews.gr" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="GREEK PANELLADIKA", GR: EURONEWS iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/1967
+
+#EXTINF:-1 tvg-id="euronews.gr" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="GREEK PANELLADIKA", GR: EURONEWS monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/795
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/3cf637_adc1f1571f514bfc853bbdc38419ce09~mv2.png/v1/fill/w_200,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/White_thumb%20(2).png" group-title="GREEK PANELLADIKA", GR: GREEK TV LONDON alpha
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
@@ -113,20 +125,26 @@ https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 tvg-id="kontra" tvg-logo="https://i.imgur.com/iV1iGoF.png" group-title="GREEK PANELLADIKA", GR: KONTRA 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/1966
 
-#EXTINF:-1 tvg-id="kontra" tvg-logo="https://i.imgur.com/iV1iGoF.png" group-title="GREEK PANELLADIKA", GR: KONTRA combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105265
-
 #EXTINF:-1 tvg-id="kontra" tvg-logo="https://i.imgur.com/iV1iGoF.png" group-title="GREEK PANELLADIKA", GR: KONTRA iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/1966
+
+#EXTINF:-1 tvg-id="kontra" tvg-logo="https://i.imgur.com/iV1iGoF.png" group-title="GREEK PANELLADIKA", GR: KONTRA kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/1966
+
+#EXTINF:-1 tvg-id="kontra" tvg-logo="https://i.imgur.com/iV1iGoF.png" group-title="GREEK PANELLADIKA", GR: KONTRA monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/793
 
 #EXTINF:-1 tvg-id="makedoniatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/2673
 
-#EXTINF:-1 tvg-id="makedoniatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105270
-
 #EXTINF:-1 tvg-id="makedoniatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/2673
+
+#EXTINF:-1 tvg-id="makedoniatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/2673
+
+#EXTINF:-1 tvg-id="makedoniatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/781
 
 #EXTINF:-1 tvg-id="mega" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
@@ -134,11 +152,14 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/p
 #EXTINF:-1 tvg-id="mega" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/13
 
-#EXTINF:-1 tvg-id="mega" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105272
-
 #EXTINF:-1 tvg-id="mega" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/13
+
+#EXTINF:-1 tvg-id="mega" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/13
+
+#EXTINF:-1 tvg-id="mega" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1271
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/2tB3wqn.png" group-title="GREEK PANELLADIKA", GR: MONTREAL GREEK TV
 http://live.greektv.ca/hls1/greektv.m3u8
@@ -152,8 +173,14 @@ https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ergodotisi.blob.core.windows.net/generalimages/companies/31087.png" group-title="GREEK PANELLADIKA", GR: OMEGA CYPRUS cloudskep
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 
+#EXTINF:-1 tvg-id="omega.cy" tvg-logo="https://ergodotisi.blob.core.windows.net/generalimages/companies/31087.png" group-title="GREEK PANELLADIKA", GR: OMEGA CYPRUS monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1367
+
 #EXTINF:-1 tvg-id="onechannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="GREEK PANELLADIKA", GR: ONE
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
+
+#EXTINF:-1 tvg-id="one" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="GREEK PANELLADIKA", GR: ONE monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1612
 
 #EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
@@ -161,11 +188,14 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 #EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/1974
 
-#EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105301
-
 #EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/1974
+
+#EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/1974
+
+#EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1531
 
 #EXTINF:-1 tvg-id="pronews" tvg-logo="https://i.imgur.com/pX9UBuZ.jpg" group-title="GREEK PANELLADIKA", GR: PRO NEWS til
 https://til.pp.ua:3424/live/superblive.m3u8
@@ -176,17 +206,23 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="riksat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/1200px-Logo_RIK_Sat_2017.svg.png" group-title="GREEK PANELLADIKA", GR: RIK SAT CYPRUS 188.227
 http://188.227.164.31/tsstreamer/Hellenic_SD.ts
 
+#EXTINF:-1 tvg-id="riksat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/1200px-Logo_RIK_Sat_2017.svg.png" group-title="GREEK PANELLADIKA", GR: RIK SAT monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/783
+
 #EXTINF:-1 tvg-id="sigma.cy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", GR: SIGMA CYPRUS
 https://sl2.sigmatv.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="sigma.cy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", GR: SIGMA CYPRUS 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/2671
 
-#EXTINF:-1 tvg-id="sigma.cy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", GR: SIGMA CYPRUS combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105306
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", GR: SIGMA CYPRUS iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/2671
+
+#EXTINF:-1 tvg-id="sigma.cy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", GR: SIGMA CYPRUS kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/2671
+
+#EXTINF:-1 tvg-id="sigma.cy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", GR: SIGMA CYPRUS monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/785
 
 #EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
@@ -194,11 +230,14 @@ https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/2670
 
-#EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105307
-
 #EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/2670
+
+#EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/2670
+
+#EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/779
 
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR
 http://livestar.siliconweb.com/media/star1/star1.m3u8
@@ -206,11 +245,14 @@ http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/2662
 
-#EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR combative
-http://combative.balans13.xyz:50750/live/1hacialba65854/Jrkdjfjrrhfsk4473jd/105309.ts
-
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/2662
+
+#EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/2662
+
+#EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/780
 
 #EXTINF:-1 tvg-id="Voulitv" tvg-logo="https://i.imgur.com/7A86yAv.png" group-title="GREEK PANELLADIKA", GR: VOULI TV
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -416,11 +458,14 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 1 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/291104
 
-#EXTINF:-1 tvg-id=".GR CINE: CMT CINEMA 1" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 1 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105228
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 1 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/291104
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 1 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/291104
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 1 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1370
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 2 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/291105
@@ -428,14 +473,23 @@ http://37.49.230.48:8080/AkaPlus/b6697619f9/291105
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 2 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/291105
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 2 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/291105
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 2 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1371
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 3 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/291106
 
-#EXTINF:-1 tvg-id=".GR CINE: CMT CINEMA 3" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 3 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105230
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 3 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/291106
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 3 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/291106
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 3 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1372
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT SERIES 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/148101
@@ -443,122 +497,161 @@ http://37.49.230.48:8080/AkaPlus/b6697619f9/148101
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT SERIES iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/148101
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT SERIES kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/148101
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT SERIES monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1373
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.conceptcom.gr/wp-content/uploads/2022/10/FOXLIFE_LOGO.png" group-title="CINEMA", GR: FOX LIFE monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/797
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1280px-FOX-Channel-Germany.svg.png" group-title="CINEMA", GR: FOX monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/796
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Emblem.png" group-title="CINEMA", GR: HBO 1 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/831
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Emblem.png" group-title="CINEMA", GR: HBO 2 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/832
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 1 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/79551
-
-#EXTINF:-1 tvg-id=".GR CINE: NV CINEMA 1" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 1 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105281
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 1 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/79551
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 1 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/79551
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 1 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1317
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 2 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/12819
-
-#EXTINF:-1 tvg-id=".GR CINE: NV CINEMA 2" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 2 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105282
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 2 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/12819
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 2 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/12819
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 2 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1318
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 3 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/74188
-
-#EXTINF:-1 tvg-id=".GR CINE: NV CINEMA 3" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 3 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105283
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 3 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/74188
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 3 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/74188
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 3 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1319
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 4 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/50470
-
-#EXTINF:-1 tvg-id=".GR CINE: NV CINEMA 4" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 4 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105284
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 4 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/50470
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 4 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/50470
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 4 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1320
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://acai.com.gt/wp-content/uploads/2020/07/Logo-Novalife.png" group-title="CINEMA", GR: NV LIFE monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1597
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE COMEDY 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/90629
-
-#EXTINF:-1 tvg-id=".GR CINE: NV PREMIERE Comedy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE COMEDY combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105285
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE COMEDY iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/90629
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE COMEDY kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/90629
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE HELLENIC 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/81460
-
-#EXTINF:-1 tvg-id=".GR CINE: NV PREMIERE Hellenic" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE HELLENIC combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105286
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE HELLENIC iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/81460
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE HELLENIC kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/81460
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE HISTORY 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/39
-
-#EXTINF:-1 tvg-id=".GR CINE: NV PREMIERE History" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE HISTORY combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105287
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE HISTORY iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/39
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE HISTORY kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/39
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE MYTHOLOGY 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/198413
-
-#EXTINF:-1 tvg-id=".GR CINE: NV PREMIERE Mythology" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE MYTHOLOGY combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105288
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE MYTHOLOGY iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/198413
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE MYTHOLOGY kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/198413
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE PASSION 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/266429
-
-#EXTINF:-1 tvg-id=".GR CINE: NV PREMIERE Passion" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE PASSION combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105289
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE PASSION iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/266429
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE PASSION kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/266429
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE SCI-FI 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/151625
-
-#EXTINF:-1 tvg-id=".GR CINE: NV PREMIERE sci-fi" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE SCI-FI combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105290
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE SCI-FI iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/151625
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE SCI-FI kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/151625
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE STARZ 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/146538
-
-#EXTINF:-1 tvg-id=".GR CINE: NV PREMIERE Starz" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE STARZ combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105291
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE STARZ iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/146538
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE STARZ kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/146538
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE THRILLER 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/45
-
-#EXTINF:-1 tvg-id=".GR CINE: NV PREMIERE Thriller" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE THRILLER combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105292
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE THRILLER iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/45
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE THRILLER kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/45
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE WESTERN 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/198414
 
-#EXTINF:-1 tvg-id=".GR CINE: NV PREMIERE Western" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE WESTERN combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105293
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE WESTERN iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/198414
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: PREMIERE WESTERN kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/198414
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/T/tcm-logo-3581046A26-seeklogo.com.png" group-title="CINEMA", GR: TCM monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/830
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://villageroadshow.com.au/-/media/VRL-Corporate-Media-Library/Images-Header/VRL-Logo-2017.png" group-title="CINEMA", GR: VILLAGE CINEMA monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1375
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.fishinggreece.com/img/logo.png" group-title="DOCUMENTARY", .DOC: .FISHING GREEK gd
 http://136.243.92.93:8080/fishing/mpegts
@@ -569,29 +662,53 @@ https://spartantv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PcbFVVe.jpg" group-title="DOCUMENTARY", .DOC: AKTINA TV streamlock 
 https://5e8dfce185af1.streamlock.net:443/AktinaWebTv/AktinaWebTv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/ebe58c44cb94c689aef9f9398d63f01a40a5aa7b.png" group-title="DOCUMENTARY", .DOC: ANIMAL PLANET GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/817
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1563119054122094592/AEEZzs2n_400x400.png" group-title="DOCUMENTARY", .DOC: BBC EARTH GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/826
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/N6q8DgI.png" group-title="DOCUMENTARY", .DOC: BCI TRAVEL GR
 https://channel.streams.ovh:19360/bcicinema/bcicinema.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2021-02/cbs-reality-logo-255x140.png?itok=g_w_vqQd" group-title="DOCUMENTARY", .DOC: CBS REALITY GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/823
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kathimerini.gr/wp-content/uploads/2020/03/cosmote_history_livestream.jpg" group-title="DOCUMENTARY", .DOC: CMT HISTORY 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/45229
 
-#EXTINF:-1 tvg-id="GR: CMT History" tvg-logo="https://www.kathimerini.gr/wp-content/uploads/2020/03/cosmote_history_livestream.jpg" group-title="DOCUMENTARY", .DOC: CMT HISTORY combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105231
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kathimerini.gr/wp-content/uploads/2020/03/cosmote_history_livestream.jpg" group-title="DOCUMENTARY", .DOC: CMT HISTORY iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/45229
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kathimerini.gr/wp-content/uploads/2020/03/cosmote_history_livestream.jpg" group-title="DOCUMENTARY", .DOC: CMT HISTORY kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/45229
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.kathimerini.gr/wp-content/uploads/2020/03/cosmote_history_livestream.jpg" group-title="DOCUMENTARY", .DOC: CMT HISTORY monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1374
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://bite-in.com/siol/logos/crimeinvestigation.png" group-title="DOCUMENTARY", .DOC: CRIME AND INVESTIGATION GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/822
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/e4umCKP.jpg" tvg-logo="https://pbs.twimg.com/profile_images/1354809136714719234/KNzJ_QFz_400x400.jpg" group-title="DOCUMENTARY", .DOC: DESTINATION GREECE TV fss
 https://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GR: Discovery World" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: DISCOVERY GR combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105243
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" group-title="DOCUMENTARY", .DOC: DISCOVERY GR iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/24963
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" group-title="DOCUMENTARY", .DOC: DISCOVERY GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/805
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTARY", .DOC: DISCOVERY ID GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/807
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="DOCUMENTARY", .DOC: DISCOVERY SCI GR iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/30109
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="DOCUMENTARY", .DOC: DISCOVERY SCI GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/806
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.interlan.ro/wp-content/uploads/2022/01/Discovery-Turbo-Xtra-1.png" group-title="DOCUMENTARY", .DOC: DISCOVERY TURBO XTRA monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1057
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.10dailythings.com/images/channels/GR/grd-channel/normal.png" group-title="DOCUMENTARY", .DOC: GR Discovery CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
@@ -608,17 +725,38 @@ http://37.49.230.48:8080/AkaPlus/b6697619f9/4248
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.nationalgeographic.nl/files/styles/image_3200/public/nglogo.png?w=1900&h=567" group-title="DOCUMENTARY", .DOC: NAT GEO GR iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/4248
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/4248
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.nationalgeographic.nl/files/styles/image_3200/public/nglogo.png?w=1900&h=567" group-title="DOCUMENTARY", .DOC: NAT GEO GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/809
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png" group-title="DOCUMENTARY", .DOC: NAT GEO WILD GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/810
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/5e/Nautical_channel_logo.png/640px-Nautical_channel_logo.png" group-title="DOCUMENTARY", .DOC: NAUTICAL CHANNEL GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/868
+
 #EXTINF:-1 tvg-id="https://i.imgur.com/dW1bcD2.jpg" tvg-logo="https://www.notioi.gr/wp-content/uploads/2019/10/notioi-logo-new-small.png" group-title="DOCUMENTARY", .DOC: NOTIOI TV srv
 https://srv.streamserver.gr:3451/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/svYeIxR.png" tvg-logo="https://www.pemptousia.gr/wp-content/themes/pem_gr_new/images/pem_tv.png" group-title="DOCUMENTARY", .DOC: PEMPTOUSIA TV svs
 https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GR: Viasat Nature" tvg-logo="https://www.viasatworld.com/media/1445/nature-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT NATURE GR combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105321
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="DOCUMENTARY", .DOC: TLC GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/821
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1443/explore-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT EXPLORE GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/811
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1067/historylogo.png" group-title="DOCUMENTARY", .DOC: VIASAT HISTORY GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/813
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1445/nature-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT NATURE GR iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/296239
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1445/nature-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT NATURE GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/812
 
 #EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="DOCUMENTARY", .DOC: XPLORE GREEK
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
@@ -740,19 +878,13 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="DOCUMENTARY", DOC: NASA TV PUBLIC ustream
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD ABU DHABI
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD 185.59
+http://185.59.223.102:8080/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD ABU DHABI
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="629" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD HR 185.107
-http://185.107.71.33:8000/live?channelId=629&uid=5023&deviceUser=antebekavac&devicePass=m74QKcdY2tAhwnld
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD KOREA github
-https://allanf181.github.io/adaptive-streams/streams/kr/NationalGeographicWildKorea.m3u8
-
-#EXTINF:-1 tvg-id="441" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD RS 185.107
-http://185.107.71.33:8000/live?channelId=441&uid=5023&deviceUser=antebekavac&devicePass=m74QKcdY2tAhwnld
-
-#EXTINF:-1 tvg-id="NationalGeographicWildHDRussia.us" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD RU sc.id
+#EXTINF:-1 tvg-id="NationalGeographicWildHDRussia.us" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png" group-title="DOCUMENTARY", DOC: NAT GEO WILD RU sc.id
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 #EXTINF:-1 tvg-id="ATBA1500028F9" tvg-logo="https://bergblickappt.com/wp-content/uploads/2018/11/bergblick-apptments.com-logo-1.png" group-title="DOCUMENTARY", DOC: NATURE BERGBLICK FREE amazon
@@ -869,83 +1001,110 @@ http://213.7.193.54:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/124
 
-#EXTINF:-1 tvg-id="GR: CMTSPORT 1" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105232
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/124
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/124
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1532
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/18
 
-#EXTINF:-1 tvg-id="GR: CMT SPORT 2" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105233
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/18
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/18
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1533
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/4269
 
-#EXTINF:-1 tvg-id="GR: CMT SPORT 3" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105234
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/4269
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/4269
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1534
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/125
 
-#EXTINF:-1 tvg-id="GR: CMT SPORT 4" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105235
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/125
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/125
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1535
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/4271
 
-#EXTINF:-1 tvg-id="GR: CMT SPORT 5" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105236
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/4271
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/4271
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1536
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/4272
 
-#EXTINF:-1 tvg-id="GR: CMT SPORT 6" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105237
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/4272
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/4272
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1537
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/126
 
-#EXTINF:-1 tvg-id="GR: CMT SPORT 7" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105238
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/126
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/126
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1538
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/127
 
-#EXTINF:-1 tvg-id="GR: CMT SPORT 8" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105239
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/127
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/127
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1539
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 9 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/121356
 
-#EXTINF:-1 tvg-id="GR: CMT SPORT 9" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 9 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105240
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 9 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/121356
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 9 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/121356
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 9 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1382
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/12844
@@ -953,11 +1112,14 @@ http://37.49.230.48:8080/AkaPlus/b6697619f9/12844
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 1 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
-#EXTINF:-1 tvg-id="GR: NV Sports 1" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105294
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/12844
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/12844
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1311
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV Sports 2 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/12845
@@ -965,11 +1127,14 @@ http://37.49.230.48:8080/AkaPlus/b6697619f9/12845
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 2 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
 
-#EXTINF:-1 tvg-id="GR: NV sports 2" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105295
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/12845
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV Sports 2 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/12845
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1312
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/12846
@@ -977,11 +1142,14 @@ http://37.49.230.48:8080/AkaPlus/b6697619f9/12846
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 3 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd
 
-#EXTINF:-1 tvg-id="GR: NV Sports 3" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105296
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/12846
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/12846
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1313
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/279631
@@ -989,11 +1157,14 @@ http://37.49.230.48:8080/AkaPlus/b6697619f9/279631
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 4 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_lG-wVaWwzTuOyVlirmrrk
 
-#EXTINF:-1 tvg-id="GR: NV Sports 4" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105297
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/279631
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/279631
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1314
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 5 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/45242
@@ -1001,11 +1172,14 @@ http://37.49.230.48:8080/AkaPlus/b6697619f9/45242
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 5 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6PzAwwDSc-9
 
-#EXTINF:-1 tvg-id="GR: NV Sports 5" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 5 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105298
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 5 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/45242
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 5 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/45242
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 5 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1315
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 6 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/291115
@@ -1016,8 +1190,35 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33Bu
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 6 iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/291115
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 6 kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/291115
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 6 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/852
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS EXTRA 1 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1658
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS EXTRA 2 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1659
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS EXTRA 3 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1660
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS EXTRA 4 monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1661
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/Novasports_News_HD.png" group-title="SPORTS", GR: NV SPORTS NEWS 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/291111
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/Novasports_News_HD.png" group-title="SPORTS", GR: NV SPORTS NEWS kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/291111
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS NEWS monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1316
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PREM LEAGUE monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1368
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PRIME 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/291116
@@ -1025,11 +1226,14 @@ http://37.49.230.48:8080/AkaPlus/b6697619f9/291116
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS PRIME boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SiNbpNnLSCs2raDBBlJ75L12xCcWfMUpyovA8KCk83tc
 
-#EXTINF:-1 tvg-id="GR: NV sports Prime" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PRIME combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105299
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PRIME iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/291116
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PRIME kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/291116
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PRIME monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/851
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS START 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/295161
@@ -1039,6 +1243,12 @@ https://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS START iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/295161
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS START kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/295161
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS START monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/850
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.malariaconsortium.org/website-2017/_images/_supplied/2LIVEgif.gif" group-title="SPORTS", LIVE BRAZIL SPORT 1 singular
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -1277,9 +1487,6 @@ https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 01 FR tvnow
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bein.sports.1.fr.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 01 MAX zinamedia
-http://t1-ssn.zinamedia.net/ar-s/beIN-SPORTS-MAX1-H265/video.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 01 PREM 62.182
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 
@@ -1301,9 +1508,6 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nsw.sydney.
 #EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 02 FR tvnow
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bein.sports.2.fr.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 02 MAX zinamedia
-http://t1-ssn.zinamedia.net/ar-s/beIN-SPORTS-MAX2-H265/video.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 02 PREM 62.182
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
 
@@ -1316,26 +1520,17 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/nsw.sydney.
 #EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 03 FR tvnow
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bein.sports.3.fr.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 03 MAX zinamedia
-http://t1-ssn.zinamedia.net/ar-s/beIN-SPORTS-MAX3-H265/video.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 03 PREM 62.182
 http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 04 AR tvnow
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/beINSports4.qa.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 04 MAX zinamedia
-http://t1-ssn.zinamedia.net/ar-s/beIN-SPORTS-MAX4-H265/video.m3u8
-
 #EXTINF:-1 tvg-id="bein.sports.4.us" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 04 US tvnow
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bein.sports.4.us.m3u8
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 05 AR tvnow
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/beINSports5.qa.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 05 MAX zinamedia
-http://t1-ssn.zinamedia.net/ar-s/beIN-SPORTS-MAX5-H265/video.m3u8
 
 #EXTINF:-1 tvg-id="bein.sports.5.us" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="SPORTS", SP: BEIN SPORTS 05 US tvnow
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/bein.sports.5.us.m3u8
@@ -1742,11 +1937,14 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eurosport.1
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="SPORTS", SP: EUROSPORT 1 GR 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/138
 
-#EXTINF:-1 tvg-id="GR: EUROSPORT 1" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="SPORTS", SP: EUROSPORT 1 GR combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105254
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", SP: EUROSPORT 1 GR iptvmedia
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="SPORTS", SP: EUROSPORT 1 GR iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/138
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="SPORTS", SP: EUROSPORT 1 GR kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/138
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="SPORTS", SP: EUROSPORT 1 GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1369
 
 #EXTINF:-1 tvg-id="2052" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="SPORTS", SP: EUROSPORT 1 RU sc.id
 https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
@@ -1763,11 +1961,14 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eurosport.2
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png" group-title="SPORTS", SP: EUROSPORT 2 GR 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/139
 
-#EXTINF:-1 tvg-id="GR: EUROSPORT 2" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png" group-title="SPORTS", SP: EUROSPORT 2 GR combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105255
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", SP: EUROSPORT 2 GR iptvmedia
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png" group-title="SPORTS", SP: EUROSPORT 2 GR iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/139
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png" group-title="SPORTS", SP: EUROSPORT 2 GR kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/139
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png" group-title="SPORTS", SP: EUROSPORT 2 GR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/1363
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png" group-title="SPORTS", SP: EUROSPORT 2 RU sc.id
 https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
@@ -3628,8 +3829,17 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ziggo.sport
 #EXTINF:-1 tvg-id="ziggo.sport.voetbal.nl" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png" group-title="SPORTS", SP: ZIGGO SPORT VOETBAL tvnow
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ziggo.sport.voetbal.nl.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BabyTV%20HD.png" group-title="KIDS", .GR KIDS: BABY TV monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/804
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/PhQYZxc/bob.jpg" group-title="KIDS", .GR KIDS: BOB O MÁSTORAS eaglecinema
 http://eaglecinema.xyz:88/00Il@StanleyLaurelslI/YX6RaNAgnAQajemFFzcB/63656
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/2560px-Disney_Channel_logo_%282014%29.svg.png" group-title="KIDS", .GR KIDS: DISNEY CHANNEL monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/798
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Disney_Junior_2019.svg/revision/latest/scale-to-width-down/250?cb=20191027130536" group-title="KIDS", .GR KIDS: DISNEY JUNIOR monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/799
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="KIDS", .GR KIDS: KIDS TV GR 65.108
 http://65.108.62.57:8080/live/kidshd.m3u8
@@ -3637,8 +3847,11 @@ http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Nick_logo_2005.png" group-title="KIDS", .GR KIDS: NICKELODEON 37.49
 http://37.49.230.48:8080/AkaPlus/b6697619f9/146375
 
-#EXTINF:-1 tvg-id="GR: nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Nick_logo_2005.png" group-title="KIDS", .GR KIDS: NICKELODEON combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/105279
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Nick_logo_2005.png" group-title="KIDS", .GR KIDS: NICKELODEON kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/146375
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KIDS", .GR KIDS: NICKELODEON monogr
+http://bestipontv.ddns.net:81/greeksnewpanel/8qCRTQSbs3/801
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="KIDS", .GR KIDS: SMILE GR
 https://s1.cystream.net/live/smile/playlist.m3u8
@@ -3661,11 +3874,11 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=442
 #EXTINF:-1 tvg-id="babytv.gr" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BabyTV%20HD.png" group-title="KIDS", 1KIDS: BABY TV 37.49
 http://37.49.230.48:8080/live/AkaPlus/b6697619f9/79566.ts
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BabyTV%20HD.png" group-title="KIDS", 1KIDS: BABY TV combative
-http://combative.balans13.xyz:50750//live/1hacialba65854/Jrkdjfjrrhfsk4473jd/105219.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BabyTV%20HD.png" group-title="KIDS", 1KIDS: BABY TV external 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+
+#EXTINF:-1 tvg-id="babytv.gr" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BabyTV%20HD.png" group-title="KIDS", 1KIDS: BABY TV kuchini
+http://kuchini.230.48:8080/live/AkaPlus/b6697619f9/79566.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/011ee029-6598-4109-9453-b2035db30947/defvmty-04fd808f-40b9-4546-b6d4-b42a5119263f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxMWVlMDI5LTY1OTgtNDEwOS05NDUzLWIyMDM1ZGIzMDk0N1wvZGVmdm10eS0wNGZkODA4Zi00MGI5LTQ1NDYtYjZkNC1iNDJhNTExOTI2M2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pjzwJz4WROtZvBOFB-3L8eKY2Gfm9kTFSf1_4tpg3uM" group-title="KIDS", 1KIDS: BIG BUCK BUNNY 1 wowza
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
@@ -3735,6 +3948,9 @@ https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/T/tom-and-jerry-logo-0F89FA6342-seeklogo.com.png" group-title="KIDS", ENG KIDS: KIDS ENG 7 rakuten
 https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="KIDS", GR: PREMIERE COMEDY kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/90629
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/j6XPh2U.png" group-title="FUNNY TV", ALWAYS FUNNY VIDEOS cloudfront
 https://d1u25cmbxee87d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV-Canada2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -4810,9 +5026,6 @@ http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", .XXX: RedTraffic - THREESOME
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 
-#EXTINF:-1 tvg-id="XXX: Public Agent" tvg-logo="https://www.pngall.com/wp-content/uploads/11/Agent-No-Background.png" group-title="XXX", XXX: .4PUBLIC AGENT combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/106393
-
 #EXTINF:-1 tvg-id="null" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMptjGwz_CWVt8jflxofMd1xgoUBzk3CXkg&usqp=CAU" group-title="XXX", XXX: .4PUBLIC INVASION user
 http://user.scalecdn.co:8080//live/mediahost247/9005e2c50a/470669.ts
 
@@ -4849,14 +5062,8 @@ http://user.scalecdn.co:8080//live/mediahost247/9005e2c50a/470089.ts
 #EXTINF:-1 tvg-id="null" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/xxx.png" group-title="XXX", XXX: .BLOWJOB 2 user
 http://user.scalecdn.co:8080//live/mediahost247/9005e2c50a/470646.ts
 
-#EXTINF:-1 tvg-id="XXX: Fake Taxi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/1280px-Fake_Taxi_logo.svg.png" group-title="XXX", XXX: .FAKE TAXI combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/106368
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/1280px-Fake_Taxi_logo.svg.png" group-title="XXX", XXX: .FAKE TAXI iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/297125
-
-#EXTINF:-1 tvg-id="XXX: Family Hookups" tvg-logo="https://images.psmcdn.net/tsv4/images/login/logos/fs.png" group-title="XXX", XXX: .FAMILY HOOKUPS combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/106369
 
 #EXTINF:-1 tvg-id="null" tvg-logo="https://i.scdn.co/image/ab67616d0000b27341d3408018d57efbc2d73618" group-title="XXX", XXX: .GANGBANG 1 user
 http://user.scalecdn.co:8080//live/mediahost247/9005e2c50a/470654.ts
@@ -4872,6 +5079,9 @@ http://37.49.230.48:8080/AkaPlus/b6697619f9/297028
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY X-MO iptvmedia
 http://iptvmedia.live:8080/bubullea83/092df5a7953b/297028
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY X-MO kuchini
+http://kuchini.site:8080/SBTV/Ysw3NTUryCBjUcfu/297028
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn2.iconfinder.com/data/icons/leto-gender-identity/64/bisexual_2_male_female_group_sex-512.png" group-title="XXX", XXX: .GROUPSEX user
 http://user.scalecdn.co:8080//live/mediahost247/9005e2c50a/20500.ts
@@ -4914,27 +5124,6 @@ http://144.76.58.245:2307/cartoon/mpegts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: DORCEL 178.253
 https://178.253.194.105/dorcelhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="XXX: Erotic" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: EROTIC 1 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/101811
-
-#EXTINF:-1 tvg-id="XXX: Erotic 2" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: EROTIC 2 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/101812
-
-#EXTINF:-1 tvg-id="XXX: Erotic 3" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: EROTIC 3 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/101813
-
-#EXTINF:-1 tvg-id="XXX: Erotic 4" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: EROTIC 4 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/101814
-
-#EXTINF:-1 tvg-id="XXX: Erotic 5" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: EROTIC 5 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/101815
-
-#EXTINF:-1 tvg-id="XXX: Erotic 6" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: EROTIC 6 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/101816
-
-#EXTINF:-1 tvg-id="XXX: Erotic 7" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: EROTIC 7 combative
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/101817
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: EROX 178.253
 https://178.253.194.105/erox/playlist.m3u8
