@@ -12,7 +12,7 @@ http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100182
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100182
 
 #EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157142
@@ -24,7 +24,7 @@ http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 
 #EXTINF:-1 tvg-id="ant1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ANT-1_HD.png" group-title="GREEK PANELLADIKA", GR: ANT1 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100190
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100190
 
 #EXTINF:-1 tvg-id="ant1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ANT-1_HD.png" group-title="GREEK PANELLADIKA", GR: ANT1 cloudfront
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/b0966e1e2108447ca9d90048c9ddc951/ant1-cmaf/ant1.m3u8
@@ -69,13 +69,13 @@ http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157126
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kontra" tvg-logo="https://i.imgur.com/iV1iGoF.png" group-title="GREEK PANELLADIKA", GR: KONTRA balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100188
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100188
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/iV1iGoF.png" group-title="GREEK PANELLADIKA", GR: KONTRA revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157128
 
 #EXTINF:-1 tvg-id="makedoniatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100189
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100189
 
 #EXTINF:-1 tvg-id="makedoniatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV cloudfront
 http://dlm34ll53zqql.cloudfront.net/out/v1/ab680def497d44e4864475e33e7a3efd/hls/maktv.m3u8
@@ -87,7 +87,7 @@ http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157121
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mega" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100185
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100185
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157116
@@ -108,7 +108,7 @@ http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157127
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100184
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100184
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157246
@@ -135,13 +135,13 @@ http://188.227.164.31/tsstreamer/Hellenic_SD.ts
 https://sl2.sigmatv.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="sigma.cy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="GREEK PANELLADIKA", GR: SIGMA CYPRUS balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100200
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100200
 
 #EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
 #EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100183
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100183
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157118
@@ -150,7 +150,7 @@ http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157118
 http://livestar.siliconweb.com/media/star1/star1.m3u8
 
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100191
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100191
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157120
@@ -387,34 +387,34 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4634?p
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/b400714d-558c-11eb-bb6c-3ba175659de4/0/master.m3u8?uid=749544ec3d9a45d48c600d03cac91dfd&optout=0&vendor=philips&country=DE
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 1 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100237
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100237
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 1 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157143
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 2 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100238
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100238
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 2 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157144
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 3 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100239
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100239
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT CINEMA 3 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157145
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT SERIES balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100241
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100241
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bassau.cz/img/5631a01f700b8251ad87e80c7b104fc2.png" group-title="CINEMA", GR: CMT SERIES revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157146
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/fox.png" group-title="CINEMA", GR: FOX balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100270
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100270
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/FOX_LIFE.png" group-title="CINEMA", GR: FOX LIFE balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100271
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100271
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/fox.png" group-title="CINEMA", GR: FOX revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157158
@@ -426,37 +426,37 @@ http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157160
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157232
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 1 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100233
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100233
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 1 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157152
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 2 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100234
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100234
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 2 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157153
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 3 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100235
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100235
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 3 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157154
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 4 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100236
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100236
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/N/Nova_TV-logo-1E4C1FD9FF-seeklogo.com.png" group-title="CINEMA", GR: NV CINEMA 4 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157155
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/NOVALIFE_HD.png" group-title="CINEMA", GR: NV LIFE balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100254
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100254
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/NOVALIFE_HD.png" group-title="CINEMA", GR: NV LIFE revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157157
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/T/tcm-logo-3581046A26-seeklogo.com.png" group-title="CINEMA", GR: TCM balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100272
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100272
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: TZIMIS PANOUSIS revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157269
@@ -480,7 +480,7 @@ http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157184
 https://channel.streams.ovh:19360/bcicinema/bcicinema.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/CBS_REALITY.png" group-title="DOCUMENTARY", .DOC: CBS REALITY GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100273
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100273
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/CBS_REALITY.png" group-title="DOCUMENTARY", .DOC: CBS REALITY GR revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157185
@@ -489,7 +489,7 @@ http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157185
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157186
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/CRIME_END_INVESTIGATION.png" group-title="DOCUMENTARY", .DOC: CRIME INVESTIGATION GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100256
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100256
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/e4umCKP.jpg" tvg-logo="https://pbs.twimg.com/profile_images/1354809136714719234/KNzJ_QFz_400x400.jpg" group-title="DOCUMENTARY", .DOC: DESTINATION GREECE TV fss
 https://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
@@ -497,14 +497,14 @@ https://2-fss-1.streamhoster.com/pl_122/203374-1931760-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.interlan.ro/wp-content/uploads/2022/01/Discovery-Turbo-Xtra-1.png" group-title="DOCUMENTARY", .DOC: DISCOVERY DTX GR revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157190
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" group-title="DOCUMENTARY", .DOC: DISCOVERY GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100251
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: DISCOVERY GR balkanfree
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100251
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTARY", .DOC: DISCOVERY ID GR revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157191
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="DOCUMENTARY", .DOC: DISCOVERY SCI GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100253
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100253
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="DOCUMENTARY", .DOC: DISCOVERY SCI GR revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157192
@@ -521,14 +521,14 @@ http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157197
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.mgrrealestate.com/wp-content/uploads/2021/02/Logo-White.png" group-title="DOCUMENTARY", .DOC: MGR TV TRAVEL
 https://livetv.streams.ovh:1936/mgrwebtv/mgrwebtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.nationalgeographic.nl/files/styles/image_3200/public/nglogo.png?w=1900&h=567" group-title="DOCUMENTARY", .DOC: NAT GEO GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100249
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR balkanfree
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100249
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.nationalgeographic.nl/files/styles/image_3200/public/nglogo.png?w=1900&h=567" group-title="DOCUMENTARY", .DOC: NAT GEO GR revteam8 
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157180
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", .DOC: NAT GEO WILD GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100250
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100250
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="DOCUMENTARY", .DOC: NAT GEO WILD GR revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157181
@@ -543,16 +543,16 @@ https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157199
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1443/explore-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT EXPLORE GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100262
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100262
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: VIASAT EXPLORE GR revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157193
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1067/historylogo.png" group-title="DOCUMENTARY", .DOC: VIASAT HISTORY GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100263
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100263
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1445/nature-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT NATURE GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100264
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100264
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: VIASAT NATURE GR revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157196
@@ -798,58 +798,58 @@ http://213.7.193.54:4000/play/a005/index.m3u8
 http://213.7.193.54:4000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100298
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100298
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157161
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100299
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100299
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157162
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100300
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100300
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157163
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100301
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100301
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157164
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100302
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100302
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157165
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100303
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100303
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157166
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100304
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100304
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157167
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100305
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100305
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157168
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 9 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100306
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100306
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100288
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100288
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 1 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
@@ -858,7 +858,7 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEoox
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157169
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100289
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100289
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 2 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
@@ -867,7 +867,7 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157170
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100290
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100290
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 3 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd
@@ -876,7 +876,7 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157171
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100291
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100291
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 4 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_lG-wVaWwzTuOyVlirmrrk
@@ -885,7 +885,7 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_lG-wVaWwzTuO
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157172
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 5 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100292
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100292
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 5 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6PzAwwDSc-9
@@ -894,16 +894,16 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6P
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157173
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 6 balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100293
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100293
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 6 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33BuDPJjeF2_K
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS NEWS balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100296
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100296
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PRIME balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100295
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100295
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS PRIME boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SiNbpNnLSCs2raDBBlJ75L12xCcWfMUpyovA8KCk83tc
@@ -912,7 +912,7 @@ http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SiNbpNnLSCs2raDBBlJ75L12xCcWfMUpyov
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157174
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS START balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100294
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100294
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS START boom
 https://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
@@ -1641,7 +1641,7 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eurosport.1
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eurosport.1.fr.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="SPORTS", SP: EUROSPORT 1 GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/116213
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/116213
 
 #EXTINF:-1 tvg-id="2052" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="SPORTS", SP: EUROSPORT 1 RU sc.id
 https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
@@ -1656,7 +1656,7 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eurosport.2
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/eurosport.2.fr.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png" group-title="SPORTS", SP: EUROSPORT 2 GR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/116214
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/116214
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%202.png" group-title="SPORTS", SP: EUROSPORT 2 RU sc.id
 https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
@@ -3539,7 +3539,7 @@ https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ziggo.sport
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157202
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/Disney_Junior.png" group-title="KIDS", .GR KIDS: DISNEY JUNIOR balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100226
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100226
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/Disney_Junior.png" group-title="KIDS", .GR KIDS: DISNEY JUNIOR GR revteam8
 http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157203
@@ -3548,7 +3548,7 @@ http://revteam8.offshorerev.cc:80/mag00:1A:79:14:12:6A/BIsd2pInR2/157203
 http://65.108.62.57:8080/live/kidshd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Nick_logo_2005.png" group-title="KIDS", .GR KIDS: NICKELODEON balkanfree
-http://balkanfree.net:25461/OP1KJRFSB85RJ4E/5YSZED132UM0XG0/100223
+http://balkanfree.net:25461/VLQ9JUNYQV/6P6MDULUIQ/100223
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/fExrqlx.png" group-title="KIDS", .GR KIDS: SMILE GR
 https://s1.cystream.net/live/smile/playlist.m3u8
