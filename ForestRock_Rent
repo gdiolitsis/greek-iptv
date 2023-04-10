@@ -11,8 +11,14 @@ http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA alpha
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693260
+
 #EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100182
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wJfNR0u.png" group-title="GREEK PANELLADIKA", GR: ANT1 .CYPRUS 87.228
+http://87.228.199.234:4000/play/a005
 
 #EXTINF:-1 tvg-id="ant1cy" tvg-logo="https://i.imgur.com/wJfNR0u.png" group-title="GREEK PANELLADIKA", GR: ANT1 .CYPRUS cloudskep
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
@@ -22,6 +28,9 @@ http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
 
 #EXTINF:-1 tvg-id="ant1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ANT-1_HD.png" group-title="GREEK PANELLADIKA", GR: ANT1 cloudfront
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/b0966e1e2108447ca9d90048c9ddc951/ant1-cmaf/ant1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ANT-1_HD.png" group-title="GREEK PANELLADIKA", GR: ANT1 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693232
 
 #EXTINF:-1 tvg-id="ant1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ANT-1_HD.png" group-title="GREEK PANELLADIKA", GR: ANT1 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100190
@@ -44,6 +53,9 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_
 #EXTINF:-1 tvg-id="ert.ert1.gr" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 gd
 http://136.243.92.93:8080/ert1/mpegts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693226
+
 #EXTINF:-1 tvg-id="ert1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100177
 
@@ -52,6 +64,9 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_
 
 #EXTINF:-1 tvg-id="ert.ert2.gr" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 gd
 http://136.243.92.93:8080/ert2/mpegts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693227
 
 #EXTINF:-1 tvg-id="ert2" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100178
@@ -62,8 +77,14 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_
 #EXTINF:-1 tvg-id="ert.ert3.gr" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3 gd
 http://136.243.92.93:8080/ert3/mpegts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693230
+
 #EXTINF:-1 tvg-id="ert3" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100180
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="GREEK PANELLADIKA", GR: EURONEWS mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693247
 
 #EXTINF:-1 tvg-id="kontra" tvg-logo="https://i.imgur.com/iV1iGoF.png" group-title="GREEK PANELLADIKA", GR: KONTRA
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
@@ -74,11 +95,17 @@ http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100188
 #EXTINF:-1 tvg-id="makedoniatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV cloudfront
 http://dlm34ll53zqql.cloudfront.net/out/v1/ab680def497d44e4864475e33e7a3efd/hls/maktv.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693245
+
 #EXTINF:-1 tvg-id="makedoniatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Main_Logo_alt.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100189
 
 #EXTINF:-1 tvg-id="mega" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693236
 
 #EXTINF:-1 tvg-id="mega" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100185
@@ -94,6 +121,9 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 
 #EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693311
 
 #EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100184
@@ -125,11 +155,17 @@ http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100200
 #EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693234
+
 #EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100183
 
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR
 http://livestar.siliconweb.com/media/star1/star1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693235
 
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100191
@@ -368,8 +404,14 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 1 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100237
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 2 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693278
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 2 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100238
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 3 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693279
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 3 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100239
@@ -698,23 +740,44 @@ http://213.7.193.54:4000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i0.wp.com/www.tixup.com/medias/static/uploads/2014/06/Bein-Sport-Live-Streaming-Free.jpg?fit=450%2C338" group-title="SPORTS", .LIVE: BEIN SPORTS
 http://213.7.193.54:4000/play/a002/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693262
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100298
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693263
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100299
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693264
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100300
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693265
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100301
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693266
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100302
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693267
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100303
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693268
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100304
@@ -728,11 +791,17 @@ http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100306
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 1 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693269
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100288
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 2 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693270
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100289
@@ -740,11 +809,17 @@ http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100289
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 3 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693271
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100290
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/1/19/NovaSport2019.png" group-title="SPORTS", GR: NV SPORTS 4 boom
 http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_lG-wVaWwzTuOyVlirmrrk
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 mytv
+http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693272
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 sansat
 http://sansat.net:25461/ZOFNSH0LJELRXZZ/kuKg3Bt5ktRTZLc/100291
@@ -4573,32 +4648,8 @@ http://live.redtraffic.xyz/anal.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL BIG ASS - redtraffic
 http://live.redtraffic.xyz/bigass.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL VENUS suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501211
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL VIXEN suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501234
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bisexuality_symbol_%28bold%2C_color%29.svg/2560px-Bisexuality_symbol_%28bold%2C_color%29.svg.png" group-title="XXX", XXX: .BISEXUAL suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501194
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.giphy.com/avatars/Acasadasbrasileirinhas/y4HReMwbOuuN.png" group-title="XXX", XXX: .BRASILEIRINHAS suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501197
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i5.walmartimages.com/asr/03b6fd67-8c69-486a-b862-d891793b11da.402951656a6180e9b6e53f57fc6d362d.jpeg" group-title="XXX", XXX: .FAT GIRLS suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501196
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY - RedTraffic
 http://live.redtraffic.xyz/gay.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY AMADOR suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501190
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://amateurspornsites.com/wp-content/uploads/2018/06/amateurspornsites.png" group-title="XXX", XXX: .HOMEMADE BRAZIL suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501208
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumb-p5.xhcdn.com/a/Ybrv3jEftGPrUV1097E6QQ/000/263/400/615_1000.jpg" group-title="XXX", XXX: .INTERACIAL suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501199
 
 #EXTINF:-1 tvg-id="chunklist_w1222185240.m3u8" tvg-logo="http://hw03.freetour.pwidownload.com/japanporn.pornaccess.com/img/japan-porn-logo.gif" group-title="XXX", XXX: .JAPAN PORN
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist.m3u8
@@ -4608,15 +4659,6 @@ https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS - RedTraffic
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.howtobearedhead.com/wp-content/uploads/2017/11/logo.png" group-title="XXX", XXX: .RED HEAR suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501195
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://thumbs.dreamstime.com/b/sex-beach-type-alcoholic-cocktail-hand-drawn-lettering-sex-beach-type-alcoholic-cocktail-hand-drawn-lettering-182477866.jpg" group-title="XXX", XXX: .SEX ON THE BEACH suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501198
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANSEXUAL BRAZIL suatv
-http://suatv.fun:80/canaisp2p/mudar@2021j45/501189
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANSEXUAL TV 1
 https://www.ast.tv/stream/1/cellular.m3u8
@@ -4665,9 +4707,6 @@ https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: RUSSIAN NIGHTS  94.154
 http://94.154.83.88:10000/russiannight
-
-#EXTINF:-1 tvg-id="shelkhdmts" tvg-logo="http://panel.tivix.eu/logo1/adultlogo.png" group-title="XXX", XXX: SHELK otcnet
-http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/xxx.png" group-title="XXX", XXX: 🔞 BABY STATION 24 sdn
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
