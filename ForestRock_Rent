@@ -8,8 +8,8 @@ https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA 
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="f4dxtXEFXJ3572/zC4PuO6715" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9984
+#EXTINF:-1 tvg-id="alpha.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17950
 
 #EXTINF:-1 tvg-id="alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Alpha_TV_Logo_neu.png" group-title="GREEK PANELLADIKA", GR: ALPHA client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/9984
@@ -20,14 +20,14 @@ http://iptvtree.net:8080/mantul/2029fde156/12
 #EXTINF:-1 tvg-id="ant1cy" tvg-logo="https://i.imgur.com/wJfNR0u.png" group-title="GREEK PANELLADIKA", GR: ANT1 .CYPRUS cloudskep
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://welcome.antennaplus.gr/images/ant1Logo.png" group-title="GREEK PANELLADIKA", GR: ANT1 .PLUS+ 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9989
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://welcome.antennaplus.gr/images/ant1Logo.png" group-title="GREEK PANELLADIKA", GR: ANT1 .PLUS+ F1 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/18005
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://welcome.antennaplus.gr/images/ant1Logo.png" group-title="GREEK PANELLADIKA", GR: ANT1 .PLUS+ client
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://welcome.antennaplus.gr/images/ant1Logo.png" group-title="GREEK PANELLADIKA", GR: ANT1 .PLUS+ F1 client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/9989
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ANT-1_HD.png" group-title="GREEK PANELLADIKA", GR: ANT1 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9990
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ANT-1_HD.png" group-title="GREEK PANELLADIKA", GR: ANT1 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17952
 
 #EXTINF:-1 tvg-id="ant1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ANT-1_HD.png" group-title="GREEK PANELLADIKA", GR: ANT1 client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/9990
@@ -62,8 +62,8 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/maina
 #EXTINF:-1 tvg-id="ert1" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_1080/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9973
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17985
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_1_HD.png" group-title="GREEK PANELLADIKA", GR: ERT1 88.99
 http://88.99.254.101:80/ert1/index.m3u8
@@ -77,8 +77,8 @@ http://iptvtree.net:8080/mantul/2029fde156/3
 #EXTINF:-1 tvg-id="ert2" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_1080/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9977
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17970
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_2_HD.png" group-title="GREEK PANELLADIKA", GR: ERT2 88.99
 http://88.99.254.101:80/ert2/index.m3u8
@@ -92,8 +92,8 @@ http://iptvtree.net:8080/mantul/2029fde156/136
 #EXTINF:-1 tvg-id="ert3" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9975
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3_HD.png" group-title="GREEK PANELLADIKA", GR: ERT3 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17961
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/ERT_3.png" group-title="GREEK PANELLADIKA", GR: ERT3 88.99
 http://88.99.254.101:80/ert3/index.m3u8
@@ -119,9 +119,6 @@ http://iptvtree.net:8080/mantul/2029fde156/1966
 #EXTINF:-1 tvg-id="makedoniatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Makedonia_TV_2023.svg/640px-Makedonia_TV_2023.svg.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV .cloudfront
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Makedonia_TV_2023.svg/640px-Makedonia_TV_2023.svg.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9966
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Makedonia_TV_2023.svg/640px-Makedonia_TV_2023.svg.png" group-title="GREEK PANELLADIKA", GR: MAKEDONIA TV client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/9966
 
@@ -131,8 +128,8 @@ http://iptvtree.net:8080/mantul/2029fde156/2673
 #EXTINF:-1 tvg-id="mega" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/37839
+#EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17908
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.megatv.com/wp-content/themes/megatv/common/imgs/megawhite.png" group-title="GREEK PANELLADIKA", GR: MEGA client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/37839
@@ -149,9 +146,6 @@ https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 tvg-id="omega" tvg-logo="https://ergodotisi.blob.core.windows.net/generalimages/companies/31087.png" group-title="GREEK PANELLADIKA", GR: OMEGA CYPRUS cloudskep
 http://l1.cloudskep.com/tst/omcy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="GREEK PANELLADIKA", GR: ONE 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9985
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="GREEK PANELLADIKA", GR: ONE client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/9985
 
@@ -161,8 +155,8 @@ https://til.pp.ua:3391/live/channeln9live.m3u8
 #EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9955
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17951
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/m5xp5Dz.png" group-title="GREEK PANELLADIKA", GR: OPEN 88.99
 http://88.99.254.101:80/etv/index.m3u8
@@ -206,8 +200,8 @@ https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9954
+#EXTINF:-1 tvg-id="Skai.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17949
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/9954
@@ -218,8 +212,8 @@ http://iptvtree.net:8080/mantul/2029fde156/2670
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR
 http://livestar.siliconweb.com/media/star1/star1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR 45.12
-http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9950
+#EXTINF:-1 tvg-id="Start.tr" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17948
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/9950
@@ -476,6 +470,9 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.myinterestingfacts.com/wp-content/uploads/2015/07/Silent-Movie.jpg" group-title="CINEMA", .GR CINE: SILENT CINEMA amazon
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/b400714d-558c-11eb-bb6c-3ba175659de4/0/master.m3u8?uid=749544ec3d9a45d48c600d03cac91dfd&optout=0&vendor=philips&country=DE
 
+#EXTINF:-1 tvg-id="OTECinema1.gr" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 1 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17944
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 1 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/19571
 
@@ -484,6 +481,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/19571
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 1 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/291104
+
+#EXTINF:-1 tvg-id="OTECinema2.gr" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 2 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17945
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 2 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/19572
@@ -494,6 +494,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/19572
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 2 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/291105
 
+#EXTINF:-1 tvg-id="OTECinema3.gr" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 3 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17946
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 3 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/19573
 
@@ -502,6 +505,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/19573
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT CINEMA 3 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/291106
+
+#EXTINF:-1 tvg-id="OTECinema4.gr" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT SERIES 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17947
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: CMT SERIES 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/87516
@@ -533,6 +539,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/22987
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/FOX_LIFE.png" group-title="CINEMA", GR: FOX LIFE iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/5241
 
+#EXTINF:-1 tvg-id="NovaCinema1.gr" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 1 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17995
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 1 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/87518
 
@@ -541,6 +550,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/87518
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 1 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/79551
+
+#EXTINF:-1 tvg-id="NovaCinema2.gr" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 2 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17996
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 2 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/87519
@@ -551,6 +563,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/87519
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 2 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/12819
 
+#EXTINF:-1 tvg-id="NovaCinema3.gr" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 3 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17997
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 3 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/87520
 
@@ -560,6 +575,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/87520
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 3 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/74188
 
+#EXTINF:-1 tvg-id="NovaCinema4.gr" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 4 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17998
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 4 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/87521
 
@@ -568,6 +586,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/87521
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: NV CINEMA 4 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/50470
+
+#EXTINF:-1 tvg-id="NovaLife.gr" tvg-logo="noimage.png" group-title="CINEMA", GR: NV LIFE 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17999
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://vodkom.com:25461/Logo/GREECE/NOVALIFE_HD.png" group-title="CINEMA", GR: NV LIFE 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/64947
@@ -626,6 +647,9 @@ http://iptvtree.net:8080/mantul/2029fde156/45
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", GR: NV PREMIERE WESTERN iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/198414
 
+#EXTINF:-1 tvg-id="VillageCinemaHD.gr" tvg-logo="noimage.png" group-title="CINEMA", GR: VILLAGE CINEMA 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17957
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://villageroadshow.com.au/-/media/VRL-Corporate-Media-Library/Images-Header/VRL-Logo-2017.png" group-title="CINEMA", GR: VILLAGE CINEMA 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/125008
 
@@ -637,6 +661,9 @@ https://spartantv-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://aktina.org/images/Logo_AKTINA_TV_Clear.png" group-title="DOCUMENTARY", .DOC: AKTINA TV streamlock 
 https://5e8dfce185af1.streamlock.net/webtv/webtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/ebe58c44cb94c689aef9f9398d63f01a40a5aa7b.png" group-title="DOCUMENTARY", .DOC: ANIMAL PLANET GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/18003
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/ebe58c44cb94c689aef9f9398d63f01a40a5aa7b.png" group-title="DOCUMENTARY", .DOC: ANIMAL PLANET GR 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/1604
@@ -662,19 +689,28 @@ https://eu1.vectromdigital.com:1936/bcifood/bcifood/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/N6q8DgI.png" group-title="DOCUMENTARY", .DOC: BCI TRAVEL GR
 https://eu1.vectromdigital.com:1936/bcitravel/bcitravel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: CMT HISTORY 45.12
+#EXTINF:-1 tvg-id="OTEHistory.gr" tvg-logo="https://www.fames-project.com/wp-content/uploads/2019/03/history-600x600.jpg" group-title="DOCUMENTARY", .DOC: CMT HISTORY 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17953
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.fames-project.com/wp-content/uploads/2019/03/history-600x600.jpg" group-title="DOCUMENTARY", .DOC: CMT HISTORY 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/19576
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: CMT HISTORY client
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.fames-project.com/wp-content/uploads/2019/03/history-600x600.jpg" group-title="DOCUMENTARY", .DOC: CMT HISTORY client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/19576
+
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Crime_and_Investigation_2014_HD.png/revision/latest/scale-to-width-down/250?cb=20160219010910" group-title="DOCUMENTARY", .DOC: CRIME AND INVESTIGATION GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17982
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/e4umCKP.jpg" tvg-logo="https://pbs.twimg.com/profile_images/1354809136714719234/KNzJ_QFz_400x400.jpg" group-title="DOCUMENTARY", .DOC: DESTINATION GREECE TV fss
 https://2-fss-1.streamhoster.com/pl_148/203374-1960324-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: DISCOVERY GR 45.12
+#EXTINF:-1 tvg-id="discov_rus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" group-title="DOCUMENTARY", .DOC: DISCOVERY GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17971
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" group-title="DOCUMENTARY", .DOC: DISCOVERY GR 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/9976
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: DISCOVERY GR client
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20141027100430" group-title="DOCUMENTARY", .DOC: DISCOVERY GR client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/9976
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="DOCUMENTARY", .DOC: DISCOVERY SCI GR 45.12
@@ -682,6 +718,9 @@ http://45.12.1.14:80/TZHeZcG439/3LrLyb854/1602
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="DOCUMENTARY", .DOC: DISCOVERY SCI GR client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/1602
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="DOCUMENTARY", .DOC: DISCOVERY SCIENCE GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17984
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/DTX_Logo.png" group-title="DOCUMENTARY", .DOC: DTX GR 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/64969
@@ -695,6 +734,9 @@ https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DcleTdR.png" group-title="DOCUMENTARY", .DOC: GREEK VOICE TV 65.108
 http://65.108.62.57:8080/live/radio.m3u8
 
+#EXTINF:-1 tvg-id="history-rus" tvg-logo="http://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARY", .DOC: HISTORY GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17988
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARY", .DOC: HISTORY GR client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/125026
 
@@ -704,14 +746,20 @@ http://theagenis.fhw.gr:8080/maintv.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.mgrrealestate.com/wp-content/uploads/2021/02/Logo-White.png" group-title="DOCUMENTARY", .DOC: MGR TV TRAVEL
 https://livetv.streams.ovh:1936/mgrwebtv/mgrwebtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR 45.12
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="https://cutewallpaper.org/24/national-geographic-logo-png/national-d8582-geographic.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17958
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cutewallpaper.org/24/national-geographic-logo-png/national-d8582-geographic.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/26831
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR client
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cutewallpaper.org/24/national-geographic-logo-png/national-d8582-geographic.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/26831
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR iptvtree
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cutewallpaper.org/24/national-geographic-logo-png/national-d8582-geographic.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/4248
+
+#EXTINF:-1 tvg-id="natgeowild" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png" group-title="DOCUMENTARY", .DOC: NAT GEO WILD GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17959
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png" group-title="DOCUMENTARY", .DOC: NAT GEO WILD GR 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/26825
@@ -721,6 +769,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/26825
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/National%20Geographic%20Wild.png" group-title="DOCUMENTARY", .DOC: NAT GEO WILD GR iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/291128
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/5e/Nautical_channel_logo.png/640px-Nautical_channel_logo.png" group-title="DOCUMENTARY", .DOC: NAUTICAL GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17956
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/dW1bcD2.jpg" tvg-logo="https://www.notioi.gr/wp-content/uploads/2019/10/notioi-logo-new-small.png" group-title="DOCUMENTARY", .DOC: NOTIOI TV srv
 https://srv.streamserver.gr:3451/stream/play.m3u8
@@ -743,11 +794,17 @@ http://45.12.1.14:80/TZHeZcG439/3LrLyb854/23042
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="DOCUMENTARY", .DOC: TRAVEL CHANNEL GR client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/23042
 
+#EXTINF:-1 tvg-id="explorer" tvg-logo="https://www.viasatworld.com/media/1443/explore-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT EXPLORE GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17966
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1443/explore-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT EXPLORE GR 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/87522
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1443/explore-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT EXPLORE GR client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/87522
+
+#EXTINF:-1 tvg-id="history" tvg-logo="https://www.viasatworld.com/media/1067/historylogo.png" group-title="DOCUMENTARY", .DOC: VIASAT HISTORY GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17967
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1067/historylogo.png" group-title="DOCUMENTARY", .DOC: VIASAT HISTORY GR 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/87523
@@ -757,6 +814,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/87523
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1067/historylogo.png" group-title="DOCUMENTARY", .DOC: VIASAT HISTORY iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/4246
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.viasatworld.com/media/1445/nature-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT NATURE GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17968
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.viasatworld.com/media/1445/nature-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT NATURE GR 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/87524
@@ -1172,6 +1232,9 @@ http://iptvtree.net:8080/mantul/2029fde156/298893
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CABLENET SPORT 2 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/298892
 
+#EXTINF:-1 tvg-id="OTESport1.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17938
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/18240
 
@@ -1180,6 +1243,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/18240
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/124
+
+#EXTINF:-1 tvg-id="OTESport2.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17939
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/18241
@@ -1190,6 +1256,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/18241
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/18
 
+#EXTINF:-1 tvg-id="OTESport3.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17940
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/18242
 
@@ -1198,6 +1267,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/18242
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/4269
+
+#EXTINF:-1 tvg-id="OTESport4.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17941
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/22989
@@ -1208,6 +1280,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/22989
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/125
 
+#EXTINF:-1 tvg-id="OTESport5.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17942
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/22990
 
@@ -1216,6 +1291,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/22990
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/4271
+
+#EXTINF:-1 tvg-id="OTESport6.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17963
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/22991
@@ -1226,6 +1304,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/22991
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/4272
 
+#EXTINF:-1 tvg-id="OTESport7.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17979
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/22992
 
@@ -1234,6 +1315,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/22992
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/126
+
+#EXTINF:-1 tvg-id="OTESport8.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17972
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/22993
@@ -1283,6 +1367,9 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/maina
 #EXTINF:-1 tvg-id="ertsports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="SPORTS", GR: ERT SPORTS 2 msvdn 
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8
 
+#EXTINF:-1 tvg-id="NovaSports1.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17990
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/26818
 
@@ -1291,6 +1378,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/26818
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/12844
+
+#EXTINF:-1 tvg-id="NovaSports2.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17991
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/26819
@@ -1301,6 +1391,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/26819
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/12845
 
+#EXTINF:-1 tvg-id="NovaSports3.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17992
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/64906
 
@@ -1310,6 +1403,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/64906
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/12846
 
+#EXTINF:-1 tvg-id="NovaSports4.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17993
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/64907
 
@@ -1318,6 +1414,9 @@ http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/64907
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/279631
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 5 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/17989
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 5 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/64908
@@ -1360,6 +1459,9 @@ http://iptvtree.net:8080/mantul/2029fde156/291111
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PREM LEAGUE client
 http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/108919
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PRIME 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/18006
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PRIME 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/88330
@@ -2401,6 +2503,9 @@ http://mn-nl.mncdn.com:80/blutv_eurosport1/eurosport1_hd.smil/chunklist_b4128000
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="SPORTS", SP: EUROSPORT 1 FR 195.201
 http://195.201.107.83:8888/4/index.m3u8
+
+#EXTINF:-1 tvg-id="esp" tvg-logo="noimage.png" group-title="SPORTS", SP: EUROSPORT 1 GR 23.146
+http://23.146.40.56:8000/KralYunanasasbsns/dETaUXp3RMddd/18004
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Eurosport%201.png" group-title="SPORTS", SP: EUROSPORT 1 GR 45.12
 http://45.12.1.14:80/TZHeZcG439/3LrLyb854/64966
@@ -5717,6 +5822,9 @@ http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/109160
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL BIG ASS - redtraffic
 http://live.redtraffic.xyz/bigass.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/109160
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL FIRST iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/298262
 
@@ -5726,14 +5834,26 @@ http://iptvtree.net:8080/mantul/2029fde156/298200
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL JAPAN 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/37954
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL JAPAN client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/37954
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL TUSHY 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/39812
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL TUSHY client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/39812
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL VERAPORN 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/60076
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL VERAPORN client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/60076
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL VIXEN 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/60033
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7hsDhFXdrH7RSMqEx56Z7YWYOFplkNq8SA&usqp=CAU" group-title="XXX", XXX: .ANAL VIXEN client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/60033
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Black_and_White_mono_logo.png" group-title="XXX", XXX: .BLACK & WHITE iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/297829
@@ -5741,14 +5861,23 @@ http://iptvtree.net:8080/mantul/2029fde156/297829
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/281354435/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="XXX", XXX: .BLACKED 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/60031
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/281354435/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="XXX", XXX: .BLACKED client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/60031
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/281354435/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="XXX", XXX: .BLACKED iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/297804
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/281354435/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="XXX", XXX: .BLACKED X1 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/39810
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/281354435/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="XXX", XXX: .BLACKED X1 client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/39810
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/281354435/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="XXX", XXX: .BLACKED X2 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/39811
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/281354435/f164c370-4e8d-4c47-8fbf-0242814678e8.png" group-title="XXX", XXX: .BLACKED X2 client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/39811
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://st2.depositphotos.com/2131499/8886/v/950/depositphotos_88862586-stock-illustration-adults-only-sign-xxx-sign.jpg" group-title="XXX", XXX: .BLOW ME iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/297800
@@ -5759,17 +5888,29 @@ http://iptvtree.net:8080/mantul/2029fde156/297806
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.paysitesreviews.net/wp-content/uploads/bigfatcreampie1.jpg" group-title="XXX", XXX: .CREAMPIE 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/109156
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.paysitesreviews.net/wp-content/uploads/bigfatcreampie1.jpg" group-title="XXX", XXX: .CREAMPIE client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/109156
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hLcXqWClHhCkjpJ_W-8Exf319EZliplarQ&usqp=CAU" group-title="XXX", XXX: .FAKE AGENT 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/25851
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hLcXqWClHhCkjpJ_W-8Exf319EZliplarQ&usqp=CAU" group-title="XXX", XXX: .FAKE AGENT client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/25851
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/2560px-Fake_Taxi_logo.svg.png" group-title="XXX", XXX: .FAKE TAXI 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/60029
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/2560px-Fake_Taxi_logo.svg.png" group-title="XXX", XXX: .FAKE TAXI client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/60029
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/2560px-Fake_Taxi_logo.svg.png" group-title="XXX", XXX: .FAKE TAXI iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/298258
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.mymas.org/wp-content/uploads/familusinners_logo-1024x185.png" group-title="XXX", XXX: .FAMILY SINNERS 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/109090
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.mymas.org/wp-content/uploads/familusinners_logo-1024x185.png" group-title="XXX", XXX: .FAMILY SINNERS client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/109090
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY - RedTraffic
 http://live.redtraffic.xyz/gay.m3u8
@@ -5783,6 +5924,9 @@ http://iptvtree.net:8080/mantul/2029fde156/298233
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="XXX", XXX: .GROUP VERAPORN 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/28863
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://127.0.0.1/" group-title="XXX", XXX: .GROUP VERAPORN client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/28863
+
 #EXTINF:-1 tvg-id="chunklist_w1222185240.m3u8" tvg-logo="http://hw03.freetour.pwidownload.com/japanporn.pornaccess.com/img/japan-porn-logo.gif" group-title="XXX", XXX: .JAPAN PORN
 https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist.m3u8
 
@@ -5792,14 +5936,23 @@ https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIAN AFFAIR 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/28876
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIAN AFFAIR client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/28876
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS - RedTraffic
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS GIRLS LOVE GIRLS 2 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/37943
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS GIRLS LOVE GIRLS 2 client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/37943
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS GIRLS LOVE GIRLS 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/37937
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS GIRLS LOVE GIRLS client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/37937
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.etsystatic.com/16052963/r/il/b024d8/3255431453/il_fullxfull.3255431453_nldd.jpg" group-title="XXX", XXX: .MASSAGE ROOMS iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/298282
@@ -5807,14 +5960,23 @@ http://iptvtree.net:8080/mantul/2029fde156/298282
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p.cdn.porndoe.com/image/channel/avatar/5/5/1/4/moms-teach-sex-5f182bcbb4875.jpg" group-title="XXX", XXX: .MOMS TEACH SEX 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/46984
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p.cdn.porndoe.com/image/channel/avatar/5/5/1/4/moms-teach-sex-5f182bcbb4875.jpg" group-title="XXX", XXX: .MOMS TEACH SEX client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/46984
+
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://p.cdn.porndoe.com/image/channel/avatar/5/5/1/4/moms-teach-sex-5f182bcbb4875.jpg" group-title="XXX", XXX: .MOMS TEACH SEX iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/297815
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/535167876433313792/GR5e6-jE_400x400.jpeg" group-title="XXX", XXX: .NUBILES CASTING 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/49353
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/535167876433313792/GR5e6-jE_400x400.jpeg" group-title="XXX", XXX: .NUBILES CASTING client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/49353
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.nubiles-porn.com/assets/lightTheme/images/logos_small/pc_small_logo.png" group-title="XXX", XXX: .PRINCESS CUM 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/49357
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.nubiles-porn.com/assets/lightTheme/images/logos_small/pc_small_logo.png" group-title="XXX", XXX: .PRINCESS CUM client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/49357
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://gitea.unknown.name/peolic/site-logos/raw/commit/6bb382f923be0b224678abb147b80e7ed78f16b9/fake-hub/public-agent.png" group-title="XXX", XXX: .PUBLIC AGENT iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/297810
@@ -5827,6 +5989,9 @@ http://iptvtree.net:8080/mantul/2029fde156/61005
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANS EVIL ANGELS 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/37941
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANS EVIL ANGELS client
+http://clientportal.link:80/34kJVNxZaF885/uEcCwa521/37941
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANS PICCANTE iptvtree
 http://iptvtree.net:8080/mantul/2029fde156/297578
