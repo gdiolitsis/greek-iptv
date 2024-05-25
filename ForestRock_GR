@@ -186,7 +186,7 @@ https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 
 #EXTINF:-1 tvg-id="krhthtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%CE%9A%CF%81%CE%AE%CF%84%CE%B7_TV_%28logo%29.svg/1200px-%CE%9A%CF%81%CE%AE%CF%84%CE%B7_TV_%28logo%29.svg.png" group-title="GREEK PERIFEREIAKA", KRHTH TV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+https://cretetvlive.siliconweb.com/cretetv/liveabr/cretetv/live_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lepantortv.gr/media/images/articles45/LOGOlepanto3.png" group-title="GREEK PERIFEREIAKA", LEPANTO TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
@@ -287,6 +287,9 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
 #EXTINF:-1 tvg-id="xalastratv" tvg-logo="https://i.ytimg.com/vi/3uHMtTKg12o/maxresdefault.jpg" group-title="GREEK PERIFEREIAKA", XALASTRA TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="GREEK PERIFEREIAKA", ZOUGLA TV
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wJfNR0u.png" group-title="CYPRUS", GR: ANT1 CYPRUS 213.7
 http://213.7.193.54:4000/play/a001/index.m3u8
 
@@ -343,9 +346,6 @@ https://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sigma.cy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="CYPRUS", GR: SIGMA CYPRUS sl2
 https://sl2.sigmatv.com/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cosmotetv.gr/portal/documents/148154061/148176350/143442622/f10f321e-1913-3274-7bfc-e0208a3a638d?version=1.0&t=1680276299677" group-title="CYPRUS", GR: VERGINA NEWS GR weaver 
-https://video-weaver.ams03.hls.ttvnw.net/v1/playlist/CtkF6wGt08pyR1MxYkJsGZhgGJ8KJMax2lUSddLCE60NxXQA-hJhBvE7iyqK730-AcSWKsCg_MeFgyPEO-kSsrHiO1tGKcZdnZ2d-mMt_TX8So-VfzcreSustn2dbYaEoc6z5Nj5svC_OEdpzOEWbQzzqOVDR5mcmB2ByYglzU2PGlxTVstv64JjrkKhH-vHkLBG0lc5O9ZyQjAEMUxUWFO28ZbIupzSeHSGyHFjhbDXVQ_R_PRdzfdV6KsBTd9hznBI9p-sF16vrWu2LzqZ6AW7MZDSX_UkV7C7w7PI89SHubn7tTISDF2i2VdDMeV-xCfS_kjUaYTwiVX1Jg8o_ctNBgEVQELPNEdUhyudCQszqAAoJyA4Mr1OfjTk3052g6fhQoK36EbVjjQMOrgV9aHLoacKqQrPjXclh0gDL6A6ioUNSYLDvW-gfCQpwbwNiCuyzTR5ROlOAPwQR4OuGpcCiMsSC2XdU8tWT9flwnakeEPYyFsOAuUdEBZ1wFgbVFeN6prn1ZDv8sfETIQXFm_menqDIJLp3nvs3N6j8n8SHTeWmVn6qZUvxPaIGd0TYcdLTd5h3gE3Hqa-gZHlusrEDuPZdlGzbci7h7tw63b1Jg2Pgyj8n2MNYs3m23OV-YSng21FzKTXPsiIZLSFPNVu7LKaeEzmezZwg6IGLVjJM3q_2r9hSImOSD80lB6h1CUqflhzyW0a57rBiZ0s_c3dOtJIP4m4pcEoThlh1hv_8vsLBJ64v18SfMz_iursI-dmYYwEN2jYW_Yken7HmxPv6MpiffssemTsdY9gXNkx-AkRlyue724pIlKOkZuaYHMsrI23TnepQON5WIQstYPjpeA3cJIyif9DT5thapgPuXBOsuuUkl1Enfs9dV_U4AW2UsRHbsVqeZbRAyc8oMQFup8O1EwCa9pG21D2bo4L8eRP9XeIMNBXOyVE6_LUEUCuS4r1SIIqH5StGgzbuImCfmcaIAu1Q-8gASoJZXUtd2VzdC0yMKAJ.m3u8
 
 #EXTINF:-1 tvg-id="vouli.cy" tvg-logo="https://i.imgur.com/rIt5pfv.png" group-title="CYPRUS", GR: VOULI TV CYPRUS
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
@@ -533,11 +533,23 @@ http://50.7.218.122:8080/tv85/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.tv8bucuk.com/s/template/amp/images/tv8bucuk_logo.png" group-title="SPORTS", .8.5 TV TR daioncdn
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.radiotvlink.com/images/nova-new/novasports-new/logo-novasports-premier-v-900.jpg" group-title="SPORTS", .LIVE .CHANNEL 3 213.7
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", .LIVE .CY SPORTS CYPRUS 213.7
 http://213.7.193.54:4000/play/a004/index.m3u8
 
-#EXTINF:-1 tvg-id="https://cdn.simplesite.com/i/21/fb/284571206140951329/i284571214506559780._szw1280h1280_.jpg" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", .LIVE .CYTA SPORTS CYPRUS 213.7
+#EXTINF:-1 tvg-id="https://cdn.simplesite.com/i/21/fb/284571206140951329/i284571214506559780._szw1280h1280_.jpg" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", .LIVE .CY SPORTS CYPRUS 2 213.7
 http://213.7.193.54:4000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="SPORTS", .LIVE EVENT 1 short
+https://7pal.short.gy/event1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="SPORTS", .LIVE EVENT 2 short
+https://7pal.short.gy/event2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="SPORTS", .LIVE EVENT 3 short
+https://7pal.short.gy/event3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6PJ4LO7.png" group-title="SPORTS", .LIVE EVENT 4 short
+https://7pal.short.gy/event4
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg" group-title="SPORTS", .LIVE IPL 2024 Live English
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
@@ -560,106 +572,172 @@ https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/UfazRoy.png" group-title="SPORTS", .LIVE JOGO 5 BRAZIL vivartec
 https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 
-#EXTINF:-1 tvg-id="disney.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 1 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649232&extension=ts
+
+#EXTINF:-1 tvg-id="disney.gr" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 1 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31223
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 1 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100298
 
-#EXTINF:-1 tvg-id="novaSports.1.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 2 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649233&extension=ts
+
+#EXTINF:-1 tvg-id="novaSports.1.gr" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 2 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31222
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 2 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100299
 
-#EXTINF:-1 tvg-id="novaSports.2.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 3 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649234&extension=ts
+
+#EXTINF:-1 tvg-id="novaSports.2.gr" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 3 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31221
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 3 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100300
 
-#EXTINF:-1 tvg-id="novasports3.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 4 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649235&extension=ts
+
+#EXTINF:-1 tvg-id="novasports3.gr" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 4 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31220
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 4 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100301
 
-#EXTINF:-1 tvg-id="novasports4.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 5 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649236&extension=ts
+
+#EXTINF:-1 tvg-id="novasports4.gr" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 5 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31219
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 5 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100302
 
-#EXTINF:-1 tvg-id="novasports5hd.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 6 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649237&extension=ts
+
+#EXTINF:-1 tvg-id="novasports5hd.gr" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 6 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31218
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 6 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100303
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 7 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649238&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 7 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100304
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 8 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649239&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 8 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100305
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT HIGHLIGHTS sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 9 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649240&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT HIGHLIGHTS sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/286530
 
-#EXTINF:-1 tvg-id="novasports1.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 1 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649225&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 2 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649226&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 3 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649227&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 1 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649206&extension=ts
+
+#EXTINF:-1 tvg-id="novasports1.gr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 1 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31160
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 1 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 1 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100288
 
-#EXTINF:-1 tvg-id="GR078:NOVA SPORT 2" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 2 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649207&extension=ts
+
+#EXTINF:-1 tvg-id="GR078:NOVA SPORT 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 2 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31159
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 2 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 2 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100289
 
-#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 3 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649208&extension=ts
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 3 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31158
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 3 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 3 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100290
 
-#EXTINF:-1 tvg-id="GR080:NOVA SPORT 4" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 4 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649209&extension=ts
+
+#EXTINF:-1 tvg-id="GR080:NOVA SPORT 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 4 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31157
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 4 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 4 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100291
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 5 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 5 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649210&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 5 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100292
 
-#EXTINF:-1 tvg-id="natgeowild.gr" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 6 mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 6 fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649211&extension=ts
+
+#EXTINF:-1 tvg-id="natgeowild.gr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 6 mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31155
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS 6 sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS 6 sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100293
 
-#EXTINF:-1 tvg-id="null" tvg-logo="http://vodkom.com:25461/Logo/PICONS/novasportsextra1hd.png" group-title="SPORTS", GR: NV SPORTS EXTRA 1 sansat
+#EXTINF:-1 tvg-id="null" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS EXTRA 1 sansat
 http://sansat.net:25461//live/OthmanBri/HDZFJVVLQN/286527.ts
 
-#EXTINF:-1 tvg-id="null" tvg-logo="http://vodkom.com:25461/Logo/PICONS/novasportsextra2hd.png" group-title="SPORTS", GR: NV SPORTS EXTRA 2 sansat
+#EXTINF:-1 tvg-id="null" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS EXTRA 2 sansat
 http://sansat.net:25461//live/OthmanBri/HDZFJVVLQN/286528.ts
 
-#EXTINF:-1 tvg-id="null" tvg-logo="http://vodkom.com:25461/Logo/PICONS/novasportsextra3hd.png" group-title="SPORTS", GR: NV SPORTS EXTRA 3 sansat
+#EXTINF:-1 tvg-id="null" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS EXTRA 3 sansat
 http://sansat.net:25461//live/OthmanBri/HDZFJVVLQN/286529.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS NEWS sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS NEWS fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649205&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS NEWS sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100296
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PREM LEAGUE sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS PREM LEAGUE fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649216&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS PREM LEAGUE sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/286526
 
-#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PRIME mohdtv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS PRIME fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649217&extension=ts
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS PRIME mohdtv
 http://vo01.mohdtv.com:8880/ALLChannels681def0788e8/89453690/31154
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS PRIME sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS PRIME sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100295
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", GR: NV SPORTS START sansat
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS START fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649218&extension=ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiItj7JTFmo-E3scGYzUX8BQTiqqh4ynlZH6LxVa2SlJpJBy5T1xrpDbMG0fw9XnAv9_WBXPJWvGwBTagOqqDXPLqQ6LC8SNbotEU2jMdOJs4uu3XVzkgF4Tv8LllVsKsrMemtnC7sRHBbw63gYTYUCXywpc48J8KtF-Y0Na0MJ0FF8yL4Y0PrXNOYjDQ/w1200-h630-p-k-no-nu/nova.jpg" group-title="SPORTS", GR: NV SPORTS START sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/100294
 
 #EXTINF:-1 tvg-id="alfasport.cy" tvg-logo="https://i.imgur.com/Vq4YBIA.png" group-title="SPORTS", SP: ALFA SPORT CYPRUS
@@ -677,17 +755,20 @@ http://ertflix.s.llnwi.net/ertlive/ertsports2/default/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="SPORTS", SP: ERT SPORTS 3 
 http://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://sweet-tv.net/images/eurosport-1.png" group-title="SPORTS", SP: EUROSPORT 1 GR fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649223&extension=ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://sweet-tv.net/images/eurosport-1.png" group-title="SPORTS", SP: EUROSPORT 1 GR sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/116213
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://sweet-tv.net/images/eurosport-2.png" group-title="SPORTS", SP: EUROSPORT 2 GR fxlv
+http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c5:ce:49&stream=649224&extension=ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://sweet-tv.net/images/eurosport-2.png" group-title="SPORTS", SP: EUROSPORT 2 GR sansat
 http://sansat.net:25461/OthmanBri/HDZFJVVLQN/116214
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/tB0vfVT.png" group-title="SPORTS", SP: IPPODROMIES ELLADAS opap
 https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="KIDS", .GR KIDS: KIDS TV GR 65.108
-http://65.108.62.57:8080/live/kidshd.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgejVESzXFzNcbr5JsZKnIYegtOaHsI-qM_HAjtvZVBVun3WA6FYPOXb34eIGv_-57BJnJxKau7bAfplKPGkRm-5-OFlIa6S9hs4cl6h52MP-Bi5K2rYAQdq1CGlk1Swik2PTTaZAJYDKMHckpUfW7GtwtgMlliKa5ZGm4ZnE0mp2oERIjFzAkQwZQs3rfP/s320/ertflix-kids-live-1920x1080-1.jpg" group-title="KIDS", .GR KIDS: ERT KIDS ert
 http://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
@@ -752,9 +833,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD350002338.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.giphy.com/avatars/babytv/31Bev3l2HwXY.gif" group-title="KIDS", KIDS: BABY TV CHINA 203.154
 http://203.154.243.31:899/BABYTV?u=hh:p=hh@1234
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.giphy.com/avatars/babytv/31Bev3l2HwXY.gif" group-title="KIDS", KIDS: BABY TV ENG 198.16
-http://198.16.100.90:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://posters.movieposterdb.com/06_01/1969/0063869/l_86044_0063869_3d2f7c64.jpg" group-title="KIDS", KIDS: BENNY HILL bozztv
 https://ipv4.bozztv.com/dvrfl07/ushba62/tracks-v1a1/mono.m3u8
 
@@ -802,9 +880,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media3.giphy.com/media/4Z0chYxhX7sBZi9wzH/200w.gif?cid=82a1493blo62fp1iyxixbul5z39at6ygzsixvq92yg1ol9fv&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="KIDS", KIDS: FIDO TV ENG google
 https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://c.disquscdn.com/next/current/publisher-admin/assets/img/emoji/funny-512x512.png" group-title="KIDS", KIDS: GAGS NETWORK 1 176.74
-http://176.74.80.162:8099/Gagsnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="KIDS", KIDS: GAGS NETWORK 2 95.67
 http://95.67.12.82:9069
@@ -893,9 +968,6 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/brickfilms/images/c/cf/TigerStopMotionAnimations.jpg/revision/latest/smart/width/250/height/250?cb=20220424004626" group-title="KIDS", KIDS: TIGER PRODUCTIONS TV bozztv
 https://ipv4.bozztv.com/dvrfl07/ushba20/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-logo="https://media0.giphy.com/media/t9bA6dUJtVMvxcaxiR/giphy.gif" group-title="KIDS", KIDS: TOM & JERRY 1 joao
-http://joao-1-us.mainbkonline.shop:80/363414831673BL/363414998112/96579
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://64.media.tumblr.com/3ede72fd2851e98a7a96361713173295/35a0a15ce3d6faff-c9/s400x600/ac0452cda4688191e3fec4ce675715e3e58943c7.gif" group-title="KIDS", KIDS: WIPEOUT XTRA 1 amagi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtra-lgca/playlist.m3u8
 
@@ -906,28 +978,22 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,W
 https://i.mjh.nz/SamsungTVPlus/GBBD3000001QB.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://app.barazaradio.com/wp-content/uploads/2020/01/newnew-300x199.png" group-title="MUSIC TV", .MUSIC: BARAZA GREEK HITS
-https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://app.barazaradio.com/wp-content/uploads/2020/01/newnew-300x199.png" group-title="MUSIC TV", .MUSIC: BARAZA GREEK MUSIC HITS
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="https://i.imgur.com/6Yr0Axp.png" tvg-logo="https://www.choicewebradio.com/v2/wp-content/uploads/2020/05/choice_tv_2019_logo.png" group-title="MUSIC TV", .MUSIC: CHOICE TV GR
-https://vod.streams.ovh:3528/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DcleTdR.png" group-title="MUSIC TV", .MUSIC: GREEK VOICE RADIO 65.108
-http://65.108.62.57:8080/live/radio.m3u8
+#EXTINF:-1 tvg-id="ertnews" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-music-live-1920x1080.jpg?m=resize&w=1200&h=628" group-title="MUSIC TV", .MUSIC: ERT MUSIC ertflix
+http://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://klikfm.com.cy/template/img/logos/klikfmlogo.png" group-title="MUSIC TV", .MUSIC: KLIK TV GR
 https://cdns.istoikona.com/klikfmcy/klikfmcyprus/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ourglobalidea.com/rep/app/webroot/files/smewebsites/12456/leveltv320.png" group-title="MUSIC TV", .MUSIC: LEVEL TV GR
+https://pro.free.hr:3464/live/l69plive.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4QoLYJJ.png" group-title="MUSIC TV", .MUSIC: MAD WORLD GR ellastv
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/QZQhg6C.png" group-title="MUSIC TV", .MUSIC: MAGIC TV GR streams
 https://itv.streams.ovh/magictv/magictv/chunklist_w2082166327.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/pK2p5ey.png" group-title="MUSIC TV", .MUSIC: NG TV GR
-https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png" group-title="MUSIC TV", .MUSIC: NRG 91 GR
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
@@ -944,19 +1010,13 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.zeno.fm/keYhN7oErW9OSpWDwTTXy4cu7XlKKTMoNepuWqeTRoQ/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzdmY2QzNDk5LWM5YzQtNDY0Ni04NTQ5LTZjZTBlNDM4YzNmZC9pbWFnZS8_dXBkYXRlZD0xNjk2NzYzMTM0MDAw.webp" group-title="MUSIC TV", .MUSIC: RADIO GOHTEIA bozztv
 https://ssh101.bozztv.com/ssh101/radiogohteia/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/3458579621/91dccde88bf7014dd3bab2c28a8028d0_400x400.jpeg" group-title="MUSIC TV", .MUSIC: RED MUSIC GR eu1
-https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
-
 #EXTINF:-1 tvg-id="https://i.imgur.com/fwPUazv.jpg" tvg-logo="http://reload.instore-radio.gr/img/logo.png" group-title="MUSIC TV", .MUSIC: RELOAD RADIO GR
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://i.imgur.com/wb4pLkW.jpg" tvg-logo="https://blog.lcotiv.com/i/13479929911.png" group-title="MUSIC TV", .MUSIC: TILEMOUSIKI 65.108
-http://65.108.62.57:8080/live/greekmusic.m3u8
+#EXTINF:-1 tvg-id="https://i.imgur.com/wb4pLkW.jpg" tvg-logo="https://blog.lcotiv.com/i/13479929911.png" group-title="MUSIC TV", .MUSIC: TILEMOUSIKI bozztv 
+http://ssh101-fl.bozztv.com/ssh101/tilemousiki/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://blog.lcotiv.com/i/13479929911.png" group-title="MUSIC TV", .MUSIC: TILEMOUSIKI bozztv
-https://rpn3.bozztv.com/ssh101/ssh101/tilemousiki/chunks.m3u8?nimblesessionid=146727305
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", .MUSIC: XALASTRA TV GR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://websiteexpress.com/portals/1/Content/Slides/WE_Logo_Big.png" group-title="MUSIC TV", .MUSIC: XALASTRA TV GR
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/dW08jNe.png" group-title="MUSIC TV", .MUSIC: ZOUGLA TV
@@ -965,11 +1025,8 @@ https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2210-320x180-000000.jpg" group-title="MUSIC TV", MISIC: .JAZZ SOMOS CULTURA TV srv
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/chunklist_w1003116186.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png" group-title="MUSIC TV", MUSIC: . CLASSICAL MEZZO .ott
-http://ott-cdn.ucom.am/s35/04.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .70s FLASHBACK STINGRAY ott
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ph-files.imgix.net/e00afa42-961d-4952-a47d-13c6d5cd3a6b.png?auto=format" group-title="MUSIC TV", MUSIC: .00s BEST OFF ROXI linear
+https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .70s FLASHBACK STINGRAY plex
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f15810a3ffe928ef806c75.m3u8
@@ -977,11 +1034,17 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f15810a3ffe928ef806c75.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/400px-NOW_70s.png" group-title="MUSIC TV", MUSIC: .70s NOW amagi
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .70s VEVO pluto
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .70s VEVO xumo 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .70s VEVO xumo 
 https://dbrb49pjoymg4.cloudfront.net/10001/99951127/hls/playlist.m3u8?ads.xumo_channelId=99951122
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/NOW80s.png" group-title="MUSIC TV", MUSIC: .80 NOW samsunguk
+https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://axstvdspmedia.cachefly.net/images/6329c93b3d25b723ca0a9d03/400" group-title="MUSIC TV", MUSIC: .80s BEST OFF AXS cachefly 
+https://axstvdspmedia.cachefly.net/files/company/5e98e1f8bb2ee152df0229b2/assets/videos/64f0d27b5e0c2b45690438fb/vod/64f0d27b5e0c2b45690438fb_Layer_8.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ph-files.imgix.net/e00afa42-961d-4952-a47d-13c6d5cd3a6b.png?auto=format" group-title="MUSIC TV", MUSIC: .80s BEST OFF ROXI linear
+https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mytransfer.be/wp-content/uploads/2019/03/Xite-NEW-logo19-grey.png" group-title="MUSIC TV", MUSIC: .80s FLASBACK XITE cloudfront
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -992,11 +1055,11 @@ https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="MUSIC TV", MUSIC: .80s NOW amagi
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .80s VEVO pluto
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="vevo80s.us" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .80s VEVO xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ph-files.imgix.net/e00afa42-961d-4952-a47d-13c6d5cd3a6b.png?auto=format" group-title="MUSIC TV", MUSIC: .90s BEST OFF ROXI linear
+https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .90s EYERYTHING STINGRAY plex
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f13eeded056a1db9ef3d54.m3u8
@@ -1004,23 +1067,20 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f13eeded056a1db9ef3d54.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.aonl.org/sites/default/files/2020-10/iheart-radio-icon.png" group-title="MUSIC TV", MUSIC: .90s IHEART wurl
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .90s IHEART xumo 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.aonl.org/sites/default/files/2020-10/iheart-radio-icon.png" group-title="MUSIC TV", MUSIC: .90s IHEART xumo 
 https://dbrb49pjoymg4.cloudfront.net/10001/9995100/hls/playlist.m3u8?ads.xumo_channelId=9995100
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mytransfer.be/wp-content/uploads/2019/03/Xite-NEW-logo19-grey.png" group-title="MUSIC TV", MUSIC: .90s THROWBACK XITE cloudfront
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .90s VEVO pluto
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .ALTERNATIVE STINGRAY plex
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62efbb8652f7d73061eec498.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.googleusercontent.com/_OEcFS1o-lkOVMhJOr1BgoiDiyD0ojh6f6zD4DdGbgs3CEhO1j5_vEQcNaMO1PqAmpmra7XzsoI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC TV", MUSIC: .BLACK E-MUSIC nxplay 
+http://cdn-2.nxplay.com.br/MEGA_TK/index.m3u8
+
 #EXTINF:-1 tvg-id="KMBYLD5.us" tvg-logo="https://i.imgur.com/GlpYAKt.png" group-title="MUSIC TV", MUSIC: .BLUES TV streamhoster 
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .CLASSIC ROCK STINGRAY ott
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
 
 #EXTINF:-1 tvg-id="stingrayclassicrock.ca" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .CLASSIC ROCK STINGRAY xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
@@ -1034,28 +1094,28 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61bb9a63e0b39cfe304c9a8a.m3u8
 #EXTINF:-1 tvg-id="ESBC3500001LY" tvg-logo="https://provider-static.plex.tv/epg/cms/production/74efde69-4b42-43c4-a8f0-a4068fdd4862/vivaldi_logo.png" group-title="MUSIC TV", MUSIC: .CLASSIC VIVALDI TV samsungplus
 https://i.mjh.nz/SamsungTVPlus/ESBC3500001LY.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/stingray-classica-hd.png" group-title="MUSIC TV", MUSIC: .CLASSICA STINGRAY google
-https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-
 #EXTINF:-1 tvg-id="USBD350002623" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/stingray-classica-hd.png" group-title="MUSIC TV", MUSIC: .CLASSICA STINGRAY samsungplus
 https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .CLASSICAL HARMONY TV cdn
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa-RaV3FEzkN4foWcl0YlybKVFfhEQ9EJC0xaIv20VHUnJuzaM" group-title="MUSIC TV", MUSIC: .CLASSICAL HARMONY TV cdn
 http://cdn10.live-tv.od.ua:8081/harmony/harmony720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png" group-title="MUSIC TV", MUSIC: .CLASSICAL MEZZO .ott
+http://ott-cdn.ucom.am/s35/04.m3u8
 
 #EXTINF:-1 tvg-id="MEZZO (112).pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png" group-title="MUSIC TV", MUSIC: .CLASSICAL MEZZO 78.130
 http://78.130.250.2:7023/play/a03a/index.m3u8
 
-#EXTINF:-1 tvg-id="FRBD800002PY" tvg-logo="https://assets-global.website-files.com/6306462988cfb60c415300c2/630647ac7f59cd75837f8adc_Vialma%20logo.png" group-title="MUSIC TV", MUSIC: .CLASSICAL VIALMA FR samsungplus
-https://i.mjh.nz/SamsungTVPlus/FRBD800002PY.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.googleusercontent.com/_OEcFS1o-lkOVMhJOr1BgoiDiyD0ojh6f6zD4DdGbgs3CEhO1j5_vEQcNaMO1PqAmpmra7XzsoI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC TV", MUSIC: .CLASSICS E-MUSIC nxplay
+http://cdn-2.nxplay.com.br/CLASSICHITS_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="GBBB1900001IG" tvg-logo="https://festivalhibernation.com/wp-content/uploads/2023/11/CLUBBING-TV.png" group-title="MUSIC TV", MUSIC: .CLUBBING TV 1 cloudfront
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://djcenter.com/wp-content/themes/pricerrtheme/clubbingtv_noir.png" group-title="MUSIC TV", MUSIC: .CLUBBING TV 2 ottera
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://festivalhibernation.com/wp-content/uploads/2023/11/CLUBBING-TV.png" group-title="MUSIC TV", MUSIC: .CLUBBING TV 2 ottera
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1553
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .CLUBBING TV 3 samsung
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://festivalhibernation.com/wp-content/uploads/2023/11/CLUBBING-TV.png" group-title="MUSIC TV", MUSIC: .CLUBBING TV 3 samsung
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cmc-tv.com/images/camuslogo.gif" group-title="MUSIC TV", MUSIC: .COUNTRY CMC amagi
@@ -1094,7 +1154,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://kathyharrisbooks.com/wp-content/uploads/2010/11/logo.png" group-title="MUSIC TV", MUSIC: .COUNTRY NETWORK tcncountry
 https://cdn.tcncountry.net/scte35_aws/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .COUNTRY RADIO IHEART xumo 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.aonl.org/sites/default/files/2020-10/iheart-radio-icon.png" group-title="MUSIC TV", MUSIC: .COUNTRY RADIO IHEART xumo 
 https://dbrb49pjoymg4.cloudfront.net/10001/9995102/hls/playlist.m3u8?ads.xumo_channelId=9995102
 
 #EXTINF:-1 tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20231031T225112SQUARE.png_20231031225113.png" group-title="MUSIC TV", MUSIC: .COUNTRY TODAY XITE samsungplus
@@ -1103,11 +1163,11 @@ https://i.mjh.nz/SamsungTVPlus/USBD3300006O3.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/VEVO_logo_red_RGB.png" group-title="MUSIC TV", MUSIC: .COUNTRY VEVO amagi
 https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevocountry-localnow/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .COUNTRY VEVO pluto
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .COUNTRY VEVO xumo 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .COUNTRY VEVO xumo 
 https://dbrb49pjoymg4.cloudfront.net/10001/99951127/hls/playlist.m3u8?ads.xumo_channelId=99951127
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/d9/4b/b6/d94bb6ff7f5992da35a65c172f03c130.png" group-title="MUSIC TV", MUSIC: .DANCE CARIBE FIT amagi
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-lgau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" group-title="MUSIC TV", MUSIC: .DANCE DELUXE sdn
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
@@ -1117,9 +1177,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2a
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dancetv.net/img/DTlogo.png" group-title="MUSIC TV", MUSIC: .DANCE TECHNO MUSIC TV
 http://hlss.goodgame.ru/hls/180509.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.dancetv.net/img/DTlogo.png" group-title="MUSIC TV", MUSIC: .DANCE TV BEST OF worldcast
-https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .EASY LISTENING STINGRAY plex
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee76b5271f393d2d9f709a.m3u8
@@ -1136,19 +1193,22 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/619L%2BJYDvIL._AC_SY200_QL15_.jpg" group-title="MUSIC TV", MUSIC: .EURO INDIE MUSIC streamlock
 https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist_w1384630843.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-radiotime-logos.tunein.com/s287840g.png" group-title="MUSIC TV", MUSIC: .GOSPEL GOSTEI TV streamlock
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/coq8mWG.png" group-title="MUSIC TV", MUSIC: .GOSPEL GOSTEI TV streamlock
 https://59f1cbe63db89.streamlock.net:1443/gospeltv/_definst_/gospeltv/chunklist_w1037955183.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .GOSPEL MUSIC TV stmv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/coq8mWG.png" group-title="MUSIC TV", MUSIC: .GOSPEL GOSTEI TV streamlock bup
+https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/M/mk-music-logo-4B4FAAC84D-seeklogo.com.png" group-title="MUSIC TV", MUSIC: .GOSPEL MUSIC srvif bup
+https://stmv1.srvif.com/gmusic/gmusic/playlist_480p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/47oBUBM.png" group-title="MUSIC TV", MUSIC: .GOSPEL MUSIC TV srvif 
 https://stmv1.srvif.com/gmusic/gmusic/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="stingraygreatesthits.ca" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .GRATEST HITS STINGRAY xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .GREATEST HITS STINGRAY ott
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .HIP HOP BEATS IHEART xumo 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.aonl.org/sites/default/files/2020-10/iheart-radio-icon.png" group-title="MUSIC TV", MUSIC: .HIP HOP BEATS IHEART xumo 
 https://dbrb49pjoymg4.cloudfront.net/10001/9995103/hls/playlist.m3u8?ads.xumo_channelId=9995103
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i1.sndcdn.com/avatars-000328683638-ft65dr-t1080x1080.jpg" group-title="MUSIC TV", MUSIC: .HIP HOP FESTIVAL ottera
@@ -1193,35 +1253,29 @@ https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20231024T231619SQUARE.png_20231024231619.png" group-title="MUSIC TV", MUSIC: .JUST CHILL XITE samsungplus
 https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
 
-#EXTINF:-1 tvg-id="https://imgur.com/KuCRs2e.png" tvg-logo="https://www.bachstiftung.ch/wp-content/uploads/2019/02/logo-bachstiftung-weiss-es.png" group-title="MUSIC TV", MUSIC: .JUST CLASSICAL ottera
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3428
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .K-POP STINGRAY plex
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee6eae271f393d2d9f7096.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" group-title="MUSIC TV", MUSIC: .KARAOKE PARTY 1 ottera
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=489&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=602d56bef867c4002c897e22&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=602d56bef867c4002c897e22
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke-non-us.png" group-title="MUSIC TV", MUSIC: .KARAOKE PARTY 2 ENG ottera bup
 https://ov.ottera.tv/live/master.m3u8?channel=ssnd_pt_us
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke-non-us.png" group-title="MUSIC TV", MUSIC: .KARAOKE PARTY 2 getpublica
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke-non-us.png" group-title="MUSIC TV", MUSIC: .KARAOKE PARTY 2 getpublica bup
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=63&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=HJNpAsLWteW2_Q7vbySW&content_series=5eea605674085f0040ddc7ac&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=HJNpAsLWteW2_Q7vbySW&custom_7=5eea605674085f0040ddc7ac
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.rhsclassof69.com/event-photos/images/2017-karaoke-night/Karaoke-fixed@2x.png" group-title="MUSIC TV", MUSIC: .KARAOKE PARTY djing
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke-non-us.png" group-title="MUSIC TV", MUSIC: .KARAOKE PARTY djing
 https://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke-non-us.png" group-title="MUSIC TV", MUSIC: .KARAOKE PARTY getpublica
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="MUSIC TV", MUSIC: .LATIN HTV 170.254
+http://170.254.18.106/HTV/index.m3u8
 
 #EXTINF:-1 tvg-id="USBD3500009Y3" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .LATIN POP STINGRAY samsungplus
 https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="MUSIC TV", MUSIC: .LATINA TRACE cloudfront
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="MUSIC TV", MUSIC: .LATINA TRACE samsung
-https://amg01131-tracetv-tracelatinaes-samsungspain-d7byg.amagi.tv/playlist/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="MUSIC TV", MUSIC: .LATINA TRACE samsungplus
-https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.googleusercontent.com/_OEcFS1o-lkOVMhJOr1BgoiDiyD0ojh6f6zD4DdGbgs3CEhO1j5_vEQcNaMO1PqAmpmra7XzsoI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC TV", MUSIC: .LATINO E-MUSIC nxplay
+http://cdn-2.nxplay.com.br/AMERICOLATINO_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.aonl.org/sites/default/files/2020-10/iheart-radio-icon.png" group-title="MUSIC TV", MUSIC: .LATINO HITS IHEART wurl
 https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
@@ -1231,9 +1285,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
 
 #EXTINF:-1 tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20231024T231922SQUARE.png_20231024231923.png" group-title="MUSIC TV", MUSIC: .LATINO SIEMPRE XITE samsungplus
 https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
-
-#EXTINF:-1 tvg-id="35" tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="MUSIC TV", MUSIC: .LATINO TOP TV streamlock
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESBC2100002LV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/VEVO_logo_red_RGB.png" group-title="MUSIC TV", MUSIC: .LATINO VEVO samsungplus
 https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
@@ -1256,17 +1307,14 @@ http://49.0.64.96:8007/M4JAZZ
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/VEVO_logo_red_RGB.png" group-title="MUSIC TV", MUSIC: .MEXICANO VEVO amagi
 https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1244" tvg-logo="https://oldieshitscr.com/gallery/Logo-con-Stroke-ts1694633059.png" group-title="MUSIC TV", MUSIC: .OLDIES HITS TV logicahost
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="SpektraTV.es" tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="MUSIC TV", MUSIC: .OLDIES SPEKTRA TV cloud
 https://cloudvideo.servers10.com:8081/8136/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jj4zvOK.png" group-title="MUSIC TV", MUSIC: .PARTY TYME KARAOKE getpublica
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .POP ADULT STINGRAY plex
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee7992271f393d2d9f709c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.googleusercontent.com/_OEcFS1o-lkOVMhJOr1BgoiDiyD0ojh6f6zD4DdGbgs3CEhO1j5_vEQcNaMO1PqAmpmra7XzsoI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC TV", MUSIC: .POP E-MUSIC nxplay
+http://cdn-2.nxplay.com.br/Cult_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/679a72_4a9056ea02264122811b9a2f962c5289~mv2.png/v1/fill/w_232,h_130,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Logo%20MarcaTransparente_Registrada_Master.png" group-title="MUSIC TV", MUSIC: .POP GOSTEI TV streamlock
 https://59f1cbe63db89.streamlock.net:1443/redegostei/_definst_/redegostei/chunklist_w986822312.m3u8
@@ -1277,22 +1325,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 tvg-id="Muzzik Cafe&Club RS" tvg-logo="https://www.muzzik.tv/images/logo-white.png" group-title="MUSIC TV", MUSIC: .POP STAR MUZZIK
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CL | TV Pop" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .POP TV tustreaming
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/VEVO_logo_red_RGB.png" group-title="MUSIC TV", MUSIC: .POP VEVO amagi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/3000.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/VEVO_logo_red_RGB.png" group-title="MUSIC TV", MUSIC: .POP VEVO localnow 
 https://amg00056-vevotv-vevopop-localnow-0c0pg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .POP VEVO pluto
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1458150226724806664/fHpRPzd0_400x400.png" group-title="MUSIC TV", MUSIC: .POP VEVO samsungau
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .POP VEVO samsungau
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .POP VEVO xumo 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .POP VEVO xumo 
 https://dbrb49pjoymg4.cloudfront.net/10001/99991391/hls/playlist.m3u8?ads.xumo_channelId=99991391
 
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-logo="https://play-lh.googleusercontent.com/iifd6mBDKaarQz004amAQ5Tm7WRb1gXFhduzXtvyBYL2j0ObCdFYEOzJz07xjPJRXj0" group-title="MUSIC TV", MUSIC: .POP WORLD TV janus
@@ -1307,11 +1349,11 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="ATBB3900002P8" tvg-logo="https://clipground.com/images/amazon-kindle-logo-png-6.png" group-title="MUSIC TV", MUSIC: .QELLO CONCERTS 2 samsungplus
 https://i.mjh.nz/SamsungTVPlus/ATBB3900002P8.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Qwest.png" group-title="MUSIC TV", MUSIC: .QWEST TV samsungbr
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USBD330000948" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20231024T231919SQUARE.png_20231024231920.png" group-title="MUSIC TV", MUSIC: .R&B CLASSIC JAMS XITE samsungplus
 https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .R&B VEVO pluto
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="DeluxeRap.de" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="MUSIC TV", MUSIC: .RAP DELUXE sdn
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
@@ -1319,56 +1361,38 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/VEVO_logo_red_RGB.png" group-title="MUSIC TV", MUSIC: .REGGAETON & TRAP VEVO amazon
 https://amagicloud-medialive-common016.s3.amazonaws.com/vevo_reggaeton-localnow/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .REGGAETÓN & TRAP VEVO pluto
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B41F9038-3782-42D9-926F-56593B6B8BAA/3-1x1.png/900" group-title="MUSIC TV", MUSIC: .RELAX LOCAL NOW COFFEEHOUSE linear
 https://linear-272.frequency.stream/dist/localnow/272/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://app.barazaradio.com/wp-content/uploads/2020/01/newnew-300x199.png" group-title="MUSIC TV", MUSIC: .RELAXING BARAZA TV
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .REMEMBER THE 80s STINGRAY xumo 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .REMEMBER THE 80s STINGRAY xumo 
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991742
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/1458150226724806664/fHpRPzd0_400x400.png" group-title="MUSIC TV", MUSIC: .RETRO ROCK VEVO samsungau
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: .RETRO ROCK VEVO samsungau
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/aecbe9_6af2e800b60c4581b07fa69c37c539ee~mv2.png/v1/fill/w_360,h_196,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/RCK_Negative.png" group-title="MUSIC TV", MUSIC: .ROCK  RCKTV CL stmv
-https://stmv5.voxtvhd.com.br/rcktv/rcktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Muzzik Rock&Roll RS" tvg-logo="https://www.muzzik.tv/images/logo-white.png" group-title="MUSIC TV", MUSIC: .ROCK & ROLL MUZZIK
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/p22Yewv.png" group-title="MUSIC TV", MUSIC: .ROCK CATEDRAL stmv
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .ROCK CLASSIC STINGRAY xumo 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .ROCK CLASSIC STINGRAY xumo 
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991119
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://br.radio.net/images/broadcasts/cb/7a/189318/1/c300.png" group-title="MUSIC TV", MUSIC: .ROCK CLASSICS RTL cloudfront
-https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/chunklist_w914492310.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_ROCK_LOGO_RGB-1.png" group-title="MUSIC TV", MUSIC: .ROCK DELUXE MUSIC sdn
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.googleusercontent.com/_OEcFS1o-lkOVMhJOr1BgoiDiyD0ojh6f6zD4DdGbgs3CEhO1j5_vEQcNaMO1PqAmpmra7XzsoI=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC TV", MUSIC: .ROCK E-MUSIC nxplay
+http://cdn-2.nxplay.com.br/SCH_TK/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://envivo.futuro.cl/build/assets/futurochile/img/300x300.png" group-title="MUSIC TV", MUSIC: .ROCK FUTURO RADIO CHILE unlimited 
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HOT ROCK TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/hot-rock-tv-2721.webp" group-title="MUSIC TV", MUSIC: .ROCK HOT TV bozztv
-https://rpn1.bozztv.com/36bay2/gusa-30atvmusic/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .ROCK KISS TV broadcasting
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Kiss_TV_%282014-.n.v.%29.png/revision/latest?cb=20210509164603" group-title="MUSIC TV", MUSIC: .ROCK KISS TV broadcasting
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-
-#EXTINF:-1 tvg-id="NI | La Rock 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/LaRock22.jpg/245px-LaRock22.jpg" group-title="MUSIC TV", MUSIC: .ROCK LA ROCK 22 cootv
-https://cootv.cootel.com.ni:8095/Canal22_CooTel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-MeK5TP9ZZPY/X4T3D_lWtCI/AAAAAAAA69M/viTbtdImJnUxLKmY11SZiS6kRMbaZAVdQCLcBGAsYHQ/s392/mega-983.png" group-title="MUSIC TV", MUSIC: .ROCK MEGA PURO arcast
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://c8.alamy.com/compes/p76h27/la-musica-rock-duro-poster-p76h27.jpg" group-title="MUSIC TV", MUSIC: .ROCK NARYAD TV rock
-http://rocknaryad.streaming-elbrus.su:56373/rock_naryad/video.m3u8?token=rocknaryad
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="MUSIC TV", MUSIC: .ROCK NOW amagi
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
@@ -1388,7 +1412,7 @@ https://inliveserver.com:1936/11530/11530/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/tScmQ85.png" group-title="MUSIC TV", MUSIC: .ROCK TV BRASIL streamlock
 http://59f1cbe63db89.streamlock.net:1935/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .ROCK TV RO
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Rock_TV_2.svg/revision/latest/scale-to-width-down/1200?cb=20220626120305" group-title="MUSIC TV", MUSIC: .ROCK TV RO
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 tvg-id="ITBC1100011RK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Rock_TV_logo.jpg" group-title="MUSIC TV", MUSIC: .ROCK TV samsungplus
@@ -1396,9 +1420,6 @@ https://i.mjh.nz/SamsungTVPlus/ITBC1100011RK.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20231024T231621SQUARE.png_20231024231622.png" group-title="MUSIC TV", MUSIC: .ROCK XITE TV cloudfront
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://rockntix.com/wp-content/uploads/2023/01/rocknTV-Logo.png" group-title="MUSIC TV", MUSIC: .ROCK НАРЯД rocknaryad
-http://rocknaryad.streaming-elbrus.su:56373/rock_naryad/mono.m3u8?token=rocknaryad
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6ve1FTN.png" group-title="MUSIC TV", MUSIC: .ROCKLAND RADIO TV creacast
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_b2628000.m3u8
@@ -1409,11 +1430,8 @@ https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
 #EXTINF:-1 tvg-id="USA | Puro Romance TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9424bd94fdf0c4154dff529f4fdfa9b4.webp" group-title="MUSIC TV", MUSIC: .ROMANCE PURO TV ottera
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .SALSA GORDA TV bozztv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-hloHsMnWXHc/YPSXl4D7-lI/AAAAAAAAFQw/cHzF_eI-nMM5kdANs8M5tjcJKpWBHvIcQCLcBGAsYHQ/s950/banner_salsagorda2.jpg" group-title="MUSIC TV", MUSIC: .SALSA GORDA TV bozztv
 https://ssh101.bozztv.com/ssh101/qMUAZEy/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSIC TV", MUSIC: .SALSA GORDA TV bozztv
-https://rpn3.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | TV Peruanísima" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Salsa-Alpha-AOriginal-e1687304739946.png" group-title="MUSIC TV", MUSIC: .SALSA MIMUSICA streamlock
 https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8
@@ -1426,9 +1444,6 @@ http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/images/layout/business/stingray-pass/stingray-pass-logo.png" group-title="MUSIC TV", MUSIC: .THE SPA STINGRAY plex
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f11395586633e88e3a3274.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="MUSIC TV", MUSIC: .TRACE LATINA amagi
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="MUSIC TV", MUSIC: .VINILOS TV live
 https://live.obslivestream.com/controversiatv/index.m3u8
@@ -1460,13 +1475,13 @@ https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
 #EXTINF:-1 tvg-id="796" tvg-logo="https://m.media-amazon.com/images/I/31qDTd0zaLL._AC_SY200_QL15_.jpg" group-title="MUSIC TV", MUSIC: EURO INDIE MUSIC 178.33
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://store-images.s-microsoft.com/image/apps.61441.9007199266242576.15d72625-31ba-4989-b75e-4e722ac05e0f.5ba11500-5909-4819-8cbf-b90ad68c7644" group-title="MUSIC TV", MUSIC: IHEART ALT RADIO wurl
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.aonl.org/sites/default/files/2020-10/iheart-radio-icon.png" group-title="MUSIC TV", MUSIC: IHEART ALT RADIO wurl
 https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://store-images.s-microsoft.com/image/apps.61441.9007199266242576.15d72625-31ba-4989-b75e-4e722ac05e0f.5ba11500-5909-4819-8cbf-b90ad68c7644" group-title="MUSIC TV", MUSIC: IHEART HIT NATION wurl
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.aonl.org/sites/default/files/2020-10/iheart-radio-icon.png" group-title="MUSIC TV", MUSIC: IHEART HIT NATION wurl
 https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://store-images.s-microsoft.com/image/apps.61441.9007199266242576.15d72625-31ba-4989-b75e-4e722ac05e0f.5ba11500-5909-4819-8cbf-b90ad68c7644" group-title="MUSIC TV", MUSIC: IHEART THE BEAT wurl
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.aonl.org/sites/default/files/2020-10/iheart-radio-icon.png" group-title="MUSIC TV", MUSIC: IHEART THE BEAT wurl
 https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="MUSIC TV", MUSIC: IMPACT TV DANCE online
@@ -1484,9 +1499,6 @@ https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC TV", MUSIC: MTS muzzik
 http://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/tvfan/images/e/e2/1024px-MTV_Hits_2017_logo.svg.png/revision/latest/thumbnail/width/360/height/360?cb=20210423193136" group-title="MUSIC TV", MUSIC: MTV HITS android
-https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC TV", MUSIC: MUZZIK
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 
@@ -1502,17 +1514,41 @@ rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
 #EXTINF:-1 tvg-id="Muzzik Mediteraneo Serbia (RS)" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC TV", MUSIC: TIK TAK MUZZIK
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="MUSIC TV", MUSIC: TRACE LATINA amagi
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/tracebrazuca.webp" group-title="MUSIC TV", MUSIC: TRACE BRASIL cloudfront 
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="MUSIC TV", MUSIC: TRACE BRASIL nxplay 
+http://cdn-2.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="MUSIC TV", MUSIC: TRACE LATINA cloudfront
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="MUSIC TV", MUSIC: TRACE LATINA klowdtv 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESBA3300042Y6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="MUSIC TV", MUSIC: TRACE LATINA samsungplus
+https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="MUSIC TV", MUSIC: TRACE LATINA samsungsp
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC TV", MUSIC: TRACE URBAN amagi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/traceurban.webp" group-title="MUSIC TV", MUSIC: TRACE URBAN samsungau
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/traceurban.webp" group-title="MUSIC TV", MUSIC: TRACE URBAN samsungnz
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ESBA3300043M0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC TV", MUSIC: TRACE URBAN samsungplus
 https://i.mjh.nz/SamsungTVPlus/ESBA3300043M0.m3u8
 
-#EXTINF:-1 tvg-id="ESBD3900001P4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3900001P4_20231101T032755SQUARE.png_20231101032756.png" group-title="MUSIC TV", MUSIC: VEVO NAVIDAD samsungplus
-https://i.mjh.nz/SamsungTVPlus/ESBD3900001P4.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/vBlBL5U.png" group-title="MUSIC TV", MUSIC: V CLASSIC TV streamlock 
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w1549591707.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-EDxQCDwR30o/UUF_al8vzEI/AAAAAAAAY9I/580CtAVDNnI/s493/Vevo+logo+2013.png" group-title="MUSIC TV", MUSIC: VEVO 2k samsungau
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DEBC21000022L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" group-title="MUSIC TV", MUSIC: VEVO SCHLAGER POP samsungplus
 https://i.mjh.nz/SamsungTVPlus/DEBC21000022L.m3u8
@@ -1619,12 +1655,6 @@ http://blacktv.syscdn.xyz:80/363414831673BL/363414998112/82167
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/474x/b0/fb/87/b0fb87973eec2c5e4fa9f56f0fc704da.jpg" group-title="XXX", XXX: .INTERRACIAL 2 BRASIL blacktv
 http://blacktv.syscdn.xyz:80/363414831673BL/363414998112/82168
 
-#EXTINF:-1 tvg-id="chunklist_w1222185240.m3u8" tvg-logo="http://hw03.freetour.pwidownload.com/japanporn.pornaccess.com/img/japan-porn-logo.gif" group-title="XXX", XXX: .JAPAN PORN
-https://5ed5d165c218d.streamlock.net:441/free/Stream1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://hw03.freetour.pwidownload.com/japanporn.pornaccess.com/img/japan-porn-logo.gif" group-title="XXX", XXX: .JAPAN PORN bup
-https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS - RedTraffic
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
 
@@ -1706,9 +1736,6 @@ http://146.59.54.163/362/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: HUSTLER HD 146.59
 http://146.59.54.163/348/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: HUSTLER HD 193.111
-http://193.111.244.35:7474/hustlerhd/manifest.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: HUSTLER HD 31.131
 http://31.131.136.4:8000/play/a00g
 
@@ -1763,20 +1790,23 @@ http://78.130.250.2:8023/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PENTHOUSE REALITY cdnx
 http://cdnx1.plusx.tv:8880/353/mono.m3u8?token=0e318668ba9b1d41dd3333
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PLAYBOY 138.59
-http://138.59.177.34:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PLAYBOY BLACK 181.78
+http://181.78.105.146:6060/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PLAYBOY BLACK 45.166
 http://45.166.92.22:58001/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PLAYBOY BLACK 45.5
+http://45.5.117.182:8000/play/a0ed/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PLAYBOY BLACK 45.79
+http://45.179.164.30:8000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PLAYBOY RED 168.181
 http://168.181.122.234:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PRIVATE HD cdnx
 http://cdnx1.plusx.tv:8880/356/mono.m3u8?token=0e318668ba9b1d41dd3333
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PRIVATE spa
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PRIVATE TV 146.59
 http://146.59.54.163/356/index.m3u8
@@ -1796,17 +1826,8 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_HD.smil/ind
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: RUSSIAN NIGHTS 188.113
 http://188.113.190.15/318/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: SEXTREME 138.59
-http://138.59.177.34:8000/play/a07g/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: SEXTREME 213.13
-http://213.13.16.138/shls/LIVE%24SexTreme/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: SUPER ONE 31.131
 http://31.131.136.4:8000/play/a00f
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: VENUS 138.59
-http://138.59.177.34:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: VENUS 168.181
 http://168.181.122.234:8000/play/a027/index.m3u8
@@ -1816,6 +1837,12 @@ http://31.131.136.4:8000/play/a00w
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: VENUS 45.166
 http://45.166.92.22:58001/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: VENUS 45.179
+http://45.179.164.30:8000/play/a0a3/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: VENUS 45.5
+http://45.5.117.182:8000/play/a0gf/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: VIVID EUROPE 146.59
 http://146.59.54.163/361/index.m3u8
@@ -1849,9 +1876,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/2131499/8886/v/950/depositphotos_88862586-stock-illustration-adults-only-sign-xxx-sign.jpg" group-title="XXX", XXX: 🔞 KALOOPY google
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/W9x8sNg.png" group-title="XXX", XXX: 🔞 MIAMI TV JENNY FOR YOU streamlock
-https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg" group-title="XXX", XXX: 🔞 MIAMI TV JENNY LIVE streamlock
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/chunklist_w1550400748_b1896000.m3u8
