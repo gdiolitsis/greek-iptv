@@ -629,6 +629,9 @@ https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
 #EXTINF:-1 tvg-id="Discoverychannel" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20200702154650" group-title="DOCUMENTARY", .DOC: DISCOVERY GR abcnew 
 http://abcnew.site:8880/D12m2415/48808223/31215
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webinternetradio.net/photo/dtp/4004342.png" group-title="DOCUMENTARY", .DOC: DTP GR github 
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/DTP.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://netnix.tv/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e137670a691cd1f526c51f58636a1b4f1870bfdf/grd-channel-logo.png" group-title="DOCUMENTARY", .DOC: GR Discovery CHANNEL
 https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
 
@@ -653,7 +656,7 @@ https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1216294961.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory" tvg-logo="https://www.viasatworld.com/media/1441/history-vw.png" group-title="DOCUMENTARY", .DOC: VIASAT HISTORY GR abcnew 
 http://abcnew.site:8880/D12m2415/48808223/52121
 
-#EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://xplore-tv.de/wp-content/uploads/2019/05/cropped-logo.png" group-title="DOCUMENTARY", .DOC: XPLORE GREEK
+#EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://xplorecy.tv/wp-content/uploads/2021/01/Cool-Text-348201379642130.png" group-title="DOCUMENTARY", .DOC: XPLORE TV CYPRUS 
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/AAzf87Tfukk/sddefault.jpg" group-title="DOCUMENTARY", DOC: 5 MINUTE CRAFTS amagi
@@ -706,12 +709,6 @@ http://abcnew.site:8880/D12m2415/48808223/31150
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-Ccs0fIfVHPLFcCbDdrIVD7k70T9FL6nTA7Uzkg4NQ&s" group-title="DOCUMENTARY", DOC: WORLD ANIMAL TV 203.154
 http://203.154.243.89:899/W-ANIMAL?u=hh:p=hh@1234
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", ..LIVE? demis
-https://demis.trikoumela.xyz/channels/ch3/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORTS", ..LIVE? nikos
-https://nikolaos.ragkeklas.site/ch3/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.tv8bucuk.com/s/template/amp/images/tv8bucuk_logo.png" group-title="SPORTS", .8.5 TV TR 50.7
 http://50.7.218.122:8080/tv85/index.m3u8
@@ -1622,6 +1619,9 @@ http://49.0.64.96:8007/M2ROCK
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/3461707/original/resize:248x186/crop:x0y66w618h462/hash:1467449169/1376824121_m4music.png?1467449169" group-title="MUSIC TV", MUSIC: .M4 JAZZ 49.0
 http://49.0.64.96:8007/M4JAZZ
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Heavy_metal_magaz_logo.png" group-title="MUSIC TV", MUSIC: .METAL TV CL panelstraming
+https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/VEVO_logo_red_RGB.png" group-title="MUSIC TV", MUSIC: .MEXICANO VEVO amagi
 https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
 
@@ -1946,14 +1946,32 @@ http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", .XXX: RedTraffic - THREESOME
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/BLUETV.AMATEUR.png" group-title="XXX", XXX: .AMATEUR BlueTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4078.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL - RedTraffic
 http://live.redtraffic.xyz/anal.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL BIG ASS - redtraffic
 http://live.redtraffic.xyz/bigass.m3u8
 
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/BLUETV.ANAL.png" group-title="XXX", XXX: .ANAL BlueTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4075.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL QUEST nextlevel
+http://nextlevelvpn.nl:8080/live/skippersRS22/hbXuNbqYKW/382327.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/SUGAR.ANAL.png" group-title="XXX", XXX: .ANAL SugarTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4110.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/SUTRA.ANAL.png" group-title="XXX", XXX: .ANAL SutraTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4148.ts
+
 #EXTINF:-1 tvg-id="XXX: AD - FAKE FHD" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL TRUE xyz
 http://572214849640823041.ofsd5513.xyz:80/play/fe121658/9CfWnJ4vnEUB/823041.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/SUTRA.TUHSY.png" group-title="XXX", XXX: .ANAL TUHSY SutraTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4154.ts
 
 #EXTINF:-1 tvg-id="XXX: AD - VIXEN HEVC" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL VIXEN xyz
 http://572214849640789838.ofsd5513.xyz:80/play/fe121658/9CfWnJ4vnEUB/789838.ts
@@ -1961,14 +1979,38 @@ http://572214849640789838.ofsd5513.xyz:80/play/fe121658/9CfWnJ4vnEUB/789838.ts
 #EXTINF:-1 tvg-id="XXX: ALBA XXX 4 FHD" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL XXX 2 xyz
 http://572214849640759890.ofsd5513.xyz:80/play/fe121658/9CfWnJ4vnEUB/759890.ts
 
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/PIXELLTV.ANALIZED.png" group-title="XXX", XXX: .ANALIZED PixelTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4118.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/BLUETV.BLACK.png" group-title="XXX", XXX: .BLACK BlueTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4093.ts
+
 #EXTINF:-1 tvg-id="XXX: BLACK TV XXX SD" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfGm5gRC_qwHQ7cIycTbr3J4RpG44ucU8WUiBDvi7pV3VlBdYAFZTMbSXQcac7J8Y7MvhoTC3GoDM7x17Zzx7c7OLJzh5engK8TlbV_8_I0b.png?r=9b9" group-title="XXX", XXX: .BLACK TV xyz
 http://572214849640832534.ofsd5513.xyz:80/play/fe121658/9CfWnJ4vnEUB/832534.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/BLUETV.BLACKED.png" group-title="XXX", XXX: .BLACKED BlueTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4094.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://i.redd.it/2tiy4znyfr8a1.png" group-title="XXX", XXX: .BLACKED nextlevel 
+http://nextlevelvpn.nl:8080/live/skippersRS22/hbXuNbqYKW/382303.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/BLUETV.BLACKED.RAW.png" group-title="XXX", XXX: .BLACKED RAW BlueTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4095.ts
 
 #EXTINF:-1 tvg-id="XXX: BLACKED HD" tvg-logo="https://i.redd.it/2tiy4znyfr8a1.png" group-title="XXX", XXX: .BLACKED xyz
 http://572214849640755112.ofsd5513.xyz:80/play/fe121658/9CfWnJ4vnEUB/755112.ts
 
 #EXTINF:-1 tvg-id="XXX: AD - BOXTRUCKSEX TV FHD" tvg-logo="https://pbs.twimg.com/media/C52sU9oU0AASEvO.jpg" group-title="XXX", XXX: .BOX TRUCK SEX TV xyz
 http://572214849640771543.ofsd5513.xyz:80/play/fe121658/9CfWnJ4vnEUB/771543.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/BLUETV.FAKE.TAXI.png" group-title="XXX", XXX: .FAKE TAXI BlueTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4092.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/1280px-Fake_Taxi_logo.svg.png" group-title="XXX", XXX: .FAKE TAXI nextlevel 
+http://nextlevelvpn.nl:8080/live/skippersRS22/hbXuNbqYKW/441299.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/BLUETV.GANGBANG.png" group-title="XXX", XXX: .GANGBANG BlueTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4090.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY - RedTraffic
 http://live.redtraffic.xyz/gay.m3u8
@@ -2003,14 +2045,32 @@ http://572214849640822195.ofsd5513.xyz:80/play/fe121658/9CfWnJ4vnEUB/822195.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS - RedTraffic
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
 
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/BLUETV.MASSAGE.png" group-title="XXX", XXX: .MASSAGE BlueTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4079.ts
+
 #EXTINF:-1 tvg-id="XXX: MILF TV XXX FHD" tvg-logo="https://avatars.akamai.steamstatic.com/2dd4e3d36c3ce33151ff17e90d04ed5bb698b632_full.jpg" group-title="XXX", XXX: .MILF TV xyz
 http://572214849640791749.ofsd5513.xyz:80/play/fe121658/9CfWnJ4vnEUB/791749.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmvwJz1jrw6e_Ii_cXxLeGQJVSwtqeROaKQ&usqp=CAU" group-title="XXX", XXX: .PUBLIC AGENT nextlevel
+http://nextlevelvpn.nl:8080/live/skippersRS22/hbXuNbqYKW/382378.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/BLUETV.PUBLIC.png" group-title="XXX", XXX: .PUBLIC BlueTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4083.ts
 
 #EXTINF:-1 tvg-id="XXX: AD - TEENS LOVE TO SWALLOW FHD" tvg-logo="https://ih1.redbubble.net/image.924472441.5861/flat,750x1000,075,t.jpg" group-title="XXX", XXX: .SWALLOW TEENS xyz
 http://572214849640827678.ofsd5513.xyz:80/fe121658/9CfWnJ4vnEUB/827678.ts
 
 #EXTINF:-1 tvg-id="XXX: FAP TV TEENS HD" tvg-logo="https://cdn.slidesharecdn.com/ss_thumbnails/smc19-190612151757-thumbnail.jpg?width=640&height=640&fit=bounds" group-title="XXX", XXX: .TEENS FAP TV xyz
 http://572214849640755143.ofsd5513.xyz:80/play/fe121658/9CfWnJ4vnEUB/755143.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="http://logoxx0144.duckdns.org:8080/LOGO/ADULT/PIXELLTV.THROATED.png" group-title="XXX", XXX: .THROATED PixelTV smartersvip
+http://vip.smartersvip.xyz:2095/live/smll9333/vxsUW99qXfZf/4119.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANS ANGELS nextlevel 
+http://nextlevelvpn.nl:8080/live/skippersRS22/hbXuNbqYKW/382389.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://lh6.googleusercontent.com/-uyJa87XDE8g/AAAAAAAAAAI/AAAAAAAAAAA/8J0PasO4M98/photo.jpg" group-title="XXX", XXX: .TRANS EROTICA nextlevel
+http://nextlevelvpn.nl:8080/live/skippersRS22/hbXuNbqYKW/382390.ts
 
 #EXTINF:-1 tvg-id="Adult 01" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" group-title="XXX", XXX: ADULT 01 streamsy 
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/750
