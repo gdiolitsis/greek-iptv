@@ -26,14 +26,14 @@ http://abcnew.site:8880/D12m2415/48808223/52115
 #EXTINF:-1 tvg-id="ant1" tvg-logo="https://i.imgur.com/cr7ZEfC.png" group-title="GREEK PANELLADIKA", GR: ANT1 cloudfront
 https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 
-#EXTINF:-1 tvg-id="ant1" tvg-logo="https://i.imgur.com/cr7ZEfC.png" group-title="GREEK PANELLADIKA", GR: ANT1 phenix 
-http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:54:36:54&stream=373432&extension=m3u8
-
 #EXTINF:-1 tvg-id="ant1comedy" tvg-logo="https://api.antenna.gr/v300/imageHelper.php?id=6423264:355:CHANNEL:IMAGE:png&w=200&appID=Antenna" group-title="GREEK PANELLADIKA", GR: ANT1 COMEDY cloudfront 
 http://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ant1drama" tvg-logo="https://api.antenna.gr/v300/imageHelper.php?id=6423265:355:CHANNEL:IMAGE:png&w=200&appID=Antenna" group-title="GREEK PANELLADIKA", GR: ANT1 DRAMA cloudfront 
 http://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ant1" tvg-logo="https://i.imgur.com/cr7ZEfC.png" group-title="GREEK PANELLADIKA", GR: ANT1 phenix 
+http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:54:36:54&stream=373432&extension=m3u8
 
 #EXTINF:-1 tvg-id="bluesky" tvg-logo="https://i.imgur.com/Z3OJ3Ew.png" group-title="GREEK PANELLADIKA", GR: BLUE SKY .smart
 http://cdn1.smart-tv-data.com/live/bluesky/playlist.m3u8
@@ -65,6 +65,9 @@ https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24613/index.m3u8
 #EXTINF:-1 tvg-id="ert1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1024px-EPT1_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT1 abcnew 
 http://abcnew.site:8880/D12m2415/48808223/31211
 
+#EXTINF:-1 tvg-id="ert1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1024px-EPT1_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT1 mohdtv
+http://mohdtv.com:8880/live/voby4880/77889364/31211.ts
+
 #EXTINF:-1 tvg-id="ert1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1024px-EPT1_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT1 phenix 
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:54:36:54&stream=649219&extension=m3u8
 
@@ -74,6 +77,9 @@ http://ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8
 #EXTINF:-1 tvg-id="ert2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT2 abcnew 
 http://abcnew.site:8880/D12m2415/48808223/31210
 
+#EXTINF:-1 tvg-id="ert2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT2 mohdtv
+http://mohdtv.com:8880/live/voby4880/77889364/31210.ts
+
 #EXTINF:-1 tvg-id="ert2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT2 phenix
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:54:36:54&stream=57232&extension=m3u8
 
@@ -82,6 +88,9 @@ https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24620/index.m3u8
 
 #EXTINF:-1 tvg-id="ert3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/480px-EPT3_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT3 abcnew 
 http://abcnew.site:8880/D12m2415/48808223/31209
+
+#EXTINF:-1 tvg-id="ert3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/480px-EPT3_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT3 mohdtv
+http://mohdtv.com:8880/live/voby4880/77889364/31209.ts
 
 #EXTINF:-1 tvg-id="ert3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/480px-EPT3_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT3 phenix
 http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:54:36:54&stream=373428&extension=m3u8
@@ -158,7 +167,7 @@ http://195.62.32.83:8080/live/Andyxboxbony/zVB4QePFqH/313141.ts
 #EXTINF:-1 tvg-id="Vouli" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="GREEK PANELLADIKA", GR: VOULI TV
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
-#EXTINF:-1 tvg-id="ert.vouli.gr" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="GREEK PANELLADIKA", GR: VOULI TV ertflix 
+#EXTINF:-1 tvg-id="Vouli" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="GREEK PANELLADIKA", GR: VOULI TV ertflix 
 https://ertflix.s.llnwi.net/ertlive/vouli/default/playlist.m3u8
 
 #EXTINF:-1 tvg-id="aeolos" tvg-logo="https://i.imgur.com/7NK1C1v.png" group-title="GREEK PERIFEREIAKA", AEOLOS TV
@@ -963,10 +972,10 @@ https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
 
 #EXTINF:-1 tvg-id="ertsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="SPORTS", SP: ERT SPORTS 1
-http://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
+http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 
 #EXTINF:-1 tvg-id="ertsports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="SPORTS", SP: ERT SPORTS 2
-http://ertflix.s.llnwi.net/ertlive/ertsports2/default/index.m3u8
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/120px-ERTSPORTS_logo_2020.svg.png" group-title="SPORTS", SP: ERT SPORTS 3 
 http://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
