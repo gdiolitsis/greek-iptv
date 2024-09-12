@@ -827,10 +827,10 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/UfazRoy.png" group-title="SPORTS", .LIVE JOGO 6 BRAZIL vivartec
 https://bal01.vivartec.com.br:8088/hls/livechannel6.m3u8
 
-#EXTINF:-1 tvg-id="cablenet_sport_1" tvg-logo="https://koeas.org.cy/wp-content/uploads/2022/12/Cablent_logo_500px.jpg" group-title="SPORTS", GR: CABLENET SPORT 1 iptvtree
+#EXTINF:-1 tvg-id="cablenetsports1" tvg-logo="https://koeas.org.cy/wp-content/uploads/2022/12/Cablent_logo_500px.jpg" group-title="SPORTS", GR: CABLENET SPORT 1 iptvtree
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/298893
 
-#EXTINF:-1 tvg-id="cablenet_sport_2" tvg-logo="https://koeas.org.cy/wp-content/uploads/2022/12/Cablent_logo_500px.jpg" group-title="SPORTS", GR: CABLENET SPORT 2 iptvtree
+#EXTINF:-1 tvg-id="cablenetsports2" tvg-logo="https://koeas.org.cy/wp-content/uploads/2022/12/Cablent_logo_500px.jpg" group-title="SPORTS", GR: CABLENET SPORT 2 iptvtree
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/298892
 
 #EXTINF:-1 tvg-id="cosmote_sport_1" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 1 abcnew
@@ -932,7 +932,7 @@ http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:54:36:54&stream=649240&
 #EXTINF:-1 tvg-id="cytavisionsports1" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 1 fxlv
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c2:83:46&stream=649225&extension=ts
 
-#EXTINF:-1 tvg-id="cytavision_sports_1" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 1 iptvtree
+#EXTINF:-1 tvg-id="cytavisionsports1" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 1 iptvtree
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/298887
 
 #EXTINF:-1 tvg-id="cytavisionsports1" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 1 phenix
@@ -941,7 +941,7 @@ http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:54:36:54&stream=649225&
 #EXTINF:-1 tvg-id="cytavisionsports2" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 2 fxlv
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c2:83:46&stream=649226&extension=ts
 
-#EXTINF:-1 tvg-id="cytavision_sports_2" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 2 iptvtree
+#EXTINF:-1 tvg-id="cytavisionsports2" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 2 iptvtree
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/298886
 
 #EXTINF:-1 tvg-id="cytavisionsports2" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 2 phenix
@@ -950,7 +950,7 @@ http://phenix-iptv52.com:8080/play/live.php?mac=00:1A:79:54:36:54&stream=649226&
 #EXTINF:-1 tvg-id="cytavisionsports3" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 3 fxlv
 http://fx-lv.com:8080/play/live.php?mac=00:1a:79:c2:83:46&stream=649227&extension=ts
 
-#EXTINF:-1 tvg-id="cytavision_sports_3" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 3 iptvtree
+#EXTINF:-1 tvg-id="cytavisionsports3" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 3 iptvtree
 http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/298885
 
 #EXTINF:-1 tvg-id="cytavisionsports3" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 3 phenix
