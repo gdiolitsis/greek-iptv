@@ -38,7 +38,7 @@ http://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 tvg-id="ertnews" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews-logo-800x300.png" group-title="GREEK PANELLADIKA", GR: ERT NEWS ertflix
 https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews-logo-800x300.png" group-title="GREEK PANELLADIKA", GR: ERT NEWS hbbtvapp
+#EXTINF:-1 tvg-id="ertnews" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews-logo-800x300.png" group-title="GREEK PANELLADIKA", GR: ERT NEWS hbbtvapp
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 
 #EXTINF:-1 tvg-id="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png" group-title="GREEK PANELLADIKA", GR: ERT WORLD ertflix 
@@ -64,12 +64,6 @@ https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ert3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/480px-EPT3_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT3 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31209
-
-#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="GREEK PANELLADIKA", GR: EURONEWS .ENGLISH 195.226
-http://195.226.218.160/vid/euronewsen/mpeg.2ts
-
-#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="GREEK PANELLADIKA", GR: EURONEWS .ENGLISH ertflix 
-https://ertflix.akamaized.net/ertlive/euronewsuk/default/index.m3u8
 
 #EXTINF:-1 tvg-id="Euronews Greek" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="GREEK PANELLADIKA", GR: EURONEWS 195.226
 http://195.226.218.163/vid/euronewsgr/mpeg.2ts
@@ -131,10 +125,10 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR yesimes
 http://yesimes.oknirvana.club:8880/live/D12m2439/62229525/52126.ts
 
-#EXTINF:-1 tvg-id="ert.vouli.gr" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="GREEK PANELLADIKA", GR: VOULI TV ertflix 
+#EXTINF:-1 tvg-id="Vouli" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="GREEK PANELLADIKA", GR: VOULI TV ertflix 
 https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vouli" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="GREEK PANELLADIKA", GR: VOULI TV streamer
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="GREEK PANELLADIKA", GR: VOULI TV streamer
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
 #EXTINF:-1 tvg-id="4e" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="GREEK PERIFEREIAKA", 4E
