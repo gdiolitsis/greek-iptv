@@ -41,28 +41,28 @@ https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1 tvg-id="ertnews" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews-logo-800x300.png" group-title="GREEK PANELLADIKA", GR: ERT NEWS hbbtvapp
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 
-#EXTINF:-1 tvg-id="ertworld" tvg-logo="https://i.imgur.com/pu1amqH.png" group-title="GREEK PANELLADIKA", GR: ERT WORLD ertflix 
+#EXTINF:-1 tvg-id="ertworld" tvg-logo="https://tvonline.bg/wp-content/uploads/ERT-WORLD-tv.png" group-title="GREEK PANELLADIKA", GR: ERT WORLD ertflix 
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ertworld" tvg-logo="https://tvonline.bg/wp-content/uploads/ERT-WORLD-tv.png" group-title="GREEK PANELLADIKA", GR: ERT WORLD hbbtv
 http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
 
-#EXTINF:-1 tvg-id="ert1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1024px-EPT1_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT1
+#EXTINF:-1 tvg-id="ert1" tvg-logo="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXn6UeSTN1dNoCsXTRStAsWGmwQK65mDFezY-zSC4wEXYsUb67P6MmKxLCb0NxGeTt4Q.png" group-title="GREEK PANELLADIKA", GR: ERT1
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ert1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/1024px-EPT1_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT1 yesimes
+#EXTINF:-1 tvg-id="ert1" tvg-logo="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXn6UeSTN1dNoCsXTRStAsWGmwQK65mDFezY-zSC4wEXYsUb67P6MmKxLCb0NxGeTt4Q.png" group-title="GREEK PANELLADIKA", GR: ERT1 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31211
 
-#EXTINF:-1 tvg-id="ert2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT2
+#EXTINF:-1 tvg-id="ert2" tvg-logo="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXn6UeSTN1dNoCsXTRStAsWGmwQK65mDFezY-zSC4wEXYs4vJHtFTSNVYeMQ_0Bg9WWQ.png" group-title="GREEK PANELLADIKA", GR: ERT2
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ert2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EPT2_logo_%282015%29.svg/1200px-EPT2_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT2 yesimes
+#EXTINF:-1 tvg-id="ert2" tvg-logo="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXn6UeSTN1dNoCsXTRStAsWGmwQK65mDFezY-zSC4wEXYs4vJHtFTSNVYeMQ_0Bg9WWQ.png" group-title="GREEK PANELLADIKA", GR: ERT2 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31210
 
-#EXTINF:-1 tvg-id="ert3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/480px-EPT3_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT3
+#EXTINF:-1 tvg-id="ert3" tvg-logo="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXn6UeSTN1dNoCsXTRStAsWGmwQK65mDFezY-zSC4wEXYsJmHCGWEJilEQRYapYGxWzg.png" group-title="GREEK PANELLADIKA", GR: ERT3
 https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ert3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/480px-EPT3_logo_%282015%29.svg.png" group-title="GREEK PANELLADIKA", GR: ERT3 yesimes
+#EXTINF:-1 tvg-id="ert3" tvg-logo="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXn6UeSTN1dNoCsXTRStAsWGmwQK65mDFezY-zSC4wEXYsJmHCGWEJilEQRYapYGxWzg.png" group-title="GREEK PANELLADIKA", GR: ERT3 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31209
 
 #EXTINF:-1 tvg-id="Euronews Greek" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="GREEK PANELLADIKA", GR: EURONEWS 195.226
@@ -118,6 +118,9 @@ http://yesimes.oknirvana.club:8880/D12m2439/62229525/52128
 
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR
 https://livestar.siliconweb.com/media/star4/star4.m3u8
+
+#EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR bgre
+http://bgre3.com/live/xhafer.berishax/nN7YEkyxAZrGGNwjbmQj/38793.ts
 
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR INTERNATIONAL
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
@@ -509,12 +512,6 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/verginatv_cyprus
 #EXTINF:-1 tvg-id="voulicy" tvg-logo="https://i.imgur.com/rIt5pfv.png" group-title="CYPRUS", GR: VOULI TV CYPRUS
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOO6-217J4XZiXaL4u29qjUwzfi61ardluA&s" group-title="CINEMA", ...GR CINE: MONTAZ TV bozztv 
-https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOO6-217J4XZiXaL4u29qjUwzfi61ardluA&s" group-title="CINEMA", ...GR CINE: MONTAZ TV ssh101
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvthessmontaz/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vipotv.com/wp-content/uploads/2024/04/Cinema-Time-live-vipotv.png" group-title="CINEMA", .GR CINE: CINEMA TIME 1 bozztv 
 https://ssh101.bozztv.com/ssh101/cinematimetv/playlist.m3u8
 
@@ -593,8 +590,11 @@ http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image4.owler.com/logo/village-global_owler_20200728_012040_original.png" group-title="CINEMA", .GR CINE: VILLAGE WORLD TV
 http://ellastv.gotdns.com:88/freetv/village-world/index.m3u8
 
-#EXTINF:-1 tvg-id="ert.vouli.gr" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="CINEMA", .GR CINE: VOULI ertflix 
-https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOO6-217J4XZiXaL4u29qjUwzfi61ardluA&s" group-title="CINEMA", GR CINE: MONTAZ TV bozztv 
+https://ssh101.bozztv.com/ssh101/tvthessmontaz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOO6-217J4XZiXaL4u29qjUwzfi61ardluA&s" group-title="CINEMA", GR CINE: MONTAZ TV ssh101
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvthessmontaz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cosmote_cinema_1" tvg-logo="https://upload.wikimedia.org/wikipedia/el/7/7e/Cosm1med.png" group-title="CINEMA", GR: CMT CINEMA 1 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31226
@@ -668,7 +668,7 @@ https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.ime.gr//images/logo.png" group-title="DOCUMENTARY", .DOC: IME WEB TV theagenis
 http://theagenis.fhw.gr:8080/maintv.mp4
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://onlinestream.live/logos/5936.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR 62.210
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-logo="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXn6UeSTN1dNoCsXTRStAsWGnonvp6yA6tIPSFFPG594OLe_u4CUpqicxAVGbAJkt0ZQ.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR 62.210
 http://62.210.211.188:2095/play/a00d
 
 #EXTINF:-1 tvg-id="https://i.imgur.com/dW1bcD2.jpg" tvg-logo="https://www.notioi.gr/wp-content/uploads/2019/10/notioi-logo-new-small.png" group-title="DOCUMENTARY", .DOC: NOTIOI TV srv
@@ -689,7 +689,7 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ytimg.com/vi/AAzf87Tfukk/sddefault.jpg" group-title="DOCUMENTARY", DOC: 5 MINUTE CRAFTS amagi
 https://amg02051-soulpublishing-amg02051c3-lg-ar-583.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/ebe58c44cb94c689aef9f9398d63f01a40a5aa7b.png" group-title="DOCUMENTARY", DOC: ANIMAL PLANET ENG kusna
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://ptv.ac:443/images/eGqxKQFYBvdaZ1gtJTHXnx1pLV2ihIXJd8_xfgo5JL-XAJ7qnh8ssH9x_rID6HGhf696I4xnLeO-GVR2FLPgPA.png" group-title="DOCUMENTARY", DOC: ANIMAL PLANET ENG kusna
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/ebe58c44cb94c689aef9f9398d63f01a40a5aa7b.png" group-title="DOCUMENTARY", DOC: ANIMAL PLANET ENG kusna bup
@@ -1514,11 +1514,71 @@ http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", .XXX: RedTraffic - THREESOME
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://camwork.club/wiki/images/6/69/Amateur.png" group-title="XXX", XXX: .AMATEUR BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4078
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://camwork.club/wiki/images/6/69/Amateur.png" group-title="XXX", XXX: .AMATEUR COUPLES vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172703
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL - RedTraffic
 http://live.redtraffic.xyz/anal.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL BIG ASS - redtraffic
 http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4075
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL POV  1 vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172716
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL POV 2 vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172639
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL SutraTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4148
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://m.media-amazon.com/images/I/61P--d8TE7L.png" group-title="XXX", XXX: .ANAL TUSHY SutraTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4154
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://asiansignatures.com/wp-content/uploads/2020/04/logo-e1714438337830.png" group-title="XXX", XXX: .ASIAN BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4076
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b24316ee-459e-4d01-a0d6-e6dcb542bc65/d49l17u-66ad0005-4838-44fa-ad72-5b1efed6fb23.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyNDMxNmVlLTQ1OWUtNGQwMS1hMGQ2LWU2ZGNiNTQyYmM2NVwvZDQ5bDE3dS02NmFkMDAwNS00ODM4LTQ0ZmEtYWQ3Mi01YjFlZmVkNmZiMjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VvGwZLNeSaY517Pz4x_BUn_LNEzawMWpCIAf_pLDA4c" group-title="XXX", XXX: .BIG ASS BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4084
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b24316ee-459e-4d01-a0d6-e6dcb542bc65/d49l17u-66ad0005-4838-44fa-ad72-5b1efed6fb23.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyNDMxNmVlLTQ1OWUtNGQwMS1hMGQ2LWU2ZGNiNTQyYmM2NVwvZDQ5bDE3dS02NmFkMDAwNS00ODM4LTQ0ZmEtYWQ3Mi01YjFlZmVkNmZiMjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VvGwZLNeSaY517Pz4x_BUn_LNEzawMWpCIAf_pLDA4c" group-title="XXX", XXX: .BIG COCK BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4086
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b24316ee-459e-4d01-a0d6-e6dcb542bc65/d49l17u-66ad0005-4838-44fa-ad72-5b1efed6fb23.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyNDMxNmVlLTQ1OWUtNGQwMS1hMGQ2LWU2ZGNiNTQyYmM2NVwvZDQ5bDE3dS02NmFkMDAwNS00ODM4LTQ0ZmEtYWQ3Mi01YjFlZmVkNmZiMjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VvGwZLNeSaY517Pz4x_BUn_LNEzawMWpCIAf_pLDA4c" group-title="XXX", XXX: .BIG TITS BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4085
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://lens-storage.storage.googleapis.com/png/45692a8acbd4484cacfc53669ecb0934" group-title="XXX", XXX: .BLACKED BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4094
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://lens-storage.storage.googleapis.com/png/45692a8acbd4484cacfc53669ecb0934" group-title="XXX", XXX: .BLACKED BRAZZERS vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172667
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://lens-storage.storage.googleapis.com/png/45692a8acbd4484cacfc53669ecb0934" group-title="XXX", XXX: .BLACKED RAW BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4095
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSewDlqSpn0o3OLCzFaQS7Echy-XPX9CGLHL1ZC-z8hAKGS0ySM" group-title="XXX", XXX: .CUCKOLD BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4088
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://st.getinfootball.com/team/1242599/logo/62e3f028b642a_thumb.png" group-title="XXX", XXX: .FAKE AGENT FuxTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4143
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIIltD4npbEnLC6wFeuxI9_VYLcnVVHoF7x0tYnL6hN11yoYoY" group-title="XXX", XXX: .FAKE HOSPITAL BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4091
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fake_Taxi_logo.svg/2560px-Fake_Taxi_logo.svg.png" group-title="XXX", XXX: .FAKE TAXI BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4092
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://m.media-amazon.com/images/I/714gF7o6jWL._UF894,1000_QL80_.jpg" group-title="XXX", XXX: .FAMILY BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4082
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://share.ftimg.com/aff/flamingtext/2021/04/06/flamingtext__27140918808531501.png" group-title="XXX", XXX: .GANGBANG vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172696
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/G-A-Y_London_Club_logo.jpg/220px-G-A-Y_London_Club_logo.jpg" group-title="XXX", XXX: .GAY - RedTraffic
 http://live.redtraffic.xyz/gay.m3u8
@@ -1538,8 +1598,74 @@ http://18.svi-studio.com:80/live/624372101145/418430465490/5.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lirp.cdn-website.com/4501bd29/dms3rep/multi/opt/IMG_0731-2acc20f8-1920w.PNG" group-title="XXX", XXX: .JAPAN PORN 6 studio
 http://18.svi-studio.com:80/live/624372101145/418430465490/6.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIAN BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4087
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIAN SugarTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4114
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIAN vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172648
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pbs.twimg.com/profile_images/879360802548928512/43yT-EL-_400x400.jpg" group-title="XXX", XXX: .LESBIANS - RedTraffic
 http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", XXX: .MASSAGE BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4079
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", XXX: .MASSAGE BRAZZERS vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172678
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", XXX: .MASSAGE vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172654
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://media.themoviedb.org/t/p/w500/lpDG5lBVh0JGNzWvx6aVvwo5bvs.png" group-title="XXX", XXX: .MILF BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4077
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://media.themoviedb.org/t/p/w500/lpDG5lBVh0JGNzWvx6aVvwo5bvs.png" group-title="XXX", XXX: .MILF HUNTER vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172682
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://media.themoviedb.org/t/p/w500/lpDG5lBVh0JGNzWvx6aVvwo5bvs.png" group-title="XXX", XXX: .MILF PORN vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172686
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://profile-pics-cdn77.xvideos-cdn.com/_NR0AHqK4sXoDZC4ufzNog==,1737687996/videos/profiles/profthumb/53/0e/a1/momsteachsex/profile_5_big.jpg" group-title="XXX", XXX: .MUMS TEACHING NovaTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4132
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", XXX: .OILY NovaTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4133
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://adgoat-strapi-images-prod.s3.amazonaws.com/GR_Public_10141_5fa303a295.png" group-title="XXX", XXX: .PUBLIC BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4083
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://adgoat-strapi-images-prod.s3.amazonaws.com/GR_Public_10141_5fa303a295.png" group-title="XXX", XXX: .PUBLIC FUN vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172717
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.ramset.com/DesktopModules/EasyDNNgallery/MediaDownload.aspx?portalid=0&mediaid=hDllawi0k%2Bc%3D&moduleid=NnIwrVHPJ5g%3D" group-title="XXX", XXX: .REDHEAD 1 vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172662
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.ramset.com/DesktopModules/EasyDNNgallery/MediaDownload.aspx?portalid=0&mediaid=hDllawi0k%2Bc%3D&moduleid=NnIwrVHPJ5g%3D" group-title="XXX", XXX: .REDHEAD 2 vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172692
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.ramset.com/DesktopModules/EasyDNNgallery/MediaDownload.aspx?portalid=0&mediaid=hDllawi0k%2Bc%3D&moduleid=NnIwrVHPJ5g%3D" group-title="XXX", XXX: .REDHEAD EroxTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4174
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://cdn-icons-png.flaticon.com/512/3728/3728796.png" group-title="XXX", XXX: .SCHOOL NovaTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4135
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://lh3.googleusercontent.com/2WM9S33u09L-7H59BXhzvxgq-Qm_1J3tgCqGgaR3HwRYsG_TycJmDrKp4inQwjL4Eg" group-title="XXX", XXX: .SPORTS EroxTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4175
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://notsoinnocentteens.alladultpass.net/notsoinnocentteens/images/logo_01-trans.png" group-title="XXX", XXX: .TEEN 18 YEARS OLD BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4081
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://notsoinnocentteens.alladultpass.net/notsoinnocentteens/images/logo_01-trans.png" group-title="XXX", XXX: .TEEN BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4080
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.clipartmax.com/png/full/244-2441090_lip-mouth-tooth-boca-vermelha-batom-desenho.png" group-title="XXX", XXX: .THROATED BlueTV vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/4119
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://notsoinnocentteens.alladultpass.net/notsoinnocentteens/images/logo_01-trans.png" group-title="XXX", XXX: .YOUNG SLAVES vip
+http://vip.sehzade5.com:2095/mn0019/brh.7449/172674
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: BRAZZERS 89.187
 https://89.187.167.247/brazzers.stream/chunks.m3u8
@@ -1589,6 +1715,33 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PORN CLASSIC 200.194
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://support.pornbox.com/wp-content/uploads/2022/10/cropped-pb-logo-icon.png" group-title="XXX", XXX: PORNBOX 1 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/567
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://support.pornbox.com/wp-content/uploads/2022/10/cropped-pb-logo-icon.png" group-title="XXX", XXX: PORNBOX 2 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/568
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://support.pornbox.com/wp-content/uploads/2022/10/cropped-pb-logo-icon.png" group-title="XXX", XXX: PORNBOX 3 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/569
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://support.pornbox.com/wp-content/uploads/2022/10/cropped-pb-logo-icon.png" group-title="XXX", XXX: PORNBOX 4 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/570
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://support.pornbox.com/wp-content/uploads/2022/10/cropped-pb-logo-icon.png" group-title="XXX", XXX: PORNBOX 5 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/571
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://support.pornbox.com/wp-content/uploads/2022/10/cropped-pb-logo-icon.png" group-title="XXX", XXX: PORNBOX 6 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/572
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://support.pornbox.com/wp-content/uploads/2022/10/cropped-pb-logo-icon.png" group-title="XXX", XXX: PORNBOX 7 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/573
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://support.pornbox.com/wp-content/uploads/2022/10/cropped-pb-logo-icon.png" group-title="XXX", XXX: PORNBOX 8 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/574
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://support.pornbox.com/wp-content/uploads/2022/10/cropped-pb-logo-icon.png" group-title="XXX", XXX: PORNBOX 9 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/575
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PRIVATE 89.187
 https://89.187.167.247/private.stream/chunks.m3u8
 
@@ -1612,6 +1765,33 @@ http://62.210.123.134:98/live/an75d/75d/98.ts
 
 #EXTINF:-1 tvg-id="Desire" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: X-DESIRE 62.210
 http://62.210.123.134:98/live/an75d/75d/99.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Xvideos_white_logo_%282023%29.svg/320px-Xvideos_white_logo_%282023%29.svg.png" group-title="XXX", XXX: XVIDEO 1 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/1188
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Xvideos_white_logo_%282023%29.svg/320px-Xvideos_white_logo_%282023%29.svg.png" group-title="XXX", XXX: XVIDEO 2 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/1189
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Xvideos_white_logo_%282023%29.svg/320px-Xvideos_white_logo_%282023%29.svg.png" group-title="XXX", XXX: XVIDEO 3 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/1190
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Xvideos_white_logo_%282023%29.svg/320px-Xvideos_white_logo_%282023%29.svg.png" group-title="XXX", XXX: XVIDEO 4 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/1191
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Xvideos_white_logo_%282023%29.svg/320px-Xvideos_white_logo_%282023%29.svg.png" group-title="XXX", XXX: XVIDEO 5 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/1192
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Xvideos_white_logo_%282023%29.svg/320px-Xvideos_white_logo_%282023%29.svg.png" group-title="XXX", XXX: XVIDEO 6 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/1193
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Xvideos_white_logo_%282023%29.svg/320px-Xvideos_white_logo_%282023%29.svg.png" group-title="XXX", XXX: XVIDEO 7 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/1194
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Xvideos_white_logo_%282023%29.svg/320px-Xvideos_white_logo_%282023%29.svg.png" group-title="XXX", XXX: XVIDEO 8 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/1195
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Xvideos_white_logo_%282023%29.svg/320px-Xvideos_white_logo_%282023%29.svg.png" group-title="XXX", XXX: XVIDEO 9 84.16
+http://84.16.253.9:2082/Tourobox1-pgnfljwg0m/G07pSHUxyW/1196
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: XXL 89.187
 https://89.187.167.247/xxl.stream/chunks.m3u8
