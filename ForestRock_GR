@@ -143,6 +143,9 @@ http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/9954
 
+#EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI open
+http://open.secretsofsibiu.ro:8080/live/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/57436.ts
+
 #EXTINF:-1 tvg-id="skai" tvg-logo="https://upload.wikimedia.org/wikipedia/el/e/eb/SkaiTV-Logo.png" group-title="GREEK PANELLADIKA", GR: SKAI yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/52128
 
@@ -152,11 +155,11 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR 45.12
 http://45.12.1.14:80/T5Mg05Phwt0055/8PNFub9889/9950
 
-#EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR bgre
-http://bgre3.com/live/xhafer.berishax/nN7YEkyxAZrGGNwjbmQj/38793.ts
-
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR INTERNATIONAL
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+
+#EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR open
+http://open.secretsofsibiu.ro:8080/live/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/57437.ts
 
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR yesimes
 http://yesimes.oknirvana.club:8880/live/D12m2439/62229525/52126.ts
