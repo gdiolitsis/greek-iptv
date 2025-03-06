@@ -212,7 +212,7 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 
-#EXTINF:-1 tvg-id="4e.gr" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR abcnew 
+#EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR abcnew 
 http://newlife3.wanicelife.com:8880/D12m2770/52277683/52126
 
 #EXTINF:-1 tvg-id="star" tvg-logo="https://www.star.gr/tv/Content/Media/logo.png" group-title="GREEK PANELLADIKA", GR: STAR iptvtree
@@ -224,7 +224,7 @@ http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/2662
 #EXTINF:-1 tvg-id="Vouli" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="GREEK PANELLADIKA", GR: VOULI TV ertflix 
 https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="GREEK PANELLADIKA", GR: VOULI TV streamer
+#EXTINF:-1 tvg-id="Vouli" tvg-logo="https://i.imgur.com/0mkw6VW.png" group-title="GREEK PANELLADIKA", GR: VOULI TV streamer
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 
 #EXTINF:-1 tvg-id="4e" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="GREEK PERIFEREIAKA", 4E
@@ -1136,7 +1136,7 @@ http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/95377.ts
 #EXTINF:-1 tvg-id="bbc earth" tvg-logo="https://www.storylandstudios.com/wp-content/uploads/2017/11/bbc-earth-logo.png" group-title="DOCUMENTARY", .DOC: BBC EARTH GR iptvtree bup
 http://iptvtree.net:8080/live/smooth806/MQ7UYSsfVHacEr9b/95377.ts
 
-#EXTINF:-1 tvg-id="cosmote history" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: CMT HISTORY iptvtree
+#EXTINF:-1 tvg-id="cosmote history" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="DOCUMENTARY", .DOC: CMT HISTORY iptvtree
 http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/45229.ts
 
 #EXTINF:-1 tvg-id="cosmote history" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="DOCUMENTARY", .DOC: CMT HISTORY iptvtree bup
@@ -1151,7 +1151,7 @@ https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
 #EXTINF:-1 tvg-id="Discoverychannel" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20200702154650" group-title="DOCUMENTARY", .DOC: DISCOVERY GR abcnew
 http://newlife3.wanicelife.com:8880/D12m2770/52277683/31215
 
-#EXTINF:-1 tvg-id="Discoverychannel" tvg-logo="noimage.png" group-title="DOCUMENTARY", .DOC: DISCOVERY GR yesimes
+#EXTINF:-1 tvg-id="Discoverychannel" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/bd/Discovery_Channel_logo.png/revision/latest?cb=20200702154650" group-title="DOCUMENTARY", .DOC: DISCOVERY GR yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31215
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webinternetradio.net/photo/dtp/4004342.png" group-title="DOCUMENTARY", .DOC: DTP GR github 
@@ -1244,17 +1244,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6583
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mt1xZH9vPx1U7Luo70TNKIikZjbcEGasqS9k-8I9zfcA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="DOCUMENTARY", DOC: .CRAFTY PANDA stirr
 https://bpd-cp-stirr.otteravision.com/bpd/cp/cp.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/n65sk4L.png" group-title="DOCUMENTARY", DOC: .CREATE & CRAFT live
-https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="DOCUMENTARY", DOC: 5 MINUT CRAFTS BR amagi
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/cb7c3e167b766f8f9e993560d5f940aade0433d05d39d1603ea05dc126941558d0b8f4c9e84db9687ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee0545bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578e70f545cc94f6d8ce1881d3c57ea856e73144597b25c9cd7b96905be3899f6b3bcd272a74f0348cd2fb74f38fe73d217ecabdad9d77fe09c78557f90a558821e88100ade811c73aa8f45aa8ed9ad2475330a7c521114f425b13eb895c11af67e80124d17a7ddb8d7cc8957a0caa400f1eea8ded1180c60797ba63a1bd7a092ac99251d1fad8e6b8e0db1ecc778daf91e94334444e97ecc9fddb329500df2def8f6e59507d4041bf9356c5c9ea5f3f5d7f879552db29d6d8b184aed01432c66c1a15bd2e891b4d5bc53a6873f23eb9b4082cd87644d56e7dcc513bd616a7f834a3f392a5272ba5d2c275fa6dc4bc1e9da351fe236f0f42fbd9046b68603190e26f063539e440e7d8c5a8372a08fef8c0fb8f02695e77471c5cc5b2a7439a88c13b14599400712e274665e36ebc5ed60e4d0f39da5e82fc7b13ab32617cb6e96f271906f0efbe8e80dacf3ec55cdbddf2342a7b14238a3a0b2261c4a5cf3ed93d58756e5290050610e529e689c850d825da9d7a111042b09ea2/38/960x540_2200000/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="DOCUMENTARY", DOC: 5 MINUTE CRAFTS amagi
 https://amg02051-soulpublishing-amg02051c3-lg-ar-583.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgar/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="DOCUMENTARY", DOC: 5 MINUTE CRAFTS plex
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="DOCUMENTARY", DOC: 5 MINUTE CRAFTS rakuten 
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
@@ -1292,112 +1286,112 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298892
 #EXTINF:-1 tvg-id="cablenetsports2" tvg-logo="https://koeas.org.cy/wp-content/uploads/2022/12/Cablent_logo_500px.jpg" group-title="SPORTS", GR: CABLENET SPORT 2 iptvtree bup
 http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/298892
 
-#EXTINF:-1 tvg-id="GR - COSMOTE Sport 1 HD" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 212.102
+#EXTINF:-1 tvg-id="GR - COSMOTE Sport 1 HD" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 1 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9036
 
 #EXTINF:-1 tvg-id="cosmote_sport_1" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 1 abcnew
 http://newlife3.wanicelife.com:8880/D12m2770/52277683/31223
 
-#EXTINF:-1 tvg-id="cosmote_sport_1" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 iptvtree
+#EXTINF:-1 tvg-id="cosmote_sport_1" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 1 iptvtree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/124
 
 #EXTINF:-1 tvg-id="cosmote_sport_1" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 1 iptvtree bup
 http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/124
 
-#EXTINF:-1 tvg-id="cosmote_sport_1" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 1 yesimes
+#EXTINF:-1 tvg-id="cosmote_sport_1" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 1 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31223
 
-#EXTINF:-1 tvg-id="GR - COSMOTE Sport 2 HD" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 212.102
+#EXTINF:-1 tvg-id="GR - COSMOTE Sport 2 HD" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 2 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9037
 
 #EXTINF:-1 tvg-id="cosmote_sport_2" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 2 abcnew
 http://newlife3.wanicelife.com:8880/D12m2770/52277683/31222
 
-#EXTINF:-1 tvg-id="cosmote_sport_2" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 iptvtree
+#EXTINF:-1 tvg-id="cosmote_sport_2" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 2 iptvtree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/18
 
 #EXTINF:-1 tvg-id="cosmote_sport_2" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 2 iptvtree bup
 http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/18
 
-#EXTINF:-1 tvg-id="cosmote_sport_2" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 2 yesimes
+#EXTINF:-1 tvg-id="cosmote_sport_2" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 2 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31222
 
-#EXTINF:-1 tvg-id="GR - COSMOTE Sport 3 HD" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 212.102
+#EXTINF:-1 tvg-id="GR - COSMOTE Sport 3 HD" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 3 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9038
 
 #EXTINF:-1 tvg-id="cosmote_sport_3" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 3 abcnew
 http://newlife3.wanicelife.com:8880/D12m2770/52277683/31221
 
-#EXTINF:-1 tvg-id="cosmote_sport_3" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 iptvtree
+#EXTINF:-1 tvg-id="cosmote_sport_3" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 3 iptvtree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/4269
 
 #EXTINF:-1 tvg-id="cosmote_sport_3" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 3 iptvtree bup
 http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/4269
 
-#EXTINF:-1 tvg-id="cosmote_sport_3" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 3 yesimes
+#EXTINF:-1 tvg-id="cosmote_sport_3" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 3 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31221
 
-#EXTINF:-1 tvg-id="GR - COSMOTE Sport 4 HD" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 212.102
+#EXTINF:-1 tvg-id="GR - COSMOTE Sport 4 HD" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 4 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9039
 
 #EXTINF:-1 tvg-id="cosmote_sport_4" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 4 abcnew
 http://newlife3.wanicelife.com:8880/D12m2770/52277683/31220
 
-#EXTINF:-1 tvg-id="cosmote_sport_4" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 iptvtree
+#EXTINF:-1 tvg-id="cosmote_sport_4" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 4 iptvtree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/125
 
 #EXTINF:-1 tvg-id="cosmote_sport_4" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 4 iptvtree bup
 http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/125
 
-#EXTINF:-1 tvg-id="cosmote_sport_4" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 4 yesimes
+#EXTINF:-1 tvg-id="cosmote_sport_4" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 4 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31220
 
-#EXTINF:-1 tvg-id="GR - COSMOTE Sport 5 HD" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 212.102
+#EXTINF:-1 tvg-id="GR - COSMOTE Sport 5 HD" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 5 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9040
 
 #EXTINF:-1 tvg-id="cosmote_sport_5" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 5 abcnew
 http://newlife3.wanicelife.com:8880/D12m2770/52277683/31219
 
-#EXTINF:-1 tvg-id="cosmote_sport_5" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 iptvtree
+#EXTINF:-1 tvg-id="cosmote_sport_5" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 5 iptvtree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/4271
 
 #EXTINF:-1 tvg-id="cosmote_sport_5" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 5 iptvtree bup
 http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/4271
 
-#EXTINF:-1 tvg-id="cosmote_sport_5" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 5 yesimes
+#EXTINF:-1 tvg-id="cosmote_sport_5" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 5 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31219
 
-#EXTINF:-1 tvg-id="GR - COSMOTE Sport 6 HD" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 212.102
+#EXTINF:-1 tvg-id="GR - COSMOTE Sport 6 HD" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 6 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9041
 
-#EXTINF:-1 tvg-id="cosmote_sport_6" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 6 iptvtree
+#EXTINF:-1 tvg-id="cosmote_sport_6" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 6 iptvtree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/4272
 
 #EXTINF:-1 tvg-id="cosmote_sport_6" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 6 iptvtree bup
 http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/4272
 
-#EXTINF:-1 tvg-id="GR - COSMOTE Sport 7 HD" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 212.102
+#EXTINF:-1 tvg-id="GR - COSMOTE Sport 7 HD" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 7 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9042
 
-#EXTINF:-1 tvg-id="cosmote_sport_7" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 7 iptvtree
+#EXTINF:-1 tvg-id="cosmote_sport_7" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 7 iptvtree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/126
 
 #EXTINF:-1 tvg-id="cosmote_sport_7" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 7 iptvtree bup
 http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/126
 
-#EXTINF:-1 tvg-id="GR - COSMOTE Sport 8 HD" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 212.102
+#EXTINF:-1 tvg-id="GR - COSMOTE Sport 8 HD" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 8 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9043
 
-#EXTINF:-1 tvg-id="cosmote_sport_8" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 8 iptvtree
+#EXTINF:-1 tvg-id="cosmote_sport_8" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 8 iptvtree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/127
 
 #EXTINF:-1 tvg-id="cosmote_sport_8" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 8 iptvtree bup
 http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/127
 
-#EXTINF:-1 tvg-id="GR - COSMOTE Sport 9 HD" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 9 212.102
+#EXTINF:-1 tvg-id="GR - COSMOTE Sport 9 HD" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 9 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9044
 
-#EXTINF:-1 tvg-id="cosmote_sport_9" tvg-logo="noimage.png" group-title="SPORTS", GR: CMT SPORT 9 iptvtree
+#EXTINF:-1 tvg-id="cosmote_sport_9" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 9 iptvtree
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/121356
 
 #EXTINF:-1 tvg-id="cosmote_sport_9" tvg-logo="https://lh3.googleusercontent.com/OsRGMmyQCTflxtwowmHH--zvNXxjoVbAHz_zOS-PWc8QlzeKZLOZth3aIcwyQW8Q-ZU=w220" group-title="SPORTS", GR: CMT SPORT 9 iptvtree bup
@@ -1445,7 +1439,7 @@ http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/300052.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://play-lh.googleusercontent.com/-V296U77qCSzAY0k9ukqMHtR3CHyafxfkY5yjnueDU004xqm3kalEerpDCaw0rJILqQ" group-title="SPORTS", GR: CY SPORTS 7 iptvtree bup
 http://iptvtree.net:8080/live/smooth806/MQ7UYSsfVHacEr9b/300052.ts
 
-#EXTINF:-1 tvg-id="GR - NOVA Sports 1 HD" tvg-logo="https://www.novasports.gr/wp-content/uploads/nv/2020-05/04/03-29/novasports_site.jpg" group-title="SPORTS", GR: NV SPORTS 1 212.102
+#EXTINF:-1 tvg-id="GR - NOVA Sports 1 HD" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 1 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9031
 
 #EXTINF:-1 tvg-id="novasports1" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 1 abcnew
@@ -1460,7 +1454,7 @@ http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/12844
 #EXTINF:-1 tvg-id="novasports1" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 1 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31160
 
-#EXTINF:-1 tvg-id="GR - NOVA Sports 2 HD" tvg-logo="https://www.novasports.gr/wp-content/uploads/nv/2020-05/04/03-29/novasports_site.jpg" group-title="SPORTS", GR: NV SPORTS 2 212.102
+#EXTINF:-1 tvg-id="GR - NOVA Sports 2 HD" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 2 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9032
 
 #EXTINF:-1 tvg-id="novasports2" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 2 abcnew
@@ -1475,7 +1469,7 @@ http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/12845
 #EXTINF:-1 tvg-id="novasports2" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 2 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31159
 
-#EXTINF:-1 tvg-id="GR - NOVA Sports 3 HD" tvg-logo="https://www.novasports.gr/wp-content/uploads/nv/2020-05/04/03-29/novasports_site.jpg" group-title="SPORTS", GR: NV SPORTS 3 212.102
+#EXTINF:-1 tvg-id="GR - NOVA Sports 3 HD" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 3 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9033
 
 #EXTINF:-1 tvg-id="novasports3" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 3 abcnew
@@ -1490,7 +1484,7 @@ http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/12846
 #EXTINF:-1 tvg-id="novasports3" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 3 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31158
 
-#EXTINF:-1 tvg-id="GR - NOVA Sports 4 HD" tvg-logo="https://www.novasports.gr/wp-content/uploads/nv/2020-05/04/03-29/novasports_site.jpg" group-title="SPORTS", GR: NV SPORTS 4 212.102
+#EXTINF:-1 tvg-id="GR - NOVA Sports 4 HD" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 4 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9034
 
 #EXTINF:-1 tvg-id="novasports4" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 4 abcnew
@@ -1505,7 +1499,7 @@ http://iptvtree.net:8080/smooth806/MQ7UYSsfVHacEr9b/279631
 #EXTINF:-1 tvg-id="novasports4" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 4 yesimes
 http://yesimes.oknirvana.club:8880/D12m2439/62229525/31157
 
-#EXTINF:-1 tvg-id="GR - NOVA Sports 5 HD" tvg-logo="https://www.novasports.gr/wp-content/uploads/nv/2020-05/04/03-29/novasports_site.jpg" group-title="SPORTS", GR: NV SPORTS 5 212.102
+#EXTINF:-1 tvg-id="GR - NOVA Sports 5 HD" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 5 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9035
 
 #EXTINF:-1 tvg-id="novasports5" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS 5 iptvtree
@@ -1562,7 +1556,7 @@ http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/298889.ts
 #EXTINF:-1 tvg-id="novasportspl" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS PREM LEAGUE iptvtree bup
 http://iptvtree.net:8080/live/smooth806/MQ7UYSsfVHacEr9b/298889.ts
 
-#EXTINF:-1 tvg-id="GR - Nova Sports Prime FHD" tvg-logo="https://www.novasports.gr/wp-content/uploads/nv/2020-05/04/03-29/novasports_site.jpg" group-title="SPORTS", GR: NV SPORTS PRIME 212.102
+#EXTINF:-1 tvg-id="GR - Nova Sports Prime FHD" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS PRIME 212.102
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/9030
 
 #EXTINF:-1 tvg-id="novasportsprime" tvg-logo="https://santel.gr/wp-content/uploads/2022/12/Novalogosantel-1024x265.png" group-title="SPORTS", GR: NV SPORTS PRIME abcnew
@@ -1646,7 +1640,7 @@ http://open.secretsofsibiu.ro:8080/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/5744
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.cartoontv.cy/CmsMedia/Uploads/Logos/CartoonTV_FB.png" group-title="KIDS", .GR KIDS: CARTOON TV CY cartoontv
 https://cartoontv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimage.png" group-title="KIDS", .GR KIDS: DISNEY CHANNEL GR iptvtree
+#EXTINF:-1 tvg-id="null" tvg-logo="https://media4.giphy.com/media/QVU2cFKZbplZHmydFk/giphy.gif?cid=6c09b952s1kfw94sbp44u7o0k6fc7iq4co1qr7ecld01ke65&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" group-title="KIDS", .GR KIDS: DISNEY CHANNEL GR iptvtree
 http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/281612.ts
 
 #EXTINF:-1 tvg-id="null" tvg-logo="https://media4.giphy.com/media/QVU2cFKZbplZHmydFk/giphy.gif?cid=6c09b952s1kfw94sbp44u7o0k6fc7iq4co1qr7ecld01ke65&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" group-title="KIDS", .GR KIDS: DISNEY CHANNEL GR iptvtree bup 
@@ -1670,7 +1664,7 @@ http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
 #EXTINF:-1 tvg-id="ertkids" tvg-logo="https://netnix.tv/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--16f270aadd5a2548a71b46dbf1bf7bf447825538/ertflix-kids-tv.png" group-title="KIDS", .GR KIDS: ERT KIDS ert
 https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="noimage.png" group-title="KIDS", .GR KIDS: IDJ KIDS iptvtree
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/IDJ_Kids.png/revision/latest/scale-to-width-down/250?cb=20210613162435" group-title="KIDS", .GR KIDS: IDJ KIDS iptvtree
 http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/300068.ts
 
 #EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/IDJ_Kids.png/revision/latest/scale-to-width-down/250?cb=20210613162435" group-title="KIDS", .GR KIDS: IDJ KIDS iptvtree 
@@ -2497,6 +2491,24 @@ http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", .XXX: RedTraffic - THREESOME
 http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 1 91.218
+http://91.218.51.176:8080/badea_petre/WgTdDpbwfaFlxn8yZKiDGwgdR9vF2g/75904
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 1 91.218 bup
+http://91.218.51.176:8080/Alexandru_Ovidiu/7QmOzW132d/75904
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 2 91.218
+http://91.218.51.176:8080/badea_petre/WgTdDpbwfaFlxn8yZKiDGwgdR9vF2g/75905
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 2 91.218 bup
+http://91.218.51.176:8080/Alexandru_Ovidiu/7QmOzW132d/75905
+
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 3 91.218
+http://91.218.51.176:8080/badea_petre/WgTdDpbwfaFlxn8yZKiDGwgdR9vF2g/75906
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 3 91.218 bup
+http://91.218.51.176:8080/Alexandru_Ovidiu/7QmOzW132d/75906
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://camwork.club/wiki/images/6/69/Amateur.png" group-title="XXX", XXX: .AMATEUR BlueTV vip
 http://vip.sehzade5.com:2095/mn0019/brh.7449/4078
