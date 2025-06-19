@@ -111,7 +111,7 @@ http://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
 http://cdn5.smart-tv-data.com/local/onechannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/VtFNBrF.png" group-title="GREEK PANELLADIKA", GR: OPEN
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="open" tvg-logo="https://i.imgur.com/VtFNBrF.png" group-title="GREEK PANELLADIKA", GR: OPEN abcnew
 http://newlife3.wanicelife.com:8880/29us05283n35/de5rf6tg7sv/31151
@@ -1685,11 +1685,20 @@ http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 1 91.218 bup
 http://91.218.51.176:8080/Alexandru_Ovidiu/7QmOzW132d/75904
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 1 romanesti
+http://main.canale-romanesti.com/live/FUBDU94776/CIPDEFB856/75904.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 1 romanesti bup
 http://main.canale-romanesti.com/live/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75904.ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 2 romanesti
+http://main.canale-romanesti.com/live/FUBDU94776/CIPDEFB856/75905.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 2 romanesti bup
 http://main.canale-romanesti.com/live/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75905.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 3 romanesti
+http://main.canale-romanesti.com/live/FUBDU94776/CIPDEFB856/75906.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/el/6/6a/Sirina_logo.png" group-title="XXX", .XXX: SIRINA 3 romanesti bup
 http://main.canale-romanesti.com/live/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/75906.ts
