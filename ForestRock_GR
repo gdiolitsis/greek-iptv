@@ -44,6 +44,9 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8
 #EXTINF:-1 tvg-id="ert3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/1280px-ERT3_logo_2020.svg.png" group-title="GREEK PANELLADIKA", GR: ERT3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThTb5lG731J3sHE5zBxCs3E-CrbBKGOgbL4jhtCIEm7wlU8haZ" group-title="GREEK PANELLADIKA", GR: EURONEWS GR 192.168 proxyserver
+http://192.168.1.3:8788/euronews_gr/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThTb5lG731J3sHE5zBxCs3E-CrbBKGOgbL4jhtCIEm7wlU8haZ" group-title="GREEK PANELLADIKA", GR: EURONEWS GR armelin
 https://ythls.armelin.one/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
 
