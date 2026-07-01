@@ -725,92 +725,98 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://xplorecy.tv/wp-content/uploads/2021/01/Cool-Text-348201379642130.png" group-title="CYPRUS", GR: XPLORE TV CYPRUS github
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Xplore.m3u8
 
-#EXTINF:-1 tvg-id="Ant1 Comedy" tvg-logo="https://antenna-ott.brightcove.services/static/uploads/b740e876-6d23-4c34-a190-33ae6ff23d2a" group-title="CINEMA", .GR CINE: ANT1 COMEDY mcdn
+#EXTINF:-1 tvg-id="Ant1 Comedy" tvg-logo="https://antenna-ott.brightcove.services/static/uploads/b740e876-6d23-4c34-a190-33ae6ff23d2a" group-title="CINEMA", CINE: ANT1 COMEDY mcdn
 https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", DIPOLO 2
-https://mcv2.streams.gr/stream/dipolotv/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="CINEMA", 
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Ant1 Comedy" tvg-logo="https://antenna-ott.brightcove.services/static/uploads/b740e876-6d23-4c34-a190-33ae6ff23d2a" group-title="CINEMA", .GR CINE: ANT1 COMEDY smart
+#EXTINF:-1 tvg-id="Ant1 Comedy" tvg-logo="https://antenna-ott.brightcove.services/static/uploads/b740e876-6d23-4c34-a190-33ae6ff23d2a" group-title="CINEMA", CINE: ANT1 COMEDY smart
 https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts
 
-#EXTINF:-1 tvg-id="Ant1 Drama" tvg-logo="https://antenna-ott.brightcove.services/static/uploads/6cab14d5-abc9-4b61-be06-2c1f4977b726" group-title="CINEMA", .GR CINE: ANT1 DRAMA mcdn
+#EXTINF:-1 tvg-id="Ant1 Drama" tvg-logo="https://antenna-ott.brightcove.services/static/uploads/6cab14d5-abc9-4b61-be06-2c1f4977b726" group-title="CINEMA", CINE: ANT1 DRAMA mcdn
 https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtKhsIF0c4mcUTmrt6dr9hC85bTv5geNtJeWXBSN3VAA&s" group-title="CINEMA", .GR CINE: CHANNEL 8 gra
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtKhsIF0c4mcUTmrt6dr9hC85bTv5geNtJeWXBSN3VAA&s" group-title="CINEMA", CINE: CHANNEL 8 gra
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.rnz.co.nz/assets/pictures/24134/eight_col_CHOICTV_FinalLogo_06.png" group-title="CINEMA", .GR CINE: CHOICE WEB TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.rnz.co.nz/assets/pictures/24134/eight_col_CHOICTV_FinalLogo_06.png" group-title="CINEMA", CINE: CHOICE WEB TV
 https://eu1.streams.gr:8081/choicetv/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.rnz.co.nz/assets/pictures/24134/eight_col_CHOICTV_FinalLogo_06.png" group-title="CINEMA", .GR CINE: CHOICE WEB TV github
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.rnz.co.nz/assets/pictures/24134/eight_col_CHOICTV_FinalLogo_06.png" group-title="CINEMA", CINE: CHOICE WEB TV github
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ChoiceWebTv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DIABATA(2).png" group-title="CINEMA", .GR CINE: DIAVATA TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DIABATA(2).png" group-title="CINEMA", CINE: DIAVATA TV
 https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DIABATA(2).png" group-title="CINEMA", .GR CINE: DIAVATA TV BUP
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DIABATA(2).png" group-title="CINEMA", CINE: DIAVATA TV BUP
 https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DIABATA(2).png" group-title="CINEMA", .GR CINE: DIAVATA TV github
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DIABATA(2).png" group-title="CINEMA", CINE: DIAVATA TV github
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Diavata.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Dipolo-TV-live-vipotv-greece.png" group-title="CINEMA", .GR CINE: DIPOLO TV
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vipotv.com/wp-content/uploads/2024/03/Dipolo-TV-live-vipotv-greece.png" group-title="CINEMA", CINE: DIPOLO TV
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULaeTkoVaJ5ZrhfTsRlL3g2SXnXhpVZ_rSzPV0OF3Rw1SV_u-" group-title="CINEMA", .GR CINE: ELLADA WEB TV kali
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULaeTkoVaJ5ZrhfTsRlL3g2SXnXhpVZ_rSzPV0OF3Rw1SV_u-" group-title="CINEMA", CINE: ELLADA WEB TV kali
 https://kali.vdopanel.com:3220/live/elladafmlive.m3u8
 
-#EXTINF:-1 tvg-id="extacy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EXTASY_TV.png" group-title="CINEMA", .GR CINE: EXTACY TV
-https://eu1.servers10.com:8081/8238/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FOX_wordmark-orange_2.svg/3840px-FOX_wordmark-orange_2.svg.png" group-title="CINEMA", CINE: FOX GR 185.102
+http://185.102.171.218/FOX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CINEMA_CLASSICS.png" group-title="CINEMA", .GR CINE: GREEK CINEMA CLASSICS github
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/7/7d/FX_Life_(2023-.n.v.).png/revision/latest?cb=20240413052131" group-title="CINEMA", CINE: FOX LIFE GR 185.102
+http://185.102.171.218/FOX_Life/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CINEMA_CLASSICS.png" group-title="CINEMA", CINE: GREEK CINEMA CLASSICS github
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/CinemaClassics.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CINEMA_CLASSICS.png" group-title="CINEMA", .GR CINE: GREEK CINEMA CLASSICS rtmp
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CINEMA_CLASSICS.png" group-title="CINEMA", CINE: GREEK CINEMA CLASSICS rtmp
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA", .GR CINE: GROOVY CINEMA GR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA", CINE: GROOVY CINEMA GR
 http://web.onair-radio.eu:1935/groovytv/groovytv/chunklist_w157287859.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA", .GR CINE: GROOVY CINEMA web
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA", CINE: GROOVY CINEMA web
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA", .GR CINE: GROOVY hans
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="CINEMA", CINE: GROOVY hans
 http://bit.ly/2p6JqSo
 
-#EXTINF:-1 tvg-id="krititv1" tvg-logo="https://www.kriti1.gr/wp-content/uploads/2024/01/KRHTH1_-e1706176098815-300x110.png" group-title="CINEMA", .GR CINE: KRHTH 1
+#EXTINF:-1 tvg-id="krititv1" tvg-logo="https://www.kriti1.gr/wp-content/uploads/2024/01/KRHTH1_-e1706176098815-300x110.png" group-title="CINEMA", CINE: KRHTH 1
 https://livetv.streams.ovh:8081/kriti/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="krititv1" tvg-logo="https://www.kriti1.gr/wp-content/uploads/2024/01/KRHTH1_-e1706176098815-300x110.png" group-title="CINEMA", .GR CINE: KRHTH 1 github 
+#EXTINF:-1 tvg-id="krititv1" tvg-logo="https://www.kriti1.gr/wp-content/uploads/2024/01/KRHTH1_-e1706176098815-300x110.png" group-title="CINEMA", CINE: KRHTH 1 github 
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Kriti1.m3u8
 
-#EXTINF:-1 tvg-id="lampsitv" tvg-logo="https://www.lampsitv.eu/gallery_gen/281f5e3589c6f322edea6f2c435ddf92_fit.jpg?ts=1775688032" group-title="CINEMA", .GR CINE: LAMPSI TV
+#EXTINF:-1 tvg-id="lampsitv" tvg-logo="https://www.lampsitv.eu/gallery_gen/281f5e3589c6f322edea6f2c435ddf92_fit.jpg?ts=1775688032" group-title="CINEMA", CINE: LAMPSI TV
 https://neon.streams.gr:8081/lampsitv/index.m3u8
 
-#EXTINF:-1 tvg-id="lampsitv" tvg-logo="https://www.lampsitv.eu/gallery_gen/281f5e3589c6f322edea6f2c435ddf92_fit.jpg?ts=1775688032" group-title="CINEMA", .GR CINE: LAMPSI TV github
+#EXTINF:-1 tvg-id="lampsitv" tvg-logo="https://www.lampsitv.eu/gallery_gen/281f5e3589c6f322edea6f2c435ddf92_fit.jpg?ts=1775688032" group-title="CINEMA", CINE: LAMPSI TV github
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Lampsi.m3u8
 
-#EXTINF:-1 tvg-id="netmax" tvg-logo="https://i.imgur.com/dLvRD4k.png" group-title="CINEMA", .GR CINE: NETMAX TV GR
+#EXTINF:-1 tvg-id="netmax" tvg-logo="https://i.imgur.com/dLvRD4k.png" group-title="CINEMA", CINE: NETMAX TV GR
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="netmax" tvg-logo="https://i.imgur.com/dLvRD4k.png" group-title="CINEMA", .GR CINE: NETMAX TV GR github
+#EXTINF:-1 tvg-id="netmax" tvg-logo="https://i.imgur.com/dLvRD4k.png" group-title="CINEMA", CINE: NETMAX TV GR github
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Netmax.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/ed2185_7c5575a8538040fea877db6d69dcdd15~mv2.png/v1/fill/w_120,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/NETV%20TORONTO%20NEW%20LOGO%20(2).png" group-title="CINEMA", .GR CINE: NETV TORONTO
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/ed2185_7c5575a8538040fea877db6d69dcdd15~mv2.png/v1/fill/w_120,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/NETV%20TORONTO%20NEW%20LOGO%20(2).png" group-title="CINEMA", CINE: NETV TORONTO
 https://eu1.streams.gr:8081/netvtoronto/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/SIERRA.png" group-title="CINEMA", .GR CINE: SIERRA CHANNEL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/SIERRA.png" group-title="CINEMA", CINE: SIERRA CHANNEL
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/SIERRA.png" group-title="CINEMA", .GR CINE: SIERRA CHANNEL github
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/SIERRA.png" group-title="CINEMA", CINE: SIERRA CHANNEL github
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/SierraChannel.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGFclZvEcs-Z3sf9E9c2LLlOdEU4gueivQbNkCI-Zf7-MEH4dS" group-title="CINEMA", CINE: TCM GR 185.102
+http://185.102.171.218/TCM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.techgear.gr/portal-img/art_featured/8/imported-guinness-e1356338605809-xFTMF.png" group-title="DOCUMENTARY", .DOC: .GUINNESS WORLD RECORDS ottera567
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/ebe58c44cb94c689aef9f9398d63f01a40a5aa7b.png" group-title="DOCUMENTARY", .DOC: ANIMAL PLANET GR 185.102
+http://185.102.171.218/AnimalPlanet/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://brucetelecom.com/wp-content/uploads/2020/01/BBC_EARTH_Stacked_RGB_Colour_LGreen.png" group-title="DOCUMENTARY", .DOC: BBC EARTH GR 185.102
+http://185.102.171.218/BBCEarth/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.tildacdn.net/tild3138-3865-4462-b930-613164386265/logo_1.png" group-title="DOCUMENTARY", .DOC: DEJAVU TV GR rtmp
 https://rtmp.win:3646/hybrid/play.m3u8
@@ -821,14 +827,26 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/De
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://destinationgreece.tv/wp-content/uploads/2024/04/dastination-greece-blue-blue.png" group-title="DOCUMENTARY", .DOC: DESTINATION GREECE streamhoster
 https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-2013.png" group-title="DOCUMENTARY", .DOC: DISCOVERY GR 185.102
+http://185.102.171.218/DiscoveryChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTARY", .DOC: DISCOVERY ID GR 185.102
+http://185.102.171.218/InvestigationDiscovery/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lookingatlearning.net/escape/wp-content/uploads/2021/08/logo_EE_500x500_transparent_txt.png" group-title="DOCUMENTARY", .DOC: ESCAPE MEDIA GR rtmp
 https://rtmp.streams.ovh:8081/escapemedia/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="DOCUMENTARY", .DOC: FOOD NETWORK GR 185.102
+http://185.102.171.218/FoodNetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://grdiscovery.com/wp-content/uploads/2026/04/%CE%9A%CE%91%CE%9D%CE%91%CE%9B%CE%99-LOGO.png" group-title="DOCUMENTARY", .DOC: GRD CHANNEL
 https://fr.crystalweb.net:1936/grdchannel/grdchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://grdiscovery.com/wp-content/uploads/2026/04/%CE%9A%CE%91%CE%9D%CE%91%CE%9B%CE%99-LOGO.png" group-title="DOCUMENTARY", .DOC: GRD CHANNEL github
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/GrdChannel.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/4b/27/45/4b2745ca9b244d8ac0c647c72a27bdc9.jpg" group-title="DOCUMENTARY", .DOC: HISTORY GR 185.102
+http://185.102.171.218/HistoryHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.ime.gr//images/logo.png" group-title="DOCUMENTARY", .DOC: IME WEB TV diavlos
 https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
@@ -839,6 +857,15 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Im
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://tv.ime.gr//images/logo.png" group-title="DOCUMENTARY", .DOC: IME WEB TV theagenis
 http://theagenis.fhw.gr:8080/maintv.mp4
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://onlinestream.live/logos/5936.png" group-title="DOCUMENTARY", .DOC: NAT GEO GR 185.102
+http://185.102.171.218/NatGeo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.seekpng.com/png/full/760-7606470_nat-geo-wild-nat-geo-wild-hd-logo.png" group-title="DOCUMENTARY", .DOC: NAT GEO WILD GR 185.102
+http://185.102.171.218/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/NAUTICAL_CHANNEL_2012.png/revision/latest?cb=20200601233652" group-title="DOCUMENTARY", .DOC: NAUTICAL GR 185.102
+http://185.102.171.218/Nautical/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="https://i.imgur.com/dW1bcD2.jpg" tvg-logo="https://www.notioi.gr/wp-content/uploads/2019/10/notioi-logo-new-small.png" group-title="DOCUMENTARY", .DOC: NOTIOI TV github
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/NotioiTv.m3u8
 
@@ -847,6 +874,15 @@ https://srv.streamserver.gr:3451/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.virtuallypossibledesigns.com/wp-content/uploads/2024/10/VPD-Logo2024-New-ICON.png" group-title="DOCUMENTARY", .DOC: PLUTON TV CYPRUS
 https://web.onair-radio.eu/plutontv/plutontv/chunklist_w1326534286.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://viasatexplore.eu/wp-content/themes/viasat-world/logos/viasat-explore.png" group-title="DOCUMENTARY", .DOC: VIASAT EXPLORE GR 185.102
+http://185.102.171.218/ViasatExplorer/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://viasathistory.eu/wp-content/themes/viasat-world/logos/viasat-history.png" group-title="DOCUMENTARY", .DOC: VIASAT HISTORY GR 185.102
+http://185.102.171.218/ViasatHistory/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://viasatnature.eu/wp-content/uploads/2026/04/cropped-viasat-nature.png" group-title="DOCUMENTARY", .DOC: VIASAT NATURE GR 185.102
+http://185.102.171.218/ViasatNature/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="xplore.gr" tvg-logo="https://xplorecy.tv/wp-content/uploads/2021/01/Cool-Text-348201379642130.png" group-title="DOCUMENTARY", .DOC: XPLORE TV CYPRUS
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
@@ -938,6 +974,18 @@ https://telmaco-cdn.akamaized.net/service3/default/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sportaltv.gr/wp-content/uploads/2020/12/cropped-cropped-cropped-SPORTAL-LOGO-2020-WHITE-copy-1.png" group-title="SPORTS", SP: SPORTAL 4 (Σ/Κ)
 https://telmaco-cdn.akamaized.net/service4/default/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.tenor.com/VQxrgRgqw6IAAAAj/baby-tv-butterfly.gif" group-title="KIDS", .GR KIDS: BABY TV GR 185.102
+http://185.102.171.218/BabyTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5296831-5258-47be-a02c-0f531717c998/di11t5a-ca0d7abe-4377-4312-9835-6427a4c0ab74.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kNTI5NjgzMS01MjU4LTQ3YmUtYTAyYy0wZjUzMTcxN2M5OTgvZGkxMXQ1YS1jYTBkN2FiZS00Mzc3LTQzMTItOTgzNS02NDI3YTRjMGFiNzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1FF_1iFIR9ptVqNf6RCU9XDSXQBKdWvZUoMOQnS0PoA" group-title="KIDS", .GR KIDS: CARTOONITO GR 185.102
+http://185.102.171.218/Boomerang/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycTMyemxkejAzcXc4Z3F5Nm1rNXNwYzRwYm02NGpxN2JvN3hhOWl2dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QVU2cFKZbplZHmydFk/giphy.gif" group-title="KIDS", .GR KIDS: DISNEY CHANNEL GR 185.102
+http://185.102.171.218/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/d2/ae/58/d2ae58673bfb2e73487c521ecc6b09ee.gif" group-title="KIDS", .GR KIDS: DISNEY JUNIOR GR 185.102
+http://185.102.171.218/DisneyJunior/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ertkids" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_KIDS.png" group-title="KIDS", .GR KIDS: ERT KIDS 195.226
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
 
@@ -949,6 +997,9 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Er
 
 #EXTINF:-1 tvg-id="ertkids" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_KIDS.png" group-title="KIDS", .GR KIDS: ERT KIDS ucdn
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.tenor.com/nJMGfZDwMWcAAAAi/nickelodeon-nickelodeon-logo.gif" group-title="KIDS", .GR KIDS: NICKELODEON GR 185.102
+http://185.102.171.218/Nickelodeon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="KIDS", KIDS: AFV FAMILY linear
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
@@ -1769,24 +1820,6 @@ https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", .XXX: RedTraffic - ASIAN
 http://live.redtraffic.xyz/asian.m3u8
 
-#EXTINF:-1 tvg-id="66335489307fa300082bd6e4" tvg-logo="https://images.pluto.tv/channels/66335489307fa300082bd6e4/colorLogoPNG.png" group-title="XXX", CINE: EROS IT pluto
-https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
-
-#EXTINF:-1 tvg-id="68d276ce59fd82da32267d0d" tvg-logo="https://images.pluto.tv/channels/68d276ce59fd82da32267d0d/colorLogoPNG_1763647481975.png" group-title="XXX", CINE: LOVE SIN DE pluto
-https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8
-
-#EXTINF:-1 tvg-id="64526a145a0cd50008632bfa" tvg-logo="https://images.pluto.tv/channels/64526a145a0cd50008632bfa/colorLogoPNG.png" group-title="XXX", CINE: HOT NIGHTS DE pluto 
-https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
-
-#EXTINF:-1 tvg-id="664f10c4f9992200084a2f47" tvg-logo="https://images.pluto.tv/channels/664f10c4f9992200084a2f47/colorLogoPNG.png" group-title="XXX", CINE: RETRO HOT NIGHTS DE pluto 
-https://jmp2.uk/plu-664f10c4f9992200084a2f47.m3u8
-
-#EXTINF:-1 tvg-id="67d983d6a1609bdb523f5f9b" tvg-logo="https://images.pluto.tv/channels/67d983d6a1609bdb523f5f9b/colorLogoPNG_1745932379351.png" group-title="XXX", CINE: SANFTE BERÜHRUNGEN DE pluto 
-https://jmp2.uk/plu-67d983d6a1609bdb523f5f9b.m3u8
-
-#EXTINF:-1 tvg-id="65a7ab137bdc8d0008487dfb" tvg-logo="https://images.pluto.tv/channels/65a7ab137bdc8d0008487dfb/colorLogoPNG_1757667204532.png" group-title="XXX", CINE: EROTICA ENG pluto 
-https://jmp2.uk/plu-65a7ab137bdc8d0008487dfb.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://bestanimations.com/Signs&Shapes/Hearts/heart-animation3.gif" group-title="XXX", .XXX: RedTraffic - BIG DICK
 http://live.redtraffic.xyz/bigdick.m3u8
 
@@ -1892,9 +1925,6 @@ http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: DESIRE 88.212
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: DORCEL CLUB 169.150
-http://169.150.223.25/DorcelHD/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: DORCEL TV 212.102
 http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
 
@@ -1940,9 +1970,6 @@ http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: FRENCH LOVER 31.148
 http://31.148.48.15/French_Lover/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: HUSTLER 169.150
-http://169.150.223.25/Hustler/index.m3u8
-
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: LEO TV 88.212
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 
@@ -1969,12 +1996,6 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PORN CLASSIC 200.194
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PORN HUB 169.150
-http://169.150.223.25/FrenchLover/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PRIVATE 169.150
-http://169.150.223.25/Private/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://st2.depositphotos.com/4397063/9315/v/950/depositphotos_93159514-stock-illustration-xxx-logo-icon.jpg" group-title="XXX", XXX: PRIVATE 77.46
 http://77.46.130.252:99/private
